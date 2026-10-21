@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build && node -e \"require('fs').cpSync('.next/static','.next/standalone/.next/static',{recursive:true}); if(require('fs').existsSync('public')) require('fs').cpSync('public','.next/standalone/public',{recursive:true});\"",
     "start": "node .next/standalone/server.js",
-    "lint": "next lint"
+    "lint": "next lint",
+    "check": "tsc --noEmit",
+    "test": "node --test tests/contact-links.test.mjs"
   },
   "dependencies": {
     "next": "^15.5.7",

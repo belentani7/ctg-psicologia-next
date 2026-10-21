@@ -49,3 +49,19 @@ npm run lint
 ---
 
 Documento generado en la auditoria del 2026-09-25.
+
+
+## Contacto responsable y publicación
+
+La portada presenta de forma diferenciada la llamada telefónica y WhatsApp, ambos derivados del único teléfono configurado en `src/data/content.ts`. Se muestra un aviso en ES/CA/EN para no compartir información clínica por servicios de mensajería de terceros. El idioma del contenido principal se declara para lectores de pantalla.
+
+Para validar una nueva versión:
+
+```bash
+npm ci
+npm run check
+npm test
+npm run build
+```
+
+GitHub Actions ejecuta estas comprobaciones en cada PR. Antes del lanzamiento, confirmar que contacto, credenciales profesionales, consentimiento/privacidad, enlaces legales y contenido del centro están verificados por sus responsables. Los cambios de esta rama no eliminan terapias, idiomas ni contenidos existentes.

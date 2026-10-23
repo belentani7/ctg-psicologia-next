@@ -8,7 +8,7 @@
     "start": "node .next/standalone/server.js",
     "lint": "next lint",
     "check": "tsc --noEmit",
-    "test": "node --test tests/contact-links.test.mjs"
+    "test": "node --test"
   },
   "dependencies": {
     "next": "^15.5.7",

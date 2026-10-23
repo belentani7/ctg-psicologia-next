@@ -52,15 +52,34 @@ export function Header({ locale = 'es' }: { locale?: Locale }) {
             <span className="text-xs text-slate-500">{BRAND_SUB[locale]}</span>
           </span>
         </Link>
-        <nav className="hidden md:flex items-center gap-6 text-sm">
+        <details className="relative lg:hidden">
+          <summary className="cursor-pointer list-none rounded-lg border border-slate-300 px-4 py-3 text-sm font-semibold text-brand-deep focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
+            {locale === 'es' ? 'Menú' : locale === 'ca' ? 'Menú' : 'Menu'}
+          </summary>
+          <nav aria-label={locale === 'es' ? 'Navegación móvil' : locale === 'ca' ? 'Navegació mòbil' : 'Mobile navigation'} className="absolute right-0 top-full z-50 mt-2 flex w-72 max-w-[calc(100vw-2rem)] flex-col gap-1 rounded-xl border border-slate-200 bg-white p-3 shadow-xl">
+            {items.map((item) => (
+              <Link key={item.href} href={item.href} className="rounded-lg px-3 py-3 text-sm text-brand-deep hover:bg-brand-soft focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-teal">
+                {item.label}
+              </Link>
+            ))}
+            <div className="mt-2 flex flex-wrap gap-2 border-t border-slate-200 pt-3">
+              {LANGS.map((language) => (
+                <Link key={language.code} href={language.code === 'es' ? '/' : `/${language.code}`} lang={language.code} className="rounded-lg border border-slate-200 px-3 py-2 text-xs text-brand-deep focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-teal">
+                  {language.label}
+                </Link>
+              ))}
+            </div>
+          </nav>
+        </details>
+        <nav aria-label={locale === 'es' ? 'Navegación principal' : locale === 'ca' ? 'Navegació principal' : 'Main navigation'} className="hidden lg:flex items-center gap-4 text-sm">
           {items.map((i) => (
-            <Link key={i.href} href={i.href} className="text-slate-600 hover:text-brand-teal transition-colors">
+            <Link key={i.href} href={i.href} className="text-slate-600 hover:text-brand-teal transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
               {i.label}
             </Link>
           ))}
           <div className="flex gap-2 border-l pl-4 border-slate-200">
             {LANGS.map((l) => (
-              <Link key={l.code} href={l.code === 'es' ? '/' : `/${l.code}`} className="text-xs uppercase text-slate-500 hover:text-brand-teal">
+              <Link key={l.code} href={l.code === 'es' ? '/' : `/${l.code}`} lang={l.code} className="text-xs uppercase text-slate-500 hover:text-brand-teal focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
                 {l.label}
               </Link>
             ))}

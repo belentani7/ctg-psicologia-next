@@ -94,7 +94,7 @@ const FOOTER: Record<Locale, { links: string; legal: string; legalPending: strin
   es: {
     links: 'Enlaces',
     legal: 'Legal',
-    legalPending: 'Documentos legales pendientes de publicación y revisión profesional.'
+    legalPending: 'Documentos legales pendientes de publicación y revisión profesional.',
     nav: [
       { href: '/el-centro', label: 'El centro' },
       { href: '/equipo', label: 'Nuestro equipo' },
@@ -106,7 +106,7 @@ const FOOTER: Record<Locale, { links: string; legal: string; legalPending: strin
   ca: {
     links: 'Enllaços',
     legal: 'Legal',
-    legalPending: 'Documents legals pendents de publicació i revisió professional.'
+    legalPending: 'Documents legals pendents de publicació i revisió professional.',
     nav: [
       { href: '/ca/el-centre', label: 'El centre' },
       { href: '/ca/equip', label: 'El nostre equip' },
@@ -118,7 +118,7 @@ const FOOTER: Record<Locale, { links: string; legal: string; legalPending: strin
   en: {
     links: 'Links',
     legal: 'Legal',
-    legalPending: 'Legal documents are pending publication and professional review.'
+    legalPending: 'Legal documents are pending publication and professional review.',
     nav: [
       { href: '/en/the-centre', label: 'The centre' },
       { href: '/en/team', label: 'Our team' },

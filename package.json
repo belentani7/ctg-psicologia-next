@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build && node -e \"require('fs').cpSync('.next/static','.next/standalone/.next/static',{recursive:true}); if(require('fs').existsSync('public')) require('fs').cpSync('public','.next/standalone/public',{recursive:true});\"",
     "start": "node .next/standalone/server.js",
-    "lint": "next lint",
+    "lint": "node scripts/lint.mjs",
     "check": "tsc --noEmit",
     "test": "node --test"
   },

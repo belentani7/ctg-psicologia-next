@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Locale } from '@/data/content';
+import { contact, type Locale } from '@/data/content';
 
 const NAV: Record<Locale, { href: string; label: string }[]> = {
   es: [
@@ -90,10 +90,11 @@ export function Header({ locale = 'es' }: { locale?: Locale }) {
   );
 }
 
-const FOOTER: Record<Locale, { links: string; legal: string; nav: { href: string; label: string }[]; legalItems: string[] }> = {
+const FOOTER: Record<Locale, { links: string; legal: string; legalPending: string; nav: { href: string; label: string }[]; legalItems: string[] }> = {
   es: {
     links: 'Enlaces',
     legal: 'Legal',
+    legalPending: 'Documentos legales pendientes de publicación y revisión profesional.'
     nav: [
       { href: '/el-centro', label: 'El centro' },
       { href: '/equipo', label: 'Nuestro equipo' },
@@ -105,6 +106,7 @@ const FOOTER: Record<Locale, { links: string; legal: string; nav: { href: string
   ca: {
     links: 'Enllaços',
     legal: 'Legal',
+    legalPending: 'Documents legals pendents de publicació i revisió professional.'
     nav: [
       { href: '/ca/el-centre', label: 'El centre' },
       { href: '/ca/equip', label: 'El nostre equip' },
@@ -116,6 +118,7 @@ const FOOTER: Record<Locale, { links: string; legal: string; nav: { href: string
   en: {
     links: 'Links',
     legal: 'Legal',
+    legalPending: 'Legal documents are pending publication and professional review.'
     nav: [
       { href: '/en/the-centre', label: 'The centre' },
       { href: '/en/team', label: 'Our team' },
@@ -133,9 +136,15 @@ export function Footer({ locale = 'es' }: { locale?: Locale }) {
       <div className="max-w-6xl mx-auto px-4 py-10 grid md:grid-cols-3 gap-8 text-sm">
         <div>
           <h4 className="text-white font-semibold mb-3">cTg Psicología</h4>
-          <p>C/ Girona 21, 08901 L&apos;Hospitalet de Llobregat</p>
-          <p>+34 605 362 664</p>
-          <p className="break-all">centre@ctgterapiaglobal.com</p>
+          <address className="not-italic">
+            <p>{contact.address[locale]}</p>
+            <p className="mt-2">
+              <a href={`tel:${contact.phone.replace(/\s/g, '')}`} className="underline underline-offset-4 hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">{contact.phone}</a>
+            </p>
+            <p className="mt-2 break-all">
+              <a href={`mailto:${contact.email}`} className="underline underline-offset-4 hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">{contact.email}</a>
+            </p>
+          </address>
         </div>
         <div>
           <h4 className="text-white font-semibold mb-3">{t.links}</h4>
@@ -149,9 +158,10 @@ export function Footer({ locale = 'es' }: { locale?: Locale }) {
           <h4 className="text-white font-semibold mb-3">{t.legal}</h4>
           <ul className="space-y-1">
             {t.legalItems.map((l) => (
-              <li key={l}><a href="#" className="hover:text-white">{l}</a></li>
+              <li key={l}><span>{l}</span></li>
             ))}
           </ul>
+          <p className="mt-3 text-xs text-slate-300">{t.legalPending}</p>
         </div>
       </div>
       <div className="border-t border-white/10 text-center py-4 text-xs">

@@ -37,3 +37,25 @@ test('every bundled sharp binary uses the patched image-processing release', () 
     );
   }
 });
+
+test('PostCSS selector parser uses the fixed release on its compatible major line', () => {
+  const pinned = lock.packages['node_modules/postcss-selector-parser']?.version;
+  const [major, minor, patch] = versionParts(pinned);
+  assert.ok(
+    (major === 6 && (minor > 1 || (minor === 1 && patch >= 5))) ||
+    (major === 7 && (minor > 1 || (minor === 1 && patch >= 6))) ||
+    major > 7,
+    `postcss-selector-parser ${pinned} is affected by GHSA-rj75-hqrm-r3gf`,
+  );
+  assert.equal(manifest.overrides['postcss-selector-parser'], '6.1.5');
+});
+
+test('source-map-js is pinned above the indexed-source-map denial-of-service fix', () => {
+  const pinned = lock.packages['node_modules/source-map-js']?.version;
+  const [major, minor, patch] = versionParts(pinned);
+  assert.ok(
+    major > 1 || (major === 1 && (minor > 2 || (minor === 2 && patch >= 2))),
+    `source-map-js ${pinned} is affected by GHSA-68fv-2mgg-jv7q`,
+  );
+  assert.equal(manifest.overrides['source-map-js'], '1.2.2');
+});

@@ -2,12 +2,13 @@
 
 import { useState } from 'react';
 import { createWorker } from 'tesseract.js';
-import { validateOcrFile } from './ocr-file-policy.mjs';
+import { validateOcrFile, validateOcrImageSignature } from './ocr-file-policy.mjs';
 
 const FILE_ERRORS = {
   empty: 'Selecciona una imagen que no esté vacía.',
   'too-large': 'La imagen supera el límite de 10 MB. Reduce su tamaño antes de continuar.',
   unsupported: 'Formato no compatible. Selecciona PNG, JPG o WebP; convierte primero las páginas de un PDF a imágenes.',
+  'invalid-content': 'El archivo no coincide con su formato PNG, JPG o WebP. Prueba con otra imagen válida.',
 } as const;
 
 export default function OcrTool() {
@@ -26,9 +27,14 @@ export default function OcrTool() {
 
     setBusy(true);
     setResult('');
-    setStatus('Cargando motor OCR…');
+    setStatus('Comprobando formato de imagen…');
     let worker: Awaited<ReturnType<typeof createWorker>> | undefined;
     try {
+      if (await validateOcrImageSignature(file)) {
+        setStatus(FILE_ERRORS['invalid-content']);
+        return;
+      }
+      setStatus('Cargando motor OCR…');
       worker = await createWorker('spa');
       setStatus(`Leyendo ${file.name}…`);
       const { data } = await worker.recognize(file);

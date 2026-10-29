@@ -1,9 +1,11 @@
-﻿import { Header, Footer } from '@/components/Layout';
+﻿import Link from 'next/link';
+import { Header, Footer } from '@/components/Layout';
 import { services, Locale } from '@/data/content';
 
 export default function ServiciosPage({ locale }: { locale: Locale }) {
   const title = locale === 'es' ? 'Terapias y servicios' : locale === 'ca' ? 'Teràpies i serveis' : 'Therapies and services';
-  const cta = locale === 'es' ? 'Pide cita' : locale === 'ca' ? 'Demana cita' : 'Book an appointment';
+  const cta = locale === 'es' ? 'Consultar disponibilidad' : locale === 'ca' ? 'Consultar disponibilitat' : 'Ask about availability';
+  const contactHref = locale === 'es' ? '/contacto' : locale === 'ca' ? '/ca/contacte' : '/en/contact';
 
   return (
     <>
@@ -18,9 +20,13 @@ export default function ServiciosPage({ locale }: { locale: Locale }) {
               </div>
               <h2 className="font-semibold text-brand-deep">{s.name[locale]}</h2>
               <p className="mt-2 text-sm text-slate-600">{s.description[locale]}</p>
-              <a href="https://wa.me/34605362664" className="mt-4 inline-block text-sm font-medium text-brand-amber hover:underline">
+              <Link
+                href={contactHref}
+                aria-label={`${cta}: ${s.name[locale]}`}
+                className="mt-4 inline-flex min-h-11 items-center rounded-lg text-sm font-semibold text-brand-teal underline underline-offset-4 hover:text-brand-deep focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal"
+              >
                 {cta} →
-              </a>
+              </Link>
             </div>
           ))}
         </div>

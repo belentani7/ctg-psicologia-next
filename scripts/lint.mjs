@@ -9,6 +9,8 @@ const read = (path) => readFileSync(resolve(root, path), 'utf8');
 const layout = read('src/components/Layout.tsx');
 const home = read('src/components/pages/HomePage.tsx');
 const contactPage = read('src/components/pages/ContactoPage.tsx');
+const servicesPage = read('src/components/pages/ServiciosPage.tsx');
+const blogPage = read('src/components/pages/BlogPage.tsx');
 const data = read('src/data/content.ts');
 
 const issues = [];
@@ -25,6 +27,12 @@ if (/wa\.me\/\d{8,}/.test(home + contactPage)) issues.push('WhatsApp number must
 if (/<form\b/i.test(contactPage)) issues.push('unwired health-data form is not permitted');
 if (!/rel="noopener noreferrer"/.test(home) ||
     !/rel="noopener noreferrer"/.test(contactPage)) issues.push('external messaging links must be safe');
+if (/wa\.me\/\d{8,}/.test(servicesPage) || !/href=\{contactHref\}/.test(servicesPage)) {
+  issues.push('service CTA must link to the localized contact page, not a hard-coded messaging number');
+}
+if (/\{read\}\s*→/.test(blogPage) || !/\{summary\}/.test(blogPage)) {
+  issues.push('blog summaries must not imply full articles exist without real article routes');
+}
 
 if (issues.length) {
   for (const issue of issues) console.error('Contact quality guard: ' + issue);

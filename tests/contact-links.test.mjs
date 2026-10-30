@@ -21,3 +21,19 @@ test("the service details and safe contact copy are localized", () => {
   assert.match(content, /export const services:/);
   assert.match(content, /export const contact =/);
 });
+
+
+test("privacy guidance precedes contact actions in DOM and keyboard reading order", () => {
+  const contactPage = readFileSync(new URL("../src/components/pages/ContactoPage.tsx", import.meta.url), "utf8");
+  const homeNotice = home.indexOf("{t.privacy}");
+  const homePhone = home.indexOf("href={`tel:");
+  const homeWhatsApp = home.indexOf("href={`https://wa.me/");
+  assert.ok(homeNotice !== -1 && homeNotice < homePhone && homeNotice < homeWhatsApp,
+    "Homepage privacy guidance must precede call and external WhatsApp actions");
+
+  const contactNotice = contactPage.indexOf("{t.caution}");
+  const contactEmail = contactPage.indexOf("href={`mailto:");
+  const contactWhatsApp = contactPage.indexOf("href={whatsappUri}");
+  assert.ok(contactNotice !== -1 && contactNotice < contactEmail && contactNotice < contactWhatsApp,
+    "Contact privacy guidance must precede email and WhatsApp actions");
+});

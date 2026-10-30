@@ -28,7 +28,8 @@ export default function HomePage({ locale }: { locale: Locale }) {
         <section className="relative overflow-hidden bg-gradient-to-br from-brand-soft via-white to-brand-teal/10">
           <div className="max-w-4xl mx-auto px-4 py-24 text-center">
             <p className="font-display text-2xl md:text-3xl text-brand-deep leading-relaxed italic">{t.hero}</p>
-            <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-3">
+            <p className="mt-8 max-w-lg mx-auto text-sm text-slate-700">{t.privacy}</p>
+            <div className="mt-5 flex flex-col sm:flex-row items-center justify-center gap-3">
               <a
                 href={`tel:${contact.phone.replace(/\s/g, '')}`}
                 className="inline-flex items-center justify-center min-h-12 bg-brand-deep text-white px-8 py-3 rounded-full font-semibold hover:opacity-90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-deep transition"
@@ -44,7 +45,6 @@ export default function HomePage({ locale }: { locale: Locale }) {
                 {t.whatsapp}
               </a>
             </div>
-            <p className="mt-4 max-w-lg mx-auto text-xs text-slate-600">{t.privacy}</p>
             <p className="mt-3 text-slate-500">{contact.phone}</p>
           </div>
         </section>

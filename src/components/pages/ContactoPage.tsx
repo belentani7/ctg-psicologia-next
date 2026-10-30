@@ -1,62 +1,81 @@
-﻿import { Header, Footer } from '@/components/Layout';
-import { contact, Locale } from '@/data/content';
+import { Header, Footer } from '@/components/Layout';
+import { contact, type Locale } from '@/data/content';
+
+const COPY: Record<Locale, {
+  title: string; intro: string; channels: string; unavailable: string;
+  call: string; email: string; whatsapp: string; external: string;
+  caution: string; address: string;
+}> = {
+  es: {
+    title: 'Contacto',
+    intro: 'Estamos en el centro de L’Hospitalet. Para consultas generales o solicitar una cita, utiliza uno de los canales disponibles.',
+    channels: 'Cómo contactar',
+    unavailable: 'El formulario web no está disponible: todavía no existe un sistema de envío seguro. No se guardará ningún mensaje en esta página.',
+    call: 'Llamar al centro', email: 'Escribir un correo', whatsapp: 'Abrir WhatsApp',
+    external: '(se abre en una pestaña nueva)',
+    caution: 'El correo electrónico y WhatsApp son servicios externos. No envíes informes clínicos, diagnósticos ni otros datos de salud por estos canales. Para información sensible, llama al centro y consulta un medio seguro.',
+    address: 'Dirección del centro',
+  },
+  ca: {
+    title: 'Contacte',
+    intro: 'Som al centre de L’Hospitalet. Per a consultes generals o demanar cita, utilitza un dels canals disponibles.',
+    channels: 'Com contactar',
+    unavailable: 'El formulari web no està disponible: encara no hi ha un sistema d’enviament segur. No es desarà cap missatge en aquesta pàgina.',
+    call: 'Trucar al centre', email: 'Escriure un correu', whatsapp: 'Obrir WhatsApp',
+    external: '(s’obre en una pestanya nova)',
+    caution: 'El correu electrònic i WhatsApp són serveis externs. No enviïs informes clínics, diagnòstics ni altres dades de salut per aquests canals. Per a informació sensible, truca al centre i consulta un mitjà segur.',
+    address: 'Adreça del centre',
+  },
+  en: {
+    title: 'Contact',
+    intro: 'Find us in central L’Hospitalet. For general enquiries or to request an appointment, choose a contact channel below.',
+    channels: 'Contact options',
+    unavailable: 'The web form is unavailable because a secure submission service has not been implemented. No message is stored on this page.',
+    call: 'Call the centre', email: 'Send an email', whatsapp: 'Open WhatsApp',
+    external: '(opens in a new tab)',
+    caution: 'Email and WhatsApp are external services. Do not send clinical records, diagnoses or other health information through these channels. For sensitive information, call the centre and ask about a secure method.',
+    address: 'Centre address',
+  },
+};
 
 export default function ContactoPage({ locale }: { locale: Locale }) {
-  const t = {
-    title: locale === 'es' ? 'Contacto' : locale === 'ca' ? 'Contacte' : 'Contact',
-    intro: locale === 'es'
-      ? 'Podéis poneros en contacto con nosotros para cualquier tipo de consulta, duda o propuesta que tengáis. Nos encontraréis en el centro de L\'Hospitalet.'
-      : locale === 'ca'
-      ? 'Podeu posar-vos en contacte amb nosaltres per a qualsevol consulta, dubte o proposta. Ens trobareu al centre de L\'Hospitalet.'
-      : 'You can contact us for any query, doubt or proposal. You will find us in the centre of L\'Hospitalet.',
-    name: locale === 'es' ? 'Nombre' : locale === 'ca' ? 'Nom' : 'Name',
-    email: locale === 'es' ? 'Email' : 'Email',
-    phone: locale === 'es' ? 'Teléfono' : locale === 'ca' ? 'Telèfon' : 'Phone',
-    message: locale === 'es' ? 'Mensaje' : locale === 'ca' ? 'Missatge' : 'Message',
-    send: locale === 'es' ? 'Enviar' : locale === 'ca' ? 'Envia' : 'Send',
-    privacy: locale === 'es' ? 'Aceptar la Política de Privacidad' : locale === 'ca' ? 'Acceptar la Política de Privacitat' : 'Accept the Privacy Policy',
-  };
+  const t = COPY[locale];
+  const phoneUri = `tel:${contact.phone.replace(/\s/g, '')}`;
+  const whatsappUri = `https://wa.me/${contact.phone.replace(/\D/g, '')}`;
+
+  const actionClass = 'inline-flex min-h-12 items-center justify-center rounded-full bg-brand-deep px-6 py-3 text-center font-semibold text-white hover:opacity-90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-deep';
 
   return (
     <>
       <Header locale={locale} />
-      <main className="max-w-4xl mx-auto px-4 py-16">
-        <h1 className="font-display text-4xl text-brand-deep mb-4">{t.title}</h1>
-        <p className="text-slate-600 mb-10">{t.intro}</p>
-        <div className="grid md:grid-cols-2 gap-10">
-          <form className="space-y-4">
-            <div>
-              <label className="block text-sm font-medium mb-1">{t.name}</label>
-              <input type="text" className="w-full rounded-lg border border-slate-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-brand-teal" />
-            </div>
-            <div>
-              <label className="block text-sm font-medium mb-1">{t.email} *</label>
-              <input type="email" required className="w-full rounded-lg border border-slate-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-brand-teal" />
-            </div>
-            <div>
-              <label className="block text-sm font-medium mb-1">{t.phone}</label>
-              <input type="tel" className="w-full rounded-lg border border-slate-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-brand-teal" />
-            </div>
-            <div>
-              <label className="block text-sm font-medium mb-1">{t.message}</label>
-              <textarea rows={5} className="w-full rounded-lg border border-slate-300 px-4 py-2 focus:outline-none focus:ring-2 focus:ring-brand-teal" />
-            </div>
-            <label className="flex items-center gap-2 text-sm text-slate-600">
-              <input type="checkbox" required className="rounded" /> {t.privacy}
-            </label>
-            <button type="submit" className="bg-brand-teal text-white px-8 py-3 rounded-full font-semibold hover:bg-brand-deep transition-colors">
-              {t.send}
-            </button>
-          </form>
-          <div className="bg-white rounded-2xl p-6 shadow-sm border border-slate-100 h-fit">
-            <h2 className="font-semibold text-brand-deep mb-3">cTg Psicología</h2>
-            <p className="text-slate-600">{contact.address[locale]}</p>
-            <p className="text-slate-600 mt-2">Telf: {contact.phone}</p>
-            <p className="text-slate-600 mt-2 break-all">Email: {contact.email}</p>
-            <a href="https://wa.me/34605362664" className="mt-5 inline-block bg-brand-amber text-white px-6 py-3 rounded-full font-semibold hover:bg-brand-amber/90">
-              WhatsApp
-            </a>
-          </div>
+      <main id="main-content" lang={locale} className="mx-auto max-w-5xl px-4 py-12 sm:py-16">
+        <h1 className="mb-4 font-display text-4xl text-brand-deep">{t.title}</h1>
+        <p className="mb-10 max-w-3xl text-slate-700">{t.intro}</p>
+        <div className="grid gap-8 md:grid-cols-2">
+          <section aria-labelledby="contact-channels" className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+            <h2 id="contact-channels" className="mb-3 text-xl font-semibold text-brand-deep">{t.channels}</h2>
+            <p className="mb-4 text-sm text-slate-700">{t.unavailable}</p>
+            <p role="note" className="mb-6 rounded-lg border-l-4 border-brand-amber bg-amber-50 p-4 text-sm text-slate-800">
+              {t.caution}
+            </p>
+            <ul className="flex flex-col gap-3">
+              <li><a href={phoneUri} className={actionClass}>{t.call}</a></li>
+              <li><a href={`mailto:${contact.email}`} className={actionClass}>{t.email}</a></li>
+              <li>
+                <a href={whatsappUri} target="_blank" rel="noopener noreferrer" className={actionClass}>
+                  {t.whatsapp} <span className="ml-2 text-xs">{t.external}</span>
+                </a>
+              </li>
+            </ul>
+          </section>
+          <section aria-labelledby="contact-address" className="h-fit rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
+            <h2 id="contact-address" className="mb-3 text-xl font-semibold text-brand-deep">{t.address}</h2>
+            <address className="not-italic">
+              <p className="text-slate-700">{contact.address[locale]}</p>
+              <p className="mt-3"><a href={phoneUri} className="break-words text-brand-deep underline underline-offset-4 focus-visible:outline focus-visible:outline-2">{contact.phone}</a></p>
+              <p className="mt-3"><a href={`mailto:${contact.email}`} className="break-all text-brand-deep underline underline-offset-4 focus-visible:outline focus-visible:outline-2">{contact.email}</a></p>
+            </address>
+          </section>
         </div>
       </main>
       <Footer locale={locale} />

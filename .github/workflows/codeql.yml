@@ -1,24 +1,31 @@
-name: codeql
+name: CodeQL
+
 on:
   push:
-    branches: ["main"]
+    branches: [main]
   pull_request:
+    branches: [main]
 
 permissions:
   contents: read
 
 jobs:
-  quality:
-    runs-on: ubuntu-latest
-    steps:
   analyze:
+    name: Analyze JavaScript and TypeScript
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     permissions:
-      security-events: write
       contents: read
+      security-events: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: github/codeql-action/init@v3
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          languages: javascript
-      - uses: github/codeql-action/analyze@v3
+          persist-credentials: false
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v4
+        with:
+          languages: javascript-typescript
+          build-mode: none
+      - name: Analyze
+        uses: github/codeql-action/analyze@v4

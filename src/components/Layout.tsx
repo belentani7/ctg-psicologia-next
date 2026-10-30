@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Locale } from '@/data/content';
+import { contact, type Locale } from '@/data/content';
 
 const NAV: Record<Locale, { href: string; label: string }[]> = {
   es: [
@@ -52,15 +52,34 @@ export function Header({ locale = 'es' }: { locale?: Locale }) {
             <span className="text-xs text-slate-500">{BRAND_SUB[locale]}</span>
           </span>
         </Link>
-        <nav className="hidden md:flex items-center gap-6 text-sm">
+        <details className="relative lg:hidden">
+          <summary className="cursor-pointer list-none rounded-lg border border-slate-300 px-4 py-3 text-sm font-semibold text-brand-deep focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
+            {locale === 'es' ? 'Menú' : locale === 'ca' ? 'Menú' : 'Menu'}
+          </summary>
+          <nav aria-label={locale === 'es' ? 'Navegación móvil' : locale === 'ca' ? 'Navegació mòbil' : 'Mobile navigation'} className="absolute right-0 top-full z-50 mt-2 flex w-72 max-w-[calc(100vw-2rem)] flex-col gap-1 rounded-xl border border-slate-200 bg-white p-3 shadow-xl">
+            {items.map((item) => (
+              <Link key={item.href} href={item.href} className="rounded-lg px-3 py-3 text-sm text-brand-deep hover:bg-brand-soft focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-teal">
+                {item.label}
+              </Link>
+            ))}
+            <div className="mt-2 flex flex-wrap gap-2 border-t border-slate-200 pt-3">
+              {LANGS.map((language) => (
+                <Link key={language.code} href={language.code === 'es' ? '/' : `/${language.code}`} lang={language.code} className="rounded-lg border border-slate-200 px-3 py-2 text-xs text-brand-deep focus-visible:outline focus-visible:outline-2 focus-visible:outline-brand-teal">
+                  {language.label}
+                </Link>
+              ))}
+            </div>
+          </nav>
+        </details>
+        <nav aria-label={locale === 'es' ? 'Navegación principal' : locale === 'ca' ? 'Navegació principal' : 'Main navigation'} className="hidden lg:flex items-center gap-4 text-sm">
           {items.map((i) => (
-            <Link key={i.href} href={i.href} className="text-slate-600 hover:text-brand-teal transition-colors">
+            <Link key={i.href} href={i.href} className="text-slate-600 hover:text-brand-teal transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
               {i.label}
             </Link>
           ))}
           <div className="flex gap-2 border-l pl-4 border-slate-200">
             {LANGS.map((l) => (
-              <Link key={l.code} href={l.code === 'es' ? '/' : `/${l.code}`} className="text-xs uppercase text-slate-500 hover:text-brand-teal">
+              <Link key={l.code} href={l.code === 'es' ? '/' : `/${l.code}`} lang={l.code} className="text-xs uppercase text-slate-500 hover:text-brand-teal focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
                 {l.label}
               </Link>
             ))}
@@ -71,10 +90,11 @@ export function Header({ locale = 'es' }: { locale?: Locale }) {
   );
 }
 
-const FOOTER: Record<Locale, { links: string; legal: string; nav: { href: string; label: string }[]; legalItems: string[] }> = {
+const FOOTER: Record<Locale, { links: string; legal: string; legalPending: string; nav: { href: string; label: string }[]; legalItems: string[] }> = {
   es: {
     links: 'Enlaces',
     legal: 'Legal',
+    legalPending: 'Documentos legales pendientes de publicación y revisión profesional.',
     nav: [
       { href: '/el-centro', label: 'El centro' },
       { href: '/equipo', label: 'Nuestro equipo' },
@@ -86,6 +106,7 @@ const FOOTER: Record<Locale, { links: string; legal: string; nav: { href: string
   ca: {
     links: 'Enllaços',
     legal: 'Legal',
+    legalPending: 'Documents legals pendents de publicació i revisió professional.',
     nav: [
       { href: '/ca/el-centre', label: 'El centre' },
       { href: '/ca/equip', label: 'El nostre equip' },
@@ -97,6 +118,7 @@ const FOOTER: Record<Locale, { links: string; legal: string; nav: { href: string
   en: {
     links: 'Links',
     legal: 'Legal',
+    legalPending: 'Legal documents are pending publication and professional review.',
     nav: [
       { href: '/en/the-centre', label: 'The centre' },
       { href: '/en/team', label: 'Our team' },
@@ -114,9 +136,15 @@ export function Footer({ locale = 'es' }: { locale?: Locale }) {
       <div className="max-w-6xl mx-auto px-4 py-10 grid md:grid-cols-3 gap-8 text-sm">
         <div>
           <h4 className="text-white font-semibold mb-3">cTg Psicología</h4>
-          <p>C/ Girona 21, 08901 L&apos;Hospitalet de Llobregat</p>
-          <p>+34 605 362 664</p>
-          <p className="break-all">centre@ctgterapiaglobal.com</p>
+          <address className="not-italic">
+            <p>{contact.address[locale]}</p>
+            <p className="mt-2">
+              <a href={`tel:${contact.phone.replace(/\s/g, '')}`} className="underline underline-offset-4 hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">{contact.phone}</a>
+            </p>
+            <p className="mt-2 break-all">
+              <a href={`mailto:${contact.email}`} className="underline underline-offset-4 hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2">{contact.email}</a>
+            </p>
+          </address>
         </div>
         <div>
           <h4 className="text-white font-semibold mb-3">{t.links}</h4>
@@ -130,9 +158,10 @@ export function Footer({ locale = 'es' }: { locale?: Locale }) {
           <h4 className="text-white font-semibold mb-3">{t.legal}</h4>
           <ul className="space-y-1">
             {t.legalItems.map((l) => (
-              <li key={l}><a href="#" className="hover:text-white">{l}</a></li>
+              <li key={l}><span>{l}</span></li>
             ))}
           </ul>
+          <p className="mt-3 text-xs text-slate-300">{t.legalPending}</p>
         </div>
       </div>
       <div className="border-t border-white/10 text-center py-4 text-xs">

@@ -54,7 +54,10 @@ export default function ContactoPage({ locale }: { locale: Locale }) {
         <div className="grid gap-8 md:grid-cols-2">
           <section aria-labelledby="contact-channels" className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
             <h2 id="contact-channels" className="mb-3 text-xl font-semibold text-brand-deep">{t.channels}</h2>
-            <p className="mb-6 text-sm text-slate-700">{t.unavailable}</p>
+            <p className="mb-4 text-sm text-slate-700">{t.unavailable}</p>
+            <p role="note" className="mb-6 rounded-lg border-l-4 border-brand-amber bg-amber-50 p-4 text-sm text-slate-800">
+              {t.caution}
+            </p>
             <ul className="flex flex-col gap-3">
               <li><a href={phoneUri} className={actionClass}>{t.call}</a></li>
               <li><a href={`mailto:${contact.email}`} className={actionClass}>{t.email}</a></li>
@@ -64,9 +67,6 @@ export default function ContactoPage({ locale }: { locale: Locale }) {
                 </a>
               </li>
             </ul>
-            <p role="note" className="mt-6 rounded-lg border-l-4 border-brand-amber bg-amber-50 p-4 text-sm text-slate-800">
-              {t.caution}
-            </p>
           </section>
           <section aria-labelledby="contact-address" className="h-fit rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
             <h2 id="contact-address" className="mb-3 text-xl font-semibold text-brand-deep">{t.address}</h2>

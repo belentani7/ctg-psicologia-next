@@ -4,6 +4,7 @@ import { services, contact, Locale } from '@/data/content';
 
 export default function HomePage({ locale }: { locale: Locale }) {
   const t = {
+    heading: locale === 'es' ? 'Centro de Terapia Global' : locale === 'ca' ? 'Centre de Teràpia Global' : 'Global Therapy Centre',
     hero: locale === 'es'
       ? '«El ser humano es como el agua: tiene el poder de transformarse y adaptarse a lo que le rodea. El terapeuta es la persona que lo puede guiar hacia su propio cambio hasta conseguir fluir.»'
       : locale === 'ca'
@@ -24,10 +25,12 @@ export default function HomePage({ locale }: { locale: Locale }) {
   return (
     <>
       <Header locale={locale} />
-      <main lang={locale}>
+      <main id="main-content" lang={locale}>
         <section className="relative overflow-hidden bg-gradient-to-br from-brand-soft via-white to-brand-teal/10">
           <div className="max-w-4xl mx-auto px-4 py-24 text-center">
-            <p className="font-display text-2xl md:text-3xl text-brand-deep leading-relaxed italic">{t.hero}</p>
+            <p className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-brand-teal">cTg Psicología</p>
+            <h1 className="font-display text-4xl font-semibold leading-tight text-brand-deep sm:text-5xl">{t.heading}</h1>
+            <p className="mt-8 font-display text-xl leading-relaxed italic text-brand-deep sm:text-2xl">{t.hero}</p>
             <p className="mt-8 max-w-lg mx-auto text-sm text-slate-700">{t.privacy}</p>
             <div className="mt-5 flex flex-col sm:flex-row items-center justify-center gap-3">
               <a

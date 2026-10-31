@@ -5,6 +5,7 @@ import { services, contact, Locale } from '@/data/content';
 export default function HomePage({ locale }: { locale: Locale }) {
   const t = {
     heading: locale === 'es' ? 'Centro de Terapia Global' : locale === 'ca' ? 'Centre de Teràpia Global' : 'Global Therapy Centre',
+    skip: locale === 'es' ? 'Saltar al contenido principal' : locale === 'ca' ? 'Ves al contingut principal' : 'Skip to main content',
     hero: locale === 'es'
       ? '«El ser humano es como el agua: tiene el poder de transformarse y adaptarse a lo que le rodea. El terapeuta es la persona que lo puede guiar hacia su propio cambio hasta conseguir fluir.»'
       : locale === 'ca'
@@ -24,8 +25,9 @@ export default function HomePage({ locale }: { locale: Locale }) {
 
   return (
     <>
+      <a href="#main-content" className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100] focus:rounded-lg focus:bg-white focus:px-4 focus:py-3 focus:font-semibold focus:text-brand-deep focus:shadow-lg focus:outline focus:outline-2 focus:outline-brand-teal">{t.skip}</a>
       <Header locale={locale} />
-      <main id="main-content" lang={locale}>
+      <main id="main-content" lang={locale} tabIndex={-1}>
         <section className="relative overflow-hidden bg-gradient-to-br from-brand-soft via-white to-brand-teal/10">
           <div className="max-w-4xl mx-auto px-4 py-24 text-center">
             <p className="mb-4 text-xs font-semibold uppercase tracking-[0.2em] text-brand-teal">cTg Psicología</p>

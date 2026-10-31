@@ -39,7 +39,12 @@ test("privacy guidance precedes contact actions in DOM and keyboard reading orde
 });
 
 test("the landing page has one localized primary heading and a keyboard target", () => {
-  assert.match(home, /<main id="main-content" lang=\{locale\}>/);
+  assert.match(home, /<main id="main-content" lang=\{locale\} tabIndex=\{-1\}>/);
+  assert.match(home, /href="#main-content"/);
+  assert.match(home, /focus:not-sr-only/);
+  for (const label of ["Saltar al contenido principal", "Ves al contingut principal", "Skip to main content"]) {
+    assert.ok(home.includes(label), `Missing localized skip label: ${label}`);
+  }
   assert.equal((home.match(/<h1\b/g) ?? []).length, 1);
   assert.match(home, /<h1[^>]*>\{t\.heading\}<\/h1>/);
   for (const title of ['Centro de Terapia Global', 'Centre de Teràpia Global', 'Global Therapy Centre']) {

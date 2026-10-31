@@ -1,0 +1,1742 @@
+{
+ "id": "01b7aa03-dc7f-4aea-b00e-cbc513299894",
+ "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+ "title": "Falla en carga de datos",
+ "chat": {
+  "history": {
+   "messages": {
+    "e83f9de0-df6e-49cb-97ab-afdaf1bf8e77": {
+     "id": "e83f9de0-df6e-49cb-97ab-afdaf1bf8e77",
+     "role": "user",
+     "content": "Maxima informacion. Un lado pone 80% y no sale nads",
+     "models": [
+      "qwen3.7-plus"
+     ],
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "edited": false,
+     "error": null,
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      }
+     },
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "parentId": null,
+     "turn_id": null,
+     "childrenIds": [
+      "4e449b03-a8e2-4bbb-ab5d-c51ae7438590"
+     ],
+     "files": [
+      {
+       "id": "c45e10c2-8106-4ab7-89e9-b53a190dfe57",
+       "name": "17840537414068821025585300857518.jpg",
+       "file_type": "image/jpeg",
+       "type": "image",
+       "file_class": "vision",
+       "size": 1728923,
+       "url": "https://cdn.qwenlm.ai/c2739080-ce39-4d15-85a6-bd1d676c2b74/c45e10c2-8106-4ab7-89e9-b53a190dfe57_17840537414068821025585300857518.jpg?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiYzI3MzkwODAtY2UzOS00ZDE1LTg1YTYtYmQxZDY3NmMyYjc0IiwicmVzb3VyY2VfaWQiOiJjNDVlMTBjMi04MTA2LTRhYjctODllOS1iNTNhMTkwZGZlNTciLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.5FZ-g2pF7Wk8u9ajWUzOBEmb8sycB6kL4wmbKxZkLcw",
+       "file": {
+        "created_at": 1784053757312,
+        "data": {},
+        "filename": "17840537414068821025585300857518.jpg",
+        "hash": null,
+        "id": "c45e10c2-8106-4ab7-89e9-b53a190dfe57",
+        "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+        "meta": {
+         "name": "17840537414068821025585300857518.jpg",
+         "size": 1728923,
+         "content_type": "image/jpeg"
+        },
+        "update_at": 1784053757312,
+        "lastModified": 1784053754090,
+        "name": "17840537414068821025585300857518.jpg",
+        "webkitRelativePath": "",
+        "size": 1728923,
+        "type": "image/jpeg"
+       },
+       "collection_name": "",
+       "progress": 0,
+       "status": "uploaded",
+       "greenNet": "success",
+       "error": "",
+       "itemId": "5da7db05-0baf-4cf8-9f98-9dbd5ed1dbc2",
+       "showType": "image",
+       "uploadTaskId": "6b9a991f-88ca-4e8a-9311-1c79053df6d0"
+      }
+     ],
+     "timestamp": 1784053780
+    },
+    "4e449b03-a8e2-4bbb-ab5d-c51ae7438590": {
+     "role": "assistant",
+     "content": "",
+     "reasoning_content": null,
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "model": "qwen3.7-plus",
+     "modelName": "Qwen3.7-Plus",
+     "modelIdx": 0,
+     "id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+     "parentId": "e83f9de0-df6e-49cb-97ab-afdaf1bf8e77",
+     "childrenIds": [
+      "87112595-1e3a-49e5-a2ec-bbf0605fccbe"
+     ],
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "content_list": [
+      {
+       "content": "",
+       "phase": "thinking_summary",
+       "status": "finished",
+       "extra": {
+        "summary_title": {
+         "content": [
+          "Observing the visual details of the vaping device presented.",
+          "Investigating the device's behavior based on user description."
+         ]
+        },
+        "summary_thought": {
+         "content": [
+          "I am analyzing the visible text and design elements to understand the product's identity and purpose.  \nThe branding suggests a flavor combination with tropical and fruity notes, likely targeting a younger demographic.  \nI am forming a contextual interpretation based on the imagery and textual cues without external references.",
+          "I am analyzing the discrepancy between the displayed battery level and the absence of vapor production.  \nThe device likely has a functional battery indicator but may be experiencing a malfunction in its heating or delivery system.  \nI am considering possible causes such as blockage, power regulation issues, or internal component failure."
+         ]
+        }
+       },
+       "role": "assistant",
+       "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+       "usage": {
+        "input_tokens": 6473,
+        "output_tokens": 193,
+        "characters": 0,
+        "input_tokens_details": {
+         "image_tokens": 2502,
+         "text_tokens": 3971
+        },
+        "prompt_tokens_details": {},
+        "total_tokens": 6666,
+        "output_tokens_details": {
+         "reasoning_tokens": 192,
+         "text_tokens": 1
+        },
+        "image_tokens": 2502
+       },
+       "timestamp": 1784053788
+      },
+      {
+       "content": "",
+       "phase": "web_search",
+       "status": "finished",
+       "extra": {
+        "display_position": "think",
+        "web_search_info": [
+         {
+          "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+          "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+          "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+          "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+          "snippet": "Designed for vapers who crave variety and control, this device offers up to 50000 puffs, making it a long-lasting companion for your vaping journey.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://eu.okovape.com/fizzy-50k-puffs-50000-disposable-vape/",
+          "title": "Fizzy 50k Puffs 50000 Twins 2 In 1 EU Disposable Vape New",
+          "snippet": "Extended Puff Count: With an impressive 50,000 puffs per device, this vape delivers a long-lasting experience, minimizing the need for frequent replacements.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vaping360.com/vape-products/fizzy-twins-50000/",
+          "title": "Fizzy Twins 50000",
+          "snippet": "It features a massive 50 mL dual-tank system (25 mL per flavor), providing up to 50000 puffs. The device is powered by an 850 mAh rechargeable battery and ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOop4ymXaWi2wHin-VWOyTRadk3C6gQV3wkpaUO2NrNrVL2y0AxG7",
+          "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+          "snippet": "Battery Capacity: 850mAh, Type-C Pod Capacity: 50ml Salt Nic: 2%/5% Puffs: Up to 50000 Flavor Change Adjustable Airflow Dual Tank Dual Power modes",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://coyvape.com/product/fizzy-twins-50000-disposable-vape/",
+          "title": "FIZZY Twins 50000 Disposable Vape | 50K Puffs, Bright ",
+          "snippet": "The FIZZY Twins 50000 from CoyVape offers 50,000 puffs with dual 25ml tanks and an 850mAh battery. Switch instantly between two flavors with the LED display ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://shop.fizzyvape.com/",
+          "title": "Fizzy Vape Official Shop - Feeling the Fizzy Moment",
+          "snippet": "Popular models include Fizzy Max III 60,000 Puffs, Fizzy Twins 50,000 Puffs, and Fizzy Nova Plus 40,000 Puffs. How Long Does Shipping Take?",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://fdvape.com/product/fizzy-twins-50000-50k-puffs-dual-flavors-disposable-vape-2-5-nicotine-12tastes-smart-led-display-factory-direct/",
+          "title": "Fizzy Twins 50000 50k Puffs Dual Flavors Disposable ",
+          "snippet": "Fizzy Twins 50000 Puffs Disposable Vape offers up to 50,000 puffs with a massive 50mL dual-tank. Featuring dual mesh coils, it delivers smooth vapor and rich ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+          "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+          "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+          "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+          "snippet": "2-in-1 disposable vape devices featuring raspberry lemonade. Blue Razz Lemonade & Up to 50000 puffs liquid:50ml Battery:850 mAh Battery, Long ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://fizzyvape.eu/product/fizzy-twins-blue-razz-lemonade-triple-melon-50000-puffs-10pcs/",
+          "title": "Fizzy Twins Blue Razz Lemonade & Triple Melon",
+          "snippet": "This premium dual-flavor disposable vape combines the tangy zest of blue raspberry lemonade with the juicy sweetness of triple melon, delivering a smooth, ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://starsvape.com/product/blue-razz-lemonade-lemon-lime-vapsolo-twins-20000-puffs-20k/",
+          "title": "Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 ",
+          "snippet": "So, whether you're a sailor or just someone who enjoys the open air, the Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 Puffs is the perfect companion.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://getpop.co/geek-bar-b5000-blue-razz-lemonade/",
+          "title": "Geek Bar B5000 Blue Razz Lemonade",
+          "snippet": "The Geek Bar B5000 disposable vape offers up to 5000 puffs with a long-lasting 650mAh battery. Zesty lemonade infused with sweet blue raspberry creates a tangy ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOopjsj6lwwJHd41uYeWtMFF51ogcXw1dpZs5WvO_Zo-hv7G-bc_4",
+          "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+          "snippet": "Capacity: 50ml /5% Puffs: Up to 50000 Flavor Change. Blue Razz Lemonade &",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://mipod.com/products/blue-razz-lemonade-ut-50k?srsltid=AfmBOopP6n_D_5g2FKqinEsxIxTuuiYLNEkEjL0dUjjWZJl2AI2Aouue",
+          "title": "Blue Razz/Lemonade UT 50K",
+          "snippet": "Blue Razz/Lemonade UT 50K disposable vape. Strength: 50mg Puffs Count: 50,000 Eco, Turbo Mode up to 25,000 Battery: Sale price$17.99 Regular price$24.99",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://fdvape.com/product/bang-king-twins-50000-50k-puffs-dual-flavors-disposable-vape-pen-2-3-5-nicotine-12tastes-with-dual-mesh-vape-factory-direct/",
+          "title": "Bang King Twins 50000 50K Puffs Dual Flavors ",
+          "snippet": "Bang King Twins 50K Puffs Disposable Vape is a dual-flavor device offering up to 50,000 puffs. With a massive 56mL e-liquid capacity, dual 1.0Ω mesh coils, and ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vaping360.com/learn/how-to-fix-a-disposable-vape/",
+          "title": "How to Fix Any Disposable Vape That Isn't Working",
+          "snippet": "If a new disposable isn't hitting, it may be due to a faulty unit, a dead battery, leaked vape juice, or blocked airflow.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.quora.com/The-disposable-vape-pen-I-purchased-a-day-ago-wont-work-It-has-juice-in-it-and-all-the-lights-are-flashing-at-appropriate-times-How-can-I-fix-it",
+          "title": "The disposable vape pen I purchased a day ago won't ",
+          "snippet": "The disposable vape pen I purchased a day ago won't work. It has juice in it and all the lights are flashing at appropriate times. How can I fix it?",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.ccell.com/blogs/why-a-disposable-vape-lights-up-but-no-smoke-comes-out",
+          "title": "Why A Disposable Vape Lights Up but No Smoke Comes Out",
+          "snippet": "If the coil is defective, burnt out, or has been assembled incorrectly, then no vapor will be produced even when the device is turned on.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.innokin.com/blog/vape-lighting-up-but-not-hitting",
+          "title": "Why Is My Vape Lighting Up but Not Hitting?",
+          "snippet": "The good news is that when your vape isn't hitting, the problem usually stems from a configuration issue that's fairly easy to fix.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.facebook.com/groups/ElectronicParts/posts/2583968155125837/",
+          "title": "Disposable vape, just three components but what it bugs ",
+          "snippet": "Disposable vape, just three components but what it bugs me how does it know when it's empty. Led flashes when no juice is left but how? What makes led flash?",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+          "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+          "snippet": "If the light stays solid during your inhale but no vapor comes out, the battery and sensor are working, but the connection to the coil is likely ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vaporfi.com/blog/burnt-tastes-loud-pops-and-no-vapor-troubleshooting-your-vape/",
+          "title": "Why Isn't My Vape Making Smoke or Firing?",
+          "snippet": "If your vape isn't working after a refill and there is no smoke, there are two common problems. First of all, the battery may need to be charged and turned on.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://pinkspotvapors.com/blog/vape-lighting-up-but-not-hitting/",
+          "title": "Why Is My Vape Lighting Up But Not Hitting? Causes & Fixes",
+          "snippet": "Oil residue or a slightly loose cartridge is usually all it takes to break the electrical contact and stop vapor production. Between the ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://metrobudnyc.com/disposable-vape-not-working-fix-guide/",
+          "title": "Disposable Vape Not Working? Try These 5 Easy Fixes ",
+          "snippet": "If the light blinks but you get no vapor, the airway is likely clogged. Step 2: Clear a Clogged Mouthpiece. If you suspect a clog, you'll need to clear the ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+          "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+          "snippet": "If you get a burnt taste or no vapor at all, try gently tapping the device against your palm. This can help dislodge air bubbles and allow the e ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vapeuk.co.uk/troubleshooting-common-vaping-problems",
+          "title": "A Guide to Troubleshooting the Most Common Vaping ",
+          "snippet": "Check the mAh rating of your device. Make sure your vape kit hasn't been left in a hot place causing the device to overheat and the e-liquid to thin. coil ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://store.vaporesso.com/blogs/news/vape-troubleshooting-guide-fix-problemsvape?srsltid=AfmBOopzMnyMM9bsnzstrepglGVSOvhE-ICYZF8EuJ9HFJPtkVE7f7Tr",
+          "title": "Guide to Fix Vape Problems Fast for Battery, Coil, and Vapor",
+          "snippet": "Say goodbye to vape troubles. Fix charging errors, leaks, and weak vapor with easy at-home solutions for a smooth, flavorful experience.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://camouflet.com/blogs/vaporizer-guide/vaporizer-not-working-troubleshooting-guide?srsltid=AfmBOopsNwKXeDN4hEnrl1mg6IsvpOnAqSU9GH8qEJCc_gorr8esrzQr",
+          "title": "Vaporizer Not Working? Fix It Fast (2024 Guide)",
+          "snippet": "The diagnostic is simple: draw on the cart without firing the battery. If you get airflow, the air tube is clear and the ceramic is likely ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         }
+        ],
+        "tool_result": {
+         "docs": [
+          {
+           "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+           "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+           "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+           "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+           "snippet": "Designed for vapers who crave variety and control, this device offers up to 50000 puffs, making it a long-lasting companion for your vaping journey.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://eu.okovape.com/fizzy-50k-puffs-50000-disposable-vape/",
+           "title": "Fizzy 50k Puffs 50000 Twins 2 In 1 EU Disposable Vape New",
+           "snippet": "Extended Puff Count: With an impressive 50,000 puffs per device, this vape delivers a long-lasting experience, minimizing the need for frequent replacements.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://vaping360.com/vape-products/fizzy-twins-50000/",
+           "title": "Fizzy Twins 50000",
+           "snippet": "It features a massive 50 mL dual-tank system (25 mL per flavor), providing up to 50000 puffs. The device is powered by an 850 mAh rechargeable battery and ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOop4ymXaWi2wHin-VWOyTRadk3C6gQV3wkpaUO2NrNrVL2y0AxG7",
+           "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+           "snippet": "Battery Capacity: 850mAh, Type-C Pod Capacity: 50ml Salt Nic: 2%/5% Puffs: Up to 50000 Flavor Change Adjustable Airflow Dual Tank Dual Power modes",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://coyvape.com/product/fizzy-twins-50000-disposable-vape/",
+           "title": "FIZZY Twins 50000 Disposable Vape | 50K Puffs, Bright ",
+           "snippet": "The FIZZY Twins 50000 from CoyVape offers 50,000 puffs with dual 25ml tanks and an 850mAh battery. Switch instantly between two flavors with the LED display ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://shop.fizzyvape.com/",
+           "title": "Fizzy Vape Official Shop - Feeling the Fizzy Moment",
+           "snippet": "Popular models include Fizzy Max III 60,000 Puffs, Fizzy Twins 50,000 Puffs, and Fizzy Nova Plus 40,000 Puffs. How Long Does Shipping Take?",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://fdvape.com/product/fizzy-twins-50000-50k-puffs-dual-flavors-disposable-vape-2-5-nicotine-12tastes-smart-led-display-factory-direct/",
+           "title": "Fizzy Twins 50000 50k Puffs Dual Flavors Disposable ",
+           "snippet": "Fizzy Twins 50000 Puffs Disposable Vape offers up to 50,000 puffs with a massive 50mL dual-tank. Featuring dual mesh coils, it delivers smooth vapor and rich ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+           "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+           "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+           "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+           "snippet": "2-in-1 disposable vape devices featuring raspberry lemonade. Blue Razz Lemonade & Up to 50000 puffs liquid:50ml Battery:850 mAh Battery, Long ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://fizzyvape.eu/product/fizzy-twins-blue-razz-lemonade-triple-melon-50000-puffs-10pcs/",
+           "title": "Fizzy Twins Blue Razz Lemonade & Triple Melon",
+           "snippet": "This premium dual-flavor disposable vape combines the tangy zest of blue raspberry lemonade with the juicy sweetness of triple melon, delivering a smooth, ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://starsvape.com/product/blue-razz-lemonade-lemon-lime-vapsolo-twins-20000-puffs-20k/",
+           "title": "Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 ",
+           "snippet": "So, whether you're a sailor or just someone who enjoys the open air, the Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 Puffs is the perfect companion.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://getpop.co/geek-bar-b5000-blue-razz-lemonade/",
+           "title": "Geek Bar B5000 Blue Razz Lemonade",
+           "snippet": "The Geek Bar B5000 disposable vape offers up to 5000 puffs with a long-lasting 650mAh battery. Zesty lemonade infused with sweet blue raspberry creates a tangy ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOopjsj6lwwJHd41uYeWtMFF51ogcXw1dpZs5WvO_Zo-hv7G-bc_4",
+           "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+           "snippet": "Capacity: 50ml /5% Puffs: Up to 50000 Flavor Change. Blue Razz Lemonade &",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://mipod.com/products/blue-razz-lemonade-ut-50k?srsltid=AfmBOopP6n_D_5g2FKqinEsxIxTuuiYLNEkEjL0dUjjWZJl2AI2Aouue",
+           "title": "Blue Razz/Lemonade UT 50K",
+           "snippet": "Blue Razz/Lemonade UT 50K disposable vape. Strength: 50mg Puffs Count: 50,000 Eco, Turbo Mode up to 25,000 Battery: Sale price$17.99 Regular price$24.99",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://fdvape.com/product/bang-king-twins-50000-50k-puffs-dual-flavors-disposable-vape-pen-2-3-5-nicotine-12tastes-with-dual-mesh-vape-factory-direct/",
+           "title": "Bang King Twins 50000 50K Puffs Dual Flavors ",
+           "snippet": "Bang King Twins 50K Puffs Disposable Vape is a dual-flavor device offering up to 50,000 puffs. With a massive 56mL e-liquid capacity, dual 1.0Ω mesh coils, and ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://vaping360.com/learn/how-to-fix-a-disposable-vape/",
+           "title": "How to Fix Any Disposable Vape That Isn't Working",
+           "snippet": "If a new disposable isn't hitting, it may be due to a faulty unit, a dead battery, leaked vape juice, or blocked airflow.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.quora.com/The-disposable-vape-pen-I-purchased-a-day-ago-wont-work-It-has-juice-in-it-and-all-the-lights-are-flashing-at-appropriate-times-How-can-I-fix-it",
+           "title": "The disposable vape pen I purchased a day ago won't ",
+           "snippet": "The disposable vape pen I purchased a day ago won't work. It has juice in it and all the lights are flashing at appropriate times. How can I fix it?",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.ccell.com/blogs/why-a-disposable-vape-lights-up-but-no-smoke-comes-out",
+           "title": "Why A Disposable Vape Lights Up but No Smoke Comes Out",
+           "snippet": "If the coil is defective, burnt out, or has been assembled incorrectly, then no vapor will be produced even when the device is turned on.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.innokin.com/blog/vape-lighting-up-but-not-hitting",
+           "title": "Why Is My Vape Lighting Up but Not Hitting?",
+           "snippet": "The good news is that when your vape isn't hitting, the problem usually stems from a configuration issue that's fairly easy to fix.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.facebook.com/groups/ElectronicParts/posts/2583968155125837/",
+           "title": "Disposable vape, just three components but what it bugs ",
+           "snippet": "Disposable vape, just three components but what it bugs me how does it know when it's empty. Led flashes when no juice is left but how? What makes led flash?",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+           "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+           "snippet": "If the light stays solid during your inhale but no vapor comes out, the battery and sensor are working, but the connection to the coil is likely ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.vaporfi.com/blog/burnt-tastes-loud-pops-and-no-vapor-troubleshooting-your-vape/",
+           "title": "Why Isn't My Vape Making Smoke or Firing?",
+           "snippet": "If your vape isn't working after a refill and there is no smoke, there are two common problems. First of all, the battery may need to be charged and turned on.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://pinkspotvapors.com/blog/vape-lighting-up-but-not-hitting/",
+           "title": "Why Is My Vape Lighting Up But Not Hitting? Causes & Fixes",
+           "snippet": "Oil residue or a slightly loose cartridge is usually all it takes to break the electrical contact and stop vapor production. Between the ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://metrobudnyc.com/disposable-vape-not-working-fix-guide/",
+           "title": "Disposable Vape Not Working? Try These 5 Easy Fixes ",
+           "snippet": "If the light blinks but you get no vapor, the airway is likely clogged. Step 2: Clear a Clogged Mouthpiece. If you suspect a clog, you'll need to clear the ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+           "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+           "snippet": "If you get a burnt taste or no vapor at all, try gently tapping the device against your palm. This can help dislodge air bubbles and allow the e ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://vapeuk.co.uk/troubleshooting-common-vaping-problems",
+           "title": "A Guide to Troubleshooting the Most Common Vaping ",
+           "snippet": "Check the mAh rating of your device. Make sure your vape kit hasn't been left in a hot place causing the device to overheat and the e-liquid to thin. coil ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://store.vaporesso.com/blogs/news/vape-troubleshooting-guide-fix-problemsvape?srsltid=AfmBOopzMnyMM9bsnzstrepglGVSOvhE-ICYZF8EuJ9HFJPtkVE7f7Tr",
+           "title": "Guide to Fix Vape Problems Fast for Battery, Coil, and Vapor",
+           "snippet": "Say goodbye to vape troubles. Fix charging errors, leaks, and weak vapor with easy at-home solutions for a smooth, flavorful experience.",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          },
+          {
+           "url": "https://camouflet.com/blogs/vaporizer-guide/vaporizer-not-working-troubleshooting-guide?srsltid=AfmBOopsNwKXeDN4hEnrl1mg6IsvpOnAqSU9GH8qEJCc_gorr8esrzQr",
+           "title": "Vaporizer Not Working? Fix It Fast (2024 Guide)",
+           "snippet": "The diagnostic is simple: draw on the cart without firing the battery. If you get airflow, the air tube is clear and the ceramic is likely ",
+           "hostname": "",
+           "hostlogo": "",
+           "date": ""
+          }
+         ],
+         "used_id": 30,
+         "tool_call_metrics": {
+          "success": [
+           1,
+           1,
+           1,
+           1
+          ]
+         },
+         "tool_observation": "```\n[1] https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale \"Fizzy Twins 50000 Puffs Dual Flavors Disposable \nThe Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.\" \n\n[2] https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/ \"Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste \nDesigned for vapers who crave variety and control, this device offers up to 50000 puffs, making it a long-lasting companion for your vaping journey.\" \n\n[3] https://eu.okovape.com/fizzy-50k-puffs-50000-disposable-vape/ \"Fizzy 50k Puffs 50000 Twins 2 In 1 EU Disposable Vape New\nExtended Puff Count: With an impressive 50,000 puffs per device, this vape delivers a long-lasting experience, minimizing the need for frequent replacements.\" \n\n[4] https://vaping360.com/vape-products/fizzy-twins-50000/ \"Fizzy Twins 50000\nIt features a massive 50 mL dual-tank system (25 mL per flavor), providing up to 50000 puffs. The device is powered by an 850 mAh rechargeable battery and \" \n\n[5] https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOop4ymXaWi2wHin-VWOyTRadk3C6gQV3wkpaUO2NrNrVL2y0AxG7 \"EU Warehouse FIZZY TWINS 50000 Puffs Disposable \nBattery Capacity: 850mAh, Type-C Pod Capacity: 50ml Salt Nic: 2%/5% Puffs: Up to 50000 Flavor Change Adjustable Airflow Dual Tank Dual Power modes\" \n\n[6] https://coyvape.com/product/fizzy-twins-50000-disposable-vape/ \"FIZZY Twins 50000 Disposable Vape | 50K Puffs, Bright \nThe FIZZY Twins 50000 from CoyVape offers 50,000 puffs with dual 25ml tanks and an 850mAh battery. Switch instantly between two flavors with the LED display \" \n\n[7] https://shop.fizzyvape.com/ \"Fizzy Vape Official Shop - Feeling the Fizzy Moment\nPopular models include Fizzy Max III 60,000 Puffs, Fizzy Twins 50,000 Puffs, and Fizzy Nova Plus 40,000 Puffs. How Long Does Shipping Take?\" \n\n[8] https://fdvape.com/product/fizzy-twins-50000-50k-puffs-dual-flavors-disposable-vape-2-5-nicotine-12tastes-smart-led-display-factory-direct/ \"Fizzy Twins 50000 50k Puffs Dual Flavors Disposable \nFizzy Twins 50000 Puffs Disposable Vape offers up to 50,000 puffs with a massive 50mL dual-tank. Featuring dual mesh coils, it delivers smooth vapor and rich \" \n\n[9] https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale \"Fizzy Twins 50000 Puffs Dual Flavors Disposable \nThe Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.\" \n\n[10] https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/ \"Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste \n2-in-1 disposable vape devices featuring raspberry lemonade. Blue Razz Lemonade & Up to 50000 puffs liquid:50ml Battery:850 mAh Battery, Long \" \n\n[11] https://fizzyvape.eu/product/fizzy-twins-blue-razz-lemonade-triple-melon-50000-puffs-10pcs/ \"Fizzy Twins Blue Razz Lemonade & Triple Melon\nThis premium dual-flavor disposable vape combines the tangy zest of blue raspberry lemonade with the juicy sweetness of triple melon, delivering a smooth, \" \n\n[12] https://starsvape.com/product/blue-razz-lemonade-lemon-lime-vapsolo-twins-20000-puffs-20k/ \"Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 \nSo, whether you're a sailor or just someone who enjoys the open air, the Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 Puffs is the perfect companion.\" \n\n[13] https://getpop.co/geek-bar-b5000-blue-razz-lemonade/ \"Geek Bar B5000 Blue Razz Lemonade\nThe Geek Bar B5000 disposable vape offers up to 5000 puffs with a long-lasting 650mAh battery. Zesty lemonade infused with sweet blue raspberry creates a tangy \" \n\n[14] https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOopjsj6lwwJHd41uYeWtMFF51ogcXw1dpZs5WvO_Zo-hv7G-bc_4 \"EU Warehouse FIZZY TWINS 50000 Puffs Disposable \nCapacity: 50ml /5% Puffs: Up to 50000 Flavor Change. Blue Razz Lemonade &\" \n\n[15] https://mipod.com/products/blue-razz-lemonade-ut-50k?srsltid=AfmBOopP6n_D_5g2FKqinEsxIxTuuiYLNEkEjL0dUjjWZJl2AI2Aouue \"Blue Razz/Lemonade UT 50K\nBlue Razz/Lemonade UT 50K disposable vape. Strength: 50mg Puffs Count: 50,000 Eco, Turbo Mode up to 25,000 Battery: Sale price$17.99 Regular price$24.99\" \n\n[16] https://fdvape.com/product/bang-king-twins-50000-50k-puffs-dual-flavors-disposable-vape-pen-2-3-5-nicotine-12tastes-with-dual-mesh-vape-factory-direct/ \"Bang King Twins 50000 50K Puffs Dual Flavors \nBang King Twins 50K Puffs Disposable Vape is a dual-flavor device offering up to 50,000 puffs. With a massive 56mL e-liquid capacity, dual 1.0Ω mesh coils, and \" \n\n[17] https://vaping360.com/learn/how-to-fix-a-disposable-vape/ \"How to Fix Any Disposable Vape That Isn't Working\nIf a new disposable isn't hitting, it may be due to a faulty unit, a dead battery, leaked vape juice, or blocked airflow.\" \n\n[18] https://www.quora.com/The-disposable-vape-pen-I-purchased-a-day-ago-wont-work-It-has-juice-in-it-and-all-the-lights-are-flashing-at-appropriate-times-How-can-I-fix-it \"The disposable vape pen I purchased a day ago won't \nThe disposable vape pen I purchased a day ago won't work. It has juice in it and all the lights are flashing at appropriate times. How can I fix it?\" \n\n[19] https://www.ccell.com/blogs/why-a-disposable-vape-lights-up-but-no-smoke-comes-out \"Why A Disposable Vape Lights Up but No Smoke Comes Out\nIf the coil is defective, burnt out, or has been assembled incorrectly, then no vapor will be produced even when the device is turned on.\" \n\n[20] https://www.innokin.com/blog/vape-lighting-up-but-not-hitting \"Why Is My Vape Lighting Up but Not Hitting?\nThe good news is that when your vape isn't hitting, the problem usually stems from a configuration issue that's fairly easy to fix.\" \n\n[21] https://www.facebook.com/groups/ElectronicParts/posts/2583968155125837/ \"Disposable vape, just three components but what it bugs \nDisposable vape, just three components but what it bugs me how does it know when it's empty. Led flashes when no juice is left but how? What makes led flash?\" \n\n[22] https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes \"Why My Disposable Vape Not Working? Fixes & Tips\nIf the light stays solid during your inhale but no vapor comes out, the battery and sensor are working, but the connection to the coil is likely \" \n\n[23] https://www.vaporfi.com/blog/burnt-tastes-loud-pops-and-no-vapor-troubleshooting-your-vape/ \"Why Isn't My Vape Making Smoke or Firing?\nIf your vape isn't working after a refill and there is no smoke, there are two common problems. First of all, the battery may need to be charged and turned on.\" \n\n[24] https://pinkspotvapors.com/blog/vape-lighting-up-but-not-hitting/ \"Why Is My Vape Lighting Up But Not Hitting? Causes & Fixes\nOil residue or a slightly loose cartridge is usually all it takes to break the electrical contact and stop vapor production. Between the \" \n\n[25] https://metrobudnyc.com/disposable-vape-not-working-fix-guide/ \"Disposable Vape Not Working? Try These 5 Easy Fixes \nIf the light blinks but you get no vapor, the airway is likely clogged. Step 2: Clear a Clogged Mouthpiece. If you suspect a clog, you'll need to clear the \" \n\n[26] https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes \"Why My Disposable Vape Not Working? Fixes & Tips\nIf you get a burnt taste or no vapor at all, try gently tapping the device against your palm. This can help dislodge air bubbles and allow the e \" \n\n[27] https://vapeuk.co.uk/troubleshooting-common-vaping-problems \"A Guide to Troubleshooting the Most Common Vaping \nCheck the mAh rating of your device. Make sure your vape kit hasn't been left in a hot place causing the device to overheat and the e-liquid to thin. coil \" \n\n[28] https://store.vaporesso.com/blogs/news/vape-troubleshooting-guide-fix-problemsvape?srsltid=AfmBOopzMnyMM9bsnzstrepglGVSOvhE-ICYZF8EuJ9HFJPtkVE7f7Tr \"Guide to Fix Vape Problems Fast for Battery, Coil, and Vapor\nSay goodbye to vape troubles. Fix charging errors, leaks, and weak vapor with easy at-home solutions for a smooth, flavorful experience.\" \n\n[29] https://camouflet.com/blogs/vaporizer-guide/vaporizer-not-working-troubleshooting-guide?srsltid=AfmBOopsNwKXeDN4hEnrl1mg6IsvpOnAqSU9GH8qEJCc_gorr8esrzQr \"Vaporizer Not Working? Fix It Fast (2024 Guide)\nThe diagnostic is simple: draw on the cart without firing the battery. If you get airflow, the air tube is clear and the ceramic is likely \" \n```"
+        }
+       },
+       "role": "function",
+       "name": "web_search",
+       "function_id": "round_0_call_6ca0e5d277f04aa1aed89b4a",
+       "function_call": {
+        "name": "web_search",
+        "arguments": "{\"queries\": \n[\"Fizzy Twins 5000 puffs vape\", \"Twins vape 5000 puffs Blue Razz Lemonade\", \"disposable vape shows battery but no vapor\", \"vape device not producing vapor troubleshooting\"]\n\n}"
+       },
+       "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+       "usage": {}
+      },
+      {
+       "content": "",
+       "phase": "thinking_summary",
+       "status": "finished",
+       "extra": {
+        "summary_title": {
+         "content": [
+          "Diagnosing the issue with the device's power and vapor output."
+         ]
+        },
+        "summary_thought": {
+         "content": [
+          "I am assessing potential causes based on the symptoms and known patterns of similar devices.  \nThe battery level appears sufficient, so I'm considering blockages, coil issues, or connectivity problems.  \nI'm focusing on practical steps to restore functionality while ensuring safety and accuracy."
+         ]
+        }
+       },
+       "role": "assistant",
+       "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+       "usage": {
+        "input_tokens": 6473,
+        "output_tokens": 270,
+        "characters": 0,
+        "input_tokens_details": {
+         "image_tokens": 2502,
+         "text_tokens": 3971
+        },
+        "prompt_tokens_details": {},
+        "total_tokens": 6743,
+        "output_tokens_details": {
+         "reasoning_tokens": 263,
+         "text_tokens": 7
+        },
+        "image_tokens": 2502
+       },
+       "timestamp": 1784053803
+      },
+      {
+       "content": "## Información del Dispositivo - Fizzy Twins\n\nTu dispositivo es un **Fizzy Twins 50000 Puffs** (aunque en la imagen se ve \"5000\", probablemente sea la versión de 50,000 caladas):\n\n### Especificaciones:\n- **Caladas**: Hasta 50,000 puffs\n- **Sabores**: Blue Razz Lemonade & Triple Melon (doble sabor)\n- **Capacidad**: 50ml de e-liquid (25ml por sabor)\n- **Batería**: 850mAh recargable\n- **Carga**: Puerto Type-C\n- **Nicotina**: 2% o 5%\n- **Características**: \n  - Doble tanque con coils mesh duales\n  - Pantalla LED/LCD\n  - Flujo de aire ajustable\n  - Cambio de sabor instantáneo [[1]][[4]][[5]]\n\n---\n\n## 🔧 SOLUCIÓN AL PROBLEMA - Muestra 80% pero no sale vapor\n\nCuando el dispositivo muestra batería pero **no produce vapor**, las causas comunes son:\n\n### 1. **Vía de aire obstruida**\n- La luz se enciende pero no sale vapor porque el aire no circula [[25]]\n- **Solución**: Limpia la boquilla y verifica que no esté tapada\n\n### 2. **Problema con el coil (resistencia)**\n- El coil puede estar defectuoso, quemado o mal conectado [[19]]\n- Si la luz se mantiene sólida pero no sale vapor, la conexión con el coil probablemente falló [[22]]\n- **Solución**: Golpea suavemente el dispositivo contra tu palma para desalojar burbujas de aire o residuos [[26]]\n\n### 3. **Burbujas de aire en el líquido**\n- Las burbujas pueden bloquear el flujo del e-liquid al coil\n- **Solución**: \n  - Golpea suavemente el dispositivo\n  - Déjalo reposar 5-10 minutos en posición vertical\n\n### 4. **Mala conexión**\n- Verifica que la base esté bien conectada\n- A veces el residuo de líquido rompe el contacto eléctrico [[24]]\n\n### 5. **Unidad defectuosa**\n- Si es nuevo y nunca funcionó, puede ser una unidad faulty [[17]]\n- **Solución**: Contacta al vendedor para reemplazo\n\n---\n\n## ✅ Pasos a seguir:\n\n1. **Verifica el flujo de aire** - Inhala sin activar el dispositivo para ver si hay airflow\n2. **Limpia la boquilla** - Usa un palillo o algo fino para destapar\n3. **Golpea suavemente** - Contra tu palma para mover el líquido\n4. **Déjalo reposar** - 10 minutos vertical\n5. **Cárgalo completamente** - Aunque marque 80%, conéctalo al cargador Type-C\n6. **Verifica ambos sabores** - Intenta cambiar entre Blue Razz Lemonade y Triple Melon\n\nSi después de estos pasos **sigue sin funcionar**, es probable que sea un defecto de fábrica y necesites un reemplazo.",
+       "phase": "answer",
+       "status": "finished",
+       "extra": null,
+       "role": "assistant",
+       "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+       "usage": {
+        "input_tokens": 6473,
+        "output_tokens": 983,
+        "characters": 0,
+        "input_tokens_details": {
+         "image_tokens": 2502,
+         "text_tokens": 3971
+        },
+        "prompt_tokens_details": {},
+        "total_tokens": 7456,
+        "output_tokens_details": {
+         "reasoning_tokens": 263,
+         "text_tokens": 720
+        },
+        "image_tokens": 2502
+       },
+       "timestamp": 1784053816
+      }
+     ],
+     "is_stop": false,
+     "edited": false,
+     "error": null,
+     "meta": {},
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      },
+      "endTime": 1784053816.6197138
+     },
+     "feedbackId": null,
+     "turn_id": null,
+     "annotation": null,
+     "done": true,
+     "info": null,
+     "timestamp": 1784053780
+    },
+    "87112595-1e3a-49e5-a2ec-bbf0605fccbe": {
+     "id": "87112595-1e3a-49e5-a2ec-bbf0605fccbe",
+     "role": "user",
+     "content": "Creo que cayo por momento en vaso de coca cola pero se saco de seguida y la pantalla funciona y el otro lado tbm",
+     "models": [
+      "qwen3.7-plus"
+     ],
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "edited": false,
+     "error": null,
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      }
+     },
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "parentId": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+     "turn_id": null,
+     "childrenIds": [
+      "ba37a829-7997-4bca-a19c-1abe7ed37fe5"
+     ],
+     "files": [],
+     "timestamp": 1784053882
+    },
+    "ba37a829-7997-4bca-a19c-1abe7ed37fe5": {
+     "role": "assistant",
+     "content": "",
+     "reasoning_content": null,
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "model": "qwen3.7-plus",
+     "modelName": "Qwen3.7-Plus",
+     "modelIdx": 0,
+     "id": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+     "parentId": "87112595-1e3a-49e5-a2ec-bbf0605fccbe",
+     "childrenIds": [],
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "content_list": [
+      {
+       "content": "",
+       "phase": "thinking_summary",
+       "status": "finished",
+       "extra": {
+        "summary_title": {
+         "content": [
+          "Assessing the potential impact of liquid exposure on device functionality.",
+          "Evaluar el daño causado por el contacto con Coca-Cola en el dispositivo."
+         ]
+        },
+        "summary_thought": {
+         "content": [
+          "The immediate removal from the liquid suggests a reduced risk of internal damage.  \nFunctional display and other components indicate that critical systems remain intact.  \nNonetheless, residual moisture or chemical residue may pose latent risks over time.",
+          "La exposición breve pero intensa a un líquido azucarado, conductivo y corrosivo ha afectado críticamente una sección del dispositivo.  \nAunque la pantalla y el lado funcional operan correctamente, el fallo en la producción de vapor en un lado sugiere daño interno por corrosión o cortocircuito.  \nMi análisis se centra en identificar posibles puntos de deterioro eléctrico y químico para recomendar pasos precisos de recuperación."
+         ]
+        }
+       },
+       "role": "assistant",
+       "response_id": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+       "usage": {
+        "input_tokens": 3294,
+        "output_tokens": 194,
+        "characters": 0,
+        "input_tokens_details": {
+         "image_tokens": 2502,
+         "text_tokens": 792
+        },
+        "prompt_tokens_details": {
+         "cached_tokens": 0
+        },
+        "total_tokens": 3488,
+        "output_tokens_details": {
+         "reasoning_tokens": 186,
+         "text_tokens": 8
+        },
+        "image_tokens": 2502
+       },
+       "timestamp": 1784053891
+      },
+      {
+       "content": "## ⚠️ URGENTE - Contacto con Coca-Cola\n\nLa Coca-Cola es **muy problemática** para dispositivos electrónicos por tres razones:\n- **Conductiva**: Puede causar cortocircuitos\n- **Pegajosa**: El azúcar obstruye mecanismos al secarse\n- **Corrosiva**: El ácido fosfórico daña contactos metálicos\n\n---\n\n## 🚨 ACCIÓN INMEDIATA - Limpieza de Emergencia\n\n### Paso 1: Apagar y Desconectar\n- Si está encendido, apágalo inmediatamente\n- No lo cargues hasta limpiarlo\n\n### Paso 2: Limpieza Exterior\n1. **Alcohol isopropílico (99% ideal)** - Es lo mejor para electrónica\n2. Usa un paño de microfibra humedecido (no empapado)\n3. Limpia toda la superficie, especialmente:\n   - La boquilla\n   - Las ranuras de aire\n   - Los bordes donde se unen las piezas\n   - El puerto de carga Type-C\n\n### Paso 3: Limpieza de la Boquilla Afectada\n1. Usa un hisopo (cotton swab) con alcohol\n2. Limpia el interior de la boquilla que no funciona\n3. Verifica que no haya residuos pegajosos bloqueando el airflow\n\n### Paso 4: Secado Completo\n- Deja el dispositivo en posición vertical\n- Espera **mínimo 2-4 horas** antes de usarlo\n- Mejor aún: déjalo toda la noche\n\n---\n\n## 🔍 Por qué un lado funciona y el otro no\n\nEl líquido probablemente entró por:\n- **La boquilla del lado afectado**\n- **Las ranuras de ventilación**\n- **Los contactos entre las dos mitades**\n\nEl azúcar de la Coca-Cola al secarse:\n- Bloquea el flujo de aire\n- Aísla los contactos eléctricos del coil\n- Impide que el sensor de succión detecte la inhalación\n\n---\n\n## ✅ Después de la Limpieza\n\n1. **Prueba ambos sabores** alternando entre ellos\n2. **Verifica el airflow** - Deberías sentir resistencia al inhalar\n3. **Si sigue sin funcionar** el lado afectado:\n   - El coil puede estar dañado por corrosión\n   - Los contactos internos pueden estar oxidados\n   - Puede necesitar reemplazo\n\n---\n\n## ⚠️ Advertencia Importante\n\nSi el dispositivo:\n- Se calienta demasiado\n- Huele a quemado\n- La pantalla muestra errores\n- La batería se drena rápido\n\n**Deja de usarlo inmediatamente** - Riesgo de cortocircuito o daño a la batería.\n\nLa limpieza con alcohol isopropílico es tu mejor opción ahora. ¿Tienes alcohol disponible?",
+       "phase": "answer",
+       "status": "finished",
+       "extra": null,
+       "role": "assistant",
+       "response_id": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+       "usage": {
+        "input_tokens": 3294,
+        "output_tokens": 798,
+        "characters": 0,
+        "input_tokens_details": {
+         "image_tokens": 2502,
+         "text_tokens": 792
+        },
+        "prompt_tokens_details": {
+         "cached_tokens": 0
+        },
+        "total_tokens": 4092,
+        "output_tokens_details": {
+         "reasoning_tokens": 186,
+         "text_tokens": 612
+        },
+        "image_tokens": 2502
+       },
+       "timestamp": 1784053902
+      }
+     ],
+     "is_stop": false,
+     "edited": false,
+     "error": null,
+     "meta": {},
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      },
+      "endTime": 1784053902.7127433
+     },
+     "feedbackId": null,
+     "turn_id": null,
+     "annotation": null,
+     "done": true,
+     "info": null,
+     "timestamp": 1784053882
+    }
+   },
+   "currentId": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+   "currentResponseIds": [
+    "ba37a829-7997-4bca-a19c-1abe7ed37fe5"
+   ],
+   "pagination": null
+  },
+  "models": [
+   "qwen3.7-plus"
+  ],
+  "messages": [
+   {
+    "id": "e83f9de0-df6e-49cb-97ab-afdaf1bf8e77",
+    "role": "user",
+    "content": "Maxima informacion. Un lado pone 80% y no sale nads",
+    "models": [
+     "qwen3.7-plus"
+    ],
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "edited": false,
+    "error": null,
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     }
+    },
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "parentId": null,
+    "turn_id": null,
+    "childrenIds": [
+     "4e449b03-a8e2-4bbb-ab5d-c51ae7438590"
+    ],
+    "files": [
+     {
+      "id": "c45e10c2-8106-4ab7-89e9-b53a190dfe57",
+      "name": "17840537414068821025585300857518.jpg",
+      "file_type": "image/jpeg",
+      "type": "image",
+      "file_class": "vision",
+      "size": 1728923,
+      "url": "https://cdn.qwenlm.ai/c2739080-ce39-4d15-85a6-bd1d676c2b74/c45e10c2-8106-4ab7-89e9-b53a190dfe57_17840537414068821025585300857518.jpg?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiYzI3MzkwODAtY2UzOS00ZDE1LTg1YTYtYmQxZDY3NmMyYjc0IiwicmVzb3VyY2VfaWQiOiJjNDVlMTBjMi04MTA2LTRhYjctODllOS1iNTNhMTkwZGZlNTciLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.5FZ-g2pF7Wk8u9ajWUzOBEmb8sycB6kL4wmbKxZkLcw",
+      "file": {
+       "created_at": 1784053757312,
+       "data": {},
+       "filename": "17840537414068821025585300857518.jpg",
+       "hash": null,
+       "id": "c45e10c2-8106-4ab7-89e9-b53a190dfe57",
+       "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+       "meta": {
+        "name": "17840537414068821025585300857518.jpg",
+        "size": 1728923,
+        "content_type": "image/jpeg"
+       },
+       "update_at": 1784053757312,
+       "lastModified": 1784053754090,
+       "name": "17840537414068821025585300857518.jpg",
+       "webkitRelativePath": "",
+       "size": 1728923,
+       "type": "image/jpeg"
+      },
+      "collection_name": "",
+      "progress": 0,
+      "status": "uploaded",
+      "greenNet": "success",
+      "error": "",
+      "itemId": "5da7db05-0baf-4cf8-9f98-9dbd5ed1dbc2",
+      "showType": "image",
+      "uploadTaskId": "6b9a991f-88ca-4e8a-9311-1c79053df6d0"
+     }
+    ],
+    "timestamp": 1784053780
+   },
+   {
+    "role": "assistant",
+    "content": "",
+    "reasoning_content": null,
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "model": "qwen3.7-plus",
+    "modelName": "Qwen3.7-Plus",
+    "modelIdx": 0,
+    "id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+    "parentId": "e83f9de0-df6e-49cb-97ab-afdaf1bf8e77",
+    "childrenIds": [
+     "87112595-1e3a-49e5-a2ec-bbf0605fccbe"
+    ],
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "content_list": [
+     {
+      "content": "",
+      "phase": "thinking_summary",
+      "status": "finished",
+      "extra": {
+       "summary_title": {
+        "content": [
+         "Observing the visual details of the vaping device presented.",
+         "Investigating the device's behavior based on user description."
+        ]
+       },
+       "summary_thought": {
+        "content": [
+         "I am analyzing the visible text and design elements to understand the product's identity and purpose.  \nThe branding suggests a flavor combination with tropical and fruity notes, likely targeting a younger demographic.  \nI am forming a contextual interpretation based on the imagery and textual cues without external references.",
+         "I am analyzing the discrepancy between the displayed battery level and the absence of vapor production.  \nThe device likely has a functional battery indicator but may be experiencing a malfunction in its heating or delivery system.  \nI am considering possible causes such as blockage, power regulation issues, or internal component failure."
+        ]
+       }
+      },
+      "role": "assistant",
+      "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+      "usage": {
+       "input_tokens": 6473,
+       "output_tokens": 193,
+       "characters": 0,
+       "input_tokens_details": {
+        "image_tokens": 2502,
+        "text_tokens": 3971
+       },
+       "prompt_tokens_details": {},
+       "total_tokens": 6666,
+       "output_tokens_details": {
+        "reasoning_tokens": 192,
+        "text_tokens": 1
+       },
+       "image_tokens": 2502
+      },
+      "timestamp": 1784053788
+     },
+     {
+      "content": "",
+      "phase": "web_search",
+      "status": "finished",
+      "extra": {
+       "display_position": "think",
+       "web_search_info": [
+        {
+         "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+         "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+         "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+         "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+         "snippet": "Designed for vapers who crave variety and control, this device offers up to 50000 puffs, making it a long-lasting companion for your vaping journey.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://eu.okovape.com/fizzy-50k-puffs-50000-disposable-vape/",
+         "title": "Fizzy 50k Puffs 50000 Twins 2 In 1 EU Disposable Vape New",
+         "snippet": "Extended Puff Count: With an impressive 50,000 puffs per device, this vape delivers a long-lasting experience, minimizing the need for frequent replacements.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://vaping360.com/vape-products/fizzy-twins-50000/",
+         "title": "Fizzy Twins 50000",
+         "snippet": "It features a massive 50 mL dual-tank system (25 mL per flavor), providing up to 50000 puffs. The device is powered by an 850 mAh rechargeable battery and ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOop4ymXaWi2wHin-VWOyTRadk3C6gQV3wkpaUO2NrNrVL2y0AxG7",
+         "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+         "snippet": "Battery Capacity: 850mAh, Type-C Pod Capacity: 50ml Salt Nic: 2%/5% Puffs: Up to 50000 Flavor Change Adjustable Airflow Dual Tank Dual Power modes",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://coyvape.com/product/fizzy-twins-50000-disposable-vape/",
+         "title": "FIZZY Twins 50000 Disposable Vape | 50K Puffs, Bright ",
+         "snippet": "The FIZZY Twins 50000 from CoyVape offers 50,000 puffs with dual 25ml tanks and an 850mAh battery. Switch instantly between two flavors with the LED display ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://shop.fizzyvape.com/",
+         "title": "Fizzy Vape Official Shop - Feeling the Fizzy Moment",
+         "snippet": "Popular models include Fizzy Max III 60,000 Puffs, Fizzy Twins 50,000 Puffs, and Fizzy Nova Plus 40,000 Puffs. How Long Does Shipping Take?",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://fdvape.com/product/fizzy-twins-50000-50k-puffs-dual-flavors-disposable-vape-2-5-nicotine-12tastes-smart-led-display-factory-direct/",
+         "title": "Fizzy Twins 50000 50k Puffs Dual Flavors Disposable ",
+         "snippet": "Fizzy Twins 50000 Puffs Disposable Vape offers up to 50,000 puffs with a massive 50mL dual-tank. Featuring dual mesh coils, it delivers smooth vapor and rich ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+         "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+         "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+         "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+         "snippet": "2-in-1 disposable vape devices featuring raspberry lemonade. Blue Razz Lemonade & Up to 50000 puffs liquid:50ml Battery:850 mAh Battery, Long ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://fizzyvape.eu/product/fizzy-twins-blue-razz-lemonade-triple-melon-50000-puffs-10pcs/",
+         "title": "Fizzy Twins Blue Razz Lemonade & Triple Melon",
+         "snippet": "This premium dual-flavor disposable vape combines the tangy zest of blue raspberry lemonade with the juicy sweetness of triple melon, delivering a smooth, ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://starsvape.com/product/blue-razz-lemonade-lemon-lime-vapsolo-twins-20000-puffs-20k/",
+         "title": "Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 ",
+         "snippet": "So, whether you're a sailor or just someone who enjoys the open air, the Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 Puffs is the perfect companion.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://getpop.co/geek-bar-b5000-blue-razz-lemonade/",
+         "title": "Geek Bar B5000 Blue Razz Lemonade",
+         "snippet": "The Geek Bar B5000 disposable vape offers up to 5000 puffs with a long-lasting 650mAh battery. Zesty lemonade infused with sweet blue raspberry creates a tangy ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOopjsj6lwwJHd41uYeWtMFF51ogcXw1dpZs5WvO_Zo-hv7G-bc_4",
+         "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+         "snippet": "Capacity: 50ml /5% Puffs: Up to 50000 Flavor Change. Blue Razz Lemonade &",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://mipod.com/products/blue-razz-lemonade-ut-50k?srsltid=AfmBOopP6n_D_5g2FKqinEsxIxTuuiYLNEkEjL0dUjjWZJl2AI2Aouue",
+         "title": "Blue Razz/Lemonade UT 50K",
+         "snippet": "Blue Razz/Lemonade UT 50K disposable vape. Strength: 50mg Puffs Count: 50,000 Eco, Turbo Mode up to 25,000 Battery: Sale price$17.99 Regular price$24.99",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://fdvape.com/product/bang-king-twins-50000-50k-puffs-dual-flavors-disposable-vape-pen-2-3-5-nicotine-12tastes-with-dual-mesh-vape-factory-direct/",
+         "title": "Bang King Twins 50000 50K Puffs Dual Flavors ",
+         "snippet": "Bang King Twins 50K Puffs Disposable Vape is a dual-flavor device offering up to 50,000 puffs. With a massive 56mL e-liquid capacity, dual 1.0Ω mesh coils, and ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://vaping360.com/learn/how-to-fix-a-disposable-vape/",
+         "title": "How to Fix Any Disposable Vape That Isn't Working",
+         "snippet": "If a new disposable isn't hitting, it may be due to a faulty unit, a dead battery, leaked vape juice, or blocked airflow.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.quora.com/The-disposable-vape-pen-I-purchased-a-day-ago-wont-work-It-has-juice-in-it-and-all-the-lights-are-flashing-at-appropriate-times-How-can-I-fix-it",
+         "title": "The disposable vape pen I purchased a day ago won't ",
+         "snippet": "The disposable vape pen I purchased a day ago won't work. It has juice in it and all the lights are flashing at appropriate times. How can I fix it?",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.ccell.com/blogs/why-a-disposable-vape-lights-up-but-no-smoke-comes-out",
+         "title": "Why A Disposable Vape Lights Up but No Smoke Comes Out",
+         "snippet": "If the coil is defective, burnt out, or has been assembled incorrectly, then no vapor will be produced even when the device is turned on.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.innokin.com/blog/vape-lighting-up-but-not-hitting",
+         "title": "Why Is My Vape Lighting Up but Not Hitting?",
+         "snippet": "The good news is that when your vape isn't hitting, the problem usually stems from a configuration issue that's fairly easy to fix.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.facebook.com/groups/ElectronicParts/posts/2583968155125837/",
+         "title": "Disposable vape, just three components but what it bugs ",
+         "snippet": "Disposable vape, just three components but what it bugs me how does it know when it's empty. Led flashes when no juice is left but how? What makes led flash?",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+         "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+         "snippet": "If the light stays solid during your inhale but no vapor comes out, the battery and sensor are working, but the connection to the coil is likely ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.vaporfi.com/blog/burnt-tastes-loud-pops-and-no-vapor-troubleshooting-your-vape/",
+         "title": "Why Isn't My Vape Making Smoke or Firing?",
+         "snippet": "If your vape isn't working after a refill and there is no smoke, there are two common problems. First of all, the battery may need to be charged and turned on.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://pinkspotvapors.com/blog/vape-lighting-up-but-not-hitting/",
+         "title": "Why Is My Vape Lighting Up But Not Hitting? Causes & Fixes",
+         "snippet": "Oil residue or a slightly loose cartridge is usually all it takes to break the electrical contact and stop vapor production. Between the ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://metrobudnyc.com/disposable-vape-not-working-fix-guide/",
+         "title": "Disposable Vape Not Working? Try These 5 Easy Fixes ",
+         "snippet": "If the light blinks but you get no vapor, the airway is likely clogged. Step 2: Clear a Clogged Mouthpiece. If you suspect a clog, you'll need to clear the ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+         "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+         "snippet": "If you get a burnt taste or no vapor at all, try gently tapping the device against your palm. This can help dislodge air bubbles and allow the e ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://vapeuk.co.uk/troubleshooting-common-vaping-problems",
+         "title": "A Guide to Troubleshooting the Most Common Vaping ",
+         "snippet": "Check the mAh rating of your device. Make sure your vape kit hasn't been left in a hot place causing the device to overheat and the e-liquid to thin. coil ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://store.vaporesso.com/blogs/news/vape-troubleshooting-guide-fix-problemsvape?srsltid=AfmBOopzMnyMM9bsnzstrepglGVSOvhE-ICYZF8EuJ9HFJPtkVE7f7Tr",
+         "title": "Guide to Fix Vape Problems Fast for Battery, Coil, and Vapor",
+         "snippet": "Say goodbye to vape troubles. Fix charging errors, leaks, and weak vapor with easy at-home solutions for a smooth, flavorful experience.",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        },
+        {
+         "url": "https://camouflet.com/blogs/vaporizer-guide/vaporizer-not-working-troubleshooting-guide?srsltid=AfmBOopsNwKXeDN4hEnrl1mg6IsvpOnAqSU9GH8qEJCc_gorr8esrzQr",
+         "title": "Vaporizer Not Working? Fix It Fast (2024 Guide)",
+         "snippet": "The diagnostic is simple: draw on the cart without firing the battery. If you get airflow, the air tube is clear and the ceramic is likely ",
+         "hostname": "",
+         "hostlogo": "",
+         "date": ""
+        }
+       ],
+       "tool_result": {
+        "docs": [
+         {
+          "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+          "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+          "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+          "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+          "snippet": "Designed for vapers who crave variety and control, this device offers up to 50000 puffs, making it a long-lasting companion for your vaping journey.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://eu.okovape.com/fizzy-50k-puffs-50000-disposable-vape/",
+          "title": "Fizzy 50k Puffs 50000 Twins 2 In 1 EU Disposable Vape New",
+          "snippet": "Extended Puff Count: With an impressive 50,000 puffs per device, this vape delivers a long-lasting experience, minimizing the need for frequent replacements.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vaping360.com/vape-products/fizzy-twins-50000/",
+          "title": "Fizzy Twins 50000",
+          "snippet": "It features a massive 50 mL dual-tank system (25 mL per flavor), providing up to 50000 puffs. The device is powered by an 850 mAh rechargeable battery and ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOop4ymXaWi2wHin-VWOyTRadk3C6gQV3wkpaUO2NrNrVL2y0AxG7",
+          "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+          "snippet": "Battery Capacity: 850mAh, Type-C Pod Capacity: 50ml Salt Nic: 2%/5% Puffs: Up to 50000 Flavor Change Adjustable Airflow Dual Tank Dual Power modes",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://coyvape.com/product/fizzy-twins-50000-disposable-vape/",
+          "title": "FIZZY Twins 50000 Disposable Vape | 50K Puffs, Bright ",
+          "snippet": "The FIZZY Twins 50000 from CoyVape offers 50,000 puffs with dual 25ml tanks and an 850mAh battery. Switch instantly between two flavors with the LED display ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://shop.fizzyvape.com/",
+          "title": "Fizzy Vape Official Shop - Feeling the Fizzy Moment",
+          "snippet": "Popular models include Fizzy Max III 60,000 Puffs, Fizzy Twins 50,000 Puffs, and Fizzy Nova Plus 40,000 Puffs. How Long Does Shipping Take?",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://fdvape.com/product/fizzy-twins-50000-50k-puffs-dual-flavors-disposable-vape-2-5-nicotine-12tastes-smart-led-display-factory-direct/",
+          "title": "Fizzy Twins 50000 50k Puffs Dual Flavors Disposable ",
+          "snippet": "Fizzy Twins 50000 Puffs Disposable Vape offers up to 50,000 puffs with a massive 50mL dual-tank. Featuring dual mesh coils, it delivers smooth vapor and rich ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale",
+          "title": "Fizzy Twins 50000 Puffs Dual Flavors Disposable ",
+          "snippet": "The Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/",
+          "title": "Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste ",
+          "snippet": "2-in-1 disposable vape devices featuring raspberry lemonade. Blue Razz Lemonade & Up to 50000 puffs liquid:50ml Battery:850 mAh Battery, Long ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://fizzyvape.eu/product/fizzy-twins-blue-razz-lemonade-triple-melon-50000-puffs-10pcs/",
+          "title": "Fizzy Twins Blue Razz Lemonade & Triple Melon",
+          "snippet": "This premium dual-flavor disposable vape combines the tangy zest of blue raspberry lemonade with the juicy sweetness of triple melon, delivering a smooth, ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://starsvape.com/product/blue-razz-lemonade-lemon-lime-vapsolo-twins-20000-puffs-20k/",
+          "title": "Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 ",
+          "snippet": "So, whether you're a sailor or just someone who enjoys the open air, the Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 Puffs is the perfect companion.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://getpop.co/geek-bar-b5000-blue-razz-lemonade/",
+          "title": "Geek Bar B5000 Blue Razz Lemonade",
+          "snippet": "The Geek Bar B5000 disposable vape offers up to 5000 puffs with a long-lasting 650mAh battery. Zesty lemonade infused with sweet blue raspberry creates a tangy ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOopjsj6lwwJHd41uYeWtMFF51ogcXw1dpZs5WvO_Zo-hv7G-bc_4",
+          "title": "EU Warehouse FIZZY TWINS 50000 Puffs Disposable ",
+          "snippet": "Capacity: 50ml /5% Puffs: Up to 50000 Flavor Change. Blue Razz Lemonade &",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://mipod.com/products/blue-razz-lemonade-ut-50k?srsltid=AfmBOopP6n_D_5g2FKqinEsxIxTuuiYLNEkEjL0dUjjWZJl2AI2Aouue",
+          "title": "Blue Razz/Lemonade UT 50K",
+          "snippet": "Blue Razz/Lemonade UT 50K disposable vape. Strength: 50mg Puffs Count: 50,000 Eco, Turbo Mode up to 25,000 Battery: Sale price$17.99 Regular price$24.99",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://fdvape.com/product/bang-king-twins-50000-50k-puffs-dual-flavors-disposable-vape-pen-2-3-5-nicotine-12tastes-with-dual-mesh-vape-factory-direct/",
+          "title": "Bang King Twins 50000 50K Puffs Dual Flavors ",
+          "snippet": "Bang King Twins 50K Puffs Disposable Vape is a dual-flavor device offering up to 50,000 puffs. With a massive 56mL e-liquid capacity, dual 1.0Ω mesh coils, and ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vaping360.com/learn/how-to-fix-a-disposable-vape/",
+          "title": "How to Fix Any Disposable Vape That Isn't Working",
+          "snippet": "If a new disposable isn't hitting, it may be due to a faulty unit, a dead battery, leaked vape juice, or blocked airflow.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.quora.com/The-disposable-vape-pen-I-purchased-a-day-ago-wont-work-It-has-juice-in-it-and-all-the-lights-are-flashing-at-appropriate-times-How-can-I-fix-it",
+          "title": "The disposable vape pen I purchased a day ago won't ",
+          "snippet": "The disposable vape pen I purchased a day ago won't work. It has juice in it and all the lights are flashing at appropriate times. How can I fix it?",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.ccell.com/blogs/why-a-disposable-vape-lights-up-but-no-smoke-comes-out",
+          "title": "Why A Disposable Vape Lights Up but No Smoke Comes Out",
+          "snippet": "If the coil is defective, burnt out, or has been assembled incorrectly, then no vapor will be produced even when the device is turned on.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.innokin.com/blog/vape-lighting-up-but-not-hitting",
+          "title": "Why Is My Vape Lighting Up but Not Hitting?",
+          "snippet": "The good news is that when your vape isn't hitting, the problem usually stems from a configuration issue that's fairly easy to fix.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.facebook.com/groups/ElectronicParts/posts/2583968155125837/",
+          "title": "Disposable vape, just three components but what it bugs ",
+          "snippet": "Disposable vape, just three components but what it bugs me how does it know when it's empty. Led flashes when no juice is left but how? What makes led flash?",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+          "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+          "snippet": "If the light stays solid during your inhale but no vapor comes out, the battery and sensor are working, but the connection to the coil is likely ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vaporfi.com/blog/burnt-tastes-loud-pops-and-no-vapor-troubleshooting-your-vape/",
+          "title": "Why Isn't My Vape Making Smoke or Firing?",
+          "snippet": "If your vape isn't working after a refill and there is no smoke, there are two common problems. First of all, the battery may need to be charged and turned on.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://pinkspotvapors.com/blog/vape-lighting-up-but-not-hitting/",
+          "title": "Why Is My Vape Lighting Up But Not Hitting? Causes & Fixes",
+          "snippet": "Oil residue or a slightly loose cartridge is usually all it takes to break the electrical contact and stop vapor production. Between the ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://metrobudnyc.com/disposable-vape-not-working-fix-guide/",
+          "title": "Disposable Vape Not Working? Try These 5 Easy Fixes ",
+          "snippet": "If the light blinks but you get no vapor, the airway is likely clogged. Step 2: Clear a Clogged Mouthpiece. If you suspect a clog, you'll need to clear the ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes",
+          "title": "Why My Disposable Vape Not Working? Fixes & Tips",
+          "snippet": "If you get a burnt taste or no vapor at all, try gently tapping the device against your palm. This can help dislodge air bubbles and allow the e ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://vapeuk.co.uk/troubleshooting-common-vaping-problems",
+          "title": "A Guide to Troubleshooting the Most Common Vaping ",
+          "snippet": "Check the mAh rating of your device. Make sure your vape kit hasn't been left in a hot place causing the device to overheat and the e-liquid to thin. coil ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://store.vaporesso.com/blogs/news/vape-troubleshooting-guide-fix-problemsvape?srsltid=AfmBOopzMnyMM9bsnzstrepglGVSOvhE-ICYZF8EuJ9HFJPtkVE7f7Tr",
+          "title": "Guide to Fix Vape Problems Fast for Battery, Coil, and Vapor",
+          "snippet": "Say goodbye to vape troubles. Fix charging errors, leaks, and weak vapor with easy at-home solutions for a smooth, flavorful experience.",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         },
+         {
+          "url": "https://camouflet.com/blogs/vaporizer-guide/vaporizer-not-working-troubleshooting-guide?srsltid=AfmBOopsNwKXeDN4hEnrl1mg6IsvpOnAqSU9GH8qEJCc_gorr8esrzQr",
+          "title": "Vaporizer Not Working? Fix It Fast (2024 Guide)",
+          "snippet": "The diagnostic is simple: draw on the cart without firing the battery. If you get airflow, the air tube is clear and the ceramic is likely ",
+          "hostname": "",
+          "hostlogo": "",
+          "date": ""
+         }
+        ],
+        "used_id": 30,
+        "tool_call_metrics": {
+         "success": [
+          1,
+          1,
+          1,
+          1
+         ]
+        },
+        "tool_observation": "```\n[1] https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale \"Fizzy Twins 50000 Puffs Dual Flavors Disposable \nThe Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.\" \n\n[2] https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/ \"Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste \nDesigned for vapers who crave variety and control, this device offers up to 50000 puffs, making it a long-lasting companion for your vaping journey.\" \n\n[3] https://eu.okovape.com/fizzy-50k-puffs-50000-disposable-vape/ \"Fizzy 50k Puffs 50000 Twins 2 In 1 EU Disposable Vape New\nExtended Puff Count: With an impressive 50,000 puffs per device, this vape delivers a long-lasting experience, minimizing the need for frequent replacements.\" \n\n[4] https://vaping360.com/vape-products/fizzy-twins-50000/ \"Fizzy Twins 50000\nIt features a massive 50 mL dual-tank system (25 mL per flavor), providing up to 50000 puffs. The device is powered by an 850 mAh rechargeable battery and \" \n\n[5] https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOop4ymXaWi2wHin-VWOyTRadk3C6gQV3wkpaUO2NrNrVL2y0AxG7 \"EU Warehouse FIZZY TWINS 50000 Puffs Disposable \nBattery Capacity: 850mAh, Type-C Pod Capacity: 50ml Salt Nic: 2%/5% Puffs: Up to 50000 Flavor Change Adjustable Airflow Dual Tank Dual Power modes\" \n\n[6] https://coyvape.com/product/fizzy-twins-50000-disposable-vape/ \"FIZZY Twins 50000 Disposable Vape | 50K Puffs, Bright \nThe FIZZY Twins 50000 from CoyVape offers 50,000 puffs with dual 25ml tanks and an 850mAh battery. Switch instantly between two flavors with the LED display \" \n\n[7] https://shop.fizzyvape.com/ \"Fizzy Vape Official Shop - Feeling the Fizzy Moment\nPopular models include Fizzy Max III 60,000 Puffs, Fizzy Twins 50,000 Puffs, and Fizzy Nova Plus 40,000 Puffs. How Long Does Shipping Take?\" \n\n[8] https://fdvape.com/product/fizzy-twins-50000-50k-puffs-dual-flavors-disposable-vape-2-5-nicotine-12tastes-smart-led-display-factory-direct/ \"Fizzy Twins 50000 50k Puffs Dual Flavors Disposable \nFizzy Twins 50000 Puffs Disposable Vape offers up to 50,000 puffs with a massive 50mL dual-tank. Featuring dual mesh coils, it delivers smooth vapor and rich \" \n\n[9] https://www.vape4wholesale.com/product/fizzy-twins-50000-puffs-dual-flavors-disposable-vape-wholesale \"Fizzy Twins 50000 Puffs Dual Flavors Disposable \nThe Fizzy Twins 50000 is an advanced dual-flavor disposable vape that lets you instantly switch between two distinct tastes with just a push of the mouthpiece.\" \n\n[10] https://24hvape.com/product/fizzy-twins-50000-50k-puffs-2-5-nicotine-double-taste-lcd-display-disposable-vape-eu-warehouse/ \"Fizzy Twins 50000 50k Puffs 2% 5% Nicotine Double Taste \n2-in-1 disposable vape devices featuring raspberry lemonade. Blue Razz Lemonade & Up to 50000 puffs liquid:50ml Battery:850 mAh Battery, Long \" \n\n[11] https://fizzyvape.eu/product/fizzy-twins-blue-razz-lemonade-triple-melon-50000-puffs-10pcs/ \"Fizzy Twins Blue Razz Lemonade & Triple Melon\nThis premium dual-flavor disposable vape combines the tangy zest of blue raspberry lemonade with the juicy sweetness of triple melon, delivering a smooth, \" \n\n[12] https://starsvape.com/product/blue-razz-lemonade-lemon-lime-vapsolo-twins-20000-puffs-20k/ \"Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 \nSo, whether you're a sailor or just someone who enjoys the open air, the Blue Razz Lemonade & Lemon Lime Vapsolo Twins 20000 Puffs is the perfect companion.\" \n\n[13] https://getpop.co/geek-bar-b5000-blue-razz-lemonade/ \"Geek Bar B5000 Blue Razz Lemonade\nThe Geek Bar B5000 disposable vape offers up to 5000 puffs with a long-lasting 650mAh battery. Zesty lemonade infused with sweet blue raspberry creates a tangy \" \n\n[14] https://vapzvape.com/products/fizzy-twins-50000-puffs-disposable-vape-wholesale?srsltid=AfmBOopjsj6lwwJHd41uYeWtMFF51ogcXw1dpZs5WvO_Zo-hv7G-bc_4 \"EU Warehouse FIZZY TWINS 50000 Puffs Disposable \nCapacity: 50ml /5% Puffs: Up to 50000 Flavor Change. Blue Razz Lemonade &\" \n\n[15] https://mipod.com/products/blue-razz-lemonade-ut-50k?srsltid=AfmBOopP6n_D_5g2FKqinEsxIxTuuiYLNEkEjL0dUjjWZJl2AI2Aouue \"Blue Razz/Lemonade UT 50K\nBlue Razz/Lemonade UT 50K disposable vape. Strength: 50mg Puffs Count: 50,000 Eco, Turbo Mode up to 25,000 Battery: Sale price$17.99 Regular price$24.99\" \n\n[16] https://fdvape.com/product/bang-king-twins-50000-50k-puffs-dual-flavors-disposable-vape-pen-2-3-5-nicotine-12tastes-with-dual-mesh-vape-factory-direct/ \"Bang King Twins 50000 50K Puffs Dual Flavors \nBang King Twins 50K Puffs Disposable Vape is a dual-flavor device offering up to 50,000 puffs. With a massive 56mL e-liquid capacity, dual 1.0Ω mesh coils, and \" \n\n[17] https://vaping360.com/learn/how-to-fix-a-disposable-vape/ \"How to Fix Any Disposable Vape That Isn't Working\nIf a new disposable isn't hitting, it may be due to a faulty unit, a dead battery, leaked vape juice, or blocked airflow.\" \n\n[18] https://www.quora.com/The-disposable-vape-pen-I-purchased-a-day-ago-wont-work-It-has-juice-in-it-and-all-the-lights-are-flashing-at-appropriate-times-How-can-I-fix-it \"The disposable vape pen I purchased a day ago won't \nThe disposable vape pen I purchased a day ago won't work. It has juice in it and all the lights are flashing at appropriate times. How can I fix it?\" \n\n[19] https://www.ccell.com/blogs/why-a-disposable-vape-lights-up-but-no-smoke-comes-out \"Why A Disposable Vape Lights Up but No Smoke Comes Out\nIf the coil is defective, burnt out, or has been assembled incorrectly, then no vapor will be produced even when the device is turned on.\" \n\n[20] https://www.innokin.com/blog/vape-lighting-up-but-not-hitting \"Why Is My Vape Lighting Up but Not Hitting?\nThe good news is that when your vape isn't hitting, the problem usually stems from a configuration issue that's fairly easy to fix.\" \n\n[21] https://www.facebook.com/groups/ElectronicParts/posts/2583968155125837/ \"Disposable vape, just three components but what it bugs \nDisposable vape, just three components but what it bugs me how does it know when it's empty. Led flashes when no juice is left but how? What makes led flash?\" \n\n[22] https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes \"Why My Disposable Vape Not Working? Fixes & Tips\nIf the light stays solid during your inhale but no vapor comes out, the battery and sensor are working, but the connection to the coil is likely \" \n\n[23] https://www.vaporfi.com/blog/burnt-tastes-loud-pops-and-no-vapor-troubleshooting-your-vape/ \"Why Isn't My Vape Making Smoke or Firing?\nIf your vape isn't working after a refill and there is no smoke, there are two common problems. First of all, the battery may need to be charged and turned on.\" \n\n[24] https://pinkspotvapors.com/blog/vape-lighting-up-but-not-hitting/ \"Why Is My Vape Lighting Up But Not Hitting? Causes & Fixes\nOil residue or a slightly loose cartridge is usually all it takes to break the electrical contact and stop vapor production. Between the \" \n\n[25] https://metrobudnyc.com/disposable-vape-not-working-fix-guide/ \"Disposable Vape Not Working? Try These 5 Easy Fixes \nIf the light blinks but you get no vapor, the airway is likely clogged. Step 2: Clear a Clogged Mouthpiece. If you suspect a clog, you'll need to clear the \" \n\n[26] https://www.vaporauthority.com/blogs/vaping-tips/why-my-disposable-vape-is-not-working-common-fixes \"Why My Disposable Vape Not Working? Fixes & Tips\nIf you get a burnt taste or no vapor at all, try gently tapping the device against your palm. This can help dislodge air bubbles and allow the e \" \n\n[27] https://vapeuk.co.uk/troubleshooting-common-vaping-problems \"A Guide to Troubleshooting the Most Common Vaping \nCheck the mAh rating of your device. Make sure your vape kit hasn't been left in a hot place causing the device to overheat and the e-liquid to thin. coil \" \n\n[28] https://store.vaporesso.com/blogs/news/vape-troubleshooting-guide-fix-problemsvape?srsltid=AfmBOopzMnyMM9bsnzstrepglGVSOvhE-ICYZF8EuJ9HFJPtkVE7f7Tr \"Guide to Fix Vape Problems Fast for Battery, Coil, and Vapor\nSay goodbye to vape troubles. Fix charging errors, leaks, and weak vapor with easy at-home solutions for a smooth, flavorful experience.\" \n\n[29] https://camouflet.com/blogs/vaporizer-guide/vaporizer-not-working-troubleshooting-guide?srsltid=AfmBOopsNwKXeDN4hEnrl1mg6IsvpOnAqSU9GH8qEJCc_gorr8esrzQr \"Vaporizer Not Working? Fix It Fast (2024 Guide)\nThe diagnostic is simple: draw on the cart without firing the battery. If you get airflow, the air tube is clear and the ceramic is likely \" \n```"
+       }
+      },
+      "role": "function",
+      "name": "web_search",
+      "function_id": "round_0_call_6ca0e5d277f04aa1aed89b4a",
+      "function_call": {
+       "name": "web_search",
+       "arguments": "{\"queries\": \n[\"Fizzy Twins 5000 puffs vape\", \"Twins vape 5000 puffs Blue Razz Lemonade\", \"disposable vape shows battery but no vapor\", \"vape device not producing vapor troubleshooting\"]\n\n}"
+      },
+      "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+      "usage": {}
+     },
+     {
+      "content": "",
+      "phase": "thinking_summary",
+      "status": "finished",
+      "extra": {
+       "summary_title": {
+        "content": [
+         "Diagnosing the issue with the device's power and vapor output."
+        ]
+       },
+       "summary_thought": {
+        "content": [
+         "I am assessing potential causes based on the symptoms and known patterns of similar devices.  \nThe battery level appears sufficient, so I'm considering blockages, coil issues, or connectivity problems.  \nI'm focusing on practical steps to restore functionality while ensuring safety and accuracy."
+        ]
+       }
+      },
+      "role": "assistant",
+      "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+      "usage": {
+       "input_tokens": 6473,
+       "output_tokens": 270,
+       "characters": 0,
+       "input_tokens_details": {
+        "image_tokens": 2502,
+        "text_tokens": 3971
+       },
+       "prompt_tokens_details": {},
+       "total_tokens": 6743,
+       "output_tokens_details": {
+        "reasoning_tokens": 263,
+        "text_tokens": 7
+       },
+       "image_tokens": 2502
+      },
+      "timestamp": 1784053803
+     },
+     {
+      "content": "## Información del Dispositivo - Fizzy Twins\n\nTu dispositivo es un **Fizzy Twins 50000 Puffs** (aunque en la imagen se ve \"5000\", probablemente sea la versión de 50,000 caladas):\n\n### Especificaciones:\n- **Caladas**: Hasta 50,000 puffs\n- **Sabores**: Blue Razz Lemonade & Triple Melon (doble sabor)\n- **Capacidad**: 50ml de e-liquid (25ml por sabor)\n- **Batería**: 850mAh recargable\n- **Carga**: Puerto Type-C\n- **Nicotina**: 2% o 5%\n- **Características**: \n  - Doble tanque con coils mesh duales\n  - Pantalla LED/LCD\n  - Flujo de aire ajustable\n  - Cambio de sabor instantáneo [[1]][[4]][[5]]\n\n---\n\n## 🔧 SOLUCIÓN AL PROBLEMA - Muestra 80% pero no sale vapor\n\nCuando el dispositivo muestra batería pero **no produce vapor**, las causas comunes son:\n\n### 1. **Vía de aire obstruida**\n- La luz se enciende pero no sale vapor porque el aire no circula [[25]]\n- **Solución**: Limpia la boquilla y verifica que no esté tapada\n\n### 2. **Problema con el coil (resistencia)**\n- El coil puede estar defectuoso, quemado o mal conectado [[19]]\n- Si la luz se mantiene sólida pero no sale vapor, la conexión con el coil probablemente falló [[22]]\n- **Solución**: Golpea suavemente el dispositivo contra tu palma para desalojar burbujas de aire o residuos [[26]]\n\n### 3. **Burbujas de aire en el líquido**\n- Las burbujas pueden bloquear el flujo del e-liquid al coil\n- **Solución**: \n  - Golpea suavemente el dispositivo\n  - Déjalo reposar 5-10 minutos en posición vertical\n\n### 4. **Mala conexión**\n- Verifica que la base esté bien conectada\n- A veces el residuo de líquido rompe el contacto eléctrico [[24]]\n\n### 5. **Unidad defectuosa**\n- Si es nuevo y nunca funcionó, puede ser una unidad faulty [[17]]\n- **Solución**: Contacta al vendedor para reemplazo\n\n---\n\n## ✅ Pasos a seguir:\n\n1. **Verifica el flujo de aire** - Inhala sin activar el dispositivo para ver si hay airflow\n2. **Limpia la boquilla** - Usa un palillo o algo fino para destapar\n3. **Golpea suavemente** - Contra tu palma para mover el líquido\n4. **Déjalo reposar** - 10 minutos vertical\n5. **Cárgalo completamente** - Aunque marque 80%, conéctalo al cargador Type-C\n6. **Verifica ambos sabores** - Intenta cambiar entre Blue Razz Lemonade y Triple Melon\n\nSi después de estos pasos **sigue sin funcionar**, es probable que sea un defecto de fábrica y necesites un reemplazo.",
+      "phase": "answer",
+      "status": "finished",
+      "extra": null,
+      "role": "assistant",
+      "response_id": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+      "usage": {
+       "input_tokens": 6473,
+       "output_tokens": 983,
+       "characters": 0,
+       "input_tokens_details": {
+        "image_tokens": 2502,
+        "text_tokens": 3971
+       },
+       "prompt_tokens_details": {},
+       "total_tokens": 7456,
+       "output_tokens_details": {
+        "reasoning_tokens": 263,
+        "text_tokens": 720
+       },
+       "image_tokens": 2502
+      },
+      "timestamp": 1784053816
+     }
+    ],
+    "is_stop": false,
+    "edited": false,
+    "error": null,
+    "meta": {},
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     },
+     "endTime": 1784053816.6197138
+    },
+    "feedbackId": null,
+    "turn_id": null,
+    "annotation": null,
+    "done": true,
+    "info": null,
+    "timestamp": 1784053780
+   },
+   {
+    "id": "87112595-1e3a-49e5-a2ec-bbf0605fccbe",
+    "role": "user",
+    "content": "Creo que cayo por momento en vaso de coca cola pero se saco de seguida y la pantalla funciona y el otro lado tbm",
+    "models": [
+     "qwen3.7-plus"
+    ],
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "edited": false,
+    "error": null,
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     }
+    },
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "parentId": "4e449b03-a8e2-4bbb-ab5d-c51ae7438590",
+    "turn_id": null,
+    "childrenIds": [
+     "ba37a829-7997-4bca-a19c-1abe7ed37fe5"
+    ],
+    "files": [],
+    "timestamp": 1784053882
+   },
+   {
+    "role": "assistant",
+    "content": "",
+    "reasoning_content": null,
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "model": "qwen3.7-plus",
+    "modelName": "Qwen3.7-Plus",
+    "modelIdx": 0,
+    "id": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+    "parentId": "87112595-1e3a-49e5-a2ec-bbf0605fccbe",
+    "childrenIds": [],
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "content_list": [
+     {
+      "content": "",
+      "phase": "thinking_summary",
+      "status": "finished",
+      "extra": {
+       "summary_title": {
+        "content": [
+         "Assessing the potential impact of liquid exposure on device functionality.",
+         "Evaluar el daño causado por el contacto con Coca-Cola en el dispositivo."
+        ]
+       },
+       "summary_thought": {
+        "content": [
+         "The immediate removal from the liquid suggests a reduced risk of internal damage.  \nFunctional display and other components indicate that critical systems remain intact.  \nNonetheless, residual moisture or chemical residue may pose latent risks over time.",
+         "La exposición breve pero intensa a un líquido azucarado, conductivo y corrosivo ha afectado críticamente una sección del dispositivo.  \nAunque la pantalla y el lado funcional operan correctamente, el fallo en la producción de vapor en un lado sugiere daño interno por corrosión o cortocircuito.  \nMi análisis se centra en identificar posibles puntos de deterioro eléctrico y químico para recomendar pasos precisos de recuperación."
+        ]
+       }
+      },
+      "role": "assistant",
+      "response_id": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+      "usage": {
+       "input_tokens": 3294,
+       "output_tokens": 194,
+       "characters": 0,
+       "input_tokens_details": {
+        "image_tokens": 2502,
+        "text_tokens": 792
+       },
+       "prompt_tokens_details": {
+        "cached_tokens": 0
+       },
+       "total_tokens": 3488,
+       "output_tokens_details": {
+        "reasoning_tokens": 186,
+        "text_tokens": 8
+       },
+       "image_tokens": 2502
+      },
+      "timestamp": 1784053891
+     },
+     {
+      "content": "## ⚠️ URGENTE - Contacto con Coca-Cola\n\nLa Coca-Cola es **muy problemática** para dispositivos electrónicos por tres razones:\n- **Conductiva**: Puede causar cortocircuitos\n- **Pegajosa**: El azúcar obstruye mecanismos al secarse\n- **Corrosiva**: El ácido fosfórico daña contactos metálicos\n\n---\n\n## 🚨 ACCIÓN INMEDIATA - Limpieza de Emergencia\n\n### Paso 1: Apagar y Desconectar\n- Si está encendido, apágalo inmediatamente\n- No lo cargues hasta limpiarlo\n\n### Paso 2: Limpieza Exterior\n1. **Alcohol isopropílico (99% ideal)** - Es lo mejor para electrónica\n2. Usa un paño de microfibra humedecido (no empapado)\n3. Limpia toda la superficie, especialmente:\n   - La boquilla\n   - Las ranuras de aire\n   - Los bordes donde se unen las piezas\n   - El puerto de carga Type-C\n\n### Paso 3: Limpieza de la Boquilla Afectada\n1. Usa un hisopo (cotton swab) con alcohol\n2. Limpia el interior de la boquilla que no funciona\n3. Verifica que no haya residuos pegajosos bloqueando el airflow\n\n### Paso 4: Secado Completo\n- Deja el dispositivo en posición vertical\n- Espera **mínimo 2-4 horas** antes de usarlo\n- Mejor aún: déjalo toda la noche\n\n---\n\n## 🔍 Por qué un lado funciona y el otro no\n\nEl líquido probablemente entró por:\n- **La boquilla del lado afectado**\n- **Las ranuras de ventilación**\n- **Los contactos entre las dos mitades**\n\nEl azúcar de la Coca-Cola al secarse:\n- Bloquea el flujo de aire\n- Aísla los contactos eléctricos del coil\n- Impide que el sensor de succión detecte la inhalación\n\n---\n\n## ✅ Después de la Limpieza\n\n1. **Prueba ambos sabores** alternando entre ellos\n2. **Verifica el airflow** - Deberías sentir resistencia al inhalar\n3. **Si sigue sin funcionar** el lado afectado:\n   - El coil puede estar dañado por corrosión\n   - Los contactos internos pueden estar oxidados\n   - Puede necesitar reemplazo\n\n---\n\n## ⚠️ Advertencia Importante\n\nSi el dispositivo:\n- Se calienta demasiado\n- Huele a quemado\n- La pantalla muestra errores\n- La batería se drena rápido\n\n**Deja de usarlo inmediatamente** - Riesgo de cortocircuito o daño a la batería.\n\nLa limpieza con alcohol isopropílico es tu mejor opción ahora. ¿Tienes alcohol disponible?",
+      "phase": "answer",
+      "status": "finished",
+      "extra": null,
+      "role": "assistant",
+      "response_id": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+      "usage": {
+       "input_tokens": 3294,
+       "output_tokens": 798,
+       "characters": 0,
+       "input_tokens_details": {
+        "image_tokens": 2502,
+        "text_tokens": 792
+       },
+       "prompt_tokens_details": {
+        "cached_tokens": 0
+       },
+       "total_tokens": 4092,
+       "output_tokens_details": {
+        "reasoning_tokens": 186,
+        "text_tokens": 612
+       },
+       "image_tokens": 2502
+      },
+      "timestamp": 1784053902
+     }
+    ],
+    "is_stop": false,
+    "edited": false,
+    "error": null,
+    "meta": {},
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     },
+     "endTime": 1784053902.7127433
+    },
+    "feedbackId": null,
+    "turn_id": null,
+    "annotation": null,
+    "done": true,
+    "info": null,
+    "timestamp": 1784053882
+   }
+  ]
+ },
+ "updated_at": 1784053882,
+ "created_at": 1784053779,
+ "share_id": null,
+ "archived": false,
+ "pinned": false,
+ "meta": {
+  "timestamp": 1784053778514
+ },
+ "folder_id": null,
+ "currentResponseIds": [
+  "ba37a829-7997-4bca-a19c-1abe7ed37fe5"
+ ],
+ "currentId": "ba37a829-7997-4bca-a19c-1abe7ed37fe5",
+ "chat_type": "t2t",
+ "models": null,
+ "project_id": null,
+ "data_source": null
+}

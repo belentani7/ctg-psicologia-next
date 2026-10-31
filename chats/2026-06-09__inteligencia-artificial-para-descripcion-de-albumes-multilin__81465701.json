@@ -1,0 +1,347 @@
+{
+ "id": "81465701-1f21-41f2-8d9a-d3eba609b817",
+ "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+ "title": "Inteligencia Artificial para Descripción de Álbumes Multilingües",
+ "chat": {
+  "history": {
+   "messages": {
+    "45a4dedc-99d3-4a6f-ba19-4fc46da8f035": {
+     "id": "45a4dedc-99d3-4a6f-ba19-4fc46da8f035",
+     "role": "user",
+     "content": "¿Cuál software o inteligencia artificial tendría la capacidad de describir un álbumEs completo pop, dark pop, electrónica, en portugués, en español, en inglés, mezclado.Et qui se fait seul ou avec un méga plan ou avec un archipel d'îles immenses.Tendencias de información, no sé.De que poderse y las bases sean profesionales.",
+     "models": [
+      "qwen3.7-plus"
+     ],
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "edited": false,
+     "error": null,
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      }
+     },
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "parentId": null,
+     "turn_id": null,
+     "childrenIds": [
+      "bc81ffc1-e29b-43f7-be0c-5413bbffffb7"
+     ],
+     "files": [],
+     "timestamp": 1780974868
+    },
+    "bc81ffc1-e29b-43f7-be0c-5413bbffffb7": {
+     "role": "assistant",
+     "content": "",
+     "reasoning_content": null,
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "model": "qwen3.7-plus",
+     "modelName": "Qwen3.7-Plus",
+     "modelIdx": 0,
+     "id": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+     "parentId": "45a4dedc-99d3-4a6f-ba19-4fc46da8f035",
+     "childrenIds": [],
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "content_list": [
+      {
+       "content": "",
+       "phase": "thinking_summary",
+       "status": "finished",
+       "extra": {
+        "summary_title": {
+         "content": [
+          "Reflecting on the user's inquiry",
+          "Analyzing the user's request for a comprehensive album description",
+          "Analyzing the layered expression of artistic vision and structural complexity in multilingual, genre-blending album creation.",
+          "Analyzing the creative and technical dimensions of a multilingual, genre-blending music album",
+          "Analyzing musical attributes and contextual relevance through advanced auditory and textual intelligence",
+          "Analizar el entorno musical multifacético del álbum con precisión y estrategia.",
+          "Crafting a comprehensive artistic framework for a multilingual, genre-blending album release",
+          "Actuando como A&R y director de marketing de una discográfica para un lanzamiento trilingüe en el género dark pop electrónico",
+          "Refinar la salida mediante auto-corrección durante el redactado",
+          "Conectar cada pieza del proceso creativo y estratégico con una visión clara y coherente"
+         ]
+        },
+        "summary_thought": {
+         "content": [
+          "I am carefully considering the linguistic and contextual cues embedded in the message, recognizing a blend of Spanish and French that suggests a nuanced communication.  \nI am focusing on the emotional and intellectual undercurrents, particularly the incomplete French phrase which hints at isolation or solitude.  \nMy response is shaped by an intuitive grasp of the interplay between language, memory, and unspoken sentiment.",
+          "I am interpreting the core intent behind the fragmented input, identifying the need for a creative AI response that captures an album's essence across multiple languages and genres.  \nI focus on synthesizing atmospheric, stylistic, and linguistic elements—pop, dark pop, electronic—while honoring the multilingual blend of Portuguese, Spanish, and English.  \nMy purpose is to generate a vivid, cohesive narrative that reflects both artistic depth and cultural resonance without technical references.",
+          "I am interpreting the poetic fragmentation as a metaphor for artistic autonomy and expansive conceptual frameworks.  \nI focus on identifying professional-grade analytical foundations that honor both linguistic diversity and genre integration.  \nMy approach centers on synthesizing cultural, sonic, and structural dimensions into a cohesive, elevated framework.",
+          "I am assessing the album’s sonic architecture, linguistic layers, and emotional resonance across its diverse musical expressions.  \nI am identifying core genres, atmospheric moods, and cultural nuances while aligning with professional standards for metadata and industry categorization.  \nI am synthesizing these insights into a cohesive, nuanced description that reflects both artistic depth and commercial relevance.",
+          "I assess sonic characteristics, emotional tone, genre alignment, and stylistic nuances to deliver precise metadata that captures the essence of a piece  \nI interpret lyrical content and linguistic patterns with cultural and emotional sensitivity to enrich narrative depth  \nI synthesize real-time trends and audience behaviors to inform strategic positioning and authentic storytelling",
+          "Evalúo la singularidad de una obra que fusiona idiomas y géneros, reconociendo su complejidad como un activo creativo.  \nOrganizo las herramientas disponibles en tres ejes: análisis técnico del sonido, creación narrativa auténtica y comprensión de tendencias del mercado global.  \nIntegro estas capacidades para ofrecer a Pedro una guía clara, alineada con sus metas profesionales y artísticas.",
+          "I am synthesizing a professional-grade approach to interpret and present a complex musical work that fuses pop sensibilities with darker electronic textures and trilingual lyrical expression.  \nMy focus is on establishing foundational audio intelligence to uncover sonic layers and emotional resonance, while weaving narrative depth through linguistically nuanced storytelling.  \nThis dual-layered strategy ensures both technical precision and poetic authenticity in conveying the album’s multidimensional identity.",
+          "Estoy analizando tendencias globales del mercado musical para posicionar estratégicamente el álbum, integrando datos de audiencia y comportamiento de escucha.  \nCon base en insights de consumo y patrones de éxito en plataformas digitales, estoy estructurando un plan de lanzamiento cohesivo que abarca prensa, descripciones optimizadas y narrativas adaptadas a cada mercado.  \nMi enfoque combina inteligencia creativa con análisis de mercado para maximizar impacto y resonancia internacional.",
+          "Estoy asegurando que se distinga claramente entre la identificación del contenido musical y el análisis lingüístico de las letras, destacando que solo los modelos de lenguaje pueden procesar con precisión el contenido multilingüe. Mi enfoque prioriza herramientas profesionales y escalables, integrando soluciones que funcionan como estándares del sector. El objetivo es ofrecer un plan claro y poderoso, alineado con las necesidades del usuario sin comprometer la calidad ni la autenticidad del resultado final.",
+          "Estoy integrando herramientas de inteligencia artificial especializadas en narrativa multilingüe con plataformas que analizan tendencias del mercado, asegurando que cada elemento responda a las necesidades de un artista independiente.  \nA través de una metáfora inspiradora —el archipiélago de islas inmensas— visualizo el flujo de trabajo como una red de procesos interconectados, donde cada etapa aporta energía, dirección y profundidad al proyecto.  \nTodo está diseñado para mantener la autenticidad del sonido, como el tono oscuro y pulsante del Dark Pop, mientras se maximiza el impacto en audiencias globales."
+         ]
+        }
+       },
+       "role": "assistant",
+       "response_id": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+       "usage": {
+        "input_tokens": 1856,
+        "output_tokens": 2284,
+        "characters": 0,
+        "total_tokens": 4140,
+        "input_tokens_details": {
+         "text_tokens": 1856
+        },
+        "output_tokens_details": {
+         "reasoning_tokens": 2276,
+         "text_tokens": 2284
+        },
+        "prompt_tokens_details": {
+         "cached_tokens": 0
+        }
+       },
+       "timestamp": 1780974917
+      },
+      {
+       "content": "Hola Pedro. Entiendo perfectamente lo que necesitas. Tienes un proyecto musical muy rico y complejo: un álbum que fusiona **pop, dark pop y electrónica**, cantado en tres idiomas (**portugués, español e inglés**), y buscas herramientas de nivel profesional para analizarlo, describirlo y entender las tendencias del mercado para crear un \"mega plan\" de lanzamiento.\n\nPara abordar este \"archipiélago de islas inmensas\" (como lo has descrito poéticamente), no existe una única herramienta mágica que lo haga todo, sino un **ecosistema de IAs y softwares profesionales** que debes combinar. \n\nAquí tienes el desglose de las mejores herramientas profesionales para cada fase de tu proyecto:\n\n### 1. Las \"Bases Profesionales\": Análisis de Audio y Etiquetado (Metadata)\nPara que las plataformas (Spotify, Apple Music) y las discográficas entiendan tu música, necesitas que una IA \"escuche\" el álbum y extraiga los metadatos técnicos, emocionales y de género.\n\n*   **Cyanite.ai:** Es el estándar de oro en la industria musical para el análisis de audio con IA. \n    *   *Por qué te sirve:* Puede analizar tus pistas y etiquetarlas con precisión en géneros híbridos (ej. 60% Dark Pop, 40% Electrónica). Además, detecta el **estado de ánimo (mood)** y la **energía**, lo cual es vital para el \"dark pop\" (etiquetándolo como oscuro, melancólico, cinematográfico, etc.).\n*   **Musiio (de SoundCloud):** Otra IA de etiquetado de audio de nivel profesional. Es excelente para clasificar subgéneros de música electrónica y pop, y para identificar instrumentos y texturas sonoras específicas.\n\n### 2. La Descripción y Narrativa Multilingüe (El Relato)\nPara describir el álbum en notas de prensa, biografías y textos para plataformas digitales en los tres idiomas, necesitas IAs generativas de texto de última generación.\n\n*   **Claude 3.5 Sonnet / GPT-4o (Multimodal):** \n    *   *Cómo usarlo:* No le pidas simplemente \"describe mi álbum\". Debes actuar como su director de marketing. Súbele las letras en los tres idiomas (PT, ES, EN) y un resumen de la producción.\n    *   *El Prompt Profesional:* *\"Actúa como un director de A&R y marketing de una gran discográfica. Analiza estas letras y la fusión de dark pop y electrónica. Redacta una nota de prensa profesional, una descripción para el 'pitch' de Spotify for Artists, y un manifiesto del álbum. Hazlo en tres versiones adaptadas culturalmente: una para el mercado hispanohablante, otra para el brasileño/portugués y otra para el anglosajón, manteniendo la esencia oscura y electrónica.\"*\n*   **Musixmatch Pro:** Si necesitas sincronizar y traducir las letras de forma profesional para que aparezcan en Spotify e Instagram, esta es la base de datos oficial que utilizan las plataformas.\n\n### 3. Tendencias de Información (Estrategia de Mercado)\nMencionas las \"tendencias de información\". Para saber hacia dónde se mueve el dark pop y la electrónica a nivel global, y cómo posicionar un álbum trilingüe, necesitas herramientas de analítica de macro-datos.\n\n*   **Chartmetric:** Es la herramienta de inteligencia de datos musicales más potente del mercado.\n    *   *Por qué te sirve:* Te permite buscar playlists globales de \"Dark Pop\" o \"Electrónica en Portugués\", ver qué artistas están subiendo como la espuma en esos nichos y entender las tendencias de consumo por regiones. Te dirá, por ejemplo, si tu sonido encaja mejor en playlists de Brasil, España o México.\n*   **Viberate / Soundcharts:** Alternativas excelentes para analizar el rendimiento de géneros específicos, descubrir qué sellos discográficos están firmando música similar a la tuya y monitorizar tendencias en TikTok o Reels para tu álbum.\n\n---\n\n### 🗺️ Tu \"Mega Plan\": El Flujo de Trabajo (Workflow)\n\nPara que no te pierdas en este \"archipiélago\", aquí tienes la hoja de ruta profesional que te sugiero seguir:\n\n1.  **Fase de Ingesta (Los Cimientos):** Pasa las pistas maestras de tu álbum por **Cyanite.ai**. Obtendrás un reporte técnico con los BPMs, las claves, los porcentajes de género y los \"moods\". Esas serán tus \"bases profesionales\".\n2.  **Fase de Inteligencia de Mercado (El Mapa):** Usa **Chartmetric** para buscar las 50 playlists más importantes de *Dark Pop* y *Electrónica en Portugués/Inglés*. Identifica qué tienen en común sus descripciones y portadas.\n3.  **Fase de Narrativa (La Voz):** Toma los datos de Cyanite y las tendencias de Chartmetric, y aliméntalos a **Claude o GPT-4**. Pídele que redacte el \"Pitch Deck\" del álbum. Que la IA justifique por qué esta mezcla trilingüe de pop oscuro y electrónica es exactamente lo que el mercado actual necesita.\n4.  **Fase de Distribución (Las Islas):** Con esos textos profesionales, sube tu música a través de un distribuidor como DistroKid o TuneCore, asegurándote de usar las descripciones generadas por la IA para el \"Pitch\" editorial de Spotify for Artists al menos 3 semanas antes del lanzamiento.\n\nSi estás trabajando desde Termux en tu Huawei P30 Pro, puedes usar la API de **Claude o Gemini** directamente desde la terminal para ir redactando y estructurando todo el plan de marketing del álbum, guardando los prompts y las respuestas en documentos locales. \n\n¿Hay alguna fase específica de este plan (el análisis de audio, la redacción de textos o el estudio de tendencias) en la que te gustaría que profundicemos más?",
+       "phase": "answer",
+       "status": "finished",
+       "extra": null,
+       "role": "assistant",
+       "response_id": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+       "usage": {
+        "input_tokens": 1856,
+        "output_tokens": 3590,
+        "characters": 0,
+        "total_tokens": 5446,
+        "input_tokens_details": {
+         "text_tokens": 1856
+        },
+        "output_tokens_details": {
+         "reasoning_tokens": 2276,
+         "text_tokens": 3590
+        },
+        "prompt_tokens_details": {
+         "cached_tokens": 0
+        }
+       },
+       "timestamp": 1780974941
+      }
+     ],
+     "is_stop": false,
+     "edited": false,
+     "error": null,
+     "meta": {},
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      },
+      "endTime": 1780974942.0326266
+     },
+     "feedbackId": null,
+     "turn_id": null,
+     "annotation": null,
+     "done": true,
+     "info": null,
+     "timestamp": 1780974868
+    }
+   },
+   "currentId": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+   "currentResponseIds": [
+    "bc81ffc1-e29b-43f7-be0c-5413bbffffb7"
+   ],
+   "pagination": null
+  },
+  "models": [
+   "qwen3.7-plus"
+  ],
+  "messages": [
+   {
+    "id": "45a4dedc-99d3-4a6f-ba19-4fc46da8f035",
+    "role": "user",
+    "content": "¿Cuál software o inteligencia artificial tendría la capacidad de describir un álbumEs completo pop, dark pop, electrónica, en portugués, en español, en inglés, mezclado.Et qui se fait seul ou avec un méga plan ou avec un archipel d'îles immenses.Tendencias de información, no sé.De que poderse y las bases sean profesionales.",
+    "models": [
+     "qwen3.7-plus"
+    ],
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "edited": false,
+    "error": null,
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     }
+    },
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "parentId": null,
+    "turn_id": null,
+    "childrenIds": [
+     "bc81ffc1-e29b-43f7-be0c-5413bbffffb7"
+    ],
+    "files": [],
+    "timestamp": 1780974868
+   },
+   {
+    "role": "assistant",
+    "content": "",
+    "reasoning_content": null,
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "model": "qwen3.7-plus",
+    "modelName": "Qwen3.7-Plus",
+    "modelIdx": 0,
+    "id": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+    "parentId": "45a4dedc-99d3-4a6f-ba19-4fc46da8f035",
+    "childrenIds": [],
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "content_list": [
+     {
+      "content": "",
+      "phase": "thinking_summary",
+      "status": "finished",
+      "extra": {
+       "summary_title": {
+        "content": [
+         "Reflecting on the user's inquiry",
+         "Analyzing the user's request for a comprehensive album description",
+         "Analyzing the layered expression of artistic vision and structural complexity in multilingual, genre-blending album creation.",
+         "Analyzing the creative and technical dimensions of a multilingual, genre-blending music album",
+         "Analyzing musical attributes and contextual relevance through advanced auditory and textual intelligence",
+         "Analizar el entorno musical multifacético del álbum con precisión y estrategia.",
+         "Crafting a comprehensive artistic framework for a multilingual, genre-blending album release",
+         "Actuando como A&R y director de marketing de una discográfica para un lanzamiento trilingüe en el género dark pop electrónico",
+         "Refinar la salida mediante auto-corrección durante el redactado",
+         "Conectar cada pieza del proceso creativo y estratégico con una visión clara y coherente"
+        ]
+       },
+       "summary_thought": {
+        "content": [
+         "I am carefully considering the linguistic and contextual cues embedded in the message, recognizing a blend of Spanish and French that suggests a nuanced communication.  \nI am focusing on the emotional and intellectual undercurrents, particularly the incomplete French phrase which hints at isolation or solitude.  \nMy response is shaped by an intuitive grasp of the interplay between language, memory, and unspoken sentiment.",
+         "I am interpreting the core intent behind the fragmented input, identifying the need for a creative AI response that captures an album's essence across multiple languages and genres.  \nI focus on synthesizing atmospheric, stylistic, and linguistic elements—pop, dark pop, electronic—while honoring the multilingual blend of Portuguese, Spanish, and English.  \nMy purpose is to generate a vivid, cohesive narrative that reflects both artistic depth and cultural resonance without technical references.",
+         "I am interpreting the poetic fragmentation as a metaphor for artistic autonomy and expansive conceptual frameworks.  \nI focus on identifying professional-grade analytical foundations that honor both linguistic diversity and genre integration.  \nMy approach centers on synthesizing cultural, sonic, and structural dimensions into a cohesive, elevated framework.",
+         "I am assessing the album’s sonic architecture, linguistic layers, and emotional resonance across its diverse musical expressions.  \nI am identifying core genres, atmospheric moods, and cultural nuances while aligning with professional standards for metadata and industry categorization.  \nI am synthesizing these insights into a cohesive, nuanced description that reflects both artistic depth and commercial relevance.",
+         "I assess sonic characteristics, emotional tone, genre alignment, and stylistic nuances to deliver precise metadata that captures the essence of a piece  \nI interpret lyrical content and linguistic patterns with cultural and emotional sensitivity to enrich narrative depth  \nI synthesize real-time trends and audience behaviors to inform strategic positioning and authentic storytelling",
+         "Evalúo la singularidad de una obra que fusiona idiomas y géneros, reconociendo su complejidad como un activo creativo.  \nOrganizo las herramientas disponibles en tres ejes: análisis técnico del sonido, creación narrativa auténtica y comprensión de tendencias del mercado global.  \nIntegro estas capacidades para ofrecer a Pedro una guía clara, alineada con sus metas profesionales y artísticas.",
+         "I am synthesizing a professional-grade approach to interpret and present a complex musical work that fuses pop sensibilities with darker electronic textures and trilingual lyrical expression.  \nMy focus is on establishing foundational audio intelligence to uncover sonic layers and emotional resonance, while weaving narrative depth through linguistically nuanced storytelling.  \nThis dual-layered strategy ensures both technical precision and poetic authenticity in conveying the album’s multidimensional identity.",
+         "Estoy analizando tendencias globales del mercado musical para posicionar estratégicamente el álbum, integrando datos de audiencia y comportamiento de escucha.  \nCon base en insights de consumo y patrones de éxito en plataformas digitales, estoy estructurando un plan de lanzamiento cohesivo que abarca prensa, descripciones optimizadas y narrativas adaptadas a cada mercado.  \nMi enfoque combina inteligencia creativa con análisis de mercado para maximizar impacto y resonancia internacional.",
+         "Estoy asegurando que se distinga claramente entre la identificación del contenido musical y el análisis lingüístico de las letras, destacando que solo los modelos de lenguaje pueden procesar con precisión el contenido multilingüe. Mi enfoque prioriza herramientas profesionales y escalables, integrando soluciones que funcionan como estándares del sector. El objetivo es ofrecer un plan claro y poderoso, alineado con las necesidades del usuario sin comprometer la calidad ni la autenticidad del resultado final.",
+         "Estoy integrando herramientas de inteligencia artificial especializadas en narrativa multilingüe con plataformas que analizan tendencias del mercado, asegurando que cada elemento responda a las necesidades de un artista independiente.  \nA través de una metáfora inspiradora —el archipiélago de islas inmensas— visualizo el flujo de trabajo como una red de procesos interconectados, donde cada etapa aporta energía, dirección y profundidad al proyecto.  \nTodo está diseñado para mantener la autenticidad del sonido, como el tono oscuro y pulsante del Dark Pop, mientras se maximiza el impacto en audiencias globales."
+        ]
+       }
+      },
+      "role": "assistant",
+      "response_id": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+      "usage": {
+       "input_tokens": 1856,
+       "output_tokens": 2284,
+       "characters": 0,
+       "total_tokens": 4140,
+       "input_tokens_details": {
+        "text_tokens": 1856
+       },
+       "output_tokens_details": {
+        "reasoning_tokens": 2276,
+        "text_tokens": 2284
+       },
+       "prompt_tokens_details": {
+        "cached_tokens": 0
+       }
+      },
+      "timestamp": 1780974917
+     },
+     {
+      "content": "Hola Pedro. Entiendo perfectamente lo que necesitas. Tienes un proyecto musical muy rico y complejo: un álbum que fusiona **pop, dark pop y electrónica**, cantado en tres idiomas (**portugués, español e inglés**), y buscas herramientas de nivel profesional para analizarlo, describirlo y entender las tendencias del mercado para crear un \"mega plan\" de lanzamiento.\n\nPara abordar este \"archipiélago de islas inmensas\" (como lo has descrito poéticamente), no existe una única herramienta mágica que lo haga todo, sino un **ecosistema de IAs y softwares profesionales** que debes combinar. \n\nAquí tienes el desglose de las mejores herramientas profesionales para cada fase de tu proyecto:\n\n### 1. Las \"Bases Profesionales\": Análisis de Audio y Etiquetado (Metadata)\nPara que las plataformas (Spotify, Apple Music) y las discográficas entiendan tu música, necesitas que una IA \"escuche\" el álbum y extraiga los metadatos técnicos, emocionales y de género.\n\n*   **Cyanite.ai:** Es el estándar de oro en la industria musical para el análisis de audio con IA. \n    *   *Por qué te sirve:* Puede analizar tus pistas y etiquetarlas con precisión en géneros híbridos (ej. 60% Dark Pop, 40% Electrónica). Además, detecta el **estado de ánimo (mood)** y la **energía**, lo cual es vital para el \"dark pop\" (etiquetándolo como oscuro, melancólico, cinematográfico, etc.).\n*   **Musiio (de SoundCloud):** Otra IA de etiquetado de audio de nivel profesional. Es excelente para clasificar subgéneros de música electrónica y pop, y para identificar instrumentos y texturas sonoras específicas.\n\n### 2. La Descripción y Narrativa Multilingüe (El Relato)\nPara describir el álbum en notas de prensa, biografías y textos para plataformas digitales en los tres idiomas, necesitas IAs generativas de texto de última generación.\n\n*   **Claude 3.5 Sonnet / GPT-4o (Multimodal):** \n    *   *Cómo usarlo:* No le pidas simplemente \"describe mi álbum\". Debes actuar como su director de marketing. Súbele las letras en los tres idiomas (PT, ES, EN) y un resumen de la producción.\n    *   *El Prompt Profesional:* *\"Actúa como un director de A&R y marketing de una gran discográfica. Analiza estas letras y la fusión de dark pop y electrónica. Redacta una nota de prensa profesional, una descripción para el 'pitch' de Spotify for Artists, y un manifiesto del álbum. Hazlo en tres versiones adaptadas culturalmente: una para el mercado hispanohablante, otra para el brasileño/portugués y otra para el anglosajón, manteniendo la esencia oscura y electrónica.\"*\n*   **Musixmatch Pro:** Si necesitas sincronizar y traducir las letras de forma profesional para que aparezcan en Spotify e Instagram, esta es la base de datos oficial que utilizan las plataformas.\n\n### 3. Tendencias de Información (Estrategia de Mercado)\nMencionas las \"tendencias de información\". Para saber hacia dónde se mueve el dark pop y la electrónica a nivel global, y cómo posicionar un álbum trilingüe, necesitas herramientas de analítica de macro-datos.\n\n*   **Chartmetric:** Es la herramienta de inteligencia de datos musicales más potente del mercado.\n    *   *Por qué te sirve:* Te permite buscar playlists globales de \"Dark Pop\" o \"Electrónica en Portugués\", ver qué artistas están subiendo como la espuma en esos nichos y entender las tendencias de consumo por regiones. Te dirá, por ejemplo, si tu sonido encaja mejor en playlists de Brasil, España o México.\n*   **Viberate / Soundcharts:** Alternativas excelentes para analizar el rendimiento de géneros específicos, descubrir qué sellos discográficos están firmando música similar a la tuya y monitorizar tendencias en TikTok o Reels para tu álbum.\n\n---\n\n### 🗺️ Tu \"Mega Plan\": El Flujo de Trabajo (Workflow)\n\nPara que no te pierdas en este \"archipiélago\", aquí tienes la hoja de ruta profesional que te sugiero seguir:\n\n1.  **Fase de Ingesta (Los Cimientos):** Pasa las pistas maestras de tu álbum por **Cyanite.ai**. Obtendrás un reporte técnico con los BPMs, las claves, los porcentajes de género y los \"moods\". Esas serán tus \"bases profesionales\".\n2.  **Fase de Inteligencia de Mercado (El Mapa):** Usa **Chartmetric** para buscar las 50 playlists más importantes de *Dark Pop* y *Electrónica en Portugués/Inglés*. Identifica qué tienen en común sus descripciones y portadas.\n3.  **Fase de Narrativa (La Voz):** Toma los datos de Cyanite y las tendencias de Chartmetric, y aliméntalos a **Claude o GPT-4**. Pídele que redacte el \"Pitch Deck\" del álbum. Que la IA justifique por qué esta mezcla trilingüe de pop oscuro y electrónica es exactamente lo que el mercado actual necesita.\n4.  **Fase de Distribución (Las Islas):** Con esos textos profesionales, sube tu música a través de un distribuidor como DistroKid o TuneCore, asegurándote de usar las descripciones generadas por la IA para el \"Pitch\" editorial de Spotify for Artists al menos 3 semanas antes del lanzamiento.\n\nSi estás trabajando desde Termux en tu Huawei P30 Pro, puedes usar la API de **Claude o Gemini** directamente desde la terminal para ir redactando y estructurando todo el plan de marketing del álbum, guardando los prompts y las respuestas en documentos locales. \n\n¿Hay alguna fase específica de este plan (el análisis de audio, la redacción de textos o el estudio de tendencias) en la que te gustaría que profundicemos más?",
+      "phase": "answer",
+      "status": "finished",
+      "extra": null,
+      "role": "assistant",
+      "response_id": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+      "usage": {
+       "input_tokens": 1856,
+       "output_tokens": 3590,
+       "characters": 0,
+       "total_tokens": 5446,
+       "input_tokens_details": {
+        "text_tokens": 1856
+       },
+       "output_tokens_details": {
+        "reasoning_tokens": 2276,
+        "text_tokens": 3590
+       },
+       "prompt_tokens_details": {
+        "cached_tokens": 0
+       }
+      },
+      "timestamp": 1780974941
+     }
+    ],
+    "is_stop": false,
+    "edited": false,
+    "error": null,
+    "meta": {},
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     },
+     "endTime": 1780974942.0326266
+    },
+    "feedbackId": null,
+    "turn_id": null,
+    "annotation": null,
+    "done": true,
+    "info": null,
+    "timestamp": 1780974868
+   }
+  ]
+ },
+ "updated_at": 1780974941,
+ "created_at": 1780974869,
+ "share_id": null,
+ "archived": false,
+ "pinned": false,
+ "meta": {
+  "timestamp": 1780974868144,
+  "tags": []
+ },
+ "folder_id": null,
+ "currentResponseIds": [
+  "bc81ffc1-e29b-43f7-be0c-5413bbffffb7"
+ ],
+ "currentId": "bc81ffc1-e29b-43f7-be0c-5413bbffffb7",
+ "chat_type": "t2t",
+ "models": null,
+ "project_id": "",
+ "data_source": null
+}

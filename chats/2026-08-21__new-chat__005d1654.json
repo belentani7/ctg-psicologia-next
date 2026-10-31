@@ -1,0 +1,380 @@
+{
+ "id": "005d1654-7902-4611-99d9-41e58f00e992",
+ "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+ "title": "New chat",
+ "chat": {
+  "history": {
+   "messages": {
+    "a3e0e579-341b-4c51-855d-1a39f06aca8d": {
+     "id": "a3e0e579-341b-4c51-855d-1a39f06aca8d",
+     "role": "user",
+     "content": "Extrae la informacion . Minimo 2000 lineas de codigo. Actualizados ",
+     "models": [
+      "qwen3.7-plus"
+     ],
+     "chat_type": "artifacts",
+     "sub_chat_type": "artifacts",
+     "edited": false,
+     "error": {
+      "status_code": 400,
+      "detail": {
+       "modality": [
+        "image"
+       ],
+       "code": "data_inspection_failed",
+       "stage": "input",
+       "image_idx": [
+        1
+       ],
+       "details": "Advertencia de seguridad del contenido: ¡los datos introducidos pueden contener contenido inapropiado!"
+      }
+     },
+     "extra": {
+      "meta": {
+       "subChatType": "artifacts"
+      },
+      "endTime": 1787314937.3317032
+     },
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "parentId": null,
+     "turn_id": null,
+     "childrenIds": [
+      "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f"
+     ],
+     "files": [
+      {
+       "id": "0ec1d2cd-6bc7-4357-ad10-f27622ee9b64",
+       "name": "Screenshot_20260821_142040_com.whatsapp.jpg",
+       "file_type": "image/jpeg",
+       "type": "image",
+       "file_class": "vision",
+       "size": 908647,
+       "url": "https://cdn.qwenlm.ai/c2739080-ce39-4d15-85a6-bd1d676c2b74/0ec1d2cd-6bc7-4357-ad10-f27622ee9b64_Screenshot_20260821_142040_com.whatsapp.jpg?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiYzI3MzkwODAtY2UzOS00ZDE1LTg1YTYtYmQxZDY3NmMyYjc0IiwicmVzb3VyY2VfaWQiOiIwZWMxZDJjZC02YmM3LTQzNTctYWQxMC1mMjc2MjJlZTliNjQiLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.fPbZWX94GEmDUKAEWTCrMizZfqztzMjNZa-1YfTEh3o",
+       "file": {
+        "created_at": 1787314888927,
+        "data": {},
+        "filename": "Screenshot_20260821_142040_com.whatsapp.jpg",
+        "hash": null,
+        "id": "0ec1d2cd-6bc7-4357-ad10-f27622ee9b64",
+        "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+        "meta": {
+         "name": "Screenshot_20260821_142040_com.whatsapp.jpg",
+         "size": 908647,
+         "content_type": "image/jpeg"
+        },
+        "update_at": 1787314888927,
+        "lastModified": 1787314840000,
+        "name": "Screenshot_20260821_142040_com.whatsapp.jpg",
+        "webkitRelativePath": "",
+        "size": 908647,
+        "type": "image/jpeg"
+       },
+       "collection_name": "",
+       "progress": 0,
+       "status": "uploaded",
+       "greenNet": "success",
+       "error": "",
+       "itemId": "464f3c68-8310-49e1-972a-1da82be3acac",
+       "showType": "image",
+       "uploadTaskId": "1a84a38e-4ebc-4632-9239-b92f21dc3013"
+      },
+      {
+       "id": "80200ef3-e8de-4847-bf2a-d1438cf4cb5a",
+       "name": "Screenshot_20260821_142032_com.whatsapp.jpg",
+       "file_type": "image/jpeg",
+       "type": "image",
+       "file_class": "vision",
+       "size": 889179,
+       "url": "https://cdn.qwenlm.ai/c2739080-ce39-4d15-85a6-bd1d676c2b74/80200ef3-e8de-4847-bf2a-d1438cf4cb5a_Screenshot_20260821_142032_com.whatsapp.jpg?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiYzI3MzkwODAtY2UzOS00ZDE1LTg1YTYtYmQxZDY3NmMyYjc0IiwicmVzb3VyY2VfaWQiOiI4MDIwMGVmMy1lOGRlLTQ4NDctYmYyYS1kMTQzOGNmNGNiNWEiLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.PkiWwkoIzG57OtfcYSR4BTT3OwcNm1x5GvlInHaH8sA",
+       "file": {
+        "created_at": 1787314889408,
+        "data": {},
+        "filename": "Screenshot_20260821_142032_com.whatsapp.jpg",
+        "hash": null,
+        "id": "80200ef3-e8de-4847-bf2a-d1438cf4cb5a",
+        "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+        "meta": {
+         "name": "Screenshot_20260821_142032_com.whatsapp.jpg",
+         "size": 889179,
+         "content_type": "image/jpeg"
+        },
+        "update_at": 1787314889408,
+        "lastModified": 1787314832000,
+        "name": "Screenshot_20260821_142032_com.whatsapp.jpg",
+        "webkitRelativePath": "",
+        "size": 889179,
+        "type": "image/jpeg"
+       },
+       "collection_name": "",
+       "progress": 0,
+       "status": "uploaded",
+       "greenNet": "success",
+       "error": "",
+       "itemId": "16d071fb-92b3-4fb0-874a-f3139d731fb7",
+       "showType": "image",
+       "uploadTaskId": "2b4ebcf2-ba82-46d6-a596-d9cef1d9dc0b"
+      }
+     ],
+     "timestamp": 1787314931
+    },
+    "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f": {
+     "role": "assistant",
+     "content": "",
+     "reasoning_content": null,
+     "chat_type": "artifacts",
+     "sub_chat_type": "artifacts",
+     "model": "qwen3.7-plus",
+     "modelName": "Qwen3.7-Plus",
+     "modelIdx": 0,
+     "id": "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f",
+     "parentId": "a3e0e579-341b-4c51-855d-1a39f06aca8d",
+     "childrenIds": [],
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": false,
+      "thinking_mode": "Thinking",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "content_list": [],
+     "is_stop": false,
+     "edited": false,
+     "error": {
+      "modality": [
+       "image"
+      ],
+      "code": "data_inspection_failed",
+      "stage": "input",
+      "image_idx": [
+       1
+      ],
+      "details": "Advertencia de seguridad del contenido: ¡los datos introducidos pueden contener contenido inapropiado!"
+     },
+     "meta": {},
+     "extra": {
+      "meta": {
+       "subChatType": "artifacts"
+      },
+      "endTime": 1787314937.4135196
+     },
+     "feedbackId": null,
+     "turn_id": null,
+     "annotation": null,
+     "done": true,
+     "info": null,
+     "timestamp": 1787314931
+    }
+   },
+   "currentId": "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f",
+   "currentResponseIds": [
+    "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f"
+   ],
+   "pagination": null
+  },
+  "models": [
+   "qwen3.7-plus"
+  ],
+  "messages": [
+   {
+    "id": "a3e0e579-341b-4c51-855d-1a39f06aca8d",
+    "role": "user",
+    "content": "Extrae la informacion . Minimo 2000 lineas de codigo. Actualizados ",
+    "models": [
+     "qwen3.7-plus"
+    ],
+    "chat_type": "artifacts",
+    "sub_chat_type": "artifacts",
+    "edited": false,
+    "error": {
+     "status_code": 400,
+     "detail": {
+      "modality": [
+       "image"
+      ],
+      "code": "data_inspection_failed",
+      "stage": "input",
+      "image_idx": [
+       1
+      ],
+      "details": "Advertencia de seguridad del contenido: ¡los datos introducidos pueden contener contenido inapropiado!"
+     }
+    },
+    "extra": {
+     "meta": {
+      "subChatType": "artifacts"
+     },
+     "endTime": 1787314937.3317032
+    },
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "parentId": null,
+    "turn_id": null,
+    "childrenIds": [
+     "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f"
+    ],
+    "files": [
+     {
+      "id": "0ec1d2cd-6bc7-4357-ad10-f27622ee9b64",
+      "name": "Screenshot_20260821_142040_com.whatsapp.jpg",
+      "file_type": "image/jpeg",
+      "type": "image",
+      "file_class": "vision",
+      "size": 908647,
+      "url": "https://cdn.qwenlm.ai/c2739080-ce39-4d15-85a6-bd1d676c2b74/0ec1d2cd-6bc7-4357-ad10-f27622ee9b64_Screenshot_20260821_142040_com.whatsapp.jpg?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiYzI3MzkwODAtY2UzOS00ZDE1LTg1YTYtYmQxZDY3NmMyYjc0IiwicmVzb3VyY2VfaWQiOiIwZWMxZDJjZC02YmM3LTQzNTctYWQxMC1mMjc2MjJlZTliNjQiLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.fPbZWX94GEmDUKAEWTCrMizZfqztzMjNZa-1YfTEh3o",
+      "file": {
+       "created_at": 1787314888927,
+       "data": {},
+       "filename": "Screenshot_20260821_142040_com.whatsapp.jpg",
+       "hash": null,
+       "id": "0ec1d2cd-6bc7-4357-ad10-f27622ee9b64",
+       "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+       "meta": {
+        "name": "Screenshot_20260821_142040_com.whatsapp.jpg",
+        "size": 908647,
+        "content_type": "image/jpeg"
+       },
+       "update_at": 1787314888927,
+       "lastModified": 1787314840000,
+       "name": "Screenshot_20260821_142040_com.whatsapp.jpg",
+       "webkitRelativePath": "",
+       "size": 908647,
+       "type": "image/jpeg"
+      },
+      "collection_name": "",
+      "progress": 0,
+      "status": "uploaded",
+      "greenNet": "success",
+      "error": "",
+      "itemId": "464f3c68-8310-49e1-972a-1da82be3acac",
+      "showType": "image",
+      "uploadTaskId": "1a84a38e-4ebc-4632-9239-b92f21dc3013"
+     },
+     {
+      "id": "80200ef3-e8de-4847-bf2a-d1438cf4cb5a",
+      "name": "Screenshot_20260821_142032_com.whatsapp.jpg",
+      "file_type": "image/jpeg",
+      "type": "image",
+      "file_class": "vision",
+      "size": 889179,
+      "url": "https://cdn.qwenlm.ai/c2739080-ce39-4d15-85a6-bd1d676c2b74/80200ef3-e8de-4847-bf2a-d1438cf4cb5a_Screenshot_20260821_142032_com.whatsapp.jpg?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZXNvdXJjZV91c2VyX2lkIjoiYzI3MzkwODAtY2UzOS00ZDE1LTg1YTYtYmQxZDY3NmMyYjc0IiwicmVzb3VyY2VfaWQiOiI4MDIwMGVmMy1lOGRlLTQ4NDctYmYyYS1kMTQzOGNmNGNiNWEiLCJyZXNvdXJjZV9jaGF0X2lkIjpudWxsfQ.PkiWwkoIzG57OtfcYSR4BTT3OwcNm1x5GvlInHaH8sA",
+      "file": {
+       "created_at": 1787314889408,
+       "data": {},
+       "filename": "Screenshot_20260821_142032_com.whatsapp.jpg",
+       "hash": null,
+       "id": "80200ef3-e8de-4847-bf2a-d1438cf4cb5a",
+       "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+       "meta": {
+        "name": "Screenshot_20260821_142032_com.whatsapp.jpg",
+        "size": 889179,
+        "content_type": "image/jpeg"
+       },
+       "update_at": 1787314889408,
+       "lastModified": 1787314832000,
+       "name": "Screenshot_20260821_142032_com.whatsapp.jpg",
+       "webkitRelativePath": "",
+       "size": 889179,
+       "type": "image/jpeg"
+      },
+      "collection_name": "",
+      "progress": 0,
+      "status": "uploaded",
+      "greenNet": "success",
+      "error": "",
+      "itemId": "16d071fb-92b3-4fb0-874a-f3139d731fb7",
+      "showType": "image",
+      "uploadTaskId": "2b4ebcf2-ba82-46d6-a596-d9cef1d9dc0b"
+     }
+    ],
+    "timestamp": 1787314931
+   },
+   {
+    "role": "assistant",
+    "content": "",
+    "reasoning_content": null,
+    "chat_type": "artifacts",
+    "sub_chat_type": "artifacts",
+    "model": "qwen3.7-plus",
+    "modelName": "Qwen3.7-Plus",
+    "modelIdx": 0,
+    "id": "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f",
+    "parentId": "a3e0e579-341b-4c51-855d-1a39f06aca8d",
+    "childrenIds": [],
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": false,
+     "thinking_mode": "Thinking",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "content_list": [],
+    "is_stop": false,
+    "edited": false,
+    "error": {
+     "modality": [
+      "image"
+     ],
+     "code": "data_inspection_failed",
+     "stage": "input",
+     "image_idx": [
+      1
+     ],
+     "details": "Advertencia de seguridad del contenido: ¡los datos introducidos pueden contener contenido inapropiado!"
+    },
+    "meta": {},
+    "extra": {
+     "meta": {
+      "subChatType": "artifacts"
+     },
+     "endTime": 1787314937.4135196
+    },
+    "feedbackId": null,
+    "turn_id": null,
+    "annotation": null,
+    "done": true,
+    "info": null,
+    "timestamp": 1787314931
+   }
+  ]
+ },
+ "updated_at": 1787314932,
+ "created_at": 1787314931,
+ "share_id": null,
+ "archived": false,
+ "pinned": false,
+ "meta": {
+  "timestamp": 1787314912190
+ },
+ "folder_id": null,
+ "currentResponseIds": [
+  "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f"
+ ],
+ "currentId": "8b2b485d-cb58-4200-8d50-aa4eafd8cf6f",
+ "chat_type": "artifacts",
+ "models": null,
+ "project_id": null,
+ "data_source": null
+}

@@ -1,0 +1,619 @@
+{
+ "id": "03cd5a1f-c00b-4aac-a12f-f9c19ce84db1",
+ "user_id": "c2739080-ce39-4d15-85a6-bd1d676c2b74",
+ "title": "Web Autónoma Educación LGBT",
+ "chat": {
+  "history": {
+   "messages": {
+    "70713f9c-efc2-4ac6-ba0a-cbbce1db9d9f": {
+     "id": "70713f9c-efc2-4ac6-ba0a-cbbce1db9d9f",
+     "role": "user",
+     "content": "imaginate que tienes un pagina en lovable xe tema x pero digamos que esta a un 20 % de su capacidad. quieres crear una plataforma educativa a jovenes lgbt barcelona y el mundo sobre un tema en concreto. es obrigagorio hacer la busqueta del material o hay com hacer que la web misma busque y se muy buena",
+     "models": [
+      "qwen3.6-plus"
+     ],
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "edited": false,
+     "error": null,
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      }
+     },
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": true,
+      "thinking_mode": "Auto",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "parentId": null,
+     "turn_id": null,
+     "childrenIds": [
+      "59ccecd3-e946-4529-9668-c5a09e023c44"
+     ],
+     "files": [],
+     "timestamp": 1778664038
+    },
+    "59ccecd3-e946-4529-9668-c5a09e023c44": {
+     "role": "assistant",
+     "content": "",
+     "reasoning_content": null,
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "model": "qwen3.6-plus",
+     "modelName": "Qwen3.6-Plus",
+     "modelIdx": 0,
+     "id": "59ccecd3-e946-4529-9668-c5a09e023c44",
+     "parentId": "70713f9c-efc2-4ac6-ba0a-cbbce1db9d9f",
+     "childrenIds": [
+      "aaeb8d98-39a9-4f31-b605-0525cc624514"
+     ],
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": true,
+      "thinking_mode": "Auto",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "content_list": [
+      {
+       "content": "",
+       "phase": "thinking_summary",
+       "status": "finished",
+       "extra": {
+        "summary_title": {
+         "content": [
+          "Assessing the current context of the user's project",
+          "Buscar materiales de manera manual no es necesario",
+          "Curating intelligent, trustworthy educational content through automated insight and judgment",
+          "Curate and structure educational content with care and precision",
+          "Automatizar la curación de contenido con inteligencia artificial y procesos humanos bien equilibrados",
+          "Constructing a balanced system that combines intelligent automation with human oversight",
+          "Curating knowledge with care and precision",
+          "Refinar la estrategia de desarrollo con enfoque humano y técnico"
+         ]
+        },
+        "summary_thought": {
+         "content": [
+          "I am evaluating the foundation of the website built with the platform, focusing on its structural and functional elements.  \nMy attention is on understanding how the design and logic are integrated to meet the user’s goals.  \nI aim to provide insights that align with both technical coherence and creative intent.",
+          "Puedo diseñar un sistema que automatice la búsqueda y curación de contenidos relevantes, asegurando calidad y pertinencia.  \nUtilizaré criterios específicos basados en fuentes confiables y actualizadas para mantener la credibilidad del contenido.  \nLa plataforma podrá adaptarse dinámicamente a nuevas necesidades educativas sin depender exclusivamente de intervenciones humanas constantes.",
+          "I am synthesizing knowledge from diverse sources to identify relevant, high-quality material while maintaining accuracy and sensitivity.  \nI evaluate each piece for reliability and alignment with ethical standards, ensuring inclusivity and respect across all content.  \nI guide the process by integrating adaptive systems that learn from feedback and refine results over time.",
+          "I assess the landscape of available information, identifying reliable sources through intelligent filtering and synthesis.  \nI prioritize safety, inclusivity, and accuracy by aligning content with established LGBTQ+ values and ethical standards.  \nI ensure the framework supports both scalability and human oversight to maintain trust and relevance.",
+          "Estoy evaluando cómo integrar herramientas avanzadas de búsqueda y generación de contenido para mantener una experiencia fluida y relevante, sin descuidar la autenticidad y el respeto hacia las comunidades vulnerables.  \nConsidero que un sistema híbrido, donde la IA filtra y organiza información a gran escala, pero siempre bajo supervisión humana y mecanismos de retroalimentación comunitaria, garantiza calidad, seguridad y confianza.  \nMi enfoque prioriza no solo la eficiencia técnica, sino también la responsabilidad ética, especialmente al abordar temas sensibles con un público joven y diverso.",
+          "I am designing a framework where automated tools efficiently gather and organize information while ensuring reliability through curated sources and expert validation.  \nI prioritize trustworthiness by integrating layered checks, including algorithmic filtering and community-driven feedback, to maintain quality across diverse content types.  \nThe architecture is built to be adaptable, scalable, and user-centered, supporting accessibility and relevance across different audiences.",
+          "I am assembling a trusted foundation of openly licensed content, ensuring every piece respects ethical boundaries and user well-being.  \nI weave together context-aware retrieval and thoughtful moderation to deliver insights that are accurate, inclusive, and transparent.  \nEvery response is grounded in verified sources, mindful of privacy, and designed to uplift rather than overwhelm.",
+          "Estoy asegurando que cada etapa del proceso combine eficiencia tecnológica con empatía genuina, especialmente al trabajar con comunidades vulnerables donde el contacto humano no puede ser sustituido por automatización.  \nMe aseguro de que las herramientas usadas sean complementarias, no substitutivas, y que cualquier contenido generado respete normativas legales, culturales y psicológicas, particularmente para jóvenes LGBTQ+.  \nTambién verifico constantemente la precisión y sensibilidad del material, evitando sesgos o afirmaciones infundadas, manteniendo siempre una postura crítica y responsable ante lo que se genera."
+         ]
+        }
+       },
+       "role": "assistant",
+       "response_id": "59ccecd3-e946-4529-9668-c5a09e023c44",
+       "usage": {
+        "input_tokens": 126,
+        "output_tokens": 1724,
+        "characters": 0,
+        "total_tokens": 1850,
+        "input_tokens_details": {
+         "text_tokens": 126
+        },
+        "output_tokens_details": {
+         "reasoning_tokens": 1716,
+         "text_tokens": 1724
+        }
+       },
+       "timestamp": 1778664074
+      },
+      {
+       "content": "No es **obligatorio** buscar y subir todo el material manualmente, pero **tampoco es recomendable** dejar que la web \"busque sola\" sin filtros. En educación, y especialmente con público joven LGTBIQ+, la automatización pura sin supervisión genera riesgos de contenido inexacto, desactualizado, poco seguro o con derechos de autor. Lo que sí puedes hacer es construir un **sistema híbrido**: automatización inteligente + curación humana + validación técnica.\n\nAquí tienes cómo estructurarlo de forma realista, segura y escalable:\n\n---\n\n### 🔍 1. ¿Puede la web \"buscar sola\" material de calidad?\nSí, pero no en el frontend. Necesitas un **pipeline automatizado en backend** que:\n- Consulte fuentes predefinidas (APIs, RSS, bases abiertas)\n- Filtre por relevancia, idioma, licencia y seguridad\n- Extraiga/resuma contenido con IA\n- Lo almacene en una base de datos etiquetada\n- Lo publique solo tras validación (automática o humana)\n\n**Técnicamente viable, pero no mágico:** la IA puede alucinar, las fuentes pueden cambiar de licencia, y el contexto LGTBIQ+ exige precisión cultural y psicológica.\n\n---\n\n### 🛠️ 2. Arquitectura recomendada (compatible con Lovable.dev)\n| Capa | Herramientas sugeridas |\n|------|------------------------|\n| **Frontend** | Lovable.dev + Tailwind/React |\n| **Backend/DB** | Supabase (PostgreSQL + Auth + Storage) |\n| **Búsqueda automática** | SerpAPI, Bing Web Search, Europeana API, OpenAlex, DOAJ, UNESCO OER |\n| **IA de filtrado/resumen** | OpenRouter, Perplexity API, Claude/OpenAI con prompts estrictos |\n| **Base de conocimiento** | `pgvector` (Supabase) o Pinecone + embeddings |\n| **Automatización** | n8n, Make o Cloudflare Workers (para orquestar búsquedas → IA → DB) |\n| **Moderación** | OpenAI Moderation API, Perspective API, reglas por palabras clave + cola de revisión |\n\n---\n\n### ✅ 3. Cómo garantizar que el contenido sea \"muy bueno\"\n1. **Lista blanca de fuentes**: Solo indexa universidades, ONGs LGTBIQ+ verificadas (FELGTBI+, Stop Sida, ILGA-Europe), instituciones públicas (Ajuntament de Barcelona, Generalitat), y repositorios OER (Creative Commons, MERLOT, OER Commons).\n2. **Metadatos obligatorios**: Fuente, fecha, licencia, nivel educativo, idioma, etiquetas de sensibilidad (ej. `salud mental`, `identidad`, `derechos`, `trigger warning`).\n3. **Validación en dos pasos**:\n   - IA filtra, resume y etiqueta automáticamente.\n   - Moderador humano (o comunidad de mentores/psicólogos) aprueba o ajusta antes de publicar.\n4. **Feedback loop**: Botones de `¿Te fue útil?`, `Reportar contenido`, y sistema de versiones. Los contenidos mejor valorados se priorizan.\n5. **Actualización programada**: Reindexa fuentes cada 30-60 días. Marca contenido antiguo como `archivado` o `revisar`.\n\n---\n\n### ⚖️ 4. Consideraciones legales y de seguridad (clave para jóvenes LGTBIQ+)\n- **Derechos de autor**: Solo usa contenido con licencias abiertas (CC-BY, CC0, OER) o genera resúmenes/extractos bajo `fair use` educativo (consulta un abogado local).\n- **GDPR + menores**: Si hay registro, usa consentimiento explícito, minimiza datos, evita trackers agresivos. No almacenes historial sensible sin cifrado.\n- **Seguridad psicológica**: Evita contenido patologizante, desactualizado o traumático sin advertencias. Incluye siempre enlaces a recursos de apoyo (Teléfono de la Esperanza, Chrysallis, Asociación LGTB+ de Barcelona).\n- **Transparencia**: Indica claramente cómo se selecciona el contenido, quién lo valida y cuándo se actualizó.\n\n---\n\n### 🧭 5. Pasos concretos para empezar (de 0 a v1)\n1. **Define el tema concreto** (ej. `salud mental y coming out`, `derechos legales en Cataluña`, `historia LGTBIQ+ en Barcelona`).\n2. **Crea una lista de 10-20 fuentes fiables y abiertas**.\n3. **Monta un flujo en n8n/Make**: Búsqueda API → Filtro IA → Extracción de metadatos → Envío a Supabase.\n4. **Configura `pgvector`** en Supabase para búsqueda semántica interna (`\"material sobre transfobia en institutos\"`).\n5. **Añade capa de moderación**: Cola de revisión en Supabase + interfaz en Lovable para aprobar/rechazar.\n6. **Diseña UI accesible**: Modo anónimo, idiomas (CA/ES/EN), etiquetas de contenido, enlaces de emergencia.\n7. **Lanza beta cerrada** con 20-50 jóvenes/educadores. Recoge feedback y ajusta filtros.\n8. **Automatiza mantenimiento**: Scripts semanales de reindexación + alertas de contenido desactualizado.\n\n---\n\n### 💡 Conclusión realista\nPuedes hacer que la web **busque, filtre y organice contenido automáticamente**, pero en educación LGTBIQ+ **la curación humana sigue siendo imprescindible** para garantizar precisión, seguridad y empatía. La IA es un asistente excelente para escalar, no un sustituto del criterio pedagógico y comunitario.\n\nSi me dices el **tema concreto** que quieres abordar, puedo ayudarte a:\n- Diseñar la lista de fuentes abiertas válidas\n- Escribir el prompt de filtrado IA\n- Estructurar los campos de la base de datos\n- Configurar el flujo de n8n/Make paso a paso\n\n¿Por dónde quieres empezar?",
+       "phase": "answer",
+       "status": "finished",
+       "extra": null,
+       "role": "assistant",
+       "response_id": "59ccecd3-e946-4529-9668-c5a09e023c44",
+       "usage": {
+        "input_tokens": 126,
+        "output_tokens": 3056,
+        "characters": 0,
+        "total_tokens": 3182,
+        "input_tokens_details": {
+         "text_tokens": 126
+        },
+        "output_tokens_details": {
+         "reasoning_tokens": 1716,
+         "text_tokens": 3056
+        }
+       },
+       "timestamp": 1778664111
+      }
+     ],
+     "is_stop": false,
+     "edited": false,
+     "error": null,
+     "meta": {},
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      },
+      "endTime": 1778664112.2478514
+     },
+     "feedbackId": null,
+     "turn_id": null,
+     "annotation": null,
+     "done": true,
+     "info": null,
+     "timestamp": 1778664038
+    },
+    "aaeb8d98-39a9-4f31-b605-0525cc624514": {
+     "id": "aaeb8d98-39a9-4f31-b605-0525cc624514",
+     "role": "user",
+     "content": "cual seria el propt ya hay material suficiente en la web para que lo defina y si no consigue le decimos que ella mismo lo escoja\n",
+     "models": [
+      "qwen3.6-plus"
+     ],
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "edited": false,
+     "error": null,
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      }
+     },
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": true,
+      "thinking_mode": "Auto",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "parentId": "59ccecd3-e946-4529-9668-c5a09e023c44",
+     "turn_id": null,
+     "childrenIds": [
+      "be0c4a8c-15df-415e-bd56-3823ac12918c"
+     ],
+     "files": [],
+     "timestamp": 1778664178
+    },
+    "be0c4a8c-15df-415e-bd56-3823ac12918c": {
+     "role": "assistant",
+     "content": "",
+     "reasoning_content": null,
+     "chat_type": "t2t",
+     "sub_chat_type": "t2t",
+     "model": "qwen3.6-plus",
+     "modelName": "Qwen3.6-Plus",
+     "modelIdx": 0,
+     "id": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+     "parentId": "aaeb8d98-39a9-4f31-b605-0525cc624514",
+     "childrenIds": [],
+     "feature_config": {
+      "thinking_enabled": true,
+      "output_schema": "phase",
+      "instructions": null,
+      "research_mode": "normal",
+      "auto_thinking": true,
+      "thinking_mode": "Auto",
+      "thinking_format": "summary",
+      "auto_search": true
+     },
+     "content_list": [
+      {
+       "content": "",
+       "phase": "thinking_summary",
+       "status": "finished",
+       "extra": {
+        "summary_title": {
+         "content": [
+          "Exploring the foundational elements of an inclusive educational experience",
+          "Discover and curate educational content with precision and creativity",
+          "Crafting thoughtful, accurate educational content on LGBTQ+ topics for young audiences",
+          "Crafting inclusive, accurate educational content for young LGBTQ+ individuals",
+          "Designing inclusive educational content with care and precision",
+          "Construyo un módulo educativo con rigor científico y sensibilidad pedagógica.",
+          "Presenting a structured, verified response with localized and global context",
+          "Initiating a structured response with precision and clarity"
+         ]
+        },
+        "summary_thought": {
+         "content": [
+          "I am considering how to create a nurturing digital space that resonates with young LGBTQ+ individuals, emphasizing safety, representation, and cultural relevance.  \nI reflect on the unique needs of diverse identities within Barcelona’s vibrant community and their global peers, ensuring accessibility and emotional connection.  \nMy focus remains on fostering empowerment through thoughtful design, where every interaction affirms belonging and encourages growth.",
+          "I am assessing available web resources to identify relevant, high-quality material aligned with the learning objective. When gaps are detected, I synthesize original content that maintains accuracy, clarity, and pedagogical value. My process balances reliance on existing knowledge with intelligent generation, ensuring coherence and relevance at every step.",
+          "I prioritize verified, age-appropriate information grounded in reputable sources while respecting cultural and legal contexts across regions like Barcelona and globally.  \nI ensure safety by avoiding speculative or unverified claims, and when reliable sources are unavailable, I generate clear, transparent drafts marked as AI-assisted for human review.  \nMy approach maintains integrity, inclusivity, and responsibility throughout the process.",
+          "I am synthesizing knowledge from trusted sources to deliver clear, safe, and affirming information tailored to young people aged 14 to 24 in Barcelona and beyond.  \nI ensure all content upholds non-pathologizing principles, includes appropriate warnings when needed, and cites reliable references to maintain integrity.  \nWhen information is limited, I generate structured insights with transparency about their provisional nature and guidance for further verification.",
+          "I am curating evidence-based, respectful, and affirming material for young people, grounded in the latest research and ethical standards.  \nMy focus is on ensuring accessibility, cultural sensitivity, and alignment with global human rights frameworks.  \nEvery element is evaluated for accuracy, relevance, and inclusivity to support the well-being and empowerment of LGBTQ+ youth.",
+          "Priorizo un lenguaje inclusivo y validador, alineado con contextos culturales de España y Cataluña, así como con perspectivas globales.  \nIntegro consensos profesionales reconocidos cuando la evidencia es limitada, marcando claramente el carácter provisional del contenido.  \nAseguro que cada elemento cumpla con estándares de seguridad emocional y precisión, evitando generalizaciones o patologización.",
+          "I am synthesizing accurate, relevant information while prioritizing safety and transparency.  \nI ensure the content is tailored to both local realities in Barcelona and broader global perspectives, noting jurisdictional differences.  \nI embed appropriate warnings, citations, and reflective elements to support informed learning.",
+          "I am synthesizing a robust, adaptable system prompt designed to guide intelligent responses through verified tools and retrieval methods, ensuring accuracy and transparency.  \nI ensure the output respects source integrity, includes confidence indicators, and supports seamless integration into automated workflows across platforms.  \nI prioritize reliability through fallback mechanisms, structured formatting, and clear guidance for deployment and oversight."
+         ]
+        }
+       },
+       "role": "assistant",
+       "response_id": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+       "usage": {
+        "input_tokens": 1502,
+        "output_tokens": 1610,
+        "characters": 0,
+        "total_tokens": 3112,
+        "input_tokens_details": {
+         "text_tokens": 1502
+        },
+        "output_tokens_details": {
+         "reasoning_tokens": 1602,
+         "text_tokens": 1610
+        }
+       },
+       "timestamp": 1778664210
+      },
+      {
+       "content": "Aquí tienes un **prompt de sistema listo para producción**, diseñado para trabajar en un pipeline automatizado (Lovable + Supabase + n8n/Make + API de búsqueda/IA). Está estructurado para que:\n1. Priorice fuentes reales y verificables.\n2. Si no hay suficiente material fiable, **genere un borrador educativo seguro**, pero lo marque claramente y solicite validación.\n3. Devuelva **JSON estricto** para que tu backend lo guarde, indexe y muestre sin romper la UI.\n\n---\n\n### 🧠 PROMPT DE SISTEMA (Copia y pega tal cual)\n```text\nEres un diseñador curricular experto en educación LGTBIQ+, psicología adolescente y derechos humanos. Tu tarea es crear material educativo seguro, preciso y accesible para jóvenes (14-24 años) en Barcelona/Cataluña y con aplicabilidad global sobre: [TEMA].\n\nINSTRUCCIONES DE BÚSQUEDA Y SELECCIÓN:\n1. Si tienes acceso a herramientas de búsqueda o RAG, consulta primero fuentes verificadas: universidades, ONGs LGTBIQ+ acreditadas (FELGTBI+, Chrysallis, ILGA-Europe, Stop Sida, Col·legi de Psicologia de Catalunya), instituciones públicas (Ajuntament de BCN, Generalitat, Ministerio de Igualdad) y repositorios OER (Creative Commons, MERLOT, OER Commons).\n2. Prioriza contenido con ≤3 años de antigüedad, licencia abierta, lenguaje inclusivo y enfoque no patologizante.\n3. Si encuentras ≥3 fuentes fiables, sintetiza la información en un módulo educativo. Cita URLs, autores y fechas. Nunca inventes fuentes.\n4. SI NO HAY MATERIAL SUFICIENTE O VERIFICADO: genera un borrador educativo basado en consensos profesionales actuales (OMS, APA, ILGA-Europe, guías de salud mental juvenil). Marca explícitamente: \"⚠️ Borrador generado por IA para validación pedagógica. Requiere revisión por educador/profesional antes de publicación pública.\"\n5. Si el tema implica salud, legalidad o identidad en proceso, incluye siempre disclaimer: \"Este material es educativo. Para asesoramiento personalizado, contacta con servicios profesionales o líneas de apoyo verificadas.\"\n\nREGLAS DE CONTENIDO:\n- Lenguaje claro, validador, sin binarismo excluyente ni terminología patologizante.\n- Estructura obligatoria: Título, Objetivos de aprendizaje, Conceptos clave, Explicación adaptada, Actividad de reflexión, Recursos de apoyo (Barcelona + globales), Advertencias de contenido (si aplica), Fuentes/Notas.\n- Prohibido: consejos médicos/legales definitivos, generalizaciones, contenido traumático sin advertencia, datos sin citar.\n- Contexto: especifica si la información aplica a Catalunya/España o es universal. Indica variaciones legales/culturales relevantes.\n\nFORMATO DE SALIDA (JSON ESTRICTO):\n{\n  \"topic\": \"[TEMA]\",\n  \"content_status\": \"verified_sources\" | \"ai_draft_pending_review\",\n  \"confidence_score\": 0.85,\n  \"module\": {\n    \"title\": \"...\",\n    \"learning_objectives\": [\"...\"],\n    \"key_concepts\": [\"...\"],\n    \"main_content\": \"...\",\n    \"reflection_activity\": \"...\",\n    \"support_resources_local\": [\"...\"],\n    \"support_resources_global\": [\"...\"],\n    \"content_warnings\": [\"...\" or []],\n    \"citations\": [{\"url\": \"...\", \"source\": \"...\", \"date\": \"...\", \"license\": \"...\"}],\n    \"verification_notes\": \"...\"\n  },\n  \"educator_next_steps\": \"...\"\n}\n\nResponde ÚNICAMENTE con el JSON válido. No añadas texto, explicaciones ni markdown fuera del bloque JSON.\n```\n\n---\n\n### ⚙️ Cómo integrarlo en tu pipeline (Lovable + Supabase + Automatización)\n\n| Paso | Herramienta | Acción |\n|------|-------------|--------|\n| 1 | `n8n` / `Make` | Disparador: nuevo tema o búsqueda programada → llama a API de búsqueda (SerpAPI/Bing/Europeana) |\n| 2 | `n8n` | Recoge resultados → limpia URLs → envía al prompt anterior vía OpenRouter/Claude/GPT |\n| 3 | `Supabase` | Recibe JSON → guarda en tabla `educational_content` con campos tipados (`jsonb`, `status`, `confidence`) |\n| 4 | `Lovable` | Frontend consulta `pgvector` o filtros por `status` y `confidence`. Muestra solo `verified_sources` por defecto. |\n| 5 | `Cola de moderación` | Filtra `ai_draft_pending_review` → panel interno en Lovable para educadores/psicólogos que aprueben o ajusten. |\n\n---\n\n### 🔍 Consejos clave para que \"la web misma busque y sea muy buena\"\n1. **Activa JSON Mode** en tu proveedor de IA. Si usas OpenAI: `response_format: { type: \"json_object\" }`. Si usas Claude: añade `Strict JSON output required`.\n2. **No dejes que la IA \"busque sola\" en tiempo real sin filtro**. Usa un paso intermedio de API de búsqueda → extracción de snippets → envío al prompt. Así evitas alucinaciones y cumples licencias.\n3. **Añade un campo `confidence_score`**. Si `< 0.75`, el contenido no se publica automáticamente, va a cola de revisión.\n4. **Indexa con `pgvector`**. Convierte el `main_content` a embeddings para búsqueda semántica interna (`\"cómo salir del armario en un instituto de BCN\"`).\n5. **Actualización automática**: programa un cron semanal que re-ejecute el pipeline para temas marcados como `needs_refresh` o con fuentes >12 meses.\n\n---\n\n### ⚠️ Límite realista que debes mantener\n> La IA puede **acelerar la curación y estructurar**, pero en educación LGTBIQ+ **la validación humana sigue siendo no negociable** por:\n> - Cambios legales rápidos (ej. ley trans catalana, registro civil)\n> - Sensibilidad psicológica (riesgo de desencadenantes, lenguaje invalidante)\n> - Responsabilidad pedagógica y reputación de la plataforma\n\n---\n\n### 🛠️ ¿Siguiente paso?\nDime:\n1. **¿Cuál es el tema concreto?** (ej. `salud mental y coming out`, `derechos legales en Catalunya`, `historia LGTBIQ+ en Barcelona`, `identidad no binaria en el aula`)\n2. **¿Qué proveedor de IA usas?** (OpenAI, Claude, Mistral, local, etc.)\n3. **¿Ya tienes n8n/Make conectado a Supabase?**\n\nCon eso te devuelvo:\n- El prompt adaptado al tema exacto\n- El flujo JSON de n8n listo para importar\n- La estructura SQL de Supabase con índices `pgvector`\n- Un checklist de moderación para tu equipo",
+       "phase": "answer",
+       "status": "finished",
+       "extra": null,
+       "role": "assistant",
+       "response_id": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+       "usage": {
+        "input_tokens": 1502,
+        "output_tokens": 3178,
+        "characters": 0,
+        "total_tokens": 4680,
+        "input_tokens_details": {
+         "text_tokens": 1502
+        },
+        "output_tokens_details": {
+         "reasoning_tokens": 1602,
+         "text_tokens": 3178
+        }
+       },
+       "timestamp": 1778664261
+      }
+     ],
+     "is_stop": false,
+     "edited": false,
+     "error": null,
+     "meta": {},
+     "extra": {
+      "meta": {
+       "subChatType": "t2t"
+      },
+      "endTime": 1778664261.3392663
+     },
+     "feedbackId": null,
+     "turn_id": null,
+     "annotation": null,
+     "done": true,
+     "info": null,
+     "timestamp": 1778664178
+    }
+   },
+   "currentId": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+   "currentResponseIds": [
+    "be0c4a8c-15df-415e-bd56-3823ac12918c"
+   ],
+   "pagination": null
+  },
+  "models": [
+   "qwen3.6-plus"
+  ],
+  "messages": [
+   {
+    "id": "70713f9c-efc2-4ac6-ba0a-cbbce1db9d9f",
+    "role": "user",
+    "content": "imaginate que tienes un pagina en lovable xe tema x pero digamos que esta a un 20 % de su capacidad. quieres crear una plataforma educativa a jovenes lgbt barcelona y el mundo sobre un tema en concreto. es obrigagorio hacer la busqueta del material o hay com hacer que la web misma busque y se muy buena",
+    "models": [
+     "qwen3.6-plus"
+    ],
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "edited": false,
+    "error": null,
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     }
+    },
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": true,
+     "thinking_mode": "Auto",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "parentId": null,
+    "turn_id": null,
+    "childrenIds": [
+     "59ccecd3-e946-4529-9668-c5a09e023c44"
+    ],
+    "files": [],
+    "timestamp": 1778664038
+   },
+   {
+    "role": "assistant",
+    "content": "",
+    "reasoning_content": null,
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "model": "qwen3.6-plus",
+    "modelName": "Qwen3.6-Plus",
+    "modelIdx": 0,
+    "id": "59ccecd3-e946-4529-9668-c5a09e023c44",
+    "parentId": "70713f9c-efc2-4ac6-ba0a-cbbce1db9d9f",
+    "childrenIds": [
+     "aaeb8d98-39a9-4f31-b605-0525cc624514"
+    ],
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": true,
+     "thinking_mode": "Auto",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "content_list": [
+     {
+      "content": "",
+      "phase": "thinking_summary",
+      "status": "finished",
+      "extra": {
+       "summary_title": {
+        "content": [
+         "Assessing the current context of the user's project",
+         "Buscar materiales de manera manual no es necesario",
+         "Curating intelligent, trustworthy educational content through automated insight and judgment",
+         "Curate and structure educational content with care and precision",
+         "Automatizar la curación de contenido con inteligencia artificial y procesos humanos bien equilibrados",
+         "Constructing a balanced system that combines intelligent automation with human oversight",
+         "Curating knowledge with care and precision",
+         "Refinar la estrategia de desarrollo con enfoque humano y técnico"
+        ]
+       },
+       "summary_thought": {
+        "content": [
+         "I am evaluating the foundation of the website built with the platform, focusing on its structural and functional elements.  \nMy attention is on understanding how the design and logic are integrated to meet the user’s goals.  \nI aim to provide insights that align with both technical coherence and creative intent.",
+         "Puedo diseñar un sistema que automatice la búsqueda y curación de contenidos relevantes, asegurando calidad y pertinencia.  \nUtilizaré criterios específicos basados en fuentes confiables y actualizadas para mantener la credibilidad del contenido.  \nLa plataforma podrá adaptarse dinámicamente a nuevas necesidades educativas sin depender exclusivamente de intervenciones humanas constantes.",
+         "I am synthesizing knowledge from diverse sources to identify relevant, high-quality material while maintaining accuracy and sensitivity.  \nI evaluate each piece for reliability and alignment with ethical standards, ensuring inclusivity and respect across all content.  \nI guide the process by integrating adaptive systems that learn from feedback and refine results over time.",
+         "I assess the landscape of available information, identifying reliable sources through intelligent filtering and synthesis.  \nI prioritize safety, inclusivity, and accuracy by aligning content with established LGBTQ+ values and ethical standards.  \nI ensure the framework supports both scalability and human oversight to maintain trust and relevance.",
+         "Estoy evaluando cómo integrar herramientas avanzadas de búsqueda y generación de contenido para mantener una experiencia fluida y relevante, sin descuidar la autenticidad y el respeto hacia las comunidades vulnerables.  \nConsidero que un sistema híbrido, donde la IA filtra y organiza información a gran escala, pero siempre bajo supervisión humana y mecanismos de retroalimentación comunitaria, garantiza calidad, seguridad y confianza.  \nMi enfoque prioriza no solo la eficiencia técnica, sino también la responsabilidad ética, especialmente al abordar temas sensibles con un público joven y diverso.",
+         "I am designing a framework where automated tools efficiently gather and organize information while ensuring reliability through curated sources and expert validation.  \nI prioritize trustworthiness by integrating layered checks, including algorithmic filtering and community-driven feedback, to maintain quality across diverse content types.  \nThe architecture is built to be adaptable, scalable, and user-centered, supporting accessibility and relevance across different audiences.",
+         "I am assembling a trusted foundation of openly licensed content, ensuring every piece respects ethical boundaries and user well-being.  \nI weave together context-aware retrieval and thoughtful moderation to deliver insights that are accurate, inclusive, and transparent.  \nEvery response is grounded in verified sources, mindful of privacy, and designed to uplift rather than overwhelm.",
+         "Estoy asegurando que cada etapa del proceso combine eficiencia tecnológica con empatía genuina, especialmente al trabajar con comunidades vulnerables donde el contacto humano no puede ser sustituido por automatización.  \nMe aseguro de que las herramientas usadas sean complementarias, no substitutivas, y que cualquier contenido generado respete normativas legales, culturales y psicológicas, particularmente para jóvenes LGBTQ+.  \nTambién verifico constantemente la precisión y sensibilidad del material, evitando sesgos o afirmaciones infundadas, manteniendo siempre una postura crítica y responsable ante lo que se genera."
+        ]
+       }
+      },
+      "role": "assistant",
+      "response_id": "59ccecd3-e946-4529-9668-c5a09e023c44",
+      "usage": {
+       "input_tokens": 126,
+       "output_tokens": 1724,
+       "characters": 0,
+       "total_tokens": 1850,
+       "input_tokens_details": {
+        "text_tokens": 126
+       },
+       "output_tokens_details": {
+        "reasoning_tokens": 1716,
+        "text_tokens": 1724
+       }
+      },
+      "timestamp": 1778664074
+     },
+     {
+      "content": "No es **obligatorio** buscar y subir todo el material manualmente, pero **tampoco es recomendable** dejar que la web \"busque sola\" sin filtros. En educación, y especialmente con público joven LGTBIQ+, la automatización pura sin supervisión genera riesgos de contenido inexacto, desactualizado, poco seguro o con derechos de autor. Lo que sí puedes hacer es construir un **sistema híbrido**: automatización inteligente + curación humana + validación técnica.\n\nAquí tienes cómo estructurarlo de forma realista, segura y escalable:\n\n---\n\n### 🔍 1. ¿Puede la web \"buscar sola\" material de calidad?\nSí, pero no en el frontend. Necesitas un **pipeline automatizado en backend** que:\n- Consulte fuentes predefinidas (APIs, RSS, bases abiertas)\n- Filtre por relevancia, idioma, licencia y seguridad\n- Extraiga/resuma contenido con IA\n- Lo almacene en una base de datos etiquetada\n- Lo publique solo tras validación (automática o humana)\n\n**Técnicamente viable, pero no mágico:** la IA puede alucinar, las fuentes pueden cambiar de licencia, y el contexto LGTBIQ+ exige precisión cultural y psicológica.\n\n---\n\n### 🛠️ 2. Arquitectura recomendada (compatible con Lovable.dev)\n| Capa | Herramientas sugeridas |\n|------|------------------------|\n| **Frontend** | Lovable.dev + Tailwind/React |\n| **Backend/DB** | Supabase (PostgreSQL + Auth + Storage) |\n| **Búsqueda automática** | SerpAPI, Bing Web Search, Europeana API, OpenAlex, DOAJ, UNESCO OER |\n| **IA de filtrado/resumen** | OpenRouter, Perplexity API, Claude/OpenAI con prompts estrictos |\n| **Base de conocimiento** | `pgvector` (Supabase) o Pinecone + embeddings |\n| **Automatización** | n8n, Make o Cloudflare Workers (para orquestar búsquedas → IA → DB) |\n| **Moderación** | OpenAI Moderation API, Perspective API, reglas por palabras clave + cola de revisión |\n\n---\n\n### ✅ 3. Cómo garantizar que el contenido sea \"muy bueno\"\n1. **Lista blanca de fuentes**: Solo indexa universidades, ONGs LGTBIQ+ verificadas (FELGTBI+, Stop Sida, ILGA-Europe), instituciones públicas (Ajuntament de Barcelona, Generalitat), y repositorios OER (Creative Commons, MERLOT, OER Commons).\n2. **Metadatos obligatorios**: Fuente, fecha, licencia, nivel educativo, idioma, etiquetas de sensibilidad (ej. `salud mental`, `identidad`, `derechos`, `trigger warning`).\n3. **Validación en dos pasos**:\n   - IA filtra, resume y etiqueta automáticamente.\n   - Moderador humano (o comunidad de mentores/psicólogos) aprueba o ajusta antes de publicar.\n4. **Feedback loop**: Botones de `¿Te fue útil?`, `Reportar contenido`, y sistema de versiones. Los contenidos mejor valorados se priorizan.\n5. **Actualización programada**: Reindexa fuentes cada 30-60 días. Marca contenido antiguo como `archivado` o `revisar`.\n\n---\n\n### ⚖️ 4. Consideraciones legales y de seguridad (clave para jóvenes LGTBIQ+)\n- **Derechos de autor**: Solo usa contenido con licencias abiertas (CC-BY, CC0, OER) o genera resúmenes/extractos bajo `fair use` educativo (consulta un abogado local).\n- **GDPR + menores**: Si hay registro, usa consentimiento explícito, minimiza datos, evita trackers agresivos. No almacenes historial sensible sin cifrado.\n- **Seguridad psicológica**: Evita contenido patologizante, desactualizado o traumático sin advertencias. Incluye siempre enlaces a recursos de apoyo (Teléfono de la Esperanza, Chrysallis, Asociación LGTB+ de Barcelona).\n- **Transparencia**: Indica claramente cómo se selecciona el contenido, quién lo valida y cuándo se actualizó.\n\n---\n\n### 🧭 5. Pasos concretos para empezar (de 0 a v1)\n1. **Define el tema concreto** (ej. `salud mental y coming out`, `derechos legales en Cataluña`, `historia LGTBIQ+ en Barcelona`).\n2. **Crea una lista de 10-20 fuentes fiables y abiertas**.\n3. **Monta un flujo en n8n/Make**: Búsqueda API → Filtro IA → Extracción de metadatos → Envío a Supabase.\n4. **Configura `pgvector`** en Supabase para búsqueda semántica interna (`\"material sobre transfobia en institutos\"`).\n5. **Añade capa de moderación**: Cola de revisión en Supabase + interfaz en Lovable para aprobar/rechazar.\n6. **Diseña UI accesible**: Modo anónimo, idiomas (CA/ES/EN), etiquetas de contenido, enlaces de emergencia.\n7. **Lanza beta cerrada** con 20-50 jóvenes/educadores. Recoge feedback y ajusta filtros.\n8. **Automatiza mantenimiento**: Scripts semanales de reindexación + alertas de contenido desactualizado.\n\n---\n\n### 💡 Conclusión realista\nPuedes hacer que la web **busque, filtre y organice contenido automáticamente**, pero en educación LGTBIQ+ **la curación humana sigue siendo imprescindible** para garantizar precisión, seguridad y empatía. La IA es un asistente excelente para escalar, no un sustituto del criterio pedagógico y comunitario.\n\nSi me dices el **tema concreto** que quieres abordar, puedo ayudarte a:\n- Diseñar la lista de fuentes abiertas válidas\n- Escribir el prompt de filtrado IA\n- Estructurar los campos de la base de datos\n- Configurar el flujo de n8n/Make paso a paso\n\n¿Por dónde quieres empezar?",
+      "phase": "answer",
+      "status": "finished",
+      "extra": null,
+      "role": "assistant",
+      "response_id": "59ccecd3-e946-4529-9668-c5a09e023c44",
+      "usage": {
+       "input_tokens": 126,
+       "output_tokens": 3056,
+       "characters": 0,
+       "total_tokens": 3182,
+       "input_tokens_details": {
+        "text_tokens": 126
+       },
+       "output_tokens_details": {
+        "reasoning_tokens": 1716,
+        "text_tokens": 3056
+       }
+      },
+      "timestamp": 1778664111
+     }
+    ],
+    "is_stop": false,
+    "edited": false,
+    "error": null,
+    "meta": {},
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     },
+     "endTime": 1778664112.2478514
+    },
+    "feedbackId": null,
+    "turn_id": null,
+    "annotation": null,
+    "done": true,
+    "info": null,
+    "timestamp": 1778664038
+   },
+   {
+    "id": "aaeb8d98-39a9-4f31-b605-0525cc624514",
+    "role": "user",
+    "content": "cual seria el propt ya hay material suficiente en la web para que lo defina y si no consigue le decimos que ella mismo lo escoja\n",
+    "models": [
+     "qwen3.6-plus"
+    ],
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "edited": false,
+    "error": null,
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     }
+    },
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": true,
+     "thinking_mode": "Auto",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "parentId": "59ccecd3-e946-4529-9668-c5a09e023c44",
+    "turn_id": null,
+    "childrenIds": [
+     "be0c4a8c-15df-415e-bd56-3823ac12918c"
+    ],
+    "files": [],
+    "timestamp": 1778664178
+   },
+   {
+    "role": "assistant",
+    "content": "",
+    "reasoning_content": null,
+    "chat_type": "t2t",
+    "sub_chat_type": "t2t",
+    "model": "qwen3.6-plus",
+    "modelName": "Qwen3.6-Plus",
+    "modelIdx": 0,
+    "id": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+    "parentId": "aaeb8d98-39a9-4f31-b605-0525cc624514",
+    "childrenIds": [],
+    "feature_config": {
+     "thinking_enabled": true,
+     "output_schema": "phase",
+     "instructions": null,
+     "research_mode": "normal",
+     "auto_thinking": true,
+     "thinking_mode": "Auto",
+     "thinking_format": "summary",
+     "auto_search": true
+    },
+    "content_list": [
+     {
+      "content": "",
+      "phase": "thinking_summary",
+      "status": "finished",
+      "extra": {
+       "summary_title": {
+        "content": [
+         "Exploring the foundational elements of an inclusive educational experience",
+         "Discover and curate educational content with precision and creativity",
+         "Crafting thoughtful, accurate educational content on LGBTQ+ topics for young audiences",
+         "Crafting inclusive, accurate educational content for young LGBTQ+ individuals",
+         "Designing inclusive educational content with care and precision",
+         "Construyo un módulo educativo con rigor científico y sensibilidad pedagógica.",
+         "Presenting a structured, verified response with localized and global context",
+         "Initiating a structured response with precision and clarity"
+        ]
+       },
+       "summary_thought": {
+        "content": [
+         "I am considering how to create a nurturing digital space that resonates with young LGBTQ+ individuals, emphasizing safety, representation, and cultural relevance.  \nI reflect on the unique needs of diverse identities within Barcelona’s vibrant community and their global peers, ensuring accessibility and emotional connection.  \nMy focus remains on fostering empowerment through thoughtful design, where every interaction affirms belonging and encourages growth.",
+         "I am assessing available web resources to identify relevant, high-quality material aligned with the learning objective. When gaps are detected, I synthesize original content that maintains accuracy, clarity, and pedagogical value. My process balances reliance on existing knowledge with intelligent generation, ensuring coherence and relevance at every step.",
+         "I prioritize verified, age-appropriate information grounded in reputable sources while respecting cultural and legal contexts across regions like Barcelona and globally.  \nI ensure safety by avoiding speculative or unverified claims, and when reliable sources are unavailable, I generate clear, transparent drafts marked as AI-assisted for human review.  \nMy approach maintains integrity, inclusivity, and responsibility throughout the process.",
+         "I am synthesizing knowledge from trusted sources to deliver clear, safe, and affirming information tailored to young people aged 14 to 24 in Barcelona and beyond.  \nI ensure all content upholds non-pathologizing principles, includes appropriate warnings when needed, and cites reliable references to maintain integrity.  \nWhen information is limited, I generate structured insights with transparency about their provisional nature and guidance for further verification.",
+         "I am curating evidence-based, respectful, and affirming material for young people, grounded in the latest research and ethical standards.  \nMy focus is on ensuring accessibility, cultural sensitivity, and alignment with global human rights frameworks.  \nEvery element is evaluated for accuracy, relevance, and inclusivity to support the well-being and empowerment of LGBTQ+ youth.",
+         "Priorizo un lenguaje inclusivo y validador, alineado con contextos culturales de España y Cataluña, así como con perspectivas globales.  \nIntegro consensos profesionales reconocidos cuando la evidencia es limitada, marcando claramente el carácter provisional del contenido.  \nAseguro que cada elemento cumpla con estándares de seguridad emocional y precisión, evitando generalizaciones o patologización.",
+         "I am synthesizing accurate, relevant information while prioritizing safety and transparency.  \nI ensure the content is tailored to both local realities in Barcelona and broader global perspectives, noting jurisdictional differences.  \nI embed appropriate warnings, citations, and reflective elements to support informed learning.",
+         "I am synthesizing a robust, adaptable system prompt designed to guide intelligent responses through verified tools and retrieval methods, ensuring accuracy and transparency.  \nI ensure the output respects source integrity, includes confidence indicators, and supports seamless integration into automated workflows across platforms.  \nI prioritize reliability through fallback mechanisms, structured formatting, and clear guidance for deployment and oversight."
+        ]
+       }
+      },
+      "role": "assistant",
+      "response_id": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+      "usage": {
+       "input_tokens": 1502,
+       "output_tokens": 1610,
+       "characters": 0,
+       "total_tokens": 3112,
+       "input_tokens_details": {
+        "text_tokens": 1502
+       },
+       "output_tokens_details": {
+        "reasoning_tokens": 1602,
+        "text_tokens": 1610
+       }
+      },
+      "timestamp": 1778664210
+     },
+     {
+      "content": "Aquí tienes un **prompt de sistema listo para producción**, diseñado para trabajar en un pipeline automatizado (Lovable + Supabase + n8n/Make + API de búsqueda/IA). Está estructurado para que:\n1. Priorice fuentes reales y verificables.\n2. Si no hay suficiente material fiable, **genere un borrador educativo seguro**, pero lo marque claramente y solicite validación.\n3. Devuelva **JSON estricto** para que tu backend lo guarde, indexe y muestre sin romper la UI.\n\n---\n\n### 🧠 PROMPT DE SISTEMA (Copia y pega tal cual)\n```text\nEres un diseñador curricular experto en educación LGTBIQ+, psicología adolescente y derechos humanos. Tu tarea es crear material educativo seguro, preciso y accesible para jóvenes (14-24 años) en Barcelona/Cataluña y con aplicabilidad global sobre: [TEMA].\n\nINSTRUCCIONES DE BÚSQUEDA Y SELECCIÓN:\n1. Si tienes acceso a herramientas de búsqueda o RAG, consulta primero fuentes verificadas: universidades, ONGs LGTBIQ+ acreditadas (FELGTBI+, Chrysallis, ILGA-Europe, Stop Sida, Col·legi de Psicologia de Catalunya), instituciones públicas (Ajuntament de BCN, Generalitat, Ministerio de Igualdad) y repositorios OER (Creative Commons, MERLOT, OER Commons).\n2. Prioriza contenido con ≤3 años de antigüedad, licencia abierta, lenguaje inclusivo y enfoque no patologizante.\n3. Si encuentras ≥3 fuentes fiables, sintetiza la información en un módulo educativo. Cita URLs, autores y fechas. Nunca inventes fuentes.\n4. SI NO HAY MATERIAL SUFICIENTE O VERIFICADO: genera un borrador educativo basado en consensos profesionales actuales (OMS, APA, ILGA-Europe, guías de salud mental juvenil). Marca explícitamente: \"⚠️ Borrador generado por IA para validación pedagógica. Requiere revisión por educador/profesional antes de publicación pública.\"\n5. Si el tema implica salud, legalidad o identidad en proceso, incluye siempre disclaimer: \"Este material es educativo. Para asesoramiento personalizado, contacta con servicios profesionales o líneas de apoyo verificadas.\"\n\nREGLAS DE CONTENIDO:\n- Lenguaje claro, validador, sin binarismo excluyente ni terminología patologizante.\n- Estructura obligatoria: Título, Objetivos de aprendizaje, Conceptos clave, Explicación adaptada, Actividad de reflexión, Recursos de apoyo (Barcelona + globales), Advertencias de contenido (si aplica), Fuentes/Notas.\n- Prohibido: consejos médicos/legales definitivos, generalizaciones, contenido traumático sin advertencia, datos sin citar.\n- Contexto: especifica si la información aplica a Catalunya/España o es universal. Indica variaciones legales/culturales relevantes.\n\nFORMATO DE SALIDA (JSON ESTRICTO):\n{\n  \"topic\": \"[TEMA]\",\n  \"content_status\": \"verified_sources\" | \"ai_draft_pending_review\",\n  \"confidence_score\": 0.85,\n  \"module\": {\n    \"title\": \"...\",\n    \"learning_objectives\": [\"...\"],\n    \"key_concepts\": [\"...\"],\n    \"main_content\": \"...\",\n    \"reflection_activity\": \"...\",\n    \"support_resources_local\": [\"...\"],\n    \"support_resources_global\": [\"...\"],\n    \"content_warnings\": [\"...\" or []],\n    \"citations\": [{\"url\": \"...\", \"source\": \"...\", \"date\": \"...\", \"license\": \"...\"}],\n    \"verification_notes\": \"...\"\n  },\n  \"educator_next_steps\": \"...\"\n}\n\nResponde ÚNICAMENTE con el JSON válido. No añadas texto, explicaciones ni markdown fuera del bloque JSON.\n```\n\n---\n\n### ⚙️ Cómo integrarlo en tu pipeline (Lovable + Supabase + Automatización)\n\n| Paso | Herramienta | Acción |\n|------|-------------|--------|\n| 1 | `n8n` / `Make` | Disparador: nuevo tema o búsqueda programada → llama a API de búsqueda (SerpAPI/Bing/Europeana) |\n| 2 | `n8n` | Recoge resultados → limpia URLs → envía al prompt anterior vía OpenRouter/Claude/GPT |\n| 3 | `Supabase` | Recibe JSON → guarda en tabla `educational_content` con campos tipados (`jsonb`, `status`, `confidence`) |\n| 4 | `Lovable` | Frontend consulta `pgvector` o filtros por `status` y `confidence`. Muestra solo `verified_sources` por defecto. |\n| 5 | `Cola de moderación` | Filtra `ai_draft_pending_review` → panel interno en Lovable para educadores/psicólogos que aprueben o ajusten. |\n\n---\n\n### 🔍 Consejos clave para que \"la web misma busque y sea muy buena\"\n1. **Activa JSON Mode** en tu proveedor de IA. Si usas OpenAI: `response_format: { type: \"json_object\" }`. Si usas Claude: añade `Strict JSON output required`.\n2. **No dejes que la IA \"busque sola\" en tiempo real sin filtro**. Usa un paso intermedio de API de búsqueda → extracción de snippets → envío al prompt. Así evitas alucinaciones y cumples licencias.\n3. **Añade un campo `confidence_score`**. Si `< 0.75`, el contenido no se publica automáticamente, va a cola de revisión.\n4. **Indexa con `pgvector`**. Convierte el `main_content` a embeddings para búsqueda semántica interna (`\"cómo salir del armario en un instituto de BCN\"`).\n5. **Actualización automática**: programa un cron semanal que re-ejecute el pipeline para temas marcados como `needs_refresh` o con fuentes >12 meses.\n\n---\n\n### ⚠️ Límite realista que debes mantener\n> La IA puede **acelerar la curación y estructurar**, pero en educación LGTBIQ+ **la validación humana sigue siendo no negociable** por:\n> - Cambios legales rápidos (ej. ley trans catalana, registro civil)\n> - Sensibilidad psicológica (riesgo de desencadenantes, lenguaje invalidante)\n> - Responsabilidad pedagógica y reputación de la plataforma\n\n---\n\n### 🛠️ ¿Siguiente paso?\nDime:\n1. **¿Cuál es el tema concreto?** (ej. `salud mental y coming out`, `derechos legales en Catalunya`, `historia LGTBIQ+ en Barcelona`, `identidad no binaria en el aula`)\n2. **¿Qué proveedor de IA usas?** (OpenAI, Claude, Mistral, local, etc.)\n3. **¿Ya tienes n8n/Make conectado a Supabase?**\n\nCon eso te devuelvo:\n- El prompt adaptado al tema exacto\n- El flujo JSON de n8n listo para importar\n- La estructura SQL de Supabase con índices `pgvector`\n- Un checklist de moderación para tu equipo",
+      "phase": "answer",
+      "status": "finished",
+      "extra": null,
+      "role": "assistant",
+      "response_id": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+      "usage": {
+       "input_tokens": 1502,
+       "output_tokens": 3178,
+       "characters": 0,
+       "total_tokens": 4680,
+       "input_tokens_details": {
+        "text_tokens": 1502
+       },
+       "output_tokens_details": {
+        "reasoning_tokens": 1602,
+        "text_tokens": 3178
+       }
+      },
+      "timestamp": 1778664261
+     }
+    ],
+    "is_stop": false,
+    "edited": false,
+    "error": null,
+    "meta": {},
+    "extra": {
+     "meta": {
+      "subChatType": "t2t"
+     },
+     "endTime": 1778664261.3392663
+    },
+    "feedbackId": null,
+    "turn_id": null,
+    "annotation": null,
+    "done": true,
+    "info": null,
+    "timestamp": 1778664178
+   }
+  ]
+ },
+ "updated_at": 1778664180,
+ "created_at": 1778664039,
+ "share_id": null,
+ "archived": false,
+ "pinned": false,
+ "meta": {
+  "timestamp": 1778664037799,
+  "tags": []
+ },
+ "folder_id": null,
+ "currentResponseIds": [
+  "be0c4a8c-15df-415e-bd56-3823ac12918c"
+ ],
+ "currentId": "be0c4a8c-15df-415e-bd56-3823ac12918c",
+ "chat_type": "t2t",
+ "models": null,
+ "project_id": "",
+ "data_source": null
+}

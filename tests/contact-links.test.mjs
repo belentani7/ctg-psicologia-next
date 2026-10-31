@@ -37,3 +37,13 @@ test("privacy guidance precedes contact actions in DOM and keyboard reading orde
   assert.ok(contactNotice !== -1 && contactNotice < contactEmail && contactNotice < contactWhatsApp,
     "Contact privacy guidance must precede email and WhatsApp actions");
 });
+
+test("the landing page has one localized primary heading and a keyboard target", () => {
+  assert.match(home, /<main id="main-content" lang=\{locale\}>/);
+  assert.equal((home.match(/<h1\b/g) ?? []).length, 1);
+  assert.match(home, /<h1[^>]*>\{t\.heading\}<\/h1>/);
+  for (const title of ['Centro de Terapia Global', 'Centre de Teràpia Global', 'Global Therapy Centre']) {
+    assert.ok(home.includes(title), `Missing localized page heading: ${title}`);
+  }
+  assert.match(home, /\{t\.hero\}/, 'The existing editorial statement must remain visible');
+});

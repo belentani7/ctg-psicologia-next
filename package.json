@@ -10,7 +10,7 @@
     "test": "node --test test/"
   },
   "dependencies": {
-    "next": "^15.5.7",
+    "next": "^16.4.3",
     "react": "^19.2.1",
     "react-dom": "^19.2.1",
     "tesseract.js": "^5.1.1"

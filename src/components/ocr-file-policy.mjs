@@ -16,6 +16,15 @@ export function validateOcrFile(file) {
 }
 
 /**
+ * Normalize OCR output: a whitespace-only recognition is not a successful extraction.
+ * @param {unknown} value
+ * @returns {string}
+ */
+export function normalizeOcrText(value) {
+  return typeof value === 'string' ? value.trim() : '';
+}
+
+/**
  * Compare declared MIME with a minimal file signature before OCR worker startup.
  * Rejects obvious mismatches, not malicious payloads or corrupt decoded images.
  * @param {{ type: string, slice: (start: number, end: number) => Blob } | null | undefined} file

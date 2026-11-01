@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { MAX_OCR_FILE_BYTES, validateOcrFile, validateOcrImageSignature } from '../src/components/ocr-file-policy.mjs';
+import { MAX_OCR_FILE_BYTES, normalizeOcrText, validateOcrFile, validateOcrImageSignature } from '../src/components/ocr-file-policy.mjs';
 
 const file = (type, size) => ({ type, size });
 
@@ -66,4 +66,13 @@ test('unreadable image headers fail closed and OCR checks bytes before worker cr
   const workerStart = source.indexOf("await createWorker('spa')");
   assert.ok(signatureCheck !== -1 && workerStart > signatureCheck, 'header check must precede OCR worker startup');
   assert.match(source, /Comprobando formato de imagen/);
+});
+
+test('blank OCR output is not presented as a successful extraction', () => {
+  assert.equal(normalizeOcrText('  hola\nmundo  '), 'hola\nmundo');
+  assert.equal(normalizeOcrText('  \n\t  '), '');
+  assert.equal(normalizeOcrText(undefined), '');
+  const source = readFileSync(new URL('../src/components/OcrTool.tsx', import.meta.url), 'utf8');
+  assert.match(source, /const extractedText = normalizeOcrText\(data\.text\)/);
+  assert.match(source, /setStatus\(extractedText \? 'Texto extraído ✔' : 'No se detectó texto en la imagen/);
 });

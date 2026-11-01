@@ -7,3 +7,6 @@ export function validateOcrFile(
 export function validateOcrImageSignature(
   file: { type: string; slice(start: number, end: number): Blob } | null | undefined,
 ): Promise<'invalid-content' | null>;
+
+/** Trim recognized text and represent empty or invalid output as an empty string. */
+export function normalizeOcrText(value: unknown): string;

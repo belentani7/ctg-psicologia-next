@@ -2,7 +2,7 @@
 
 import { useState } from 'react';
 import { createWorker } from 'tesseract.js';
-import { validateOcrFile, validateOcrImageSignature } from './ocr-file-policy.mjs';
+import { normalizeOcrText, validateOcrFile, validateOcrImageSignature } from './ocr-file-policy.mjs';
 
 const FILE_ERRORS = {
   empty: 'Selecciona una imagen que no esté vacía.',
@@ -38,8 +38,9 @@ export default function OcrTool() {
       worker = await createWorker('spa');
       setStatus(`Leyendo ${file.name}…`);
       const { data } = await worker.recognize(file);
-      setResult(data.text);
-      setStatus('Texto extraído ✔');
+      const extractedText = normalizeOcrText(data.text);
+      setResult(extractedText);
+      setStatus(extractedText ? 'Texto extraído ✔' : 'No se detectó texto en la imagen. Prueba con otra imagen más nítida.');
     } catch {
       setStatus('No se pudo procesar la imagen. Prueba con otro archivo PNG, JPG o WebP.');
     } finally {

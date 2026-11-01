@@ -14,7 +14,7 @@ test("the homepage preserves an independent telephone and WhatsApp path", () => 
 });
 
 test("the service details and safe contact copy are localized", () => {
-  assert.match(home, /<main lang=\{locale\}>/);
+  assert.match(home, /<main\b[^>]*\blang=\{locale\}/);
   assert.match(home, /WhatsApp es un servicio externo/);
   assert.match(home, /WhatsApp és un servei extern/);
   assert.match(home, /WhatsApp is an external service/);

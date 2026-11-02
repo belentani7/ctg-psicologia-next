@@ -1,4 +1,5 @@
 import { readFileSync } from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -14,6 +15,21 @@ const blogPage = read('src/components/pages/BlogPage.tsx');
 const data = read('src/data/content.ts');
 
 const issues = [];
+
+// Release safety: this is a public repository. Chat exports must never be
+// silently included in its tracked tree. Do not print filenames or contents.
+try {
+  const trackedChats = execFileSync('git', ['ls-files', '--', 'chats/'], {
+    cwd: root,
+    encoding: 'utf8',
+    stdio: ['ignore', 'pipe', 'pipe'],
+  }).trim();
+  if (trackedChats) {
+    issues.push('Tracked chat archives require privacy review and removal from the public repository before release');
+  }
+} catch {
+  issues.push('Cannot verify tracked chat archives: a Git checkout is required for the release guard');
+}
 const phone = data.match(/\bphone:\s*'([^']+)'/);
 const email = data.match(/\bemail:\s*'([^']+)'/);
 if (!phone || !email) issues.push('canonical contact fields are missing');

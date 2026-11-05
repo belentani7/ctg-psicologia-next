@@ -1,4 +1,4 @@
-﻿import { Header, Footer } from '@/components/Layout';
+import { Header, Footer } from '@/components/Layout';
 import { services, Locale } from '@/data/content';
 
 export default function ServiciosPage({ locale }: { locale: Locale }) {

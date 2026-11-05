@@ -1,4 +1,4 @@
-﻿import { Header, Footer } from '@/components/Layout';
+import { Header, Footer } from '@/components/Layout';
 import { Locale } from '@/data/content';
 
 const T = {

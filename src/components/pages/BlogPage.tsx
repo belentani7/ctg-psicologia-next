@@ -1,4 +1,4 @@
-﻿import { Header, Footer } from '@/components/Layout';
+import { Header, Footer } from '@/components/Layout';
 import { blogPosts, Locale } from '@/data/content';
 
 export default function BlogPage({ locale }: { locale: Locale }) {

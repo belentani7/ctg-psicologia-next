@@ -1,4 +1,4 @@
-﻿import { Header, Footer } from '@/components/Layout';
+import { Header, Footer } from '@/components/Layout';
 import { contact, Locale } from '@/data/content';
 
 export default function ContactoPage({ locale }: { locale: Locale }) {

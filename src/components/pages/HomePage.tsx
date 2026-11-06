@@ -21,7 +21,7 @@ export default function HomePage({ locale }: { locale: Locale }) {
       <main>
         <section className="relative overflow-hidden bg-gradient-to-br from-brand-soft via-white to-brand-teal/10">
           <div className="max-w-4xl mx-auto px-4 py-24 text-center">
-            <p className="font-display text-2xl md:text-3xl text-brand-deep leading-relaxed italic">{t.hero}</p>
+            <h1 className="font-display text-2xl md:text-3xl text-brand-deep leading-relaxed italic">{t.hero}</h1>
             <a
               href={`https://wa.me/34605362664`}
               className="mt-10 inline-block bg-brand-amber text-white px-8 py-4 rounded-full font-semibold shadow-lg hover:bg-brand-amber/90 transition-colors"

@@ -10,41 +10,51 @@ export default function OcrTool() {
 
   async function handleFile(file: File) {
     if (!file) return;
+    if (!file.type.startsWith('image/')) {
+      setStatus('Selecciona una imagen PNG, JPG o WebP.');
+      return;
+    }
+
     setBusy(true);
     setResult('');
     setStatus('Cargando motor OCR…');
+    let worker: Awaited<ReturnType<typeof createWorker>> | null = null;
+
     try {
-      const worker = await createWorker('spa');
+      worker = await createWorker('spa');
       setStatus(`Leyendo ${file.name}…`);
       const { data } = await worker.recognize(file);
       setResult(data.text);
-      await worker.terminate();
-      setStatus('Texto extraído ✔');
+      setStatus('Texto extraído.');
     } catch (e) {
       setStatus(`Error: ${(e as Error).message}`);
     } finally {
+      if (worker) await worker.terminate();
       setBusy(false);
     }
   }
 
   return (
-    <section className="max-w-3xl mx-auto px-4 py-16">
-      <h1 className="font-display text-4xl text-brand-deep mb-4">OCR — Extract texto de imágenes/PDF</h1>
+    <section className="max-w-3xl mx-auto px-4 py-16" aria-busy={busy}>
+      <h1 className="font-display text-4xl text-brand-deep mb-4">OCR — Extrae texto de imágenes</h1>
       <p className="text-slate-600 mb-8">
-        Sube una imagen (PNG/JPG) o un PDF con texto escaneado y extrae su contenido en el navegador.
+        Sube una imagen (PNG, JPG o WebP) y extrae su contenido en el navegador.
       </p>
-      <label className="inline-block bg-brand-teal text-white px-8 py-4 rounded-full font-semibold hover:bg-brand-deep transition-colors cursor-pointer">
+      <label htmlFor="ocr-file" className="inline-flex min-h-11 cursor-pointer items-center rounded-full bg-brand-teal px-8 py-4 font-semibold text-white transition-colors hover:bg-brand-deep focus-within:outline focus-within:outline-2 focus-within:outline-offset-2 focus-within:outline-brand-teal">
         {busy ? 'Procesando…' : 'Elegir archivo'}
-        <input type="file" accept="image/*,application/pdf" className="hidden" onChange={(e) => e.target.files?.[0] && handleFile(e.target.files[0])} />
+        <input id="ocr-file" type="file" accept="image/png,image/jpeg,image/webp" disabled={busy} className="sr-only" onChange={(e) => e.target.files?.[0] && handleFile(e.target.files[0])} />
       </label>
-      <p className="mt-4 text-sm text-slate-500">{status}</p>
+      <p className="mt-4 text-sm text-slate-500" role="status" aria-live="polite">{status}</p>
       {result && (
-        <textarea
-          readOnly
-          value={result}
-          className="mt-6 w-full h-72 rounded-xl border border-slate-300 p-4 font-mono text-sm focus:outline-none focus:ring-2 focus:ring-brand-teal"
-          placeholder="Texto extraído…"
-        />
+        <>
+          <label htmlFor="ocr-result" className="sr-only">Texto extraído</label>
+          <textarea
+            id="ocr-result"
+            readOnly
+            value={result}
+            className="mt-6 h-72 w-full rounded-xl border border-slate-300 p-4 font-mono text-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal"
+          />
+        </>
       )}
     </section>
   );

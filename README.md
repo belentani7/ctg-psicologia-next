@@ -6,7 +6,7 @@ Web oficial del centro de psicología **cTg Psicología (Teràpia Global)** de L
 
 - **Web del centro**: páginas de inicio (con cita y llamada a la acción por WhatsApp), servicios (12 terapias), equipo (9 profesionales con sus credenciales), el centro, blog (artículos) y contacto con dirección, teléfono y email reales del centro.
 - **Multilingüe**: rutas dinámicas `/[locale]/...` con contenido íntegro en `es`, `ca` y `en` (definido en `src/data/content.ts`).
-- **OCR en el navegador** (`/ocr`): sube una imagen (PNG/JPG) o un PDF escaneado y extrae su texto con `tesseract.js` (idioma `spa`, con motor y datos servidos desde `public/`); el archivo no sale del dispositivo del usuario.
+- **OCR en el navegador** (`/ocr`): sube una imagen (PNG/JPG/WebP) y extrae su texto con `tesseract.js` (idioma `spa`, con motor y datos servidos desde `public/`); el archivo no sale del dispositivo del usuario.
 
 ## Stack
 

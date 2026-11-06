@@ -9,7 +9,7 @@ const config: Config = {
           teal: '#0f766e',
           soft: '#f0fdfa',
           deep: '#134e4a',
-          amber: '#d97706',
+          amber: '#b45309',
         },
       },
       fontFamily: {

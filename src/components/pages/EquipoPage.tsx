@@ -21,7 +21,7 @@ export default function EquipoPage({ locale }: { locale: Locale }) {
                   <h2 className="font-semibold text-lg text-brand-deep">{m.name}</h2>
                   <p className="text-sm text-brand-teal">{m.role[locale]}</p>
                   {m.colegiada && (
-                    <p className="text-xs text-slate-400 mt-1">{sub}: {m.colegiada}</p>
+                    <p className="text-xs text-slate-500 mt-1">{sub}: {m.colegiada}</p>
                   )}
                 </div>
               </div>

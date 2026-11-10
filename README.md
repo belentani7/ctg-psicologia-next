@@ -66,3 +66,77 @@ npm run start   # sirve el build standalone (node .next/standalone/server.js)
 ## Licencia
 
 [MIT](./LICENSE) © 2026 Belentani
+
+<!-- repo-forge:readme:inicio -->
+## Qué es
+
+**cTg Psicología** — web de centro sanitario (Next.js).
+
+Un artefacto editorial que respeta al lector: dato con fuente, voz con autoría, límite declarado.
+
+## Estado medido
+
+| Dato | Valor |
+|---|---|
+| Lenguajes | JavaScript, JSON, TypeScript, HTML, Markdown, CSS |
+| Archivos / líneas | 65 / 9559 |
+| Páginas HTML | 2 |
+| Tests detectados | 2 |
+| Cumplimiento de reglas | 37/37 (100.0%) |
+
+Todo lo anterior se midió en disco el 2026-11-10; no es una estimación.
+
+## Uso
+
+```bash
+npm install
+npm run dev
+```
+
+## Estructura
+
+```
+assets/
+brand/
+data/
+docs/
+plataforma/
+producto/
+public/
+scripts/
+site/
+src/
+```
+
+## Diseño de plataforma
+
+- Especialidades
+- Equipo
+- Reserva
+- Blog clínico
+- Legal
+
+La ficha completa —máximo potencial, marca, fases de monetización y recursos— vive en
+[`plataforma/FICHA.md`](plataforma/FICHA.md). Los tokens de marca están en
+[`brand/tokens.css`](brand/tokens.css).
+
+## Reglas del proyecto
+
+Este repositorio sigue el catálogo oficial del ecosistema (`GH-*`, `WEB-*`, `ACC-*`,
+`SEO-*`, `COH-*`, `DEV-*`). El gate se ejecuta con:
+
+```bash
+python scripts/doctor.py
+```
+
+## Licencia
+
+MIT. Ver [`LICENSE`](LICENSE).
+<!-- repo-forge:readme:fin -->
+<!-- repo-forge:readme:fin -->
+<!-- repo-forge:readme:fin -->
+<!-- repo-forge:readme:fin -->
+
+## Producto
+
+Oferta, precio y cobro: [`producto/OFERTA.md`](producto/OFERTA.md) · [`producto/precios.json`](producto/precios.json) · [`producto/landing.html`](producto/landing.html)

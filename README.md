@@ -66,3 +66,7 @@ npm run start   # sirve el build standalone (node .next/standalone/server.js)
 ## Licencia
 
 [MIT](./LICENSE) © 2026 Belentani
+
+
+## Producto
+Véase `plataforma/OFERTA.md`, `plataforma/precios.json`, `plataforma/ONEPAGER.md`.

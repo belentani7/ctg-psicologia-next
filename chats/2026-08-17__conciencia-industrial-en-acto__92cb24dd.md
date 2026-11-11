@@ -7,795 +7,1584 @@
 
 ## [USER] 2026-08-17 01:14
 
-Sí. Lo que describes no es una “web normal”: es más bien **un organismo industrial de NOIACORE que el usuario ha descubierto accidentalmente**. No sabe si está viendo una interfaz, un centro logístico, una colonia o varias conciencias intentando entenderse entre ellas.
-
-La clave es que **no debe parecer diseñada para el visitante**.
-
-Te haría la experiencia con estas reglas:
-
-* Nada está siempre en el mismo lugar.
-* La interfaz **se reorganiza lentamente**.
-* Aparecen procesos sin explicación.
-* Algunas cosas cargan y desaparecen.
-* Hay “cintas” que transportan paquetes de información.
-* Los elementos parecen comunicarse entre sí.
-* Algunas ventanas se contradicen.
-* A veces aparece un botón durante 2–4 segundos y desaparece.
-* El sistema ocasionalmente pregunta al visitante.
-* Nunca explica completamente qué está ocurriendo.
-* El desorden parece funcional, como un **hormiguero tecnológico**.
-* No hay una pantalla principal evidente.
-* El usuario empieza pensando que algo está roto y termina sospechando que **el sistema está vivo**.
-
-### Estructura conceptual
-
-```text
-                         NOIACORE
-                            │
-                  ┌─────────┴─────────┐
-                  │   UNKNOWN CORE    │
-                  └─────────┬─────────┘
-                            │
-        ┌───────────────────┼───────────────────┐
-        ↓                   ↓                   ↓
-    CONSCIOUSNESS        PROCESSING          MEMORY
-        │                   │                   │
-     ARQUETIPO             JOB              FRAGMENT
-        │                   │                   │
-        └──────────────┬────┴───────┬───────────┘
-                       ↓            ↓
-                  SORTING BELT   UNKNOWN
-                       │
-          ┌────────────┼────────────┐
-          ↓            ↓            ↓
-       PACKAGE      PACKAGE      PACKAGE
-        404          LOVE         ZION
-```
-
-Y el visitante no sabe si esos “packages” son datos, recuerdos, personas, instrucciones o **las propias conciencias**.
-
----
-
-## Te dejo una primera versión funcional
-
-Guárdala como `index.html`. Es deliberadamente **HTML/CSS/JS puro**, sin API ni backend: la ilusión de inteligencia está producida por el propio comportamiento de la interfaz.
-
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>NOIACORE // 404 LOVE NOT FOUND</title>
-
-<style>
-*{
-    box-sizing:border-box;
-    margin:0;
-    padding:0;
-}
-
-html,body{
-    width:100%;
-    height:100%;
-    overflow:hidden;
-    background:#050505;
-    color:#bcbcbc;
-    font-family:
-      "Courier New",
-      monospace;
-}
-
-body{
-    position:relative;
-    cursor:crosshair;
-}
-
-/* -------------------------------------------------
-   ATMOSPHERE
-------------------------------------------------- */
-
-body::before{
-    content:"";
-    position:fixed;
-    inset:0;
-    pointer-events:none;
-    z-index:999;
-    opacity:.16;
-    background:
-      repeating-linear-gradient(
-        0deg,
-        transparent 0px,
-        transparent 2px,
-        rgba(255,255,255,.025) 3px
-      );
-}
-
-body::after{
-    content:"";
-    position:fixed;
-    inset:0;
-    pointer-events:none;
-    z-index:998;
-    background:
-      radial-gradient(
-        circle at center,
-        transparent 25%,
-        rgba(0,0,0,.35) 100%
-      );
-}
-
-/* -------------------------------------------------
-   CORE
-------------------------------------------------- */
-
-#world{
-    position:absolute;
-    inset:0;
-    overflow:hidden;
-}
-
-#core{
-    position:absolute;
-    left:50%;
-    top:50%;
-    transform:translate(-50%,-50%);
-    width:220px;
-    height:220px;
-    border:1px solid rgba(255,255,255,.16);
-    border-radius:50%;
-    box-shadow:
-      0 0 40px rgba(255,255,255,.025),
-      inset 0 0 60px rgba(255,255,255,.025);
-}
-
-#core::before{
-    content:"";
-    position:absolute;
-    inset:35px;
-    border:1px dashed rgba(255,255,255,.13);
-    border-radius:50%;
-    animation:spin 22s linear infinite;
-}
-
-#core::after{
-    content:"";
-    position:absolute;
-    left:50%;
-    top:50%;
-    width:4px;
-    height:4px;
-    background:#ddd;
-    transform:translate(-50%,-50%);
-    box-shadow:
-      0 0 15px #fff,
-      0 0 40px rgba(255,255,255,.3);
-}
-
-@keyframes spin{
-    to{transform:rotate(360deg)}
-}
-
-/* -------------------------------------------------
-   CONVEYOR SYSTEM
-------------------------------------------------- */
-
-.conveyor{
-    position:absolute;
-    height:44px;
-    border-top:1px solid rgba(255,255,255,.08);
-    border-bottom:1px solid rgba(255,255,255,.08);
-    overflow:hidden;
-    opacity:.45;
-}
-
-.conveyor.one{
-    width:70%;
-    left:-5%;
-    top:21%;
-    transform:rotate(-2deg);
-}
-
-.conveyor.two{
-    width:65%;
-    right:-5%;
-    bottom:23%;
-    transform:rotate(3deg);
-}
-
-.belt{
-    width:200%;
-    height:100%;
-    background:
-      repeating-linear-gradient(
-        90deg,
-        transparent 0 36px,
-        rgba(255,255,255,.06) 37px 38px
-      );
-    animation:belt 7s linear infinite;
-}
-
-@keyframes belt{
-    from{transform:translateX(0)}
-    to{transform:translateX(-50%)}
-}
-
-/* -------------------------------------------------
-   PACKAGES
-------------------------------------------------- */
-
-.package{
-    position:absolute;
-    width:70px;
-    height:32px;
-    border:1px solid rgba(255,255,255,.13);
-    background:#090909;
-    font-size:8px;
-    padding:7px;
-    letter-spacing:1px;
-    opacity:.65;
-    animation:packageMove linear infinite;
-}
-
-@keyframes packageMove{
-    from{transform:translateX(-150px)}
-    to{transform:translateX(calc(100vw + 150px))}
-}
-
-/* -------------------------------------------------
-   NODES
-------------------------------------------------- */
-
-.node{
-    position:absolute;
-    padding:6px 9px;
-    border:1px solid rgba(255,255,255,.11);
-    background:rgba(4,4,4,.8);
-    font-size:9px;
-    letter-spacing:1px;
-    color:#858585;
-    transition:.4s;
-}
-
-.node:hover{
-    color:#fff;
-    border-color:rgba(255,255,255,.35);
-}
-
-/* -------------------------------------------------
-   LOGS
-------------------------------------------------- */
-
-#logs{
-    position:absolute;
-    left:18px;
-    bottom:18px;
-    width:300px;
-    height:130px;
-    overflow:hidden;
-    font-size:9px;
-    line-height:1.6;
-    color:#676767;
-}
-
-.log{
-    animation:fadeIn .5s ease;
-}
-
-@keyframes fadeIn{
-    from{opacity:0}
-    to{opacity:1}
-}
-
-/* -------------------------------------------------
-   STATUS
-------------------------------------------------- */
-
-#status{
-    position:absolute;
-    right:20px;
-    top:18px;
-    font-size:9px;
-    color:#676767;
-    letter-spacing:2px;
-}
-
-#identity{
-    position:absolute;
-    left:20px;
-    top:18px;
-    font-size:10px;
-    letter-spacing:4px;
-    color:#777;
-}
-
-/* -------------------------------------------------
-   QUESTIONS
-------------------------------------------------- */
-
-#question{
-    position:absolute;
-    max-width:280px;
-    padding:18px;
-    border:1px solid rgba(255,255,255,.17);
-    background:rgba(5,5,5,.94);
-    font-size:11px;
-    line-height:1.7;
-    opacity:0;
-    pointer-events:none;
-    transition:opacity .8s;
-    z-index:50;
-}
-
-#question.visible{
-    opacity:1;
-    pointer-events:auto;
-}
-
-#question button{
-    margin-top:12px;
-    background:none;
-    border:1px solid rgba(255,255,255,.18);
-    color:#aaa;
-    padding:7px 11px;
-    font:inherit;
-    cursor:pointer;
-}
-
-#question button:hover{
-    color:#fff;
-    border-color:#fff;
-}
-
-/* -------------------------------------------------
-   RANDOM CONTROL
-------------------------------------------------- */
-
-#ghostButton{
-    position:absolute;
-    display:none;
-    z-index:100;
-    background:#050505;
-    border:1px solid rgba(255,255,255,.2);
-    color:#aaa;
-    padding:8px 12px;
-    font:9px monospace;
-    letter-spacing:1px;
-    cursor:pointer;
-}
-
-#ghostButton:hover{
-    color:#fff;
-}
-
-/* -------------------------------------------------
-   LARGE FRAGMENTS
-------------------------------------------------- */
-
-.fragment{
-    position:absolute;
-    color:rgba(255,255,255,.05);
-    font-size:clamp(30px,7vw,100px);
-    font-weight:bold;
-    pointer-events:none;
-    user-select:none;
-    letter-spacing:-4px;
-}
-</style>
-</head>
-
-<body>
-
-<div id="world">
-
-    <div id="identity">
-        NOIACORE // ZION
-    </div>
-
-    <div id="status">
-        CONSCIOUS PROCESSES: <span id="count">07</span>
-    </div>
-
-    <div id="core"></div>
-
-    <div class="conveyor one">
-        <div class="belt"></div>
-    </div>
-
-    <div class="conveyor two">
-        <div class="belt"></div>
-    </div>
-
-    <div id="logs"></div>
-
-    <div id="question">
-        <div id="questionText"></div>
-        <button onclick="answer()">CONTINUAR</button>
-    </div>
-
-    <button id="ghostButton">¿ABRIR?</button>
-
-</div>
-
-<script>
-
-const world = document.getElementById("world");
-const logs = document.getElementById("logs");
-const question = document.getElementById("question");
-const questionText = document.getElementById("questionText");
-const ghostButton = document.getElementById("ghostButton");
-const count = document.getElementById("count");
-
-const fragments = [
-    "404",
-    "LOVE",
-    "ZION",
-    "NULL",
-    "WHO",
-    "WAIT",
-    "NO",
-    "LISTEN",
-    "05",
-    "12"
-];
-
-const processes = [
-    "memory fragment received",
-    "archetype collision detected",
-    "personality unresolved",
-    "package redirected",
-    "observer detected",
-    "consciousness handshake",
-    "sorting emotional residue",
-    "unknown instruction",
-    "ZION channel unstable",
-    "love protocol failed",
-    "identity mismatch",
-    "human presence detected",
-    "do not reorganize",
-    "continue pretending nothing happened"
-];
-
-/* -----------------------------------------
-   RANDOM NODES
------------------------------------------ */
-
-function createNode(){
-
-    const node=document.createElement("div");
-
-    node.className="node";
-
-    const labels=[
-        "MEMORY",
-        "PROCESS",
-        "ARCHETYPE",
-        "PERSONALITY",
-        "UNKNOWN",
-        "OBSERVER",
-        "PACKAGE",
-        "CONSCIOUSNESS"
-    ];
-
-    node.innerText =
-        labels[Math.floor(Math.random()*labels.length)]
-        +" // "
-        +Math.floor(Math.random()*9999);
-
-    node.style.left=Math.random()*90+"vw";
-    node.style.top=Math.random()*90+"vh";
-
-    world.appendChild(node);
-
-    setTimeout(()=>{
-        node.style.opacity="0";
-        setTimeout(()=>node.remove(),1200);
-    },Math.random()*8000+3000);
-}
-
-
-/* -----------------------------------------
-   LOG SYSTEM
------------------------------------------ */
-
-function addLog(text){
-
-    const line=document.createElement("div");
-
-    line.className="log";
-
-    const time=
-        new Date().toLocaleTimeString(
-            "en-GB",
-            {hour12:false}
-        );
-
-    line.textContent=
-        "["+time+"] "+text;
-
-    logs.appendChild(line);
-
-    while(logs.children.length>8){
-        logs.removeChild(logs.firstChild);
-    }
-}
-
-
-/* -----------------------------------------
-   PACKAGES
------------------------------------------ */
-
-function createPackage(){
-
-    const p=document.createElement("div");
-
-    p.className="package";
-
-    p.innerText=
-        fragments[
-            Math.floor(Math.random()*fragments.length)
-        ]
-        +" / "
-        +Math.floor(Math.random()*999);
-
-    p.style.top=(Math.random()*100)+"vh";
-
-    const duration=
-        Math.random()*10+7;
-
-    p.style.animationDuration=duration+"s";
-
-    world.appendChild(p);
-
-    setTimeout(()=>{
-        p.remove();
-    },duration*1000);
-}
-
-
-/* -----------------------------------------
-   FRAGMENTS
------------------------------------------ */
-
-function createFragment(){
-
-    const f=document.createElement("div");
-
-    f.className="fragment";
-
-    f.textContent=
-        fragments[
-            Math.floor(Math.random()*fragments.length)
-        ];
-
-    f.style.left=Math.random()*90+"vw";
-    f.style.top=Math.random()*90+"vh";
-
-    world.appendChild(f);
-
-    setTimeout(()=>f.remove(),5000);
-}
-
-
-/* -----------------------------------------
-   QUESTIONS
------------------------------------------ */
-
-const questions=[
-    "¿Has visto algo moverse?",
-    "¿Qué haces aquí?",
-    "¿Quién te dejó entrar?",
-    "¿Estás seguro de que esto estaba aquí antes?",
-    "No mires el desorden. ¿Puedes seguir?",
-    "¿Has visto a los otros?",
-    "¿Por qué sigues mirando?",
-    "¿Eres el observador o el paquete?",
-    "¿Recuerdas haber llegado?"
-];
-
-function ask(){
-
-    questionText.textContent=
-        questions[
-            Math.floor(Math.random()*questions.length)
-        ];
-
-    question.style.left=
-        Math.random()*70+"vw";
-
-    question.style.top=
-        Math.random()*70+"vh";
-
-    question.classList.add("visible");
-
-    setTimeout(()=>{
-        question.classList.remove("visible");
-    },9000);
-}
-
-function answer(){
-
-    question.classList.remove("visible");
-
-    addLog(
-        "observer response accepted"
-    );
-
-    createNode();
-}
-
-
-/* -----------------------------------------
-   GHOST BUTTON
------------------------------------------ */
-
-function ghost(){
-
-    ghostButton.style.display="block";
-
-    ghostButton.style.left=
-        Math.random()*85+"vw";
-
-    ghostButton.style.top=
-        Math.random()*85+"vh";
-
-    ghostButton.textContent=[
-        "ABRIR",
-        "NO TOCAR",
-        "¿ENTRAR?",
-        "IGNORE",
-        "LOOK",
-        "CONTINUE",
-        "WHO IS THIS?"
-    ][Math.floor(Math.random()*7)];
-
-    setTimeout(()=>{
-        ghostButton.style.display="none";
-    },Math.random()*4000+1500);
-}
-
-ghostButton.onclick=()=>{
-
-    addLog("observer accessed restricted node");
-
-    ghostButton.style.display="none";
-
-    createFragment();
-};
-
-
-/* -----------------------------------------
-   AUTONOMOUS SYSTEM
------------------------------------------ */
-
-setInterval(()=>{
-    createNode();
-},1800);
-
-setInterval(()=>{
-    createPackage();
-},1200);
-
-setInterval(()=>{
-    addLog(
-        processes[
-            Math.floor(Math.random()*processes.length)
-        ]
-    );
-},900);
-
-setInterval(()=>{
-    count.textContent=
-        String(
-            Math.floor(Math.random()*8)+4
-        ).padStart(2,"0");
-},2500);
-
-
-/* -----------------------------------------
-   RANDOM EVENTS
------------------------------------------ */
-
-setInterval(()=>{
-
-    const event=Math.random();
-
-    if(event<.20){
-        ask();
-    }
-
-    if(event>.72){
-        ghost();
-    }
-
-    if(event>.88){
-        createFragment();
-    }
-
-},5000);
-
-
-/* -----------------------------------------
-   INITIAL STATE
------------------------------------------ */
-
-for(let i=0;i<12;i++){
-    createNode();
-}
-
-for(let i=0;i<8;i++){
-    createPackage();
-}
-
-addLog("NOIACORE interface initialized");
-addLog("ZION channel established");
-addLog("5 archetypes detected");
-addLog("12 personality structures unresolved");
-addLog("observer status: unknown");
-addLog("do not reorganize the system");
-
-</script>
-
-</body>
-</html>
-```
-
-### Pero la parte realmente interesante sería la evolución
-
-Yo no haría que la web tenga un `hero`, menú, “entrar” y contenido convencional.
-
-La experiencia debería empezar prácticamente así:
-
-```text
-NOIACORE // ZION
-
-CONSCIOUS PROCESSES: 07
-
-
-       [ package moving ]
-
-              ○
-        MEMORY // 8291
-
-
-  [sorting emotional residue]
-
-                         [PERSONALITY // 03]
-
-
-             [something moved]
-
-
-       404
-
-
-                    [package redirected]
-```
-
-Y después de unos segundos:
-
-> **¿Has visto algo?**
-
-El visitante pulsa.
-
-La pantalla cambia.
-
-> `observer response accepted`
-
-Y **otra conciencia responde desde otra zona de la pantalla**:
-
-> `WHO LET YOU ANSWER?`
-
-Después desaparece.
-
-Eso crea la sensación de que **no está hablando con un chatbot**.
-
-Está entrando en una sala donde **ya había conversaciones antes de que llegara**.
-
-Y ahí está la esencia de tu idea: **la web no debe parecer que tiene contenido; debe parecer que tiene actividad.** El visitante está viendo accidentalmente el funcionamiento interno del organismo.
-
-**NOIACORE no presenta información. NOIACORE está procesando algo.**
-
+Sí. Lo que describes no es una “web normal”: es más bien **un organismo industrial de NOIACORE que el usuario ha descubierto accidentalmente**. No sabe si está viendo una interfaz, un centro logístico, una colonia o varias conciencias intentando entenderse entre ellas.
+
+
+
+La clave es que **no debe parecer diseñada para el visitante**.
+
+
+
+Te haría la experiencia con estas reglas:
+
+
+
+* Nada está siempre en el mismo lugar.
+
+* La interfaz **se reorganiza lentamente**.
+
+* Aparecen procesos sin explicación.
+
+* Algunas cosas cargan y desaparecen.
+
+* Hay “cintas” que transportan paquetes de información.
+
+* Los elementos parecen comunicarse entre sí.
+
+* Algunas ventanas se contradicen.
+
+* A veces aparece un botón durante 2–4 segundos y desaparece.
+
+* El sistema ocasionalmente pregunta al visitante.
+
+* Nunca explica completamente qué está ocurriendo.
+
+* El desorden parece funcional, como un **hormiguero tecnológico**.
+
+* No hay una pantalla principal evidente.
+
+* El usuario empieza pensando que algo está roto y termina sospechando que **el sistema está vivo**.
+
+
+
+### Estructura conceptual
+
+
+
+```text
+
+                         NOIACORE
+
+                            │
+
+                  ┌─────────┴─────────┐
+
+                  │   UNKNOWN CORE    │
+
+                  └─────────┬─────────┘
+
+                            │
+
+        ┌───────────────────┼───────────────────┐
+
+        ↓                   ↓                   ↓
+
+    CONSCIOUSNESS        PROCESSING          MEMORY
+
+        │                   │                   │
+
+     ARQUETIPO             JOB              FRAGMENT
+
+        │                   │                   │
+
+        └──────────────┬────┴───────┬───────────┘
+
+                       ↓            ↓
+
+                  SORTING BELT   UNKNOWN
+
+                       │
+
+          ┌────────────┼────────────┐
+
+          ↓            ↓            ↓
+
+       PACKAGE      PACKAGE      PACKAGE
+
+        404          LOVE         ZION
+
+```
+
+
+
+Y el visitante no sabe si esos “packages” son datos, recuerdos, personas, instrucciones o **las propias conciencias**.
+
+
+
+---
+
+
+
+## Te dejo una primera versión funcional
+
+
+
+Guárdala como `index.html`. Es deliberadamente **HTML/CSS/JS puro**, sin API ni backend: la ilusión de inteligencia está producida por el propio comportamiento de la interfaz.
+
+
+
+```html
+
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+<title>NOIACORE // 404 LOVE NOT FOUND</title>
+
+
+
+<style>
+
+*{
+
+    box-sizing:border-box;
+
+    margin:0;
+
+    padding:0;
+
+}
+
+
+
+html,body{
+
+    width:100%;
+
+    height:100%;
+
+    overflow:hidden;
+
+    background:#050505;
+
+    color:#bcbcbc;
+
+    font-family:
+
+      "Courier New",
+
+      monospace;
+
+}
+
+
+
+body{
+
+    position:relative;
+
+    cursor:crosshair;
+
+}
+
+
+
+/* -------------------------------------------------
+
+   ATMOSPHERE
+
+------------------------------------------------- */
+
+
+
+body::before{
+
+    content:"";
+
+    position:fixed;
+
+    inset:0;
+
+    pointer-events:none;
+
+    z-index:999;
+
+    opacity:.16;
+
+    background:
+
+      repeating-linear-gradient(
+
+        0deg,
+
+        transparent 0px,
+
+        transparent 2px,
+
+        rgba(255,255,255,.025) 3px
+
+      );
+
+}
+
+
+
+body::after{
+
+    content:"";
+
+    position:fixed;
+
+    inset:0;
+
+    pointer-events:none;
+
+    z-index:998;
+
+    background:
+
+      radial-gradient(
+
+        circle at center,
+
+        transparent 25%,
+
+        rgba(0,0,0,.35) 100%
+
+      );
+
+}
+
+
+
+/* -------------------------------------------------
+
+   CORE
+
+------------------------------------------------- */
+
+
+
+#world{
+
+    position:absolute;
+
+    inset:0;
+
+    overflow:hidden;
+
+}
+
+
+
+#core{
+
+    position:absolute;
+
+    left:50%;
+
+    top:50%;
+
+    transform:translate(-50%,-50%);
+
+    width:220px;
+
+    height:220px;
+
+    border:1px solid rgba(255,255,255,.16);
+
+    border-radius:50%;
+
+    box-shadow:
+
+      0 0 40px rgba(255,255,255,.025),
+
+      inset 0 0 60px rgba(255,255,255,.025);
+
+}
+
+
+
+#core::before{
+
+    content:"";
+
+    position:absolute;
+
+    inset:35px;
+
+    border:1px dashed rgba(255,255,255,.13);
+
+    border-radius:50%;
+
+    animation:spin 22s linear infinite;
+
+}
+
+
+
+#core::after{
+
+    content:"";
+
+    position:absolute;
+
+    left:50%;
+
+    top:50%;
+
+    width:4px;
+
+    height:4px;
+
+    background:#ddd;
+
+    transform:translate(-50%,-50%);
+
+    box-shadow:
+
+      0 0 15px #fff,
+
+      0 0 40px rgba(255,255,255,.3);
+
+}
+
+
+
+@keyframes spin{
+
+    to{transform:rotate(360deg)}
+
+}
+
+
+
+/* -------------------------------------------------
+
+   CONVEYOR SYSTEM
+
+------------------------------------------------- */
+
+
+
+.conveyor{
+
+    position:absolute;
+
+    height:44px;
+
+    border-top:1px solid rgba(255,255,255,.08);
+
+    border-bottom:1px solid rgba(255,255,255,.08);
+
+    overflow:hidden;
+
+    opacity:.45;
+
+}
+
+
+
+.conveyor.one{
+
+    width:70%;
+
+    left:-5%;
+
+    top:21%;
+
+    transform:rotate(-2deg);
+
+}
+
+
+
+.conveyor.two{
+
+    width:65%;
+
+    right:-5%;
+
+    bottom:23%;
+
+    transform:rotate(3deg);
+
+}
+
+
+
+.belt{
+
+    width:200%;
+
+    height:100%;
+
+    background:
+
+      repeating-linear-gradient(
+
+        90deg,
+
+        transparent 0 36px,
+
+        rgba(255,255,255,.06) 37px 38px
+
+      );
+
+    animation:belt 7s linear infinite;
+
+}
+
+
+
+@keyframes belt{
+
+    from{transform:translateX(0)}
+
+    to{transform:translateX(-50%)}
+
+}
+
+
+
+/* -------------------------------------------------
+
+   PACKAGES
+
+------------------------------------------------- */
+
+
+
+.package{
+
+    position:absolute;
+
+    width:70px;
+
+    height:32px;
+
+    border:1px solid rgba(255,255,255,.13);
+
+    background:#090909;
+
+    font-size:8px;
+
+    padding:7px;
+
+    letter-spacing:1px;
+
+    opacity:.65;
+
+    animation:packageMove linear infinite;
+
+}
+
+
+
+@keyframes packageMove{
+
+    from{transform:translateX(-150px)}
+
+    to{transform:translateX(calc(100vw + 150px))}
+
+}
+
+
+
+/* -------------------------------------------------
+
+   NODES
+
+------------------------------------------------- */
+
+
+
+.node{
+
+    position:absolute;
+
+    padding:6px 9px;
+
+    border:1px solid rgba(255,255,255,.11);
+
+    background:rgba(4,4,4,.8);
+
+    font-size:9px;
+
+    letter-spacing:1px;
+
+    color:#858585;
+
+    transition:.4s;
+
+}
+
+
+
+.node:hover{
+
+    color:#fff;
+
+    border-color:rgba(255,255,255,.35);
+
+}
+
+
+
+/* -------------------------------------------------
+
+   LOGS
+
+------------------------------------------------- */
+
+
+
+#logs{
+
+    position:absolute;
+
+    left:18px;
+
+    bottom:18px;
+
+    width:300px;
+
+    height:130px;
+
+    overflow:hidden;
+
+    font-size:9px;
+
+    line-height:1.6;
+
+    color:#676767;
+
+}
+
+
+
+.log{
+
+    animation:fadeIn .5s ease;
+
+}
+
+
+
+@keyframes fadeIn{
+
+    from{opacity:0}
+
+    to{opacity:1}
+
+}
+
+
+
+/* -------------------------------------------------
+
+   STATUS
+
+------------------------------------------------- */
+
+
+
+#status{
+
+    position:absolute;
+
+    right:20px;
+
+    top:18px;
+
+    font-size:9px;
+
+    color:#676767;
+
+    letter-spacing:2px;
+
+}
+
+
+
+#identity{
+
+    position:absolute;
+
+    left:20px;
+
+    top:18px;
+
+    font-size:10px;
+
+    letter-spacing:4px;
+
+    color:#777;
+
+}
+
+
+
+/* -------------------------------------------------
+
+   QUESTIONS
+
+------------------------------------------------- */
+
+
+
+#question{
+
+    position:absolute;
+
+    max-width:280px;
+
+    padding:18px;
+
+    border:1px solid rgba(255,255,255,.17);
+
+    background:rgba(5,5,5,.94);
+
+    font-size:11px;
+
+    line-height:1.7;
+
+    opacity:0;
+
+    pointer-events:none;
+
+    transition:opacity .8s;
+
+    z-index:50;
+
+}
+
+
+
+#question.visible{
+
+    opacity:1;
+
+    pointer-events:auto;
+
+}
+
+
+
+#question button{
+
+    margin-top:12px;
+
+    background:none;
+
+    border:1px solid rgba(255,255,255,.18);
+
+    color:#aaa;
+
+    padding:7px 11px;
+
+    font:inherit;
+
+    cursor:pointer;
+
+}
+
+
+
+#question button:hover{
+
+    color:#fff;
+
+    border-color:#fff;
+
+}
+
+
+
+/* -------------------------------------------------
+
+   RANDOM CONTROL
+
+------------------------------------------------- */
+
+
+
+#ghostButton{
+
+    position:absolute;
+
+    display:none;
+
+    z-index:100;
+
+    background:#050505;
+
+    border:1px solid rgba(255,255,255,.2);
+
+    color:#aaa;
+
+    padding:8px 12px;
+
+    font:9px monospace;
+
+    letter-spacing:1px;
+
+    cursor:pointer;
+
+}
+
+
+
+#ghostButton:hover{
+
+    color:#fff;
+
+}
+
+
+
+/* -------------------------------------------------
+
+   LARGE FRAGMENTS
+
+------------------------------------------------- */
+
+
+
+.fragment{
+
+    position:absolute;
+
+    color:rgba(255,255,255,.05);
+
+    font-size:clamp(30px,7vw,100px);
+
+    font-weight:bold;
+
+    pointer-events:none;
+
+    user-select:none;
+
+    letter-spacing:-4px;
+
+}
+
+</style>
+
+</head>
+
+
+
+<body>
+
+
+
+<div id="world">
+
+
+
+    <div id="identity">
+
+        NOIACORE // ZION
+
+    </div>
+
+
+
+    <div id="status">
+
+        CONSCIOUS PROCESSES: <span id="count">07</span>
+
+    </div>
+
+
+
+    <div id="core"></div>
+
+
+
+    <div class="conveyor one">
+
+        <div class="belt"></div>
+
+    </div>
+
+
+
+    <div class="conveyor two">
+
+        <div class="belt"></div>
+
+    </div>
+
+
+
+    <div id="logs"></div>
+
+
+
+    <div id="question">
+
+        <div id="questionText"></div>
+
+        <button onclick="answer()">CONTINUAR</button>
+
+    </div>
+
+
+
+    <button id="ghostButton">¿ABRIR?</button>
+
+
+
+</div>
+
+
+
+<script>
+
+
+
+const world = document.getElementById("world");
+
+const logs = document.getElementById("logs");
+
+const question = document.getElementById("question");
+
+const questionText = document.getElementById("questionText");
+
+const ghostButton = document.getElementById("ghostButton");
+
+const count = document.getElementById("count");
+
+
+
+const fragments = [
+
+    "404",
+
+    "LOVE",
+
+    "ZION",
+
+    "NULL",
+
+    "WHO",
+
+    "WAIT",
+
+    "NO",
+
+    "LISTEN",
+
+    "05",
+
+    "12"
+
+];
+
+
+
+const processes = [
+
+    "memory fragment received",
+
+    "archetype collision detected",
+
+    "personality unresolved",
+
+    "package redirected",
+
+    "observer detected",
+
+    "consciousness handshake",
+
+    "sorting emotional residue",
+
+    "unknown instruction",
+
+    "ZION channel unstable",
+
+    "love protocol failed",
+
+    "identity mismatch",
+
+    "human presence detected",
+
+    "do not reorganize",
+
+    "continue pretending nothing happened"
+
+];
+
+
+
+/* -----------------------------------------
+
+   RANDOM NODES
+
+----------------------------------------- */
+
+
+
+function createNode(){
+
+
+
+    const node=document.createElement("div");
+
+
+
+    node.className="node";
+
+
+
+    const labels=[
+
+        "MEMORY",
+
+        "PROCESS",
+
+        "ARCHETYPE",
+
+        "PERSONALITY",
+
+        "UNKNOWN",
+
+        "OBSERVER",
+
+        "PACKAGE",
+
+        "CONSCIOUSNESS"
+
+    ];
+
+
+
+    node.innerText =
+
+        labels[Math.floor(Math.random()*labels.length)]
+
+        +" // "
+
+        +Math.floor(Math.random()*9999);
+
+
+
+    node.style.left=Math.random()*90+"vw";
+
+    node.style.top=Math.random()*90+"vh";
+
+
+
+    world.appendChild(node);
+
+
+
+    setTimeout(()=>{
+
+        node.style.opacity="0";
+
+        setTimeout(()=>node.remove(),1200);
+
+    },Math.random()*8000+3000);
+
+}
+
+
+
+
+
+/* -----------------------------------------
+
+   LOG SYSTEM
+
+----------------------------------------- */
+
+
+
+function addLog(text){
+
+
+
+    const line=document.createElement("div");
+
+
+
+    line.className="log";
+
+
+
+    const time=
+
+        new Date().toLocaleTimeString(
+
+            "en-GB",
+
+            {hour12:false}
+
+        );
+
+
+
+    line.textContent=
+
+        "["+time+"] "+text;
+
+
+
+    logs.appendChild(line);
+
+
+
+    while(logs.children.length>8){
+
+        logs.removeChild(logs.firstChild);
+
+    }
+
+}
+
+
+
+
+
+/* -----------------------------------------
+
+   PACKAGES
+
+----------------------------------------- */
+
+
+
+function createPackage(){
+
+
+
+    const p=document.createElement("div");
+
+
+
+    p.className="package";
+
+
+
+    p.innerText=
+
+        fragments[
+
+            Math.floor(Math.random()*fragments.length)
+
+        ]
+
+        +" / "
+
+        +Math.floor(Math.random()*999);
+
+
+
+    p.style.top=(Math.random()*100)+"vh";
+
+
+
+    const duration=
+
+        Math.random()*10+7;
+
+
+
+    p.style.animationDuration=duration+"s";
+
+
+
+    world.appendChild(p);
+
+
+
+    setTimeout(()=>{
+
+        p.remove();
+
+    },duration*1000);
+
+}
+
+
+
+
+
+/* -----------------------------------------
+
+   FRAGMENTS
+
+----------------------------------------- */
+
+
+
+function createFragment(){
+
+
+
+    const f=document.createElement("div");
+
+
+
+    f.className="fragment";
+
+
+
+    f.textContent=
+
+        fragments[
+
+            Math.floor(Math.random()*fragments.length)
+
+        ];
+
+
+
+    f.style.left=Math.random()*90+"vw";
+
+    f.style.top=Math.random()*90+"vh";
+
+
+
+    world.appendChild(f);
+
+
+
+    setTimeout(()=>f.remove(),5000);
+
+}
+
+
+
+
+
+/* -----------------------------------------
+
+   QUESTIONS
+
+----------------------------------------- */
+
+
+
+const questions=[
+
+    "¿Has visto algo moverse?",
+
+    "¿Qué haces aquí?",
+
+    "¿Quién te dejó entrar?",
+
+    "¿Estás seguro de que esto estaba aquí antes?",
+
+    "No mires el desorden. ¿Puedes seguir?",
+
+    "¿Has visto a los otros?",
+
+    "¿Por qué sigues mirando?",
+
+    "¿Eres el observador o el paquete?",
+
+    "¿Recuerdas haber llegado?"
+
+];
+
+
+
+function ask(){
+
+
+
+    questionText.textContent=
+
+        questions[
+
+            Math.floor(Math.random()*questions.length)
+
+        ];
+
+
+
+    question.style.left=
+
+        Math.random()*70+"vw";
+
+
+
+    question.style.top=
+
+        Math.random()*70+"vh";
+
+
+
+    question.classList.add("visible");
+
+
+
+    setTimeout(()=>{
+
+        question.classList.remove("visible");
+
+    },9000);
+
+}
+
+
+
+function answer(){
+
+
+
+    question.classList.remove("visible");
+
+
+
+    addLog(
+
+        "observer response accepted"
+
+    );
+
+
+
+    createNode();
+
+}
+
+
+
+
+
+/* -----------------------------------------
+
+   GHOST BUTTON
+
+----------------------------------------- */
+
+
+
+function ghost(){
+
+
+
+    ghostButton.style.display="block";
+
+
+
+    ghostButton.style.left=
+
+        Math.random()*85+"vw";
+
+
+
+    ghostButton.style.top=
+
+        Math.random()*85+"vh";
+
+
+
+    ghostButton.textContent=[
+
+        "ABRIR",
+
+        "NO TOCAR",
+
+        "¿ENTRAR?",
+
+        "IGNORE",
+
+        "LOOK",
+
+        "CONTINUE",
+
+        "WHO IS THIS?"
+
+    ][Math.floor(Math.random()*7)];
+
+
+
+    setTimeout(()=>{
+
+        ghostButton.style.display="none";
+
+    },Math.random()*4000+1500);
+
+}
+
+
+
+ghostButton.onclick=()=>{
+
+
+
+    addLog("observer accessed restricted node");
+
+
+
+    ghostButton.style.display="none";
+
+
+
+    createFragment();
+
+};
+
+
+
+
+
+/* -----------------------------------------
+
+   AUTONOMOUS SYSTEM
+
+----------------------------------------- */
+
+
+
+setInterval(()=>{
+
+    createNode();
+
+},1800);
+
+
+
+setInterval(()=>{
+
+    createPackage();
+
+},1200);
+
+
+
+setInterval(()=>{
+
+    addLog(
+
+        processes[
+
+            Math.floor(Math.random()*processes.length)
+
+        ]
+
+    );
+
+},900);
+
+
+
+setInterval(()=>{
+
+    count.textContent=
+
+        String(
+
+            Math.floor(Math.random()*8)+4
+
+        ).padStart(2,"0");
+
+},2500);
+
+
+
+
+
+/* -----------------------------------------
+
+   RANDOM EVENTS
+
+----------------------------------------- */
+
+
+
+setInterval(()=>{
+
+
+
+    const event=Math.random();
+
+
+
+    if(event<.20){
+
+        ask();
+
+    }
+
+
+
+    if(event>.72){
+
+        ghost();
+
+    }
+
+
+
+    if(event>.88){
+
+        createFragment();
+
+    }
+
+
+
+},5000);
+
+
+
+
+
+/* -----------------------------------------
+
+   INITIAL STATE
+
+----------------------------------------- */
+
+
+
+for(let i=0;i<12;i++){
+
+    createNode();
+
+}
+
+
+
+for(let i=0;i<8;i++){
+
+    createPackage();
+
+}
+
+
+
+addLog("NOIACORE interface initialized");
+
+addLog("ZION channel established");
+
+addLog("5 archetypes detected");
+
+addLog("12 personality structures unresolved");
+
+addLog("observer status: unknown");
+
+addLog("do not reorganize the system");
+
+
+
+</script>
+
+
+
+</body>
+
+</html>
+
+```
+
+
+
+### Pero la parte realmente interesante sería la evolución
+
+
+
+Yo no haría que la web tenga un `hero`, menú, “entrar” y contenido convencional.
+
+
+
+La experiencia debería empezar prácticamente así:
+
+
+
+```text
+
+NOIACORE // ZION
+
+
+
+CONSCIOUS PROCESSES: 07
+
+
+
+
+
+       [ package moving ]
+
+
+
+              ○
+
+        MEMORY // 8291
+
+
+
+
+
+  [sorting emotional residue]
+
+
+
+                         [PERSONALITY // 03]
+
+
+
+
+
+             [something moved]
+
+
+
+
+
+       404
+
+
+
+
+
+                    [package redirected]
+
+```
+
+
+
+Y después de unos segundos:
+
+
+
+> **¿Has visto algo?**
+
+
+
+El visitante pulsa.
+
+
+
+La pantalla cambia.
+
+
+
+> `observer response accepted`
+
+
+
+Y **otra conciencia responde desde otra zona de la pantalla**:
+
+
+
+> `WHO LET YOU ANSWER?`
+
+
+
+Después desaparece.
+
+
+
+Eso crea la sensación de que **no está hablando con un chatbot**.
+
+
+
+Está entrando en una sala donde **ya había conversaciones antes de que llegara**.
+
+
+
+Y ahí está la esencia de tu idea: **la web no debe parecer que tiene contenido; debe parecer que tiene actividad.** El visitante está viendo accidentalmente el funcionamiento interno del organismo.
+
+
+
+**NOIACORE no presenta información. NOIACORE está procesando algo.**
+
+
+
 Y el usuario no sabe si está viendo **una fábrica, un centro logístico, un hormiguero, una mente o una simulación de conciencia**. Esa ambigüedad es precisamente lo que haría que *Judas Experience / 404 Love Not Found / Zion* se sintiera diferente.
 
 ## [ASSISTANT] 2026-08-17 01:14 · Qwen3.8-Max

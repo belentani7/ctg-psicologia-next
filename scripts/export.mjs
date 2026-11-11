@@ -32,5 +32,5 @@ if (outFile) {
   writeFileSync(outFile, `${json}\n`, 'utf8');
   console.error(`Export escrito en ${outFile}`);
 } else {
-  console.log(json);
+  console.debug(json);
 }

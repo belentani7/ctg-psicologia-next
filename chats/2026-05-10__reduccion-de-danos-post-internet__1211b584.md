@@ -7,42 +7,78 @@
 
 ## [USER] 2026-05-10 15:40
 
-BUSQUE TODA A INFORMACION RELACIONADA A ESTO EN CIENCIA LITERATURA DEL MUNDO ENTERO Y TRANFORMALO EN UNA WEB MASIVA CON TODO EL CONTENIDO CCONPLETO CON BASE EN CIENCIA 
-TOMAAGUA
-Tests
-Relatos
-Guías
-Centros
-curioso
-fiesta
-bajon
-dejar
-Modo actual: curioso
-Reducción de daños para la era post-internet.
-Ni ONG aburrida, ni moralina de los 90. Sabemos que la tina, la coca y el chemsex están ahí. Aquí damos info con base científica, mucha calle y cero juicios morales. Toma agua.
-
-Elige tu Multiverso
-Hazme cualquier pregunta sobre reducción de daños, mezclas, o simplemente dime cómo te sientes.
-
-(La IA no te juzga ni guarda tu nombre)
-
-Pregunta lo que sea...
-
-Tu cerebro, tus movidas. Elige tu multiverso.
-Neuro-Spicy (TDAH/TEA)
-Cuando usas estimulantes para callar el ruido mental pero acabas en paranoia. Sobrecarga sensorial y el temido meltdown.
-
-La Pasiva de After
-Chem-bottoming. Cuando anestesias el dolor físico y te saltas todos tus límites. Corazones, poppers y mucha PrEP.
-
-Trans & NB
-La triada del caos: Testosterona/Estradiol, salud mental y la tina. Interacciones que tu hígado no te perdonará.
-
-Heteros en Apuros
-Coca, alcohol y masculinidad frágil. Cuando el consumo social se vuelve la única forma de soltar la presión de la semana.
-
-
-ESTOY MAL AHORA
+BUSQUE TODA A INFORMACION RELACIONADA A ESTO EN CIENCIA LITERATURA DEL MUNDO ENTERO Y TRANFORMALO EN UNA WEB MASIVA CON TODO EL CONTENIDO CCONPLETO CON BASE EN CIENCIA 
+
+TOMAAGUA
+
+Tests
+
+Relatos
+
+Guías
+
+Centros
+
+curioso
+
+fiesta
+
+bajon
+
+dejar
+
+Modo actual: curioso
+
+Reducción de daños para la era post-internet.
+
+Ni ONG aburrida, ni moralina de los 90. Sabemos que la tina, la coca y el chemsex están ahí. Aquí damos info con base científica, mucha calle y cero juicios morales. Toma agua.
+
+
+
+Elige tu Multiverso
+
+Hazme cualquier pregunta sobre reducción de daños, mezclas, o simplemente dime cómo te sientes.
+
+
+
+(La IA no te juzga ni guarda tu nombre)
+
+
+
+Pregunta lo que sea...
+
+
+
+Tu cerebro, tus movidas. Elige tu multiverso.
+
+Neuro-Spicy (TDAH/TEA)
+
+Cuando usas estimulantes para callar el ruido mental pero acabas en paranoia. Sobrecarga sensorial y el temido meltdown.
+
+
+
+La Pasiva de After
+
+Chem-bottoming. Cuando anestesias el dolor físico y te saltas todos tus límites. Corazones, poppers y mucha PrEP.
+
+
+
+Trans & NB
+
+La triada del caos: Testosterona/Estradiol, salud mental y la tina. Interacciones que tu hígado no te perdonará.
+
+
+
+Heteros en Apuros
+
+Coca, alcohol y masculinidad frágil. Cuando el consumo social se vuelve la única forma de soltar la presión de la semana.
+
+
+
+
+
+ESTOY MAL AHORA
+
 Chat
 
 ## [ASSISTANT] 2026-05-10 15:40 · Qwen3.6-Plus

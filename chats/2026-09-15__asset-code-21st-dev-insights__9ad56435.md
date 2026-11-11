@@ -92,288 +92,570 @@ En resumen, el código de assets en el desarrollo moderno es una obra de ingenie
 
 ## [USER] 2026-09-15 15:06
 
-Log in
-Sign up
-Components
-Templates
-Themes
-Pricing
-The living library
-of interfaces
-12,000+ crafted React components, templates, and shadcn themes. Built by real design engineers.
-
-2,000+ Marketing blocks:
-Animated heroes
-Hero sections
-Shaders
-Liquid & metal
-Backgrounds
-Gradients
-Footers
-2,100+ UI components:
-Buttons
-AI chats
-Cards & grids
-Galleries & 3D
-Navigation
-Sign ins & widgets
-Sections
-Used by 3,680,521 builders. From indie makers to the world's largest product teams
-Google logo
-Google
-Meta logo
-Meta
-NVIDIA logo
-NVIDIA
-ByteDance logo
-ByteDance
-Shopify logo
-Shopify
-PayPal logo
-PayPal
-Startups:
-Vercel logo
-Vercel
-Lovable logo
-Lovable
-Webflow logo
-Webflow
-Razorpay logo
-Razorpay
-Mistral AI logo
-Mistral AI
-Nubank logo
-Nubank
-Atlassian logo
-Atlassian
-Copy the prompt. Paste it anywhere
-Every component ships as a prompt. One copy — and it builds itself in whatever tool you live in.
-
-$ claude
-✓ components/ui/animated-hero.tsx
-✓ +148 lines — adapted to your theme
-❯
-[Pasted text #1 +88 lines]
-Claude Code
-Paste it in the terminal — the source lands in your repo.
-
-Add the Animated Hero from 21st
-acme/website · main
-animated-hero.tsx
-+148 −12
-+ export function AnimatedHero() {
-+ return <section className="hero">…
-<main>
-− <OldHero />
-+ <AnimatedHero />
-Ready to review
-Create PR
-Codex
-Same prompt as a task — Codex ships it with a diff.
-
-Worked for 14s
-✓
-Created src/components/AnimatedHero.tsx
-✓
-Edited src/pages/Index.tsx
-Preview updated
-Lovable
-Paste it in chat — the exact UI appears in your project.
-
-code
-preview
-shimmer-button.tsx
-import { cn } from "@/lib/utils"
- 
-export function ShimmerButton() {
-  return (
-    <button className={cn(
-      "relative rounded-full bg-neutral-950",
-      "px-7 py-3 text-sm font-medium text-white",
-      "transition-transform hover:scale-105",
-    )}>
-      <span className="shimmer-ring" aria-hidden />
-      Get started →
-    </button>
-  )
-}
-Shimmer Button
-Get started →
-Real code, ready to ship
-React + Tailwind, shadcn/ui conventions — every component is source that lands in your repo, yours to edit.
-
-25,431
-installs this week
-455
-Saved to bookmarks
-Landing v2
-13
-Inspiration
-34
-Create list
-Ravi Katiyar
-Number Ticker
-12.4k
-455
-Save it for later
-Bookmark any component into your lists — personal or team-shared — and pull it back up in one click.
-
-Built by real design engineers. Every component has an author. Indexed, searchable, one prompt away
-Aceternity UI
-Aceternity UI
-87 components
-Magic UI
-Magic UI
-62 components
-shadcn/ui
-shadcn/ui
-87 components
-Origin UI
-Origin UI
-44 components
-Geist
-Geist
-87 components
-Base UI
-Base UI
-29 components
-Kokonut UI
-Kokonut UI
-49 components
-8bitcn
-8bitcn
-106 components
-Kibo UI
-Kibo UI
-26 components
-visx
-visx
-36 components
-ReUI
-ReUI
-95 components
-HextaUI
-HextaUI
-113 components
-Tailark
-Tailark
-42 components
-Shadcnblocks.com
-Shadcnblocks.com
-39 components
-Ruixen UI
-Ruixen UI
-390 components
-Efferd
-Efferd
-100 components
-UI TripleD
-UI TripleD
-89 components
-UI Layouts
-UI Layouts
-72 components
-Shailendra
-Shailendra
-51 components
-Jolly UI
-Jolly UI
-51 components
-uimix
-uimix
-49 components
-ShadcnSpace
-ShadcnSpace
-45 components
-shadway
-shadway
-45 components
-REAVIZ
-REAVIZ
-41 components
-reuno-ui
-reuno-ui
-37 components
-Motion Primitives
-Motion Primitives
-34 components
-Systaliko UI
-Systaliko UI
-33 components
-lndev-ui
-lndev-ui
-30 components
-Fancy Components
-Fancy Components
-30 components
-coss
-coss
-28 components
-Cnippet
-Cnippet
-26 components
-PrebuiltUI
-PrebuiltUI
-25 components
-Circle
-Circle
-25 components
-Spell
-Spell
-24 components
-Layouts
-Layouts
-24 components
-Interfaces DS
-Interfaces DS
-23 components
-…and 700+ design engineers shipping shaders, interactions, and animated heroes.
-
-Built by humans
-Ready for agents
-Browse components
-Join for free
-Questions, answered
-Everything you need to know about the registry, installing components, and publishing your own.
-
-01
-What is 21st?
-+
-02
-Is 21st free?
-+
-03
-How is this different from a React component library?
-+
-04
-How do I install a component?
-+
-05
-Do components work with shadcn/ui?
-+
-06
-Can I publish my own components?
-+
-07
-What are React templates on 21st?
-+
-Built with 21st
-Product
-Components
-Templates
-Themes
-Icons
-Pricing
-Resources
-Publish
-Sign in
-Company
-Contact
-Privacy
-Terms
-Connect
-X (Twitter)
-GitHub
+Log in
+
+Sign up
+
+Components
+
+Templates
+
+Themes
+
+Pricing
+
+The living library
+
+of interfaces
+
+12,000+ crafted React components, templates, and shadcn themes. Built by real design engineers.
+
+
+
+2,000+ Marketing blocks:
+
+Animated heroes
+
+Hero sections
+
+Shaders
+
+Liquid & metal
+
+Backgrounds
+
+Gradients
+
+Footers
+
+2,100+ UI components:
+
+Buttons
+
+AI chats
+
+Cards & grids
+
+Galleries & 3D
+
+Navigation
+
+Sign ins & widgets
+
+Sections
+
+Used by 3,680,521 builders. From indie makers to the world's largest product teams
+
+Google logo
+
+Google
+
+Meta logo
+
+Meta
+
+NVIDIA logo
+
+NVIDIA
+
+ByteDance logo
+
+ByteDance
+
+Shopify logo
+
+Shopify
+
+PayPal logo
+
+PayPal
+
+Startups:
+
+Vercel logo
+
+Vercel
+
+Lovable logo
+
+Lovable
+
+Webflow logo
+
+Webflow
+
+Razorpay logo
+
+Razorpay
+
+Mistral AI logo
+
+Mistral AI
+
+Nubank logo
+
+Nubank
+
+Atlassian logo
+
+Atlassian
+
+Copy the prompt. Paste it anywhere
+
+Every component ships as a prompt. One copy — and it builds itself in whatever tool you live in.
+
+
+
+$ claude
+
+✓ components/ui/animated-hero.tsx
+
+✓ +148 lines — adapted to your theme
+
+❯
+
+[Pasted text #1 +88 lines]
+
+Claude Code
+
+Paste it in the terminal — the source lands in your repo.
+
+
+
+Add the Animated Hero from 21st
+
+acme/website · main
+
+animated-hero.tsx
+
++148 −12
+
++ export function AnimatedHero() {
+
++ return <section className="hero">…
+
+<main>
+
+− <OldHero />
+
++ <AnimatedHero />
+
+Ready to review
+
+Create PR
+
+Codex
+
+Same prompt as a task — Codex ships it with a diff.
+
+
+
+Worked for 14s
+
+✓
+
+Created src/components/AnimatedHero.tsx
+
+✓
+
+Edited src/pages/Index.tsx
+
+Preview updated
+
+Lovable
+
+Paste it in chat — the exact UI appears in your project.
+
+
+
+code
+
+preview
+
+shimmer-button.tsx
+
+import { cn } from "@/lib/utils"
+
+ 
+
+export function ShimmerButton() {
+
+  return (
+
+    <button className={cn(
+
+      "relative rounded-full bg-neutral-950",
+
+      "px-7 py-3 text-sm font-medium text-white",
+
+      "transition-transform hover:scale-105",
+
+    )}>
+
+      <span className="shimmer-ring" aria-hidden />
+
+      Get started →
+
+    </button>
+
+  )
+
+}
+
+Shimmer Button
+
+Get started →
+
+Real code, ready to ship
+
+React + Tailwind, shadcn/ui conventions — every component is source that lands in your repo, yours to edit.
+
+
+
+25,431
+
+installs this week
+
+455
+
+Saved to bookmarks
+
+Landing v2
+
+13
+
+Inspiration
+
+34
+
+Create list
+
+Ravi Katiyar
+
+Number Ticker
+
+12.4k
+
+455
+
+Save it for later
+
+Bookmark any component into your lists — personal or team-shared — and pull it back up in one click.
+
+
+
+Built by real design engineers. Every component has an author. Indexed, searchable, one prompt away
+
+Aceternity UI
+
+Aceternity UI
+
+87 components
+
+Magic UI
+
+Magic UI
+
+62 components
+
+shadcn/ui
+
+shadcn/ui
+
+87 components
+
+Origin UI
+
+Origin UI
+
+44 components
+
+Geist
+
+Geist
+
+87 components
+
+Base UI
+
+Base UI
+
+29 components
+
+Kokonut UI
+
+Kokonut UI
+
+49 components
+
+8bitcn
+
+8bitcn
+
+106 components
+
+Kibo UI
+
+Kibo UI
+
+26 components
+
+visx
+
+visx
+
+36 components
+
+ReUI
+
+ReUI
+
+95 components
+
+HextaUI
+
+HextaUI
+
+113 components
+
+Tailark
+
+Tailark
+
+42 components
+
+Shadcnblocks.com
+
+Shadcnblocks.com
+
+39 components
+
+Ruixen UI
+
+Ruixen UI
+
+390 components
+
+Efferd
+
+Efferd
+
+100 components
+
+UI TripleD
+
+UI TripleD
+
+89 components
+
+UI Layouts
+
+UI Layouts
+
+72 components
+
+Shailendra
+
+Shailendra
+
+51 components
+
+Jolly UI
+
+Jolly UI
+
+51 components
+
+uimix
+
+uimix
+
+49 components
+
+ShadcnSpace
+
+ShadcnSpace
+
+45 components
+
+shadway
+
+shadway
+
+45 components
+
+REAVIZ
+
+REAVIZ
+
+41 components
+
+reuno-ui
+
+reuno-ui
+
+37 components
+
+Motion Primitives
+
+Motion Primitives
+
+34 components
+
+Systaliko UI
+
+Systaliko UI
+
+33 components
+
+lndev-ui
+
+lndev-ui
+
+30 components
+
+Fancy Components
+
+Fancy Components
+
+30 components
+
+coss
+
+coss
+
+28 components
+
+Cnippet
+
+Cnippet
+
+26 components
+
+PrebuiltUI
+
+PrebuiltUI
+
+25 components
+
+Circle
+
+Circle
+
+25 components
+
+Spell
+
+Spell
+
+24 components
+
+Layouts
+
+Layouts
+
+24 components
+
+Interfaces DS
+
+Interfaces DS
+
+23 components
+
+…and 700+ design engineers shipping shaders, interactions, and animated heroes.
+
+
+
+Built by humans
+
+Ready for agents
+
+Browse components
+
+Join for free
+
+Questions, answered
+
+Everything you need to know about the registry, installing components, and publishing your own.
+
+
+
+01
+
+What is 21st?
+
++
+
+02
+
+Is 21st free?
+
++
+
+03
+
+How is this different from a React component library?
+
++
+
+04
+
+How do I install a component?
+
++
+
+05
+
+Do components work with shadcn/ui?
+
++
+
+06
+
+Can I publish my own components?
+
++
+
+07
+
+What are React templates on 21st?
+
++
+
+Built with 21st
+
+Product
+
+Components
+
+Templates
+
+Themes
+
+Icons
+
+Pricing
+
+Resources
+
+Publish
+
+Sign in
+
+Company
+
+Contact
+
+Privacy
+
+Terms
+
+Connect
+
+X (Twitter)
+
+GitHub
+
 © 2026 21st Labs, Inc.
 
 ## [ASSISTANT] 2026-09-15 15:06 · Qwen3.7-Plus

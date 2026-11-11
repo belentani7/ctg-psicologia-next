@@ -1,34 +1,17 @@
 # AUDITORIA_ESTADO — ctg-psicologia-next
 
-> Repositorio físico: `belentani-ecosystem/educacion/ctg-psicologia-next`
+- Cumplimiento: **100.0%** (20 ok / 0 incumple / 29 no evaluable)
+- Paginas HTML muestreadas: 0
+- Generado: 2026-11-07T18:29:43
 
-## Situación actual
+## Reglas que incumple
 
-| Indicador | Valor |
-|-----------|-------|
-| Categoría | educacion |
-| Lenguaje | TypeScript |
-| Rama | main |
-| package.json | Sí |
-| Python | No |
-| Docker | No |
-| README | Sí |
-| AGENTS.md | No |
-| Tests | No |
-| CI | No |
+| Regla | Detalle |
+|---|---|
+| — | sin incumplimientos detectados |
 
-## Comentarios
-
-- Repo activo del ecosistema, clonado en `educacion/`.
-- Falta AGENTS.md, CI y tests.
-
-## Comando para arreglar y elevar
+## Reparacion
 
 ```bash
-npm install
-npm run dev
-npm run build
-npm run test  # crear si no existe
-# Crear AGENTS.md con reglas del ecosistema belentani7
-# Crear .github/workflows/ci.yml
-gitleaks detect --source .
+python _audit/reparar.py --apply --only ctg-psicologia-next
+```

@@ -3767,2097 +3767,4188 @@ Dime cuál y lo monto encima sin romper lo que ya late.
 
 ## [USER] 2026-07-28 02:26
 
-Qwen3.8-Max-Preview
-
-
-Si exploramos los limites de la mente humana . Los experimentos de ilusion de optica cual es la informacion mas valiosa que podemos extraer
-
-Pensamiento completado
-Basándome en la información más relevante, te presento los hallazgos más valiosos que extraemos de los experimentos con ilusiones ópticas:
-INFORMACIÓN MÁS VALIOSA SOBRE LOS LÍMITES DE LA MENTE HUMANA
-1. Revelaciones sobre el Procesamiento Cerebral
-Distinción entre Sensación y Percepción:
-Las ilusiones demuestran que no vemos con los ojos, sino con el cerebro 
-www.nationalgeographic.com.es
-. La sensación es la información lumínica que llega a la retina, pero la percepción es la construcción activa de la corteza visual 
-mujeresconciencia.com
-.
-Procesamiento Predictivo:
-El cerebro autocompleta información basándose en experiencias previas y patrones aprendidos 
-mujeresconciencia.com
-. No procesa pasivamente, sino que predice activamente lo que debería ver 
-sinapticas.com
-.
-Jerarquía de Procesamiento:
-Nivel bajo: Procesamiento retiniano (campos receptivos centro-ON/OFF, inhibición lateral)
-Nivel alto: Inferencias cognitivas basadas en contexto, memoria y conocimiento previo 
-sinapticas.com
-2. Mecanismos Neurofisiológicos Descubiertos
-Sistema Visual Dual:
-Vía dorsal ("dónde"): Procesa movimiento, profundidad y localización espacial (lóbulo parietal)
-Vía ventral ("qué"): Procesa forma, color y reconocimiento de objetos (lóbulo temporal) 
-sinapticas.com
-Codificación Dispersa:
-La información visual se procesa mediante redes neuronales distribuidas donde diferentes grupos responden a aspectos específicos (color, forma, movimiento) 
-sinapticas.com
-.
-Limitaciones Estructurales:
-La visión periférica es muy deficiente - toda la información que se aleja de la fóvea está distorsionada 
-www.nationalgeographic.com.es
-.
-Los movimientos sacádicos (movimientos oculares bruscos) son compensados por el cerebro creando una percepción fluida 
-mujeresconciencia.com
-.
-3. Principios Cognitivos Fundamentales
-Constancias Perceptivas:
-Constancia de tamaño: Percibimos objetos del mismo tamaño independientemente de la distancia
-Constancia de color: Mantenemos el color percibido a pesar de cambios en la iluminación
-Estas constancias revelan que el cerebro "desconta" el contexto para estabilizar la percepción 
-sinapticas.com
-.
-Principios Gestálticos:
-El cerebro organiza según: proximidad, similitud, continuidad, simetría y cierre 
-neuro-class.com
-.
-La percepción es más que la suma de las partes - emergen patrones completos y significativos 
-neuro-class.com
-.
-Atención Selectiva:
-La corteza prefrontal filtra información para evitar sobrecarga cognitiva 
-mujeresconciencia.com
-.
-Experimento del "gorila invisible": Demostró que podemos ser ciegos a estímulos obvios cuando la atención está focalizada 
-mujeresconciencia.com
-.
-4. Implicaciones Filosóficas y Prácticas
-Subjetividad Radical:
-"Ni siquiera vemos con los ojos, sino con el cerebro" - las neuronas construyen nuestra realidad 
-www.nationalgeographic.com.es
-.
-La información que procesamos no es objetiva - retina, cerebro y experiencia construyen una sensación subjetiva 
-www.nationalgeographic.com.es
-.
-Limitaciones Epistemológicas:
-Las ilusiones demuestran que no podemos conocer la realidad "verdadera", solo nuestra construcción cerebral de ella 
-www.nationalgeographic.com.es
-.
-Esto tiene implicaciones en: testimonios judiciales, discusiones interpersonales, toma de decisiones 
-mujeresconciencia.com
-.
-Irrevocabilidad de los Qualia:
-Una vez que percibimos algo de cierta manera, no podemos "desverlo" aunque sepamos que es una ilusión 
-sinapticas.com
-.
-Esto contradice la idea de un cerebro puramente predictivo y ajustable - hay límites estructurales insuperables 
-sinapticas.com
-.
-5. Aportes Científicos Concretos
-Diagnóstico Neurológico:
-Las ilusiones ayudan a identificar: lesiones en V1 (ceguera cortical/blindsight), daño en V4/V8 (acromatopsia), trastornos del procesamiento visual 
-sinapticas.com
-.
-Modelos Computacionales:
-Inspiran el desarrollo de redes neuronales artificiales y sistemas de visión por computadora 
-www.nationalgeographic.com.es
-.
-Variabilidad Individual:
-El grado de ilusión varía según el tamaño de la corteza visual primaria (V1) de cada persona 
-www.nationalgeographic.com.es
-.
-Los niños muestran mayor plasticidad adaptativa que los adolescentes en percepción facial 
-sinapticas.com
-.
-6. Información sobre Eficiencia Cerebral
-Atajos Mentales (Heurísticos):
-El cerebro utiliza procesos de menor esfuerzo que pueden generar errores sistemáticos 
-prometeo.matem.unam.mx
-.
-Las ilusiones explotan estos sesgos y atajos evolutivamente adaptativos 
-m.occidente.co
-.
-Procesamiento Contextual:
-El tálamo combina y modula información multisensorial - lo que vemos depende de lo que escuchamos o tocamos 
-mujeresconciencia.com
-.
-El mismo estímulo puede generar percepciones distintas según el contexto y las ideas preconcebidas 
-mujeresconciencia.com
-.
-CONCLUSIÓN SINTÉTICA
-La información más valiosa es que las ilusiones ópticas revelan que la percepción no es un reflejo pasivo de la realidad, sino una construcción activa del cerebro basada en:
-Limitaciones biológicas estructurales (organización retiniana, campos receptivos)
-Procesamiento predictivo (inferencias inconscientes, autocompletado)
-Contexto y experiencia (conocimiento previo, expectativas)
-Filtros atencionales (selección de relevancia)
-Constancias adaptativas (estabilización perceptiva)
-Esto demuestra que nuestra "realidad" es una simulación cerebral útil pero imperfecta, con implicaciones profundas para entender la conciencia, la cognición y los límites del conocimiento humano 
-www.nationalgeographic.com.es
-sinapticas.com
-.
-+27
-Extrae el fenomeno y el experimento mas significativo de la ilusion de optics  mas maxima informacion extra de como receae todo
-
-Pensamiento completado
-FENÓMENO Y EXPERIMENTO MÁS SIGNIFICATIVO DE LAS ILUSIONES ÓPTICAS
-** EXPERIMENTO MÁS SIGNIFICATIVO: "THE INVISIBLE GORILLA" (Simons & Chabris, 1999)**
-METODOLOGÍA DETALLADA
-Diseño Experimental:
-Tipo: Experimento de laboratorio con diseño de medidas independientes 
-www.tutor2u.net
-Participantes: 228 voluntarios (principalmente estudiantes), de los cuales se eliminaron 36, resultando en 16 grupos de 12 individuos cada uno 
-www.tutor2u.net
-Variable Independiente (IV): 4 condiciones principales:
-Transparente/Mujer con paraguas
-Transparente/Gorila
-Opaco/Mujer con paraguas
-Opaco/Gorila
-Dentro de cada condición: 4 sub-condiciones de tarea (Blanco/Fácil, Blanco/Difícil, Negro/Fácil, Negro/Difícil) = 16 condiciones totales 
-www.tutor2u.net
-Variable Dependiente (DV): Número de participantes que notaron el evento inesperado 
-www.tutor2u.net
-Materiales:
-Videos de 75 segundos mostrando dos equipos de tres jugadores (uno con camisetas blancas, otro con negras)
-Cada equipo pasaba una pelota de baloncesto naranja en orden estandarizado
-Después de 44-48 segundos, ocurría el evento inesperado durante 5 segundos:
-Condición Mujer Paraguas: Una mujer alta con paraguas abierto cruzaba de izquierda a derecha
-Condición Gorila: Una persona con disfraz completo de gorila cruzaba y se golpeaba el pecho
-Dos estilos: opaco (claramente visible) o transparente 
-www.tutor2u.net
-Procedimiento:
-Se instruía a los participantes a contar pases del equipo blanco O negro
-Condiciones de dificultad: fácil (contar pases) vs difícil (contar pases aéreos y de bote)
-Después del video, se preguntaba:
-"¿Notaste algo inusual?"
-"¿Viste un gorila/mujer con paraguas?"
-Si respondían sí, se pedían detalles adicionales
-Se eliminaban datos de quienes conocían el fenómeno
-Debriefing: se mostraba el video nuevamente para probar que el evento ocurrió 
-www.tutor2u.net
-📊 RESULTADOS CUANTITATIVOS
-Resultados Generales:
-54% notó el evento inesperado
-46% NO lo notó (ceguera atencional) 
-www.tutor2u.net
-Por Condición:
-Condición Opaca: 67% notó el evento
-Condición Transparente: 42% lo notó 
-www.tutor2u.net
-Por Dificultad:
-Tarea Fácil: 64% notó el evento
-Tarea Difícil: 45% lo notó 
-www.tutor2u.net
-Por Tipo de Evento:
-Mujer Paraguas: 65% la notó
-Gorila: 44% lo notó 
-www.tutor2u.net
-Observación Controlada:
-Solo 50% notó el evento cuando el gorila se golpeaba el pecho (similar al 42% en condición Opaco/Gorila) 
-www.tutor2u.net
-** MECANISMOS PSICOLÓGICOS Y NEURALES**
-1. Carga Cognitiva:
-El esfuerzo mental requerido para realizar la tarea limita la capacidad de procesar información adicional 
-achology.com
-Cuando la atención se enfoca intensamente, los recursos cognitivos se asignan principalmente a esa tarea, reduciendo la capacidad de percibir otros estímulos 
-achology.com
-2. Esquemas Mentales y Expectativas:
-La expectativa de contar pases creó un "esquema mental" que filtró información irrelevante, incluyendo el gorila 
-achology.com
-El cerebro utiliza procesamiento predictivo basado en experiencias previas 
-achology.com
-3. Selectividad Atencional:
-La atención funciona como un "filtro" que selecciona qué información procesar
-Ceguera atencional: Fallo para percibir objetos inesperados cuando la atención está dirigida a otra tarea 
-pubmed.ncbi.nlm.nih.gov
-Sin atención, no hay percepción consciente - los objetos pueden pasar a través del foco atencional sin ser "vistos" 
-www.tutor2u.net
-4. Bases Neurales:
-Corteza Prefrontal: Filtra información para evitar sobrecarga cognitiva
-Vía Dorsal ("dónde"): Procesa movimiento y localización (lóbulo parietal)
-Vía Ventral ("qué"): Procesa forma y reconocimiento (lóbulo temporal)
-LOC (Lateral Occipital Complex): Región crítica para segregación figura-fondo 
-pmc.ncbi.nlm.nih.gov
-🎯 FENÓMENO MÁS SIGNIFICATIVO: FIGURA-FONDO (Rubin's Vase, 1915)
-DESCRIPCIÓN DEL FENÓMENO
-Desarrollado por el psicólogo danés Edgar Rubin en 1915, es el ejemplo clásico de formas ambiguas o bi-estables (que se invierten) 
-en.wikipedia.org
-Características:
-La imagen puede verse como un jarrón blanco O dos caras negras de perfil, pero NO ambas simultáneamente 
-en.wikipedia.org
-Demuestra la distinción figura-fondo que el cerebro hace durante la percepción visual 
-en.wikipedia.org
-🧬 MECANISMO NEURO-COGNITIVO
-Principio Fundamental de Rubin:
-"Cuando dos campos tienen un borde común, y uno se ve como figura y el otro como fondo, la experiencia perceptual inmediata se caracteriza por un efecto de modelado que emerge del borde común y que opera solo en un campo o más fuertemente en uno que en el otro" 
-en.wikipedia.org
-Proceso de Procesamiento:
-Nivel 1 - Procesamiento Retiniano:
-Campos receptivos centro-ON/OFF
-Inhibición lateral
-Codificación dispersa de características visuales 
-www.facebook.com
-Nivel 2 - Asignación de Forma:
-El cerebro clasifica imágenes por qué objeto rodea a cuál - estableciendo profundidad y relaciones 
-en.wikipedia.org
-Si un objeto rodea a otro, el objeto rodeado se ve como figura, y el que rodea como fondo 
-en.wikipedia.org
-La figura tiene carácter de "cosa", el fondo parece material sin forma que se extiende continuamente 
-www.sciencedirect.com
-Nivel 3 - Procesamiento Holístico:
-Procesamiento holístico en la corteza visual (Hasson et al., 2001) 
-pmc.ncbi.nlm.nih.gov
-El cerebro intenta dar sentido a la imagen como un todo
-Cuando las contours son desiguales, surge ambigüedad
-El cerebro debe "modelar" lo que ve, anulando procesos de reconocimiento de características 
-en.wikipedia.org
-Nivel 4 - Alternancia Perceptiva:
-Imposibilidad de ver ambas interpretaciones simultáneamente
-El contorno límite pertenece a la figura, que aparece interpuesta contra un fondo sin forma
-Si la región posterior se interpreta como figura, el mismo contorno le pertenece 
-en.wikipedia.org
-🔬 BASES NEURALES ESPECÍFICAS
-Regiones Cerebrales Involucradas:
-LOC (Lateral Occipital Complex):
-Principal candidato para segregación figura-fondo 
-pmc.ncbi.nlm.nih.gov
-Procesa información de forma y contornos
-Corteza Visual Primaria (V1):
-Procesamiento inicial de bordes y contrastes
-Campos receptivos organizados jerárquicamente
-V4/V8:
-Procesamiento de color y forma
-Integración de información contextual
-Corteza Prefrontal:
-Control atencional descendente
-Modula qué interpretación se mantiene
-Mecanismo de Alternancia:
-Competición neuronal: Las poblaciones neuronales que codifican cada interpretación compiten
-Adaptación neuronal: La población activa se fatiga, permitiendo que la alternativa emerja
-Inhibición recíproca: Cada interpretación inhibe a la otra
-Modulación atencional: La atención puede influir en cuál predomina
-💥 IMPLICACIONES Y APLICACIONES
-Del Experimento del Gorila:
-1. Limitaciones de la Percepción:
-No tenemos conciencia comprehensiva de nuestro entorno
-La percepción es selectiva, no exhaustiva
-Objetos conspicuos pueden pasar desapercibidos 
-achology.com
-2. Aplicaciones Prácticas:
-Seguridad vial: Conductores pueden no ver peatones/obstáculos si están distraídos
-Seguridad aeroportuaria: Operadores de rayos X pueden pasar amenazas
-Testimonios judiciales: Testigos pueden no ver eventos cruciales
-Diagnóstico médico: Radiólogos pueden pasar anomalías 
-achology.com
-3. Implicaciones Filosóficas:
-Subjetividad radical: "Ni siquiera vemos con los ojos, sino con el cerebro"
-Realidad construida: Nuestra "realidad" es una simulación cerebral útil pero imperfecta
-Irrevocabilidad: Una vez que percibimos algo, no podemos "desverlo"
-Del Fenómeno Figura-Fondo:
-1. Principios Gestálticos:
-Influenció a los psicólogos de la Gestalt
-La percepción es más que la suma de las partes
-El todo determina la interpretación mental, no el efecto neto de las partes individuales 
-en.wikipedia.org
-2. Procesamiento Predictivo:
-El cerebro autocompleta información basándose en experiencias previas
-Utiliza atajos mentales (heurísticos) evolutivamente adaptativos
-Las constancias perceptivas (tamaño, color) estabilizan la percepción 
-www.facebook.com
-3. Variabilidad Individual:
-El grado de susceptibilidad varía según el tamaño de V1 de cada persona
-Los niños muestran mayor plasticidad adaptativa que adolescentes
-Diferencias culturales afectan la percepción (ej. ilusión Müller-Lyer) 
-perception.jhu.edu
-📈 TAXONOMÍA DE ILUSIONES ÓPTICAS
-Según Zavagno et al. (2015), existen tres enfoques clásicos:
-1. Enfoque Ecológico:
-La percepción es réplica del entorno
-Las ilusiones son resultado de información pobre
-2. Enfoque Gestáltico:
-La percepción es egocéntrica - organizamos datos según nuestras necesidades
-Toda percepción involucra una gestalt
-Las ilusiones no son "errores" sino organización natural
-3. Enfoque Cognitivo:
-La percepción está sesgada por experiencia previa, prejuicios y razonamiento lógico
-Las ilusiones son errores que revelan cómo usamos razonamiento lógico
-Permiten estudiar cómo falla el razonamiento ante señales confusas 
-pmc.ncbi.nlm.nih.gov
-🎓 CONCLUSIONES SINTÉTICAS
-Información Más Valiosa Extraída:
-Atención ≠ Percepción: Podemos atender sin percibir (gorila invisible)
-Procesamiento Activo: El cerebro construye activamente la realidad, no la refleja pasivamente
-Limitaciones Estructurales: Hay límites biológicos insuperables en nuestra percepción
-Contexto Determinante: El contexto y las expectativas determinan qué vemos
-Irrevocabilidad de Qualia: No podemos elegir no ver una interpretación una vez establecida
-Eficiencia vs Precisión: El cerebro prioriza eficiencia sobre precisión absoluta
-Aplicaciones Críticas: Estas limitaciones tienen implicaciones en seguridad, justicia, medicina y vida diaria
-Legado Científico:
-Invisible Gorilla: 4975 citaciones - estudio más influyente en atención 
-pubmed.ncbi.nlm.nih.gov
-Rubin's Vase: Fundamento de la psicología de la Gestalt y neurociencia cognitiva
-Ambos demuestran que la realidad percibida es una construcción cerebral, no un reflejo objetivo del mundo
-"CORE IS INVISIBLE. IMPACT IS INEVITABLE." - Lo más importante (atención, procesamiento neural) es invisible, pero su impacto en nuestra percepción es inevitable y fundamental.
-+70
-
-amplia Qwen3.7-Plus
-Qwen3.7-Plus
-
-
-Si exploramos los limites de la mente humana . Los experimentos de ilusion de optica cual es la informacion mas valiosa que podemos extraer
-
-Pensamiento completado
-Basándome en la información más relevante, te presento los hallazgos más valiosos que extraemos de los experimentos con ilusiones ópticas:
-INFORMACIÓN MÁS VALIOSA SOBRE LOS LÍMITES DE LA MENTE HUMANA
-1. Revelaciones sobre el Procesamiento Cerebral
-Distinción entre Sensación y Percepción:
-Las ilusiones demuestran que no vemos con los ojos, sino con el cerebro 
-www.nationalgeographic.com.es
-. La sensación es la información lumínica que llega a la retina, pero la percepción es la construcción activa de la corteza visual 
-mujeresconciencia.com
-.
-Procesamiento Predictivo:
-El cerebro autocompleta información basándose en experiencias previas y patrones aprendidos 
-mujeresconciencia.com
-. No procesa pasivamente, sino que predice activamente lo que debería ver 
-sinapticas.com
-.
-Jerarquía de Procesamiento:
-Nivel bajo: Procesamiento retiniano (campos receptivos centro-ON/OFF, inhibición lateral)
-Nivel alto: Inferencias cognitivas basadas en contexto, memoria y conocimiento previo 
-sinapticas.com
-2. Mecanismos Neurofisiológicos Descubiertos
-Sistema Visual Dual:
-Vía dorsal ("dónde"): Procesa movimiento, profundidad y localización espacial (lóbulo parietal)
-Vía ventral ("qué"): Procesa forma, color y reconocimiento de objetos (lóbulo temporal) 
-sinapticas.com
-Codificación Dispersa:
-La información visual se procesa mediante redes neuronales distribuidas donde diferentes grupos responden a aspectos específicos (color, forma, movimiento) 
-sinapticas.com
-.
-Limitaciones Estructurales:
-La visión periférica es muy deficiente - toda la información que se aleja de la fóvea está distorsionada 
-www.nationalgeographic.com.es
-.
-Los movimientos sacádicos (movimientos oculares bruscos) son compensados por el cerebro creando una percepción fluida 
-mujeresconciencia.com
-.
-3. Principios Cognitivos Fundamentales
-Constancias Perceptivas:
-Constancia de tamaño: Percibimos objetos del mismo tamaño independientemente de la distancia
-Constancia de color: Mantenemos el color percibido a pesar de cambios en la iluminación
-Estas constancias revelan que el cerebro "desconta" el contexto para estabilizar la percepción 
-sinapticas.com
-.
-Principios Gestálticos:
-El cerebro organiza según: proximidad, similitud, continuidad, simetría y cierre 
-neuro-class.com
-.
-La percepción es más que la suma de las partes - emergen patrones completos y significativos 
-neuro-class.com
-.
-Atención Selectiva:
-La corteza prefrontal filtra información para evitar sobrecarga cognitiva 
-mujeresconciencia.com
-.
-Experimento del "gorila invisible": Demostró que podemos ser ciegos a estímulos obvios cuando la atención está focalizada 
-mujeresconciencia.com
-.
-4. Implicaciones Filosóficas y Prácticas
-Subjetividad Radical:
-"Ni siquiera vemos con los ojos, sino con el cerebro" - las neuronas construyen nuestra realidad 
-www.nationalgeographic.com.es
-.
-La información que procesamos no es objetiva - retina, cerebro y experiencia construyen una sensación subjetiva 
-www.nationalgeographic.com.es
-.
-Limitaciones Epistemológicas:
-Las ilusiones demuestran que no podemos conocer la realidad "verdadera", solo nuestra construcción cerebral de ella 
-www.nationalgeographic.com.es
-.
-Esto tiene implicaciones en: testimonios judiciales, discusiones interpersonales, toma de decisiones 
-mujeresconciencia.com
-.
-Irrevocabilidad de los Qualia:
-Una vez que percibimos algo de cierta manera, no podemos "desverlo" aunque sepamos que es una ilusión 
-sinapticas.com
-.
-Esto contradice la idea de un cerebro puramente predictivo y ajustable - hay límites estructurales insuperables 
-sinapticas.com
-.
-5. Aportes Científicos Concretos
-Diagnóstico Neurológico:
-Las ilusiones ayudan a identificar: lesiones en V1 (ceguera cortical/blindsight), daño en V4/V8 (acromatopsia), trastornos del procesamiento visual 
-sinapticas.com
-.
-Modelos Computacionales:
-Inspiran el desarrollo de redes neuronales artificiales y sistemas de visión por computadora 
-www.nationalgeographic.com.es
-.
-Variabilidad Individual:
-El grado de ilusión varía según el tamaño de la corteza visual primaria (V1) de cada persona 
-www.nationalgeographic.com.es
-.
-Los niños muestran mayor plasticidad adaptativa que los adolescentes en percepción facial 
-sinapticas.com
-.
-6. Información sobre Eficiencia Cerebral
-Atajos Mentales (Heurísticos):
-El cerebro utiliza procesos de menor esfuerzo que pueden generar errores sistemáticos 
-prometeo.matem.unam.mx
-.
-Las ilusiones explotan estos sesgos y atajos evolutivamente adaptativos 
-m.occidente.co
-.
-Procesamiento Contextual:
-El tálamo combina y modula información multisensorial - lo que vemos depende de lo que escuchamos o tocamos 
-mujeresconciencia.com
-.
-El mismo estímulo puede generar percepciones distintas según el contexto y las ideas preconcebidas 
-mujeresconciencia.com
-.
-CONCLUSIÓN SINTÉTICA
-La información más valiosa es que las ilusiones ópticas revelan que la percepción no es un reflejo pasivo de la realidad, sino una construcción activa del cerebro basada en:
-Limitaciones biológicas estructurales (organización retiniana, campos receptivos)
-Procesamiento predictivo (inferencias inconscientes, autocompletado)
-Contexto y experiencia (conocimiento previo, expectativas)
-Filtros atencionales (selección de relevancia)
-Constancias adaptativas (estabilización perceptiva)
-Esto demuestra que nuestra "realidad" es una simulación cerebral útil pero imperfecta, con implicaciones profundas para entender la conciencia, la cognición y los límites del conocimiento humano 
-www.nationalgeographic.com.es
-sinapticas.com
-.
-+27
-Extrae el fenomeno y el experimento mas significativo de la ilusion de optics  mas maxima informacion extra de como receae todo
-
-Pensamiento completado
-FENÓMENO Y EXPERIMENTO MÁS SIGNIFICATIVO DE LAS ILUSIONES ÓPTICAS
-** EXPERIMENTO MÁS SIGNIFICATIVO: "THE INVISIBLE GORILLA" (Simons & Chabris, 1999)**
-METODOLOGÍA DETALLADA
-Diseño Experimental:
-Tipo: Experimento de laboratorio con diseño de medidas independientes 
-www.tutor2u.net
-Participantes: 228 voluntarios (principalmente estudiantes), de los cuales se eliminaron 36, resultando en 16 grupos de 12 individuos cada uno 
-www.tutor2u.net
-Variable Independiente (IV): 4 condiciones principales:
-Transparente/Mujer con paraguas
-Transparente/Gorila
-Opaco/Mujer con paraguas
-Opaco/Gorila
-Dentro de cada condición: 4 sub-condiciones de tarea (Blanco/Fácil, Blanco/Difícil, Negro/Fácil, Negro/Difícil) = 16 condiciones totales 
-www.tutor2u.net
-Variable Dependiente (DV): Número de participantes que notaron el evento inesperado 
-www.tutor2u.net
-Materiales:
-Videos de 75 segundos mostrando dos equipos de tres jugadores (uno con camisetas blancas, otro con negras)
-Cada equipo pasaba una pelota de baloncesto naranja en orden estandarizado
-Después de 44-48 segundos, ocurría el evento inesperado durante 5 segundos:
-Condición Mujer Paraguas: Una mujer alta con paraguas abierto cruzaba de izquierda a derecha
-Condición Gorila: Una persona con disfraz completo de gorila cruzaba y se golpeaba el pecho
-Dos estilos: opaco (claramente visible) o transparente 
-www.tutor2u.net
-Procedimiento:
-Se instruía a los participantes a contar pases del equipo blanco O negro
-Condiciones de dificultad: fácil (contar pases) vs difícil (contar pases aéreos y de bote)
-Después del video, se preguntaba:
-"¿Notaste algo inusual?"
-"¿Viste un gorila/mujer con paraguas?"
-Si respondían sí, se pedían detalles adicionales
-Se eliminaban datos de quienes conocían el fenómeno
-Debriefing: se mostraba el video nuevamente para probar que el evento ocurrió 
-www.tutor2u.net
-📊 RESULTADOS CUANTITATIVOS
-Resultados Generales:
-54% notó el evento inesperado
-46% NO lo notó (ceguera atencional) 
-www.tutor2u.net
-Por Condición:
-Condición Opaca: 67% notó el evento
-Condición Transparente: 42% lo notó 
-www.tutor2u.net
-Por Dificultad:
-Tarea Fácil: 64% notó el evento
-Tarea Difícil: 45% lo notó 
-www.tutor2u.net
-Por Tipo de Evento:
-Mujer Paraguas: 65% la notó
-Gorila: 44% lo notó 
-www.tutor2u.net
-Observación Controlada:
-Solo 50% notó el evento cuando el gorila se golpeaba el pecho (similar al 42% en condición Opaco/Gorila) 
-www.tutor2u.net
-** MECANISMOS PSICOLÓGICOS Y NEURALES**
-1. Carga Cognitiva:
-El esfuerzo mental requerido para realizar la tarea limita la capacidad de procesar información adicional 
-achology.com
-Cuando la atención se enfoca intensamente, los recursos cognitivos se asignan principalmente a esa tarea, reduciendo la capacidad de percibir otros estímulos 
-achology.com
-2. Esquemas Mentales y Expectativas:
-La expectativa de contar pases creó un "esquema mental" que filtró información irrelevante, incluyendo el gorila 
-achology.com
-El cerebro utiliza procesamiento predictivo basado en experiencias previas 
-achology.com
-3. Selectividad Atencional:
-La atención funciona como un "filtro" que selecciona qué información procesar
-Ceguera atencional: Fallo para percibir objetos inesperados cuando la atención está dirigida a otra tarea 
-pubmed.ncbi.nlm.nih.gov
-Sin atención, no hay percepción consciente - los objetos pueden pasar a través del foco atencional sin ser "vistos" 
-www.tutor2u.net
-4. Bases Neurales:
-Corteza Prefrontal: Filtra información para evitar sobrecarga cognitiva
-Vía Dorsal ("dónde"): Procesa movimiento y localización (lóbulo parietal)
-Vía Ventral ("qué"): Procesa forma y reconocimiento (lóbulo temporal)
-LOC (Lateral Occipital Complex): Región crítica para segregación figura-fondo 
-pmc.ncbi.nlm.nih.gov
-🎯 FENÓMENO MÁS SIGNIFICATIVO: FIGURA-FONDO (Rubin's Vase, 1915)
-DESCRIPCIÓN DEL FENÓMENO
-Desarrollado por el psicólogo danés Edgar Rubin en 1915, es el ejemplo clásico de formas ambiguas o bi-estables (que se invierten) 
-en.wikipedia.org
-Características:
-La imagen puede verse como un jarrón blanco O dos caras negras de perfil, pero NO ambas simultáneamente 
-en.wikipedia.org
-Demuestra la distinción figura-fondo que el cerebro hace durante la percepción visual 
-en.wikipedia.org
-🧬 MECANISMO NEURO-COGNITIVO
-Principio Fundamental de Rubin:
-"Cuando dos campos tienen un borde común, y uno se ve como figura y el otro como fondo, la experiencia perceptual inmediata se caracte
-
-
-Pensamiento completado
-<answer>
-
-AMPLIACIÓN — CAPA 2: LOS LÍMITES QUE LOS FENÓMENOS FAMOSOS NO MUESTRAN
-Lo anterior (Gorila Invisible, Jarrón de Rubin) reveló los límites atencionales y de organización figura-fondo. Pero si el objetivo real es explorar los límites de la mente, esos dos experimentos son solo la superficie. La información de mayor valor está en los fenómenos que exponen límites estructurales que ni la atención ni la ambigüedad explican. A continuación, la capa profunda, con confirmación de fuentes primarias.
-I. LÍMITE DE RIQUEZA → "El Gran Engaño" (The Grand Illusion)
-El hallazgo contraintuitivo: Creemos ver el mundo como una imagen interna rica, detallada y estable, tipo fotografía. Es falso. La sensación de riqueza visual es ella misma una ilusión.
-O'Regan y Noë sostienen que, pese a la pobreza del input retiniano, tenemos "la impresión subjetiva de gran riqueza", y que esa riqueza no es un cuadro interno detallado sino una "disposición para resolver problemas" (problem-solving poise): el mundo parece detallado porque, en cualquier instante, podemos consultarlo con un movimiento ocular 
-evanthompson.me
-www.researchgate.net
-.
-Noë (2003) argumenta que la ceguera al cambio no prueba que "falte una imagen interna", sino que expone una concepción reconstruccionista errónea de la visión 
-evanthompson.me
-www.academia.edu
-.
-Cohen formaliza la hipótesis del "Grand Illusion": la experiencia consciente de detalle excede con creces lo que el sistema representa realmente en un momento dado 
-aardvark.ucsd.edu
-.
-Qué límite revela: La mente confunde disponibilidad con presencia. El límite no es "cuánto ves", sino que tu sensación de ver-lo-todo es un truco de interfaz: el cerebro te entrega la certeza de detalle sin pagar el costo de representarlo. Es el equivalente perceptivo de un renderizado bajo demanda.
-Consecuencia directa: conecta y generaliza al Gorila Invisible. No es que "no atendiste al gorila"; es que nunca tuviste una representación detallada de la escena completa para empezar.
-II. LÍMITE COGNITIVO → Impenetrabilidad de la Percepción (saber no corrige ver)
-Este es, con diferencia, el límite más perturbador y el más contraintuitivo: aunque sepas que es una ilusión, sigues viéndola. La línea Müller-Lyer sigue pareciendo desigual aunque la midas. El jarrón sigue alternando aunque lo entiendas.
-Firestone & Scholl (2016, Behavioral and Brain Sciences, >1400 citas) defienden la tesis fuerte: no existe evidencia sólida de efectos top-down de la cognición sobre la percepción visual; la percepción es modular y encapsulada (en el sentido de Fodor): opera con sus propias reglas, aislada de tus creencias y deseos 
-pubmed.ncbi.nlm.nih.gov
-cognitivesciencesociety.org
-www.cambridge.org
-.
-Documentan falacias metodológicas recurrentes en la literatura que falsamente atribuían penetración cognitiva, como la "falacia de El Greco" (asumir que un sesgo del observador se refleja en su percepción cuando en realidad se refleja en su respuesta) 
-perception.jhu.edu
-.
-Debate abierto (rigor): Levin (2016) replica que algunos efectos top-down (p. ej. mediados por memoria) sí cuentan como efectos sobre la percepción 
-banaji.sites.fas.harvard.edu
-. Es decir: la impenetrabilidad es la posición dominante y mejor defendida, no un dogma cerrado.
-Qué límite revela: Hay una frontera dura entre conocimiento y experiencia. Tu sistema cognitivo de alto nivel (creencias, razón, saber) no tiene acceso de escritura al módulo visual temprano. Por eso Caporuscio (2022) lo formula como "when seeing is not believing": ver y creer pueden divergir permanentemente porque corren en sustratos distintos 
-www.sciencedirect.com
-.
-Implicación filosófica mayor: la razón no gobierna la percepción. Puedes ser perfectamente racional y seguir siendo engañado por tu propio aparato sensorial. La mente no es un sistema unitario corregible por introspección.
-III. LÍMITE TEMPORAL → Postdicción: el "ahora" se escribe después
-Las ilusiones anteriores son espaciales/estructurales. Las temporales revelan algo aún más radical: el presente perceptivo no existe en tiempo real; el cerebro lo reconstruye retroactivamente.
-Flash-lag effect: un flash alineado físicamente con un objeto en movimiento se percibe retrasado respecto al objeto 
-www.illusionsindex.org
-www.sciencedirect.com
-.
-Interpretación postdictiva (Eagleman & Sejnowski): la percepción de la posición de los objetos no se fija en el instante del flash, sino que se construye usando información que llega después, dentro de una ventana de integración de decenas de milisegundos 
-www.illusionsindex.org
-. El cerebro "espera" unos ~80 ms, recopila datos, y posdata lo que "viste" en el instante t.
-Rigor / controversia: esta no es la única explicación. Existe el modelo de latencia diferencial (el movimiento se procesa más rápido que el flash), defendido incluso por el propio Eagleman en trabajos posteriores 
-eagleman.com
-, y modelos de extrapolación posicional (Whitney & Cavanagh, 2000) 
-whitneylab.berkeley.edu
-; Schneider (2018) revisa y matiza la teoría postdictiva 
-pmc.ncbi.nlm.nih.gov
-. El consenso seguro es el fenómeno y que la localización temporal/espacial es una reconstrucción, no un registro en vivo; el mecanismo exacto sigue disputado.
-Qué límite revela: Vives en el pasado y tu cerebro reescribe ese pasado. La conciencia no es un stream en directo: es un buffer con edición no lineal. Eventos posteriores alteran cómo experimentaste un evento anterior (efectos color-phi, cutaneous rabbit, flash-drag van en la misma familia). El "presente" es una narrativa compilada a posteriori, no un espejo del instante.
-Esto destruye la intuición de que "lo que vi en ese momento fue X". Tu memoria fenomenológica de "ese momento" puede haber sido fabricada ~100 ms después.
-IV. LÍMITE DE CONCIENCIA → Blindsight: ver sin saber que ves
-El reverso exacto del Gorila Invisible. Allí: el ojo registra, la atención no, la conciencia no entra. Aquí: la corteza visual primaria (V1) está destruida, el paciente se declara ciego… y aun así "adivina" estímulos por encima del azar.
-Weiskrantz acuñó el término: discriminación visual sin conciencia (blindsight tipo 1) 
-www.sciencedirect.com
-.
-V1 es esencial para la visión consciente, pero procesamiento inconsciente de orientación, color y movimiento persiste sin él 
-pmc.ncbi.nlm.nih.gov
-.
-Mecanismo: vías subcorticales que evitan V1 — retina → colículo superior → pulvinar → corteza extrastriada (p. ej. hMT+ para movimiento), y una vía LGN→hMT+ preservada 
-pmc.ncbi.nlm.nih.gov
-www.researchgate.net
-link.springer.com
-.
-Qué límite revela: Visión y conciencia visual son disociables. Existe un sistema visual completo, funcional, que guía conducta sin generar experiencia. El límite aquí no es de capacidad, es ontológico: la conciencia fenomenal no es un subproducto automático del procesamiento visual; requiere un sustrato específico (V1 y su integración cortical). Gran parte de "ver" ocurre en la oscuridad de lo inconsciente.
-Paradoja simétrica con el Gorila: en el gorila, hay imagen retiniana sin experiencia por falta de atención; en blindsight, hay discriminación conductual sin experiencia por falta de V1. Ambos prueban que registro ≠ experiencia.
-V. MARCO UNIFICADOR → El Cerebro Bayesiano / Procesamiento Predictivo
-Los límites I–IV parecen desconectados. El marco moderno que los unifica es el procesamiento predictivo / cerebro bayesiano: el cerebro no recibe el mundo, lo predice; la percepción es la mejor hipótesis que minimiza el error entre predicción (prior) y señal sensorial.
-Término paraguas consolidado por Andy Clark a partir del principio de energía libre / codificación predictiva de Friston ("Whatever next?") 
-statespaceadventures.substack.com
-www.fil.ion.ucl.ac.uk
-.
-Bajo este marco, una ilusión óptica no es un "fallo": es el precio óptimo de un sistema que, ante evidencia ambigua o ruidosa, apuesta por su prior más probable (p. ej. "la luz viene de arriba", "los objetos son rígidos", "las líneas paralelas convergen con la distancia"). El prior vence a la evidencia → ilusión.
-Explica la impenetrabilidad (II): el prior visual está incrustado en el módulo, no es accesible a la creencia consciente → por eso "saber" no lo reescribe 
-www.sciencedirect.com
-.
-Explica la postdicción (III): el cerebro integra evidencia en una ventana temporal para formar la hipótesis más probable del instante pasado.
-Rigor / crítica: es el marco más influyente, pero no incuestionable. Mangalam (2025) lo critica como "el mito del cerebro bayesiano", y se debate cuán radical y uniforme es realmente el esquema predictivo (Orlandi; críticas a la universalidad del algoritmo) 
-pmc.ncbi.nlm.nih.gov
-perception.jhu.edu
-. Úsalo como lente unificadora potente, no como ley demostrada.
-Qué límite revela: La mente es una máquina de inferencia, no de registro. El límite último es que no tienes acceso directo a la realidad, solo al residuo de predicción menos error. Lo que llamas "ver" es el contenido de un modelo generativo interno.
-VI. LÍMITE FENOMENAL → Qualia y el "problema duro"
-Todos los límites anteriores son funcionales (qué hace el sistema). Queda el límite que la ciencia aún no puede cruzar:
-Por qué la alternancia del jarrón se siente como un cambio cualitativo y no como un mero cambio de etiqueta computacional; por qué el rojo se ve rojo. Esto es el problema duro de la conciencia (Chalmers): explicar por qué el procesamiento va acompañado de experiencia subjetiva (qualia).
-Las ilusiones biestables son el laboratorio limpio de esto: el estímulo físico es idéntico y constante, pero la experiencia salta entre dos qualia distintos. Eso aísla la experiencia del estímulo y la ancla al estado interno.
-Qué límite revela: Existe una frontera epistémica absoluta: podemos mapear cada correlato neural de la ilusión (LOC, V1, competición neuronal) y aun así la pregunta "¿por qué eso se siente como algo?" queda fuera del alcance del método físico actual. Es el límite de los límites.
-MAPA UNIFICADO DE LOS LÍMITES DE LA MENTE (síntesis de Capa 1 + Capa 2)
-#
-Límite
-Fenómeno ancla
-Lo que demuestra
-1
-Atencional
-Gorila Invisible
-Atender ≠ registrar consciente
-2
-Organizativo
-Jarrón de Rubin
-Un borde, dos mundos; no simultáneos
-3
-De riqueza
-Gran Engaño / ceguera al cambio
-La sensación de detalle es ficticia
-4
-Cognitivo
-Impenetrabilidad (Müller-Lyer)
-Saber no reescribe ver
-5
-Temporal
-Flash-lag / postdicción
-El "ahora" se edita a posteriori
-6
-De conciencia
-Blindsight
-Ver-conductual sin ver-experiencial
-7
-Inferencial
-Cerebro bayesiano
-Percibir = apostar, no registrar
-8
-Fenomenal
-Qualia biestables
-La experiencia es irreductible al cómputo
-CONCLUSIÓN DE LA AMPLIACIÓN
-La información más valiosa que emerge al empujar más allá de los experimentos célebres es una sola, en ocho caras:
-La mente no es un espejo del mundo con defectos; es un simulador cerrado, modular, predictivo y retroactivo, cuya salida consciente es una interfaz útil —no un informe fiel— y cuya experiencia subjetiva final permanece, hasta hoy, inexplicada por el propio mecanismo que la produce.
-Los límites no son bugs: son el costo de diseño de un sistema que prioriza velocidad, eficiencia y supervivencia sobre verdad. El Gorila y Rubin te mostraron que la interfaz miente; esta Capa 2 te muestra por qué no puede dejar de mentir (impenetrabilidad), que miente sobre su propia riqueza (gran engaño), que miente sobre el tiempo (postdicción), que opera sin ti (blindsight), que miente por apuesta óptima (bayesiano), y que el hecho de que la mentira se sienta real (qualia) es el misterio que queda en pie.
-Coda conceptual (en resonancia con la estética visual que acompaña esta exploración —"CORE IS INVISIBLE. IMPACT IS INEVITABLE"): los ocho límites convergen en una misma idea: lo que gobierna tu percepción es invisible para ti (priors, ventanas temporales, vías subcorticales, competición neuronal), y sin embargo su impacto sobre lo que experimentas como "realidad" es inevitable. El núcleo del sistema no se muestra; solo se delata cuando falla —es decir, precisamente en una ilusión óptica.
-</answer>
-+40
-crea un proyecto html inspirado en la estetica futuristica minismalista negrosupremo elegante. noiacore
-
-Pensamiento completado
-<thinking>
-Premisa: entregar un *proyecto* HTML (no un snippet) que reproduzca la identidad visual de las referencias NOIACORE LAB: negro supremo, minimalismo futurista, tipografía geométrica fina con tracking amplio, el "core" tipo eclipse sobre horizonte, anillos orbitales, línea axial, curvas parabólicas de luz, lemas en esquinas y el wordmark con la "A" como Λ.
-
-Restricciones y decisiones (reducción de entropía):
-Un único index.html autocontenido (CSS+JS inline) → máxima portabilidad y robustez al abrirlo. Sin build, sin frameworks.
-Arte del hero en un solo SVG con viewBox (escalado nítido y proporciones fijas) + canvas de partículas tenues detrás para profundidad. Tipografía en HTML real por accesibilidad.
-Glows/animaciones geométricas vía SMIL (cy, stroke-dashoffset) y rotaciones/pulsos vía CSS; todo pausable con prefers-reduced-motion (svg.pauseAnimations() + CSS).
-Wordmark con la Λ hecha como SVG inline dentro de un flex con gap uniforme → tracking perfecto y fiel.
-Interacción contenida (elegancia = restraint): parallax sutil del cursor, spotlight que "revela el core invisible", reveals on scroll con IntersectionObserver, cursor-ring solo en pointer fino.
-Paleta: #050507, tinta #ECECEF en opacidades, acento azul frío 120,150,255 solo en glows. Fuentes: Space Grotesk + Inter con fallback a system-ui.
-Estructura narrativa tipo dossier de laboratorio: Hero → 001 Manifiesto → 002 Arquitectura → 003 O Core (interactivo) → 004 Axiomas → Footer. Coherente con la marca y con el hilo temático previo (percepción / núcleo invisible).
-</thinking>
-<answer>
-
-Aquí tienes el proyecto completo: un único archivo index.html autocontenido (guárdalo así y ábrelo en el navegador; no requiere servidor ni dependencias locales). Recrea la estética negro‑supremo / futurista‑minimalista de NOIACORE LAB: el core‑eclipse sobre el horizonte, anillos orbitales, eje vertical con pulso de luz, curvas parabólicas, lemas en las esquinas, el wordmark con la A como Λ, y una narrativa de “lab dossier” con una sección interactiva donde el cursor revela el núcleo invisible.
-html
-738739740741
-Qué recrea de la referencia (mapeo directo)
-Negro supremo + grano + viñeta → --bg:#050507, body::before/::after.
-Core‑eclipse sobre horizonte → grupo SVG con orbe negro, corona blanca superior, halo radial y “mar” ondulado.
-Anillos orbitales + eje axial + curvas parabólicas → SVG con <circle> (giro SMIL/CSS), línea con gradiente y pulso de luz que la recorre, y 4 paths cúbicos simétricos.
-Lemas en esquinas con guion → .corner.left / .corner.right.
-Wordmark con la “A” como Λ → flex con gap uniforme + SVG inline del triángulo (tracking perfecto a cualquier tamaño).
-“CORE IS INVISIBLE / IMPACT IS INEVITABLE” + circulito inferior → .axis-bottom con 001 vertical y .orb-foot.
-Acento azul frío → --accent:120,150,255 usado solo en glows (fiel a la imagen 2).
-Interacción (contenida = elegante)
-Sección 003 “O Core”: el glifo está oculto tras una mask radial que sigue al cursor → el núcleo solo aparece donde miras (literalización del lema).
-Parallax sutil del escenario, cursor‑ring con lerp y estado hot, reveals on scroll, partículas con líneas tenues de fondo.
-Todo respeta prefers-reduced-motion (incluido svg.pauseAnimations()).
-Cómo extenderlo a “proyecto” multi‑archivo (opcional)
-Si prefieres estructura de carpetas, separa sin tocar la lógica:
-123456
-Sustituye los bloques inline por <link rel="stylesheet" href="assets/css/style.css"> y <script src="assets/js/main.js" defer></script>. El SVG del hero puede externalizarse a assets/img/core.svg e inyectarse con <object>/fetch si quieres reutilizarlo; mantén los id de gradientes/filtros únicos por documento.
-Notas de fidelidad tipográfica
-Carga Space Grotesk (display) + Inter (cuerpo) con display=swap; si no hay red, cae a system-ui sin romper el layout.
-Para un wordmark aún más “a medida”, cambia --f-display por una geométrica de palo seco (p. ej. Neue Haas Grotesk / Helvetica Now) si dispones de licencia local con @font-face.
-¿Quieres que lo lleve al siguiente nivel —versión con WebGL para el core (shader de eclipse reactivo al cursor), modo claro “lab‑paper” como la imagen 2, o un scroll‑scrollytelling que narre los 8 límites de la percepción que vimos antes integrados como secciones del dossier? Dime cuál y lo construyo encima de esta base.
-</answer>
-tu web rds pobree y muerta . repite
-
-Pensamiento completado
-<thinking>
-Crítica aceptada y diagnosticada sin excusas. "Pobre y muerta" tenía dos causas técnicas concretas en mi versión anterior:
-
-Muerta → el "core" era un SVG con animaciones lentas y estáticas (giros de 150s, glows fijos). No había flujo de energía, ni latido, ni reacción viva. El grano era una textura fija. El canvas de partículas era genérico. Nada palpitaba.
-Pobre → demasiado vacío negro sin tensión ni capas. Sin HUD, sin telemetría, sin densidad compositiva, sin tipografía cinemática, sin scroll real. Un dossier plano.
-Solución de raíz (no un parche CSS): rehago el núcleo con un fragment shader WebGL (eclipse vivo con anillo de acreción de plasma girando, lente gravitacional, estrellas con parallax, horizonte reactivo, latido/heartbeat, grano animado) + tipografía cinemática (reveal letra a letra + shimmer) + HUD/telemetría viva + osciloscopio + marquee + scroll‑driven + grano animado. Todo en un solo archivo, con fallback si WebGL falla (para que nunca quede muerto) y respeto a prefers-reduced-motion.
-</thinking>
-<answer>
-
-Tienes razón, y el diagnóstico es técnico, no estético: la anterior estaba muerta porque el núcleo era un SVG con glows fijos y giros lentísimos (nada palpitaba, el grano era una textura estática), y pobre porque era negro vacío sin capas, sin HUD, sin tensión compositiva ni tipografía con vida. Un esqueleto elegante, pero esqueleto.
-Esto lo rehago desde el núcleo: el core ahora es un shader WebGL vivo (eclipse con anillo de acreción de plasma que gira, lente gravitacional, estrellas con parallax, horizonte que respira, un latido que recorre todo y grano animado), más telemetría en vivo, osciloscopio, cinta en movimiento, tipografía cinemática y scroll‑driven. Si WebGL falla, hay fallback animado: nunca queda muerto. Un solo archivo.
-html
-624625626627628629617618619620621622623610611612613614615616603604605606607608609599600601602593594595596597598591592589590587588586584585583581582580579578577576575574557565function drawScope(t){  for(let pass=0;pass<2;pass++){
-Por qué esta versión ya no está muerta ni es pobre (crítica → solución)
-Tu crítica
-Causa técnica en v1
-Lo que hice en v2
-“muerta”
-SVG con glows fijos y giros de 150s; nada palpitaba
-Shader WebGL: anillo de acreción de plasma que gira (fbm en coordenadas polares), latido/heartbeat (u_beat) que hace respirar corona, halo y osciloscopio al unísono, estrellas con titileo, horizonte con reflejo ondulante
-“muerta”
-Grano = textura estática
-Grano animado (steps(4)) + scanline que barre la pantalla + marquee en loop = movimiento constante de fondo
-“muerta”
-Sin reacción viva
-El core del shader “mira” al cursor (centro lerp + elongación) y reacciona al scroll; osciloscopio vivo; cursor con trail magnético
-“pobre”
-Negro vacío, sin capas ni tensión
-HUD/telemetría en vivo (coords, signal%, entropy, frame counter que cambian), viewfinder brackets, cinta marquee, osciloscopio, rejilla de scope
-“pobre”
-Tipografía plana
-Wordmark cinemático: reveal letra a letra (mask + translateY escalonado), la Λ se dibuja con stroke-dashoffset, shimmer que lo recorre cada 6s
-“pobre”
-Sin scroll real
-Scroll‑driven: el shader desplaza centro/horizonte con u_scroll; reveals con blur→foco
-riesgo “muerta por fallo”
-—
-Fallback vivo (body.no-webgl): auroras cónicas girando si WebGL no compila → nunca pantalla muerta
-Identidad NOIACORE preservada
-Negro supremo #040406, acento azul frío solo en energía/glows, la Λ, los lemas de esquina, el eje 001 + “CORE IS INVISIBLE / IMPACT IS INEVITABLE”, el orbe‑pie latiendo. La elegancia sigue ahí, pero ahora con tensión y pulso, no con vacío.
-Accesibilidad / robustez
-prefers-reduced-motion congela u_time, latido y animaciones; cursor custom solo en pointer:fine; texto real en HTML (el shader es decorativo); DPR acotado (1.5 en GL, 2 en scope) para móvil.
-Si quieres llevarlo al siguiente umbral, tres rutas reales sobre esta base:
-Audio‑reactivo: meter un AnalyserNode (mic o track) y que u_beat/el anillo respondan a graves reales → el core escucha.
-Post‑procesado: segundo pass con bloom separable + aberración cromática en el borde del eclipse (más “cine”).
-Scrollytelling del núcleo: que al hacer scroll el shader haga zoom dentro del horizonte de sucesos y cada sección (001–004) dispare un “estado” del core (frío → acreción → colapso → señal).
-Dime cuál y lo monto encima sin romper lo que ya late.
-</answer>
-
-amplia 50x tu esfuerzo en esa misma direcion y aumenta masivamente el codigo<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="theme-color" content="#040406" />
-<meta name="color-scheme" content="dark" />
-<meta name="description" content="NOIACORE LAB — Inteligência silenciosa. Core is invisible. Impact is inevitable." />
-<title>NOIACORE — LAB</title>
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet" />
-<style>
-/* ============================================================
-   NOIACORE / LAB  ·  v2 — VIVA
-   Negro supremo con tensión · energía latente · elegancia densa
-   ============================================================ */
-:root{
-  --bg:#040406;
-  --ink:238,238,242;
-  --mute:rgba(var(--ink),.55);
-  --faint:rgba(var(--ink),.32);
-  --ghost:rgba(var(--ink),.16);
-  --line:rgba(var(--ink),.10);
-  --line2:rgba(var(--ink),.26);
-  --acc:125,155,255;
-  --acc2:180,200,255;
-  --f-d:"Space Grotesk",system-ui,sans-serif;
-  --f-b:"Inter",system-ui,sans-serif;
-  --trk-xl:.6em; --trk-lg:.4em; --trk-md:.26em; --trk-sm:.16em;
-  --ease:cubic-bezier(.16,1,.3,1);
-  --maxw:1280px;
-  --scroll:0;            /* 0..1 progreso global (JS) */
-  --mx:.5; --my:.5;      /* mouse normalizado (JS) */
-  --beat:0;              /* latido 0..1 (JS) */
-}
-*,*::before,*::after{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{
-  margin:0;background:var(--bg);color:rgba(var(--ink),.88);
-  font-family:var(--f-b);font-weight:300;line-height:1.6;
-  overflow-x:hidden;-webkit-font-smoothing:antialiased;cursor:none;
-}
-
-/* ---- capas de fondo fijas ---- */
-#gl{position:fixed;inset:0;z-index:0;width:100%;height:100%;display:block}
-/* fallback vivo si WebGL muere: auroras cónicas girando + pulso */
-body.no-webgl #gl{display:none}
-body.no-webgl .fb-fallback{display:block}
-.fb-fallback{
-  display:none;position:fixed;inset:0;z-index:0;
-  background:
-    conic-gradient(from 0deg at 50% 46%, transparent 0 38%, rgba(var(--acc),.10) 50%, transparent 62% 100%),
-    radial-gradient(60% 50% at 50% 46%, rgba(var(--acc),.10), transparent 70%),
-    var(--bg);
-  animation:fbspin 24s linear infinite;
-}
-@keyframes fbspin{to{filter:hue-rotate(20deg);transform:scale(1.05) rotate(360deg)}}
-
-/* viñeta + grano ANIMADO encima del shader */
-.vignette{position:fixed;inset:0;z-index:1;pointer-events:none;
-  background:radial-gradient(125% 95% at 50% 42%, transparent 48%, rgba(0,0,0,.78) 100%)}
-.grain{position:fixed;inset:-100%;z-index:2;pointer-events:none;opacity:.06;
-  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
-  animation:grain 1.1s steps(4) infinite}
-@keyframes grain{
-  0%{transform:translate(0,0)}25%{transform:translate(-4%,3%)}
-  50%{transform:translate(3%,-2%)}75%{transform:translate(-2%,-3%)}100%{transform:translate(2%,2%)}
-}
-/* línea de escaneo que baja (vida constante) */
-.scanline{position:fixed;left:0;right:0;height:140px;z-index:2;pointer-events:none;
-  background:linear-gradient(to bottom, transparent, rgba(var(--acc),.05), transparent);
-  animation:scan 7s linear infinite;mix-blend-mode:screen}
-@keyframes scan{0%{top:-140px}100%{top:100%}}
-
-/* ---- cursor ---- */
-.c-ring,.c-dot{position:fixed;top:0;left:0;z-index:120;pointer-events:none;border-radius:50%;
-  transform:translate(-50%,-50%);will-change:transform}
-.c-ring{width:38px;height:38px;border:1px solid rgba(var(--ink),.3);
-  transition:width .4s var(--ease),height .4s var(--ease),border-color .4s,background .4s}
-.c-dot{width:4px;height:4px;background:#fff;box-shadow:0 0 12px rgba(var(--acc),.9)}
-.c-ring.hot{width:70px;height:70px;border-color:rgba(var(--acc),.7);background:rgba(var(--acc),.05)}
-@media(hover:none),(pointer:coarse){body{cursor:auto}.c-ring,.c-dot{display:none}}
-
-/* ---- util ---- */
-.wrap{width:min(92vw,var(--maxw));margin-inline:auto}
-.eyebrow{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--mute)}
-
-/* ---- topbar ---- */
-.topbar{position:fixed;top:0;left:0;right:0;z-index:60;display:flex;align-items:center;
-  justify-content:space-between;padding:20px clamp(16px,4vw,44px);mix-blend-mode:difference}
-.brand{font-family:var(--f-d);font-size:13px;letter-spacing:var(--trk-md);text-transform:uppercase;
-  display:flex;align-items:center;gap:10px;color:#fff}
-.brand .pulse{width:7px;height:7px;border-radius:50%;background:#fff;
-  box-shadow:0 0 0 0 rgba(var(--acc),.7);animation:ping 2.4s var(--ease) infinite}
-@keyframes ping{0%{box-shadow:0 0 0 0 rgba(var(--acc),.6)}70%{box-shadow:0 0 0 12px rgba(var(--acc),0)}100%{box-shadow:0 0 0 0 rgba(var(--acc),0)}}
-.nav{display:flex;gap:clamp(14px,2.4vw,32px)}
-.nav a{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-sm);text-transform:uppercase;
-  color:var(--mute);text-decoration:none;position:relative;padding:4px 0;transition:color .3s}
-.nav a::after{content:"";position:absolute;left:0;bottom:0;width:0;height:1px;background:#fff;transition:width .4s var(--ease)}
-.nav a:hover{color:#fff}.nav a:hover::after{width:100%}
-@media(max-width:700px){.nav{display:none}}
-
-/* ============================================================
-   HERO
-   ============================================================ */
-.hero{position:relative;z-index:3;min-height:100svh;min-height:100vh;
-  display:flex;flex-direction:column;align-items:center;justify-content:center;
-  padding:90px 16px 40px;overflow:hidden}
-
-/* viewfinder / HUD corners */
-.hud{position:absolute;inset:clamp(64px,9vh,104px) clamp(16px,4vw,44px);z-index:5;pointer-events:none}
-.hud .brk{position:absolute;width:26px;height:26px;border:1px solid var(--line2)}
-.hud .tl{top:0;left:0;border-right:0;border-bottom:0}
-.hud .tr{top:0;right:0;border-left:0;border-bottom:0}
-.hud .bl{bottom:0;left:0;border-right:0;border-top:0}
-.hud .br{bottom:0;right:0;border-left:0;border-top:0}
-.hud .tel{position:absolute;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-sm);
-  color:var(--faint);text-transform:uppercase;line-height:1.9}
-.hud .tel.tl{top:34px;left:0}
-.hud .tel.tr{top:34px;right:0;text-align:right}
-.hud .tel.bl{bottom:0;left:0}
-.hud .tel.br{bottom:0;right:0;text-align:right}
-.hud .tel b{color:var(--mute);font-weight:400}
-.hud .tel .live{color:rgba(var(--acc),.9)}
-@media(max-width:640px){.hud .tel.tr,.hud .tel.bl{display:none}}
-
-/* lemas esquina superior */
-.corner{position:absolute;top:clamp(72px,10vh,112px);z-index:6;max-width:220px}
-.corner p{margin:0;font-family:var(--f-d);font-weight:300;font-size:11px;line-height:2.1;
-  letter-spacing:var(--trk-sm);text-transform:uppercase;color:var(--faint)}
-.corner .ln{display:block;overflow:hidden}
-.corner .ln i{display:block;font-style:normal;transform:translateY(110%);animation:rise .9s var(--ease) forwards}
-.corner.left{left:clamp(16px,5vw,72px)}.corner.right{right:clamp(16px,5vw,72px);text-align:right}
-.corner .dash{display:block;width:22px;height:1px;background:var(--line2);margin-top:14px;opacity:0;animation:fade 1s 1.2s forwards}
-.corner.right .dash{margin-left:auto}
-@keyframes rise{to{transform:translateY(0)}}
-@keyframes fade{to{opacity:1}}
-@media(max-width:860px){.corner{display:none}}
-
-/* wordmark cinemático */
-.wordmark{position:absolute;z-index:7;left:50%;top:63%;transform:translate(-50%,-50%);
-  display:flex;align-items:center;gap:clamp(7px,1.6vw,17px);
-  font-family:var(--f-d);font-weight:300;font-size:clamp(32px,8vw,84px);line-height:1;
-  color:#fff;white-space:nowrap}
-.wordmark .ch{display:inline-block;overflow:hidden}
-.wordmark .ch i{display:inline-block;font-style:normal;transform:translateY(115%);
-  animation:rise 1s var(--ease) forwards;animation-delay:calc(.5s + var(--i)*.06s)}
-.wordmark .lambda{height:.9em;width:auto;transform:translateY(.05em);overflow:visible}
-.wordmark .lambda path{stroke:#fff;stroke-dasharray:60;stroke-dashoffset:60;
-  animation:draw 1.1s var(--ease) forwards;animation-delay:.9s}
-@keyframes draw{to{stroke-dashoffset:0}}
-/* shimmer que recorre el wordmark */
-.wordmark::after{content:"";position:absolute;inset:-10% -2%;z-index:2;pointer-events:none;
-  background:linear-gradient(105deg,transparent 38%,rgba(255,255,255,.55) 50%,transparent 62%);
-  mix-blend-mode:overlay;transform:translateX(-130%);animation:shimmer 6s 2.2s ease-in-out infinite}
-@keyframes shimmer{0%{transform:translateX(-130%)}30%,100%{transform:translateX(130%)}}
-.sub-lab{position:absolute;z-index:7;left:50%;top:71.5%;transform:translate(-50%,-50%);
-  font-family:var(--f-d);font-size:clamp(11px,1.7vw,16px);letter-spacing:var(--trk-xl);color:var(--mute);
-  opacity:0;animation:fade 1s 1.5s forwards}
-
-/* eje inferior */
-.axis-b{position:absolute;z-index:7;left:50%;top:78%;transform:translateX(-50%);
-  display:flex;flex-direction:column;align-items:center;gap:16px;text-align:center;opacity:0;animation:fade 1s 1.7s forwards}
-.v-num{writing-mode:vertical-rl;text-orientation:upright;font-family:var(--f-d);font-size:10px;letter-spacing:.5em;color:var(--faint)}
-.tagline{font-family:var(--f-d);font-size:clamp(9px,1.2vw,12px);letter-spacing:var(--trk-md);
-  text-transform:uppercase;color:var(--faint);line-height:2.3}
-.orb-foot{width:18px;height:18px;border-radius:50%;border:1px solid rgba(var(--ink),.5);
-  box-shadow:0 0 22px rgba(var(--acc),.5),inset 0 0 8px rgba(var(--acc),.3);
-  animation:foot 2.4s var(--ease) infinite}
-@keyframes foot{0%,100%{transform:scale(.85);opacity:.5}50%{transform:scale(1.15);opacity:1}}
-
-/* scroll cue */
-.scrollcue{position:absolute;bottom:18px;left:50%;transform:translateX(-50%);z-index:7;
-  font-family:var(--f-d);font-size:9px;letter-spacing:var(--trk-md);color:var(--ghost);
-  display:flex;flex-direction:column;align-items:center;gap:8px;opacity:0;animation:fade 1s 2s forwards}
-.scrollcue .bar{width:1px;height:34px;background:linear-gradient(var(--faint),transparent);
-  animation:cue 2s var(--ease) infinite}
-@keyframes cue{0%{transform:scaleY(.2);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}
-  51%{transform-origin:bottom}100%{transform:scaleY(.2);transform-origin:bottom}}
-
-/* ============================================================
-   MARQUEE (cinta viva)
-   ============================================================ */
-.marquee{position:relative;z-index:3;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
-  overflow:hidden;padding:14px 0;background:rgba(0,0,0,.3);backdrop-filter:blur(2px)}
-.marquee .track{display:flex;gap:48px;width:max-content;animation:mq 32s linear infinite;
-  font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--faint)}
-.marquee .track span{display:flex;align-items:center;gap:48px}
-.marquee .track em{font-style:normal;color:rgba(var(--acc),.7)}
-.marquee .track .dot{width:4px;height:4px;border-radius:50%;background:var(--line2)}
-@keyframes mq{to{transform:translateX(-50%)}}
-
-/* ============================================================
-   BLOQUES
-   ============================================================ */
-section.block{position:relative;z-index:3;padding:clamp(90px,14vh,170px) 0}
-.idx{font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);color:var(--faint);
-  display:flex;align-items:center;gap:14px;margin-bottom:34px}
-.idx::after{content:"";flex:1;height:1px;background:var(--line)}
-.idx .blink{width:6px;height:6px;border-radius:50%;background:rgba(var(--acc),.8);animation:blink 1.4s steps(1) infinite}
-@keyframes blink{50%{opacity:.15}}
-
-/* 001 manifesto */
-.manifesto h2{font-family:var(--f-d);font-weight:300;font-size:clamp(28px,6vw,68px);line-height:1.12;
-  letter-spacing:.01em;margin:0 0 30px;color:rgba(var(--ink),.95);max-width:17ch}
-.manifesto h2 em{font-style:normal;color:var(--mute)}
-.manifesto .lead{max-width:62ch;color:var(--mute);font-size:clamp(14px,1.5vw,18px);line-height:1.9}
-.manifesto .lead .hl{color:rgba(var(--ink),.92);background:linear-gradient(transparent 60%,rgba(var(--acc),.18) 60%)}
-
-/* 002 arquitectura con líneas que se dibujan en hover */
-.grid{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}
-.cell{position:relative;border-right:1px solid var(--line);border-bottom:1px solid var(--line);
-  padding:34px 26px 44px;min-height:250px;display:flex;flex-direction:column;gap:14px;overflow:hidden;
-  transition:background .5s var(--ease)}
-.cell::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .5s;
-  background:radial-gradient(120% 80% at 50% 0%,rgba(var(--acc),.10),transparent 70%)}
-.cell:hover::before{opacity:1}
-.cell:hover{background:rgba(var(--ink),.02)}
-.cell .n{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint)}
-.cell h3{margin:0;font-family:var(--f-d);font-weight:400;font-size:clamp(15px,1.7vw,19px);
-  letter-spacing:var(--trk-sm);text-transform:uppercase;color:rgba(var(--ink),.94)}
-.cell p{margin:0;color:var(--faint);font-size:13px;line-height:1.8}
-.cell .glyph{position:absolute;right:18px;bottom:16px;width:34px;height:34px;opacity:.45;transition:opacity .5s,transform .6s var(--ease)}
-.cell:hover .glyph{opacity:.9;transform:rotate(90deg)}
-.cell .glyph *{stroke-dasharray:120;stroke-dashoffset:0;transition:stroke-dashoffset .8s var(--ease)}
-.cell:hover .glyph path,.cell:hover .glyph circle,.cell:hover .glyph line{stroke:rgba(var(--acc2),.9)}
-@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:520px){.grid{grid-template-columns:1fr}}
-
-/* 003 signal: osciloscopio + core reveal */
-.signal-wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:0;border:1px solid var(--line)}
-.scope{position:relative;min-height:340px;border-right:1px solid var(--line);overflow:hidden;background:rgba(0,0,0,.35)}
-.scope canvas{position:absolute;inset:0;width:100%;height:100%}
-.scope .lab{position:absolute;top:14px;left:16px;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
-.scope .lab.r{left:auto;right:16px;color:rgba(var(--acc),.7)}
-.corezone{position:relative;min-height:340px;display:grid;place-items:center;overflow:hidden;
-  background:radial-gradient(360px 360px at var(--cx,50%) var(--cy,50%),rgba(var(--acc),.12),transparent 62%)}
-.corezone .glyph{position:absolute;inset:0;display:grid;place-items:center;
-  -webkit-mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%);
-          mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%)}
-.corezone .glyph svg{width:min(58%,300px);height:auto}
-.corezone .glyph svg circle,.corezone .glyph svg line{stroke:rgba(var(--ink),.85)}
-.corezone .prompt{position:relative;z-index:2;text-align:center;pointer-events:none;
-  font-family:var(--f-d);font-size:clamp(13px,2vw,20px);letter-spacing:var(--trk-lg);text-transform:uppercase;color:var(--ghost)}
-.corezone .prompt small{display:block;margin-top:12px;font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
-@media(max-width:820px){.signal-wrap{grid-template-columns:1fr}.scope{border-right:0;border-bottom:1px solid var(--line)}}
-
-/* 004 axiomas */
-.axioms{list-style:none;margin:0;padding:0;counter-reset:a}
-.axioms li{display:flex;align-items:baseline;gap:24px;padding:24px 0;border-bottom:1px solid var(--line);
-  font-family:var(--f-d);font-weight:300;font-size:clamp(16px,2.6vw,30px);letter-spacing:var(--trk-sm);
-  text-transform:uppercase;color:rgba(var(--ink),.9);transition:color .4s,padding-left .5s var(--ease),letter-spacing .5s var(--ease)}
-.axioms li::before{counter-increment:a;content:"0" counter(a);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint);min-width:36px}
-.axioms li span{color:var(--mute)}
-.axioms li:hover{color:#fff;padding-left:12px;letter-spacing:.04em}
-.axioms li:hover::before{color:rgba(var(--acc),.9)}
-
-/* footer */
-footer{position:relative;z-index:3;padding:64px 0 46px;border-top:1px solid var(--line)}
-.foot{display:flex;justify-content:space-between;align-items:flex-end;gap:30px;flex-wrap:wrap}
-.foot .big{font-family:var(--f-d);font-weight:300;font-size:clamp(30px,8vw,80px);letter-spacing:var(--trk-lg);
-  color:rgba(var(--ink),.92);line-height:1;background:linear-gradient(180deg,#fff,rgba(var(--ink),.4));
-  -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
-.foot .meta{font-size:11px;letter-spacing:var(--trk-sm);color:var(--faint);text-transform:uppercase;text-align:right;line-height:2.1}
-
-/* reveal */
-.reveal{opacity:0;transform:translateY(30px);filter:blur(8px);
-  transition:opacity 1s var(--ease),transform 1s var(--ease),filter 1s var(--ease)}
-.reveal.in{opacity:1;transform:none;filter:none}
-
-@media(prefers-reduced-motion:reduce){
-  *{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important;scroll-behavior:auto!important}
-  .reveal,.corner .ln i,.wordmark .ch i,.wordmark .lambda path{opacity:1!important;transform:none!important;filter:none!important;stroke-dashoffset:0!important}
-  .scanline,.grain{display:none}
-}
-</style>
-</head>
-<body>
-
-<canvas id="gl" aria-hidden="true"></canvas>
-<div class="fb-fallback" aria-hidden="true"></div>
-<div class="vignette" aria-hidden="true"></div>
-<div class="grain" aria-hidden="true"></div>
-<div class="scanline" aria-hidden="true"></div>
-<div class="c-ring" aria-hidden="true"></div>
-<div class="c-dot" aria-hidden="true"></div>
-
-<header class="topbar">
-  <div class="brand"><span class="pulse"></span>NOIACORE</div>
-  <nav class="nav" aria-label="Principal">
-    <a href="#manifesto">Manifesto</a>
-    <a href="#arq">Arquitetura</a>
-    <a href="#signal">Signal</a>
-    <a href="#ax">Axiomas</a>
-  </nav>
-</header>
-
-<main>
-<!-- ===================== HERO ===================== -->
-<section class="hero" id="top">
-  <div class="hud" aria-hidden="true">
-    <span class="brk tl"></span><span class="brk tr"></span><span class="brk bl"></span><span class="brk br"></span>
-    <div class="tel tl">SYS // NOIACORE<br><b>NODE</b> 0xΛ‑CORE<br><b>STATE</b> <span class="live">● ACTIVE</span></div>
-    <div class="tel tr">LAT <b id="t-lat">00.000</b><br>LON <b id="t-lon">00.000</b><br>Δ <b id="t-dt">0.00</b>ms</div>
-    <div class="tel bl"><b>SIGNAL</b> <span id="t-sig">98.4</span>%<br><b>ENTROPY</b> <span id="t-ent">0.12</span></div>
-    <div class="tel br">FRAME <b id="t-fr">0000</b><br>CORE <b class="live">INVISIBLE</b></div>
-  </div>
-
-  <div class="corner left">
-    <p><span class="ln"><i style="animation-delay:.2s">Inteligência</i></span>
-       <span class="ln"><i style="animation-delay:.32s">Silenciosa.</i></span><br>
-       <span class="ln"><i style="animation-delay:.5s">Tecnologia</i></span>
-       <span class="ln"><i style="animation-delay:.62s">Essencial.</i></span></p>
-    <span class="dash"></span>
-  </div>
-  <div class="corner right">
-    <p><span class="ln"><i style="animation-delay:.26s">Arquitetura</i></span>
-       <span class="ln"><i style="animation-delay:.38s">de Inteligência</i></span><br>
-       <span class="ln"><i style="animation-delay:.56s">para o Futuro</i></span>
-       <span class="ln"><i style="animation-delay:.68s">da Humanidade.</i></span></p>
-    <span class="dash"></span>
-  </div>
-
-  <div class="wordmark" aria-label="NOIACORE">
-    <span class="ch" style="--i:0"><i>N</i></span><span class="ch" style="--i:1"><i>O</i></span><span class="ch" style="--i:2"><i>I</i></span>
-    <svg class="lambda" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 22 L12 2 L22 22" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    <span class="ch" style="--i:3"><i>C</i></span><span class="ch" style="--i:4"><i>O</i></span><span class="ch" style="--i:5"><i>R</i></span><span class="ch" style="--i:6"><i>E</i></span>
-  </div>
-  <div class="sub-lab">LAB</div>
-
-  <div class="axis-b">
-    <span class="v-num">001</span>
-    <p class="tagline">Core is invisible.<br>Impact is inevitable.</p>
-    <span class="orb-foot"></span>
-  </div>
-
-  <div class="scrollcue"><span>SCROLL</span><span class="bar"></span></div>
-</section>
-
-<!-- ===================== MARQUEE ===================== -->
-<div class="marquee" aria-hidden="true">
-  <div class="track">
-    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
-    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
-  </div>
-</div>
-
-<!-- ===================== 001 ===================== -->
-<section class="block manifesto" id="manifesto">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>001 — Manifesto</div>
-    <h2 class="reveal">Inteligência <em>silenciosa.</em><br>Tecnologia essencial.</h2>
-    <p class="lead reveal">
-      Construímos o que não precisa ser visto para ser sentido. O núcleo permanece invisível —
-      uma arquitetura de inferência que <span class="hl">observa, prediz e atua antes do ruído</span>.
-      A percepção, como a mente, não é um espelho do mundo: é uma construção ativa, eficiente,
-      implacável. Noiacore existe no espaço entre o estímulo e a consciência —
-      onde o sinal vira sentido, e o sentido vira impacto inevitável.
-    </p>
-  </div>
-</section>
-
-<!-- ===================== 002 ===================== -->
-<section class="block" id="arq">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>002 — Arquitetura</div>
-    <div class="grid reveal">
-      <div class="cell"><span class="n">M—01</span><h3>Percepção</h3>
-        <p>Camadas sensoriais que filtram o caos em sinal. O irrelevante deixa de existir.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="12"/><circle cx="17" cy="17" r="3.5"/></svg></div>
-      <div class="cell"><span class="n">M—02</span><h3>Predição</h3>
-        <p>Modelos generativos que antecipam o instante seguinte. Ver é apostar, não registrar.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M3 25 L12 13 L20 19 L31 5"/></svg></div>
-      <div class="cell"><span class="n">M—03</span><h3>Silêncio</h3>
-        <p>Computação que se apaga. A elegância é a ausência de fricção percebida.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M17 4 V30 M10 10 V24 M24 10 V24 M3 14 V20 M31 14 V20"/></svg></div>
-      <div class="cell"><span class="n">M—04</span><h3>Impacto</h3>
-        <p>O efeito inevitável de um núcleo bem construído. Invisível na causa, absoluto no resultado.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="4.5"/><circle cx="17" cy="17" r="12" stroke-dasharray="2 4"/></svg></div>
-    </div>
-  </div>
-</section>
-
-<!-- ===================== 003 ===================== -->
-<section class="block" id="signal">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>003 — Signal / O Core</div>
-    <div class="signal-wrap reveal">
-      <div class="scope">
-        <canvas id="scope"></canvas>
-        <div class="lab">WAVEFORM // CORE‑PULSE</div>
-        <div class="lab r" id="scope-hz">0.00 Hz</div>
-      </div>
-      <div class="corezone" id="corezone">
-        <div class="glyph" aria-hidden="true">
-          <svg viewBox="0 0 200 200" fill="none" stroke-width="1">
-            <circle cx="100" cy="100" r="72"/><circle cx="100" cy="100" r="48" stroke-dasharray="2 6"/>
-            <circle cx="100" cy="100" r="14" fill="rgba(125,155,255,.5)" stroke="none"/>
-            <line x1="100" y1="4" x2="100" y2="196"/><line x1="4" y1="100" x2="196" y2="100"/>
-          </svg>
-        </div>
-        <div class="prompt">O núcleo é invisível<small>— move o cursor para revelá‑lo —</small></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ===================== 004 ===================== -->
-<section class="block" id="ax">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>004 — Axiomas</div>
-    <ul class="axioms reveal">
-      <li>Core is invisible. <span>&nbsp;Impact is inevitable.</span></li>
-      <li>Perceber é construir, <span>não copiar.</span></li>
-      <li>O silêncio é uma <span>decisão de engenharia.</span></li>
-      <li>Predizemos o instante <span>antes que aconteça.</span></li>
-      <li>A elegância é o que <span>não se nota.</span></li>
-    </ul>
-  </div>
-</section>
-</main>
-
-<footer>
-  <div class="wrap foot">
-    <div class="big reveal">NOIACORE</div>
-    <div class="meta reveal">LAB · Arquitetura de Inteligência<br>© <span id="yr"></span> — todos os núcleos reservados<br><span style="color:rgba(var(--acc),.7)">● SYSTEM NOMINAL</span></div>
-  </div>
-</footer>
-
-<script>
-/* ============================================================
-   NOIACORE / LAB · v2 — motor
-   ============================================================ */
-const REDUCED = matchMedia('(prefers-reduced-motion: reduce)').matches;
-const FINE = matchMedia('(pointer:fine)').matches;
-document.getElementById('yr').textContent = new Date().getFullYear();
-
-/* ---------- estado global ---------- */
-const S = { mx:.5, my:.5, tmx:.5, tmy:.5, scroll:0, beat:0, t:0, frame:0 };
-
-/* ============================================================
-   1) WEBGL — eclipse vivo (anillo de acreción + lente + latido)
-   ============================================================ */
-const glCanvas = document.getElementById('gl');
-let gl = glCanvas.getContext('webgl', {antialias:false, alpha:false, premultipliedAlpha:false});
-if(!gl){ document.body.classList.add('no-webgl'); }
-
-const VS = `attribute vec2 p;void main(){gl_Position=vec4(p,0.,1.);}`;
-const FS = `
-precision highp float;
-uniform vec2  u_res;
-uniform float u_time, u_scroll, u_beat;
-uniform vec2  u_mouse;
-
-float hash(vec2 p){ return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453); }
-float noise(vec2 p){
-  vec2 i=floor(p), f=fract(p); vec2 u=f*f*(3.-2.*f);
-  return mix(mix(hash(i),hash(i+vec2(1,0)),u.x),
-             mix(hash(i+vec2(0,1)),hash(i+vec2(1,1)),u.x),u.y);
-}
-float fbm(vec2 p){ float v=0.,a=.5; for(int i=0;i<5;i++){ v+=a*noise(p); p*=2.03; a*=.5; } return v; }
-
-void main(){
-  vec2 uv = (gl_FragCoord.xy - .5*u_res)/u_res.y;
-  // el centro "mira" al cursor (lerp suave ya hecho en JS) + parallax scroll
-  vec2 center = (u_mouse - .5)*vec2(.30,.22);
-  center.y += u_scroll*0.18;
-  vec2 d = uv - center;
-  float r = length(d);
-
-  // --- lente gravitacional: distorsiona el campo cerca del core ---
-  float lens = 0.045/(r+0.06);
-  vec2 suv = uv + normalize(d+1e-5)*lens*smoothstep(0.5,0.05,r);
-
-  // --- estrellas con parallax ---
-  vec2 g = suv*vec2(2.2,2.2)+vec2(0.,u_scroll*0.6);
-  vec2 id = floor(g*60.); float h = hash(id);
-  float star = smoothstep(.985,1.,h) * smoothstep(.0,.6, fract(h*13.));
-  star *= 0.5+0.5*sin(u_time*2.+h*30.);           // titileo
-  vec3 col = vec3(star)*vec3(.7,.8,1.)*0.9;
-
-  // --- anillo de acreción: plasma girando (coordenadas polares) ---
-  float ang = atan(d.y,d.x);
-  float ringR = 0.165;
-  float band = exp(-pow((r-ringR)/0.055,2.0));     // grosor del anillo
-  float plasma = fbm(vec2(ang*2.2 + u_time*0.9, r*9.0 - u_time*1.6));
-  float plasma2= fbm(vec2(ang*5.0 - u_time*1.3, r*14.0 + u_time*0.8));
-  float ring = band * (0.45 + 0.85*plasma) * (0.6+0.6*plasma2);
-  // latido: el anillo respira con u_beat
-  ring *= 0.7 + 0.6*u_beat;
-  vec3 ringCol = mix(vec3(.55,.7,1.), vec3(1.), pow(plasma,2.0));
-  col += ring * ringCol * 2.4;
-
-  // halo exterior suave
-  col += exp(-r*5.0)*vec3(.30,.42,.85)*0.35*(0.7+0.5*u_beat);
-
-  // --- horizonte de luz que baja con scroll ---
-  float hy = -0.02 + u_scroll*0.10;
-  float horiz = exp(-pow((uv.y-hy)*22.0,2.0));
-  horiz *= smoothstep(0.6,0.0,abs(uv.x-center.x));
-  col += horiz*vec3(.8,.88,1.)*0.9;
-  // reflejo ondulante bajo el horizonte
-  float refl = exp(-(uv.y-hy)*9.0)*step(hy,uv.y);
-  refl *= 0.4+0.4*fbm(vec2(uv.x*30., uv.y*8.-u_time*2.));
-  col += refl*vec3(.3,.4,.8)*0.25*smoothstep(0.5,0.0,abs(uv.x-center.x));
-
-  // --- el CORE: disco negro con corona (fresnel) ---
-  float coreR = 0.052;
-  float core = smoothstep(coreR, coreR-0.004, r);   // 1 dentro
-  float corona = exp(-pow((r-coreR)/0.012,2.0));     // borde brillante
-  col = mix(col, vec3(0.0), core);                   // pinta negro el núcleo
-  col += corona*vec3(1.)*(1.4+0.8*u_beat);           // corona blanca
-  // arco superior más intenso (como la referencia)
-  float top = smoothstep(0.0,0.6,-d.y);
-  col += corona*top*vec3(1.)*1.2;
-
-  // bloom fake global
-  col += pow(max(col-0.6,0.0),vec3(1.5))*0.6;
-
-  // grano animado
-  col += (hash(gl_FragCoord.xy+u_time)-.5)*0.035;
-
-  // viñeta ligera (la fuerte va en CSS)
-  col *= smoothstep(1.25,0.35,length(uv));
-
-  gl_FragColor = vec4(col,1.);
-}`;
-
-let prog, u={};
-function compile(type,src){const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);
-  if(!gl.getShaderParameter(s,gl.COMPILE_STATUS)){console.warn(gl.getShaderInfoLog(s));return null;}return s;}
-function initGL(){
-  const vs=compile(gl.VERTEX_SHADER,VS), fs=compile(gl.FRAGMENT_SHADER,FS);
-  if(!vs||!fs){document.body.classList.add('no-webgl');return false;}
-  prog=gl.createProgram();gl.attachShader(prog,vs);gl.attachShader(prog,fs);gl.linkProgram(prog);
-  if(!gl.getProgramParameter(prog,gl.LINK_STATUS)){document.body.classList.add('no-webgl');return false;}
-  gl.useProgram(prog);
-  const buf=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buf);
-  gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,1,-1,-1,1,-1,1,1,-1,1,1]),gl.STATIC_DRAW);
-  const loc=gl.getAttribLocation(prog,'p');gl.enableVertexAttribArray(loc);gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
-  ['u_res','u_time','u_scroll','u_beat','u_mouse'].forEach(n=>u[n]=gl.getUniformLocation(prog,n));
-  return true;
-}
-function resizeGL(){const dpr=Math.min(devicePixelRatio||1,1.5);
-  glCanvas.width=innerWidth*dpr;glCanvas.height=innerHeight*dpr;}
-let glOK=false;
-if(gl){ glOK=initGL(); if(glOK){resizeGL();addEventListener('resize',resizeGL);} else gl=null; }
-
-/* ============================================================
-   2) osciloscopio (canvas 2D)
-   ============================================================ */
-const scope=document.getElementById('scope'), sctx=scope.getContext('2d');
-function resizeScope(){const dpr=Math.min(devicePixelRatio||1,2);const r=scope.getBoundingClientRect();
-  scope.width=r.width*dpr;scope.height=r.height*dpr;}
-resizeScope(); addEventListener('resize',resizeScope);
-function drawScope(t){
-  const w=scope.width,h=scope.height; sctx.clearRect(0,0,w,h);
-  // rejilla
-  sctx.strokeStyle='rgba(238,238,242,.06)';sctx.lineWidth=1;
-  for(let x=0;x<w;x+=w/16){sctx.beginPath();sctx.moveTo(x,0);sctx.lineTo(x,h);sctx.stroke();}
-  for(let y=0;y<h;y+=h/6){sctx.beginPath();sctx.moveTo(0,y);sctx.lineTo(w,y);sctx.stroke();}
-  // waveform viva: suma de senos + ruido modulado por el latido
-  const mid=h/2, amp=h*0.30;
-  for(let pass=0;pass<2;pass++){
-    sctx.beginPath();
-    for(let x=0;x<=w;x+=2){
-      const p=x/w;
-      const n=(Math.sin(p*22+t*3)+Math.sin(p*9-t*1.7)+ (Math.random()-.5)*0.6*(0.4+S.beat));
-      const y=mid + n*amp*0.32*(0.6+0.8*S.beat)*Math.sin(p*Math.PI);
-      x===0?sctx.moveTo(x,y):sctx.lineTo(x,y);
-    }
-    sctx.strokeStyle = pass? 'rgba(125,155,255,.35)':'rgba(238,238,242,.85)';
-    sctx.lineWidth = pass? 3:1.2; sctx.shadowBlur=pass?0:10; sctx.shadowColor='rgba(125,155,255,.6)';
-    sctx.stroke(); sctx.shadowBlur=0;
-  }
-}
-
-/* ============================================================
-   3) interacción: cursor, mouse, scroll, spotlight
-   ============================================================ */
-const ring=document.querySelector('.c-ring'), dot=document.querySelector('.c-dot');
-const corezone=document.getElementById('corezone');
-let rx=innerWidth/2, ry=innerHeight/2;
-addEventListener('pointermove',e=>{
-  S.tmx=e.clientX/innerWidth; S.tmy=e.clientY/innerHeight;
-  dot.style.transform=`translate(${e.clientX}px,${e.clientY}px) translate(-50%,-50%)`;
-  if(corezone){const r=corezone.getBoundingClientRect();
-    corezone.style.setProperty('--cx',((e.clientX-r.left)/r.width*100)+'%');
-    corezone.style.setProperty('--cy',((e.clientY-r.top)/r.height*100)+'%');}
-});
-(function ringLoop(){rx+=(e2px(S.tmx)-rx)*.16;ry+=(e2px(S.tmy,true)-ry)*.16;
-  ring.style.transform=`translate(${rx}px,${ry}px) translate(-50%,-50%)`;requestAnimationFrame(ringLoop);})();
-function e2px(n,y){return y? n*innerHeight : n*innerWidth;}
-document.querySelectorAll('a,.cell,.axioms li,.corezone,.nav a').forEach(el=>{
-  el.addEventListener('pointerenter',()=>ring.classList.add('hot'));
-  el.addEventListener('pointerleave',()=>ring.classList.remove('hot'));});
-
-addEventListener('scroll',()=>{const max=document.body.scrollHeight-innerHeight;
-  S.scroll=max>0?scrollY/max:0;document.documentElement.style.setProperty('--scroll',S.scroll);},{passive:true});
-
-/* ============================================================
-   4) telemetría viva (HUD)
-   ============================================================ */
-const T={lat:document.getElementById('t-lat'),lon:document.getElementById('t-lon'),
-  dt:document.getElementById('t-dt'),sig:document.getElementById('t-sig'),
-  ent:document.getElementById('t-ent'),fr:document.getElementById('t-fr'),
-  hz:document.getElementById('scope-hz')};
-setInterval(()=>{
-  T.lat.textContent=(Math.sin(S.t*0.3)*12+38).toFixed(3);
-  T.lon.textContent=(Math.cos(S.t*0.27)*30-9).toFixed(3);
-  T.dt.textContent=(8+Math.random()*4).toFixed(2);
-  T.sig.textContent=(96+Math.random()*4).toFixed(1);
-  T.ent.textContent=(0.08+Math.random()*0.12+S.beat*0.05).toFixed(2);
-  T.hz.textContent=(40+S.beat*30+Math.random()*4).toFixed(2)+' Hz';
-},120);
-
-/* ============================================================
-   5) reveal on scroll
-   ============================================================ */
-const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.16});
-document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
-
-/* ============================================================
-   LOOP MAESTRO
-   ============================================================ */
-let last=performance.now();
-function frame(now){
-  const dt=(now-last)/1000; last=now;
-  if(!REDUCED) S.t+=dt;
-  S.frame++;
-  // mouse lerp
-  S.mx+=(S.tmx-S.mx)*0.06; S.my+=(S.tmy-S.my)*0.06;
-  // latido: pulso cada ~2.4s con decaimiento (heartbeat)
-  const phase=(S.t%2.4)/2.4;
-  S.beat = REDUCED?0.5: Math.pow(1-phase,3)* (0.6+0.4*Math.sin(phase*Math.PI));
-
-  if(glOK){
-    gl.viewport(0,0,glCanvas.width,glCanvas.height);
-    gl.uniform2f(u.u_res,glCanvas.width,glCanvas.height);
-    gl.uniform1f(u.u_time,S.t);
-    gl.uniform1f(u.u_scroll,S.scroll);
-    gl.uniform1f(u.u_beat,S.beat);
-    gl.uniform2f(u.u_mouse,S.mx,1-S.my);
-    gl.drawArrays(gl.TRIANGLES,0,6);
-  }
-  if(!REDUCED) drawScope(S.t);
-  T.fr.textContent=String(S.frame).padStart(4,'0');
-  requestAnimationFrame(frame);
-}
-requestAnimationFrame(frame);
-</script>
-</body>
-</html>
-
-El contenido generado por IA puede no ser preciso.
-Cargando...
-¡La copia al portapapeles se ha realizado correctamente!amplia 50x tu esfuerzo en esa misma direcion y aumenta masivamente el codigo<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-<meta name="theme-color" content="#040406" />
-<meta name="color-scheme" content="dark" />
-<meta name="description" content="NOIACORE LAB — Inteligência silenciosa. Core is invisible. Impact is inevitable." />
-<title>NOIACORE — LAB</title>
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet" />
-<style>
-/* ============================================================
-   NOIACORE / LAB  ·  v2 — VIVA
-   Negro supremo con tensión · energía latente · elegancia densa
-   ============================================================ */
-:root{
-  --bg:#040406;
-  --ink:238,238,242;
-  --mute:rgba(var(--ink),.55);
-  --faint:rgba(var(--ink),.32);
-  --ghost:rgba(var(--ink),.16);
-  --line:rgba(var(--ink),.10);
-  --line2:rgba(var(--ink),.26);
-  --acc:125,155,255;
-  --acc2:180,200,255;
-  --f-d:"Space Grotesk",system-ui,sans-serif;
-  --f-b:"Inter",system-ui,sans-serif;
-  --trk-xl:.6em; --trk-lg:.4em; --trk-md:.26em; --trk-sm:.16em;
-  --ease:cubic-bezier(.16,1,.3,1);
-  --maxw:1280px;
-  --scroll:0;            /* 0..1 progreso global (JS) */
-  --mx:.5; --my:.5;      /* mouse normalizado (JS) */
-  --beat:0;              /* latido 0..1 (JS) */
-}
-*,*::before,*::after{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{
-  margin:0;background:var(--bg);color:rgba(var(--ink),.88);
-  font-family:var(--f-b);font-weight:300;line-height:1.6;
-  overflow-x:hidden;-webkit-font-smoothing:antialiased;cursor:none;
-}
-
-/* ---- capas de fondo fijas ---- */
-#gl{position:fixed;inset:0;z-index:0;width:100%;height:100%;display:block}
-/* fallback vivo si WebGL muere: auroras cónicas girando + pulso */
-body.no-webgl #gl{display:none}
-body.no-webgl .fb-fallback{display:block}
-.fb-fallback{
-  display:none;position:fixed;inset:0;z-index:0;
-  background:
-    conic-gradient(from 0deg at 50% 46%, transparent 0 38%, rgba(var(--acc),.10) 50%, transparent 62% 100%),
-    radial-gradient(60% 50% at 50% 46%, rgba(var(--acc),.10), transparent 70%),
-    var(--bg);
-  animation:fbspin 24s linear infinite;
-}
-@keyframes fbspin{to{filter:hue-rotate(20deg);transform:scale(1.05) rotate(360deg)}}
-
-/* viñeta + grano ANIMADO encima del shader */
-.vignette{position:fixed;inset:0;z-index:1;pointer-events:none;
-  background:radial-gradient(125% 95% at 50% 42%, transparent 48%, rgba(0,0,0,.78) 100%)}
-.grain{position:fixed;inset:-100%;z-index:2;pointer-events:none;opacity:.06;
-  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
-  animation:grain 1.1s steps(4) infinite}
-@keyframes grain{
-  0%{transform:translate(0,0)}25%{transform:translate(-4%,3%)}
-  50%{transform:translate(3%,-2%)}75%{transform:translate(-2%,-3%)}100%{transform:translate(2%,2%)}
-}
-/* línea de escaneo que baja (vida constante) */
-.scanline{position:fixed;left:0;right:0;height:140px;z-index:2;pointer-events:none;
-  background:linear-gradient(to bottom, transparent, rgba(var(--acc),.05), transparent);
-  animation:scan 7s linear infinite;mix-blend-mode:screen}
-@keyframes scan{0%{top:-140px}100%{top:100%}}
-
-/* ---- cursor ---- */
-.c-ring,.c-dot{position:fixed;top:0;left:0;z-index:120;pointer-events:none;border-radius:50%;
-  transform:translate(-50%,-50%);will-change:transform}
-.c-ring{width:38px;height:38px;border:1px solid rgba(var(--ink),.3);
-  transition:width .4s var(--ease),height .4s var(--ease),border-color .4s,background .4s}
-.c-dot{width:4px;height:4px;background:#fff;box-shadow:0 0 12px rgba(var(--acc),.9)}
-.c-ring.hot{width:70px;height:70px;border-color:rgba(var(--acc),.7);background:rgba(var(--acc),.05)}
-@media(hover:none),(pointer:coarse){body{cursor:auto}.c-ring,.c-dot{display:none}}
-
-/* ---- util ---- */
-.wrap{width:min(92vw,var(--maxw));margin-inline:auto}
-.eyebrow{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--mute)}
-
-/* ---- topbar ---- */
-.topbar{position:fixed;top:0;left:0;right:0;z-index:60;display:flex;align-items:center;
-  justify-content:space-between;padding:20px clamp(16px,4vw,44px);mix-blend-mode:difference}
-.brand{font-family:var(--f-d);font-size:13px;letter-spacing:var(--trk-md);text-transform:uppercase;
-  display:flex;align-items:center;gap:10px;color:#fff}
-.brand .pulse{width:7px;height:7px;border-radius:50%;background:#fff;
-  box-shadow:0 0 0 0 rgba(var(--acc),.7);animation:ping 2.4s var(--ease) infinite}
-@keyframes ping{0%{box-shadow:0 0 0 0 rgba(var(--acc),.6)}70%{box-shadow:0 0 0 12px rgba(var(--acc),0)}100%{box-shadow:0 0 0 0 rgba(var(--acc),0)}}
-.nav{display:flex;gap:clamp(14px,2.4vw,32px)}
-.nav a{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-sm);text-transform:uppercase;
-  color:var(--mute);text-decoration:none;position:relative;padding:4px 0;transition:color .3s}
-.nav a::after{content:"";position:absolute;left:0;bottom:0;width:0;height:1px;background:#fff;transition:width .4s var(--ease)}
-.nav a:hover{color:#fff}.nav a:hover::after{width:100%}
-@media(max-width:700px){.nav{display:none}}
-
-/* ============================================================
-   HERO
-   ============================================================ */
-.hero{position:relative;z-index:3;min-height:100svh;min-height:100vh;
-  display:flex;flex-direction:column;align-items:center;justify-content:center;
-  padding:90px 16px 40px;overflow:hidden}
-
-/* viewfinder / HUD corners */
-.hud{position:absolute;inset:clamp(64px,9vh,104px) clamp(16px,4vw,44px);z-index:5;pointer-events:none}
-.hud .brk{position:absolute;width:26px;height:26px;border:1px solid var(--line2)}
-.hud .tl{top:0;left:0;border-right:0;border-bottom:0}
-.hud .tr{top:0;right:0;border-left:0;border-bottom:0}
-.hud .bl{bottom:0;left:0;border-right:0;border-top:0}
-.hud .br{bottom:0;right:0;border-left:0;border-top:0}
-.hud .tel{position:absolute;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-sm);
-  color:var(--faint);text-transform:uppercase;line-height:1.9}
-.hud .tel.tl{top:34px;left:0}
-.hud .tel.tr{top:34px;right:0;text-align:right}
-.hud .tel.bl{bottom:0;left:0}
-.hud .tel.br{bottom:0;right:0;text-align:right}
-.hud .tel b{color:var(--mute);font-weight:400}
-.hud .tel .live{color:rgba(var(--acc),.9)}
-@media(max-width:640px){.hud .tel.tr,.hud .tel.bl{display:none}}
-
-/* lemas esquina superior */
-.corner{position:absolute;top:clamp(72px,10vh,112px);z-index:6;max-width:220px}
-.corner p{margin:0;font-family:var(--f-d);font-weight:300;font-size:11px;line-height:2.1;
-  letter-spacing:var(--trk-sm);text-transform:uppercase;color:var(--faint)}
-.corner .ln{display:block;overflow:hidden}
-.corner .ln i{display:block;font-style:normal;transform:translateY(110%);animation:rise .9s var(--ease) forwards}
-.corner.left{left:clamp(16px,5vw,72px)}.corner.right{right:clamp(16px,5vw,72px);text-align:right}
-.corner .dash{display:block;width:22px;height:1px;background:var(--line2);margin-top:14px;opacity:0;animation:fade 1s 1.2s forwards}
-.corner.right .dash{margin-left:auto}
-@keyframes rise{to{transform:translateY(0)}}
-@keyframes fade{to{opacity:1}}
-@media(max-width:860px){.corner{display:none}}
-
-/* wordmark cinemático */
-.wordmark{position:absolute;z-index:7;left:50%;top:63%;transform:translate(-50%,-50%);
-  display:flex;align-items:center;gap:clamp(7px,1.6vw,17px);
-  font-family:var(--f-d);font-weight:300;font-size:clamp(32px,8vw,84px);line-height:1;
-  color:#fff;white-space:nowrap}
-.wordmark .ch{display:inline-block;overflow:hidden}
-.wordmark .ch i{display:inline-block;font-style:normal;transform:translateY(115%);
-  animation:rise 1s var(--ease) forwards;animation-delay:calc(.5s + var(--i)*.06s)}
-.wordmark .lambda{height:.9em;width:auto;transform:translateY(.05em);overflow:visible}
-.wordmark .lambda path{stroke:#fff;stroke-dasharray:60;stroke-dashoffset:60;
-  animation:draw 1.1s var(--ease) forwards;animation-delay:.9s}
-@keyframes draw{to{stroke-dashoffset:0}}
-/* shimmer que recorre el wordmark */
-.wordmark::after{content:"";position:absolute;inset:-10% -2%;z-index:2;pointer-events:none;
-  background:linear-gradient(105deg,transparent 38%,rgba(255,255,255,.55) 50%,transparent 62%);
-  mix-blend-mode:overlay;transform:translateX(-130%);animation:shimmer 6s 2.2s ease-in-out infinite}
-@keyframes shimmer{0%{transform:translateX(-130%)}30%,100%{transform:translateX(130%)}}
-.sub-lab{position:absolute;z-index:7;left:50%;top:71.5%;transform:translate(-50%,-50%);
-  font-family:var(--f-d);font-size:clamp(11px,1.7vw,16px);letter-spacing:var(--trk-xl);color:var(--mute);
-  opacity:0;animation:fade 1s 1.5s forwards}
-
-/* eje inferior */
-.axis-b{position:absolute;z-index:7;left:50%;top:78%;transform:translateX(-50%);
-  display:flex;flex-direction:column;align-items:center;gap:16px;text-align:center;opacity:0;animation:fade 1s 1.7s forwards}
-.v-num{writing-mode:vertical-rl;text-orientation:upright;font-family:var(--f-d);font-size:10px;letter-spacing:.5em;color:var(--faint)}
-.tagline{font-family:var(--f-d);font-size:clamp(9px,1.2vw,12px);letter-spacing:var(--trk-md);
-  text-transform:uppercase;color:var(--faint);line-height:2.3}
-.orb-foot{width:18px;height:18px;border-radius:50%;border:1px solid rgba(var(--ink),.5);
-  box-shadow:0 0 22px rgba(var(--acc),.5),inset 0 0 8px rgba(var(--acc),.3);
-  animation:foot 2.4s var(--ease) infinite}
-@keyframes foot{0%,100%{transform:scale(.85);opacity:.5}50%{transform:scale(1.15);opacity:1}}
-
-/* scroll cue */
-.scrollcue{position:absolute;bottom:18px;left:50%;transform:translateX(-50%);z-index:7;
-  font-family:var(--f-d);font-size:9px;letter-spacing:var(--trk-md);color:var(--ghost);
-  display:flex;flex-direction:column;align-items:center;gap:8px;opacity:0;animation:fade 1s 2s forwards}
-.scrollcue .bar{width:1px;height:34px;background:linear-gradient(var(--faint),transparent);
-  animation:cue 2s var(--ease) infinite}
-@keyframes cue{0%{transform:scaleY(.2);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}
-  51%{transform-origin:bottom}100%{transform:scaleY(.2);transform-origin:bottom}}
-
-/* ============================================================
-   MARQUEE (cinta viva)
-   ============================================================ */
-.marquee{position:relative;z-index:3;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
-  overflow:hidden;padding:14px 0;background:rgba(0,0,0,.3);backdrop-filter:blur(2px)}
-.marquee .track{display:flex;gap:48px;width:max-content;animation:mq 32s linear infinite;
-  font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--faint)}
-.marquee .track span{display:flex;align-items:center;gap:48px}
-.marquee .track em{font-style:normal;color:rgba(var(--acc),.7)}
-.marquee .track .dot{width:4px;height:4px;border-radius:50%;background:var(--line2)}
-@keyframes mq{to{transform:translateX(-50%)}}
-
-/* ============================================================
-   BLOQUES
-   ============================================================ */
-section.block{position:relative;z-index:3;padding:clamp(90px,14vh,170px) 0}
-.idx{font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);color:var(--faint);
-  display:flex;align-items:center;gap:14px;margin-bottom:34px}
-.idx::after{content:"";flex:1;height:1px;background:var(--line)}
-.idx .blink{width:6px;height:6px;border-radius:50%;background:rgba(var(--acc),.8);animation:blink 1.4s steps(1) infinite}
-@keyframes blink{50%{opacity:.15}}
-
-/* 001 manifesto */
-.manifesto h2{font-family:var(--f-d);font-weight:300;font-size:clamp(28px,6vw,68px);line-height:1.12;
-  letter-spacing:.01em;margin:0 0 30px;color:rgba(var(--ink),.95);max-width:17ch}
-.manifesto h2 em{font-style:normal;color:var(--mute)}
-.manifesto .lead{max-width:62ch;color:var(--mute);font-size:clamp(14px,1.5vw,18px);line-height:1.9}
-.manifesto .lead .hl{color:rgba(var(--ink),.92);background:linear-gradient(transparent 60%,rgba(var(--acc),.18) 60%)}
-
-/* 002 arquitectura con líneas que se dibujan en hover */
-.grid{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}
-.cell{position:relative;border-right:1px solid var(--line);border-bottom:1px solid var(--line);
-  padding:34px 26px 44px;min-height:250px;display:flex;flex-direction:column;gap:14px;overflow:hidden;
-  transition:background .5s var(--ease)}
-.cell::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .5s;
-  background:radial-gradient(120% 80% at 50% 0%,rgba(var(--acc),.10),transparent 70%)}
-.cell:hover::before{opacity:1}
-.cell:hover{background:rgba(var(--ink),.02)}
-.cell .n{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint)}
-.cell h3{margin:0;font-family:var(--f-d);font-weight:400;font-size:clamp(15px,1.7vw,19px);
-  letter-spacing:var(--trk-sm);text-transform:uppercase;color:rgba(var(--ink),.94)}
-.cell p{margin:0;color:var(--faint);font-size:13px;line-height:1.8}
-.cell .glyph{position:absolute;right:18px;bottom:16px;width:34px;height:34px;opacity:.45;transition:opacity .5s,transform .6s var(--ease)}
-.cell:hover .glyph{opacity:.9;transform:rotate(90deg)}
-.cell .glyph *{stroke-dasharray:120;stroke-dashoffset:0;transition:stroke-dashoffset .8s var(--ease)}
-.cell:hover .glyph path,.cell:hover .glyph circle,.cell:hover .glyph line{stroke:rgba(var(--acc2),.9)}
-@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:520px){.grid{grid-template-columns:1fr}}
-
-/* 003 signal: osciloscopio + core reveal */
-.signal-wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:0;border:1px solid var(--line)}
-.scope{position:relative;min-height:340px;border-right:1px solid var(--line);overflow:hidden;background:rgba(0,0,0,.35)}
-.scope canvas{position:absolute;inset:0;width:100%;height:100%}
-.scope .lab{position:absolute;top:14px;left:16px;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
-.scope .lab.r{left:auto;right:16px;color:rgba(var(--acc),.7)}
-.corezone{position:relative;min-height:340px;display:grid;place-items:center;overflow:hidden;
-  background:radial-gradient(360px 360px at var(--cx,50%) var(--cy,50%),rgba(var(--acc),.12),transparent 62%)}
-.corezone .glyph{position:absolute;inset:0;display:grid;place-items:center;
-  -webkit-mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%);
-          mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%)}
-.corezone .glyph svg{width:min(58%,300px);height:auto}
-.corezone .glyph svg circle,.corezone .glyph svg line{stroke:rgba(var(--ink),.85)}
-.corezone .prompt{position:relative;z-index:2;text-align:center;pointer-events:none;
-  font-family:var(--f-d);font-size:clamp(13px,2vw,20px);letter-spacing:var(--trk-lg);text-transform:uppercase;color:var(--ghost)}
-.corezone .prompt small{display:block;margin-top:12px;font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
-@media(max-width:820px){.signal-wrap{grid-template-columns:1fr}.scope{border-right:0;border-bottom:1px solid var(--line)}}
-
-/* 004 axiomas */
-.axioms{list-style:none;margin:0;padding:0;counter-reset:a}
-.axioms li{display:flex;align-items:baseline;gap:24px;padding:24px 0;border-bottom:1px solid var(--line);
-  font-family:var(--f-d);font-weight:300;font-size:clamp(16px,2.6vw,30px);letter-spacing:var(--trk-sm);
-  text-transform:uppercase;color:rgba(var(--ink),.9);transition:color .4s,padding-left .5s var(--ease),letter-spacing .5s var(--ease)}
-.axioms li::before{counter-increment:a;content:"0" counter(a);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint);min-width:36px}
-.axioms li span{color:var(--mute)}
-.axioms li:hover{color:#fff;padding-left:12px;letter-spacing:.04em}
-.axioms li:hover::before{color:rgba(var(--acc),.9)}
-
-/* footer */
-footer{position:relative;z-index:3;padding:64px 0 46px;border-top:1px solid var(--line)}
-.foot{display:flex;justify-content:space-between;align-items:flex-end;gap:30px;flex-wrap:wrap}
-.foot .big{font-family:var(--f-d);font-weight:300;font-size:clamp(30px,8vw,80px);letter-spacing:var(--trk-lg);
-  color:rgba(var(--ink),.92);line-height:1;background:linear-gradient(180deg,#fff,rgba(var(--ink),.4));
-  -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
-.foot .meta{font-size:11px;letter-spacing:var(--trk-sm);color:var(--faint);text-transform:uppercase;text-align:right;line-height:2.1}
-
-/* reveal */
-.reveal{opacity:0;transform:translateY(30px);filter:blur(8px);
-  transition:opacity 1s var(--ease),transform 1s var(--ease),filter 1s var(--ease)}
-.reveal.in{opacity:1;transform:none;filter:none}
-
-@media(prefers-reduced-motion:reduce){
-  *{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important;scroll-behavior:auto!important}
-  .reveal,.corner .ln i,.wordmark .ch i,.wordmark .lambda path{opacity:1!important;transform:none!important;filter:none!important;stroke-dashoffset:0!important}
-  .scanline,.grain{display:none}
-}
-</style>
-</head>
-<body>
-
-<canvas id="gl" aria-hidden="true"></canvas>
-<div class="fb-fallback" aria-hidden="true"></div>
-<div class="vignette" aria-hidden="true"></div>
-<div class="grain" aria-hidden="true"></div>
-<div class="scanline" aria-hidden="true"></div>
-<div class="c-ring" aria-hidden="true"></div>
-<div class="c-dot" aria-hidden="true"></div>
-
-<header class="topbar">
-  <div class="brand"><span class="pulse"></span>NOIACORE</div>
-  <nav class="nav" aria-label="Principal">
-    <a href="#manifesto">Manifesto</a>
-    <a href="#arq">Arquitetura</a>
-    <a href="#signal">Signal</a>
-    <a href="#ax">Axiomas</a>
-  </nav>
-</header>
-
-<main>
-<!-- ===================== HERO ===================== -->
-<section class="hero" id="top">
-  <div class="hud" aria-hidden="true">
-    <span class="brk tl"></span><span class="brk tr"></span><span class="brk bl"></span><span class="brk br"></span>
-    <div class="tel tl">SYS // NOIACORE<br><b>NODE</b> 0xΛ‑CORE<br><b>STATE</b> <span class="live">● ACTIVE</span></div>
-    <div class="tel tr">LAT <b id="t-lat">00.000</b><br>LON <b id="t-lon">00.000</b><br>Δ <b id="t-dt">0.00</b>ms</div>
-    <div class="tel bl"><b>SIGNAL</b> <span id="t-sig">98.4</span>%<br><b>ENTROPY</b> <span id="t-ent">0.12</span></div>
-    <div class="tel br">FRAME <b id="t-fr">0000</b><br>CORE <b class="live">INVISIBLE</b></div>
-  </div>
-
-  <div class="corner left">
-    <p><span class="ln"><i style="animation-delay:.2s">Inteligência</i></span>
-       <span class="ln"><i style="animation-delay:.32s">Silenciosa.</i></span><br>
-       <span class="ln"><i style="animation-delay:.5s">Tecnologia</i></span>
-       <span class="ln"><i style="animation-delay:.62s">Essencial.</i></span></p>
-    <span class="dash"></span>
-  </div>
-  <div class="corner right">
-    <p><span class="ln"><i style="animation-delay:.26s">Arquitetura</i></span>
-       <span class="ln"><i style="animation-delay:.38s">de Inteligência</i></span><br>
-       <span class="ln"><i style="animation-delay:.56s">para o Futuro</i></span>
-       <span class="ln"><i style="animation-delay:.68s">da Humanidade.</i></span></p>
-    <span class="dash"></span>
-  </div>
-
-  <div class="wordmark" aria-label="NOIACORE">
-    <span class="ch" style="--i:0"><i>N</i></span><span class="ch" style="--i:1"><i>O</i></span><span class="ch" style="--i:2"><i>I</i></span>
-    <svg class="lambda" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 22 L12 2 L22 22" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-    <span class="ch" style="--i:3"><i>C</i></span><span class="ch" style="--i:4"><i>O</i></span><span class="ch" style="--i:5"><i>R</i></span><span class="ch" style="--i:6"><i>E</i></span>
-  </div>
-  <div class="sub-lab">LAB</div>
-
-  <div class="axis-b">
-    <span class="v-num">001</span>
-    <p class="tagline">Core is invisible.<br>Impact is inevitable.</p>
-    <span class="orb-foot"></span>
-  </div>
-
-  <div class="scrollcue"><span>SCROLL</span><span class="bar"></span></div>
-</section>
-
-<!-- ===================== MARQUEE ===================== -->
-<div class="marquee" aria-hidden="true">
-  <div class="track">
-    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
-    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
-  </div>
-</div>
-
-<!-- ===================== 001 ===================== -->
-<section class="block manifesto" id="manifesto">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>001 — Manifesto</div>
-    <h2 class="reveal">Inteligência <em>silenciosa.</em><br>Tecnologia essencial.</h2>
-    <p class="lead reveal">
-      Construímos o que não precisa ser visto para ser sentido. O núcleo permanece invisível —
-      uma arquitetura de inferência que <span class="hl">observa, prediz e atua antes do ruído</span>.
-      A percepção, como a mente, não é um espelho do mundo: é uma construção ativa, eficiente,
-      implacável. Noiacore existe no espaço entre o estímulo e a consciência —
-      onde o sinal vira sentido, e o sentido vira impacto inevitável.
-    </p>
-  </div>
-</section>
-
-<!-- ===================== 002 ===================== -->
-<section class="block" id="arq">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>002 — Arquitetura</div>
-    <div class="grid reveal">
-      <div class="cell"><span class="n">M—01</span><h3>Percepção</h3>
-        <p>Camadas sensoriais que filtram o caos em sinal. O irrelevante deixa de existir.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="12"/><circle cx="17" cy="17" r="3.5"/></svg></div>
-      <div class="cell"><span class="n">M—02</span><h3>Predição</h3>
-        <p>Modelos generativos que antecipam o instante seguinte. Ver é apostar, não registrar.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M3 25 L12 13 L20 19 L31 5"/></svg></div>
-      <div class="cell"><span class="n">M—03</span><h3>Silêncio</h3>
-        <p>Computação que se apaga. A elegância é a ausência de fricção percebida.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M17 4 V30 M10 10 V24 M24 10 V24 M3 14 V20 M31 14 V20"/></svg></div>
-      <div class="cell"><span class="n">M—04</span><h3>Impacto</h3>
-        <p>O efeito inevitável de um núcleo bem construído. Invisível na causa, absoluto no resultado.</p>
-        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="4.5"/><circle cx="17" cy="17" r="12" stroke-dasharray="2 4"/></svg></div>
-    </div>
-  </div>
-</section>
-
-<!-- ===================== 003 ===================== -->
-<section class="block" id="signal">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>003 — Signal / O Core</div>
-    <div class="signal-wrap reveal">
-      <div class="scope">
-        <canvas id="scope"></canvas>
-        <div class="lab">WAVEFORM // CORE‑PULSE</div>
-        <div class="lab r" id="scope-hz">0.00 Hz</div>
-      </div>
-      <div class="corezone" id="corezone">
-        <div class="glyph" aria-hidden="true">
-          <svg viewBox="0 0 200 200" fill="none" stroke-width="1">
-            <circle cx="100" cy="100" r="72"/><circle cx="100" cy="100" r="48" stroke-dasharray="2 6"/>
-            <circle cx="100" cy="100" r="14" fill="rgba(125,155,255,.5)" stroke="none"/>
-            <line x1="100" y1="4" x2="100" y2="196"/><line x1="4" y1="100" x2="196" y2="100"/>
-          </svg>
-        </div>
-        <div class="prompt">O núcleo é invisível<small>— move o cursor para revelá‑lo —</small></div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ===================== 004 ===================== -->
-<section class="block" id="ax">
-  <div class="wrap">
-    <div class="idx reveal"><span class="blink"></span>004 — Axiomas</div>
-    <ul class="axioms reveal">
-      <li>Core is invisible. <span>&nbsp;Impact is inevitable.</span></li>
-      <li>Perceber é construir, <span>não copiar.</span></li>
-      <li>O silêncio é uma <span>decisão de engenharia.</span></li>
-      <li>Predizemos o instante <span>antes que aconteça.</span></li>
-      <li>A elegância é o que <span>não se nota.</span></li>
-    </ul>
-  </div>
-</section>
-</main>
-
-<footer>
-  <div class="wrap foot">
-    <div class="big reveal">NOIACORE</div>
-    <div class="meta reveal">LAB · Arquitetura de Inteligência<br>© <span id="yr"></span> — todos os núcleos reservados<br><span style="color:rgba(var(--acc),.7)">● SYSTEM NOMINAL</span></div>
-  </div>
-</footer>
-
-<script>
-/* ============================================================
-   NOIACORE / LAB · v2 — motor
-   ============================================================ */
-const REDUCED = matchMedia('(prefers-reduced-motion: reduce)').matches;
-const FINE = matchMedia('(pointer:fine)').matches;
-document.getElementById('yr').textContent = new Date().getFullYear();
-
-/* ---------- estado global ---------- */
-const S = { mx:.5, my:.5, tmx:.5, tmy:.5, scroll:0, beat:0, t:0, frame:0 };
-
-/* ============================================================
-   1) WEBGL — eclipse vivo (anillo de acreción + lente + latido)
-   ============================================================ */
-const glCanvas = document.getElementById('gl');
-let gl = glCanvas.getContext('webgl', {antialias:false, alpha:false, premultipliedAlpha:false});
-if(!gl){ document.body.classList.add('no-webgl'); }
-
-const VS = `attribute vec2 p;void main(){gl_Position=vec4(p,0.,1.);}`;
-const FS = `
-precision highp float;
-uniform vec2  u_res;
-uniform float u_time, u_scroll, u_beat;
-uniform vec2  u_mouse;
-
-float hash(vec2 p){ return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453); }
-float noise(vec2 p){
-  vec2 i=floor(p), f=fract(p); vec2 u=f*f*(3.-2.*f);
-  return mix(mix(hash(i),hash(i+vec2(1,0)),u.x),
-             mix(hash(i+vec2(0,1)),hash(i+vec2(1,1)),u.x),u.y);
-}
-float fbm(vec2 p){ float v=0.,a=.5; for(int i=0;i<5;i++){ v+=a*noise(p); p*=2.03; a*=.5; } return v; }
-
-void main(){
-  vec2 uv = (gl_FragCoord.xy - .5*u_res)/u_res.y;
-  // el centro "mira" al cursor (lerp suave ya hecho en JS) + parallax scroll
-  vec2 center = (u_mouse - .5)*vec2(.30,.22);
-  center.y += u_scroll*0.18;
-  vec2 d = uv - center;
-  float r = length(d);
-
-  // --- lente gravitacional: distorsiona el campo cerca del core ---
-  float lens = 0.045/(r+0.06);
-  vec2 suv = uv + normalize(d+1e-5)*lens*smoothstep(0.5,0.05,r);
-
-  // --- estrellas con parallax ---
-  vec2 g = suv*vec2(2.2,2.2)+vec2(0.,u_scroll*0.6);
-  vec2 id = floor(g*60.); float h = hash(id);
-  float star = smoothstep(.985,1.,h) * smoothstep(.0,.6, fract(h*13.));
-  star *= 0.5+0.5*sin(u_time*2.+h*30.);           // titileo
-  vec3 col = vec3(star)*vec3(.7,.8,1.)*0.9;
-
-  // --- anillo de acreción: plasma girando (coordenadas polares) ---
-  float ang = atan(d.y,d.x);
-  float ringR = 0.165;
-  float band = exp(-pow((r-ringR)/0.055,2.0));     // grosor del anillo
-  float plasma = fbm(vec2(ang*2.2 + u_time*0.9, r*9.0 - u_time*1.6));
-  float plasma2= fbm(vec2(ang*5.0 - u_time*1.3, r*14.0 + u_time*0.8));
-  float ring = band * (0.45 + 0.85*plasma) * (0.6+0.6*plasma2);
-  // latido: el anillo respira con u_beat
-  ring *= 0.7 + 0.6*u_beat;
-  vec3 ringCol = mix(vec3(.55,.7,1.), vec3(1.), pow(plasma,2.0));
-  col += ring * ringCol * 2.4;
-
-  // halo exterior suave
-  col += exp(-r*5.0)*vec3(.30,.42,.85)*0.35*(0.7+0.5*u_beat);
-
-  // --- horizonte de luz que baja con scroll ---
-  float hy = -0.02 + u_scroll*0.10;
-  float horiz = exp(-pow((uv.y-hy)*22.0,2.0));
-  horiz *= smoothstep(0.6,0.0,abs(uv.x-center.x));
-  col += horiz*vec3(.8,.88,1.)*0.9;
-  // reflejo ondulante bajo el horizonte
-  float refl = exp(-(uv.y-hy)*9.0)*step(hy,uv.y);
-  refl *= 0.4+0.4*fbm(vec2(uv.x*30., uv.y*8.-u_time*2.));
-  col += refl*vec3(.3,.4,.8)*0.25*smoothstep(0.5,0.0,abs(uv.x-center.x));
-
-  // --- el CORE: disco negro con corona (fresnel) ---
-  float coreR = 0.052;
-  float core = smoothstep(coreR, coreR-0.004, r);   // 1 dentro
-  float corona = exp(-pow((r-coreR)/0.012,2.0));     // borde brillante
-  col = mix(col, vec3(0.0), core);                   // pinta negro el núcleo
-  col += corona*vec3(1.)*(1.4+0.8*u_beat);           // corona blanca
-  // arco superior más intenso (como la referencia)
-  float top = smoothstep(0.0,0.6,-d.y);
-  col += corona*top*vec3(1.)*1.2;
-
-  // bloom fake global
-  col += pow(max(col-0.6,0.0),vec3(1.5))*0.6;
-
-  // grano animado
-  col += (hash(gl_FragCoord.xy+u_time)-.5)*0.035;
-
-  // viñeta ligera (la fuerte va en CSS)
-  col *= smoothstep(1.25,0.35,length(uv));
-
-  gl_FragColor = vec4(col,1.);
-}`;
-
-let prog, u={};
-function compile(type,src){const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);
-  if(!gl.getShaderParameter(s,gl.COMPILE_STATUS)){console.warn(gl.getShaderInfoLog(s));return null;}return s;}
-function initGL(){
-  const vs=compile(gl.VERTEX_SHADER,VS), fs=compile(gl.FRAGMENT_SHADER,FS);
-  if(!vs||!fs){document.body.classList.add('no-webgl');return false;}
-  prog=gl.createProgram();gl.attachShader(prog,vs);gl.attachShader(prog,fs);gl.linkProgram(prog);
-  if(!gl.getProgramParameter(prog,gl.LINK_STATUS)){document.body.classList.add('no-webgl');return false;}
-  gl.useProgram(prog);
-  const buf=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buf);
-  gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,1,-1,-1,1,-1,1,1,-1,1,1]),gl.STATIC_DRAW);
-  const loc=gl.getAttribLocation(prog,'p');gl.enableVertexAttribArray(loc);gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
-  ['u_res','u_time','u_scroll','u_beat','u_mouse'].forEach(n=>u[n]=gl.getUniformLocation(prog,n));
-  return true;
-}
-function resizeGL(){const dpr=Math.min(devicePixelRatio||1,1.5);
-  glCanvas.width=innerWidth*dpr;glCanvas.height=innerHeight*dpr;}
-let glOK=false;
-if(gl){ glOK=initGL(); if(glOK){resizeGL();addEventListener('resize',resizeGL);} else gl=null; }
-
-/* ============================================================
-   2) osciloscopio (canvas 2D)
-   ============================================================ */
-const scope=document.getElementById('scope'), sctx=scope.getContext('2d');
-function resizeScope(){const dpr=Math.min(devicePixelRatio||1,2);const r=scope.getBoundingClientRect();
-  scope.width=r.width*dpr;scope.height=r.height*dpr;}
-resizeScope(); addEventListener('resize',resizeScope);
-function drawScope(t){
-  const w=scope.width,h=scope.height; sctx.clearRect(0,0,w,h);
-  // rejilla
-  sctx.strokeStyle='rgba(238,238,242,.06)';sctx.lineWidth=1;
-  for(let x=0;x<w;x+=w/16){sctx.beginPath();sctx.moveTo(x,0);sctx.lineTo(x,h);sctx.stroke();}
-  for(let y=0;y<h;y+=h/6){sctx.beginPath();sctx.moveTo(0,y);sctx.lineTo(w,y);sctx.stroke();}
-  // waveform viva: suma de senos + ruido modulado por el latido
-  const mid=h/2, amp=h*0.30;
-  for(let pass=0;pass<2;pass++){
-    sctx.beginPath();
-    for(let x=0;x<=w;x+=2){
-      const p=x/w;
-      const n=(Math.sin(p*22+t*3)+Math.sin(p*9-t*1.7)+ (Math.random()-.5)*0.6*(0.4+S.beat));
-      const y=mid + n*amp*0.32*(0.6+0.8*S.beat)*Math.sin(p*Math.PI);
-      x===0?sctx.moveTo(x,y):sctx.lineTo(x,y);
-    }
-    sctx.strokeStyle = pass? 'rgba(125,155,255,.35)':'rgba(238,238,242,.85)';
-    sctx.lineWidth = pass? 3:1.2; sctx.shadowBlur=pass?0:10; sctx.shadowColor='rgba(125,155,255,.6)';
-    sctx.stroke(); sctx.shadowBlur=0;
-  }
-}
-
-/* ============================================================
-   3) interacción: cursor, mouse, scroll, spotlight
-   ============================================================ */
-const ring=document.querySelector('.c-ring'), dot=document.querySelector('.c-dot');
-const corezone=document.getElementById('corezone');
-let rx=innerWidth/2, ry=innerHeight/2;
-addEventListener('pointermove',e=>{
-  S.tmx=e.clientX/innerWidth; S.tmy=e.clientY/innerHeight;
-  dot.style.transform=`translate(${e.clientX}px,${e.clientY}px) translate(-50%,-50%)`;
-  if(corezone){const r=corezone.getBoundingClientRect();
-    corezone.style.setProperty('--cx',((e.clientX-r.left)/r.width*100)+'%');
-    corezone.style.setProperty('--cy',((e.clientY-r.top)/r.height*100)+'%');}
-});
-(function ringLoop(){rx+=(e2px(S.tmx)-rx)*.16;ry+=(e2px(S.tmy,true)-ry)*.16;
-  ring.style.transform=`translate(${rx}px,${ry}px) translate(-50%,-50%)`;requestAnimationFrame(ringLoop);})();
-function e2px(n,y){return y? n*innerHeight : n*innerWidth;}
-document.querySelectorAll('a,.cell,.axioms li,.corezone,.nav a').forEach(el=>{
-  el.addEventListener('pointerenter',()=>ring.classList.add('hot'));
-  el.addEventListener('pointerleave',()=>ring.classList.remove('hot'));});
-
-addEventListener('scroll',()=>{const max=document.body.scrollHeight-innerHeight;
-  S.scroll=max>0?scrollY/max:0;document.documentElement.style.setProperty('--scroll',S.scroll);},{passive:true});
-
-/* ============================================================
-   4) telemetría viva (HUD)
-   ============================================================ */
-const T={lat:document.getElementById('t-lat'),lon:document.getElementById('t-lon'),
-  dt:document.getElementById('t-dt'),sig:document.getElementById('t-sig'),
-  ent:document.getElementById('t-ent'),fr:document.getElementById('t-fr'),
-  hz:document.getElementById('scope-hz')};
-setInterval(()=>{
-  T.lat.textContent=(Math.sin(S.t*0.3)*12+38).toFixed(3);
-  T.lon.textContent=(Math.cos(S.t*0.27)*30-9).toFixed(3);
-  T.dt.textContent=(8+Math.random()*4).toFixed(2);
-  T.sig.textContent=(96+Math.random()*4).toFixed(1);
-  T.ent.textContent=(0.08+Math.random()*0.12+S.beat*0.05).toFixed(2);
-  T.hz.textContent=(40+S.beat*30+Math.random()*4).toFixed(2)+' Hz';
-},120);
-
-/* ============================================================
-   5) reveal on scroll
-   ============================================================ */
-const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.16});
-document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
-
-/* ============================================================
-   LOOP MAESTRO
-   ============================================================ */
-let last=performance.now();
-function frame(now){
-  const dt=(now-last)/1000; last=now;
-  if(!REDUCED) S.t+=dt;
-  S.frame++;
-  // mouse lerp
-  S.mx+=(S.tmx-S.mx)*0.06; S.my+=(S.tmy-S.my)*0.06;
-  // latido: pulso cada ~2.4s con decaimiento (heartbeat)
-  const phase=(S.t%2.4)/2.4;
-  S.beat = REDUCED?0.5: Math.pow(1-phase,3)* (0.6+0.4*Math.sin(phase*Math.PI));
-
-  if(glOK){
-    gl.viewport(0,0,glCanvas.width,glCanvas.height);
-    gl.uniform2f(u.u_res,glCanvas.width,glCanvas.height);
-    gl.uniform1f(u.u_time,S.t);
-    gl.uniform1f(u.u_scroll,S.scroll);
-    gl.uniform1f(u.u_beat,S.beat);
-    gl.uniform2f(u.u_mouse,S.mx,1-S.my);
-    gl.drawArrays(gl.TRIANGLES,0,6);
-  }
-  if(!REDUCED) drawScope(S.t);
-  T.fr.textContent=String(S.frame).padStart(4,'0');
-  requestAnimationFrame(frame);
-}
-requestAnimationFrame(frame);
-</script>
-</body>
+Qwen3.8-Max-Preview
+
+
+
+
+
+Si exploramos los limites de la mente humana . Los experimentos de ilusion de optica cual es la informacion mas valiosa que podemos extraer
+
+
+
+Pensamiento completado
+
+Basándome en la información más relevante, te presento los hallazgos más valiosos que extraemos de los experimentos con ilusiones ópticas:
+
+INFORMACIÓN MÁS VALIOSA SOBRE LOS LÍMITES DE LA MENTE HUMANA
+
+1. Revelaciones sobre el Procesamiento Cerebral
+
+Distinción entre Sensación y Percepción:
+
+Las ilusiones demuestran que no vemos con los ojos, sino con el cerebro 
+
+www.nationalgeographic.com.es
+
+. La sensación es la información lumínica que llega a la retina, pero la percepción es la construcción activa de la corteza visual 
+
+mujeresconciencia.com
+
+.
+
+Procesamiento Predictivo:
+
+El cerebro autocompleta información basándose en experiencias previas y patrones aprendidos 
+
+mujeresconciencia.com
+
+. No procesa pasivamente, sino que predice activamente lo que debería ver 
+
+sinapticas.com
+
+.
+
+Jerarquía de Procesamiento:
+
+Nivel bajo: Procesamiento retiniano (campos receptivos centro-ON/OFF, inhibición lateral)
+
+Nivel alto: Inferencias cognitivas basadas en contexto, memoria y conocimiento previo 
+
+sinapticas.com
+
+2. Mecanismos Neurofisiológicos Descubiertos
+
+Sistema Visual Dual:
+
+Vía dorsal ("dónde"): Procesa movimiento, profundidad y localización espacial (lóbulo parietal)
+
+Vía ventral ("qué"): Procesa forma, color y reconocimiento de objetos (lóbulo temporal) 
+
+sinapticas.com
+
+Codificación Dispersa:
+
+La información visual se procesa mediante redes neuronales distribuidas donde diferentes grupos responden a aspectos específicos (color, forma, movimiento) 
+
+sinapticas.com
+
+.
+
+Limitaciones Estructurales:
+
+La visión periférica es muy deficiente - toda la información que se aleja de la fóvea está distorsionada 
+
+www.nationalgeographic.com.es
+
+.
+
+Los movimientos sacádicos (movimientos oculares bruscos) son compensados por el cerebro creando una percepción fluida 
+
+mujeresconciencia.com
+
+.
+
+3. Principios Cognitivos Fundamentales
+
+Constancias Perceptivas:
+
+Constancia de tamaño: Percibimos objetos del mismo tamaño independientemente de la distancia
+
+Constancia de color: Mantenemos el color percibido a pesar de cambios en la iluminación
+
+Estas constancias revelan que el cerebro "desconta" el contexto para estabilizar la percepción 
+
+sinapticas.com
+
+.
+
+Principios Gestálticos:
+
+El cerebro organiza según: proximidad, similitud, continuidad, simetría y cierre 
+
+neuro-class.com
+
+.
+
+La percepción es más que la suma de las partes - emergen patrones completos y significativos 
+
+neuro-class.com
+
+.
+
+Atención Selectiva:
+
+La corteza prefrontal filtra información para evitar sobrecarga cognitiva 
+
+mujeresconciencia.com
+
+.
+
+Experimento del "gorila invisible": Demostró que podemos ser ciegos a estímulos obvios cuando la atención está focalizada 
+
+mujeresconciencia.com
+
+.
+
+4. Implicaciones Filosóficas y Prácticas
+
+Subjetividad Radical:
+
+"Ni siquiera vemos con los ojos, sino con el cerebro" - las neuronas construyen nuestra realidad 
+
+www.nationalgeographic.com.es
+
+.
+
+La información que procesamos no es objetiva - retina, cerebro y experiencia construyen una sensación subjetiva 
+
+www.nationalgeographic.com.es
+
+.
+
+Limitaciones Epistemológicas:
+
+Las ilusiones demuestran que no podemos conocer la realidad "verdadera", solo nuestra construcción cerebral de ella 
+
+www.nationalgeographic.com.es
+
+.
+
+Esto tiene implicaciones en: testimonios judiciales, discusiones interpersonales, toma de decisiones 
+
+mujeresconciencia.com
+
+.
+
+Irrevocabilidad de los Qualia:
+
+Una vez que percibimos algo de cierta manera, no podemos "desverlo" aunque sepamos que es una ilusión 
+
+sinapticas.com
+
+.
+
+Esto contradice la idea de un cerebro puramente predictivo y ajustable - hay límites estructurales insuperables 
+
+sinapticas.com
+
+.
+
+5. Aportes Científicos Concretos
+
+Diagnóstico Neurológico:
+
+Las ilusiones ayudan a identificar: lesiones en V1 (ceguera cortical/blindsight), daño en V4/V8 (acromatopsia), trastornos del procesamiento visual 
+
+sinapticas.com
+
+.
+
+Modelos Computacionales:
+
+Inspiran el desarrollo de redes neuronales artificiales y sistemas de visión por computadora 
+
+www.nationalgeographic.com.es
+
+.
+
+Variabilidad Individual:
+
+El grado de ilusión varía según el tamaño de la corteza visual primaria (V1) de cada persona 
+
+www.nationalgeographic.com.es
+
+.
+
+Los niños muestran mayor plasticidad adaptativa que los adolescentes en percepción facial 
+
+sinapticas.com
+
+.
+
+6. Información sobre Eficiencia Cerebral
+
+Atajos Mentales (Heurísticos):
+
+El cerebro utiliza procesos de menor esfuerzo que pueden generar errores sistemáticos 
+
+prometeo.matem.unam.mx
+
+.
+
+Las ilusiones explotan estos sesgos y atajos evolutivamente adaptativos 
+
+m.occidente.co
+
+.
+
+Procesamiento Contextual:
+
+El tálamo combina y modula información multisensorial - lo que vemos depende de lo que escuchamos o tocamos 
+
+mujeresconciencia.com
+
+.
+
+El mismo estímulo puede generar percepciones distintas según el contexto y las ideas preconcebidas 
+
+mujeresconciencia.com
+
+.
+
+CONCLUSIÓN SINTÉTICA
+
+La información más valiosa es que las ilusiones ópticas revelan que la percepción no es un reflejo pasivo de la realidad, sino una construcción activa del cerebro basada en:
+
+Limitaciones biológicas estructurales (organización retiniana, campos receptivos)
+
+Procesamiento predictivo (inferencias inconscientes, autocompletado)
+
+Contexto y experiencia (conocimiento previo, expectativas)
+
+Filtros atencionales (selección de relevancia)
+
+Constancias adaptativas (estabilización perceptiva)
+
+Esto demuestra que nuestra "realidad" es una simulación cerebral útil pero imperfecta, con implicaciones profundas para entender la conciencia, la cognición y los límites del conocimiento humano 
+
+www.nationalgeographic.com.es
+
+sinapticas.com
+
+.
+
++27
+
+Extrae el fenomeno y el experimento mas significativo de la ilusion de optics  mas maxima informacion extra de como receae todo
+
+
+
+Pensamiento completado
+
+FENÓMENO Y EXPERIMENTO MÁS SIGNIFICATIVO DE LAS ILUSIONES ÓPTICAS
+
+** EXPERIMENTO MÁS SIGNIFICATIVO: "THE INVISIBLE GORILLA" (Simons & Chabris, 1999)**
+
+METODOLOGÍA DETALLADA
+
+Diseño Experimental:
+
+Tipo: Experimento de laboratorio con diseño de medidas independientes 
+
+www.tutor2u.net
+
+Participantes: 228 voluntarios (principalmente estudiantes), de los cuales se eliminaron 36, resultando en 16 grupos de 12 individuos cada uno 
+
+www.tutor2u.net
+
+Variable Independiente (IV): 4 condiciones principales:
+
+Transparente/Mujer con paraguas
+
+Transparente/Gorila
+
+Opaco/Mujer con paraguas
+
+Opaco/Gorila
+
+Dentro de cada condición: 4 sub-condiciones de tarea (Blanco/Fácil, Blanco/Difícil, Negro/Fácil, Negro/Difícil) = 16 condiciones totales 
+
+www.tutor2u.net
+
+Variable Dependiente (DV): Número de participantes que notaron el evento inesperado 
+
+www.tutor2u.net
+
+Materiales:
+
+Videos de 75 segundos mostrando dos equipos de tres jugadores (uno con camisetas blancas, otro con negras)
+
+Cada equipo pasaba una pelota de baloncesto naranja en orden estandarizado
+
+Después de 44-48 segundos, ocurría el evento inesperado durante 5 segundos:
+
+Condición Mujer Paraguas: Una mujer alta con paraguas abierto cruzaba de izquierda a derecha
+
+Condición Gorila: Una persona con disfraz completo de gorila cruzaba y se golpeaba el pecho
+
+Dos estilos: opaco (claramente visible) o transparente 
+
+www.tutor2u.net
+
+Procedimiento:
+
+Se instruía a los participantes a contar pases del equipo blanco O negro
+
+Condiciones de dificultad: fácil (contar pases) vs difícil (contar pases aéreos y de bote)
+
+Después del video, se preguntaba:
+
+"¿Notaste algo inusual?"
+
+"¿Viste un gorila/mujer con paraguas?"
+
+Si respondían sí, se pedían detalles adicionales
+
+Se eliminaban datos de quienes conocían el fenómeno
+
+Debriefing: se mostraba el video nuevamente para probar que el evento ocurrió 
+
+www.tutor2u.net
+
+📊 RESULTADOS CUANTITATIVOS
+
+Resultados Generales:
+
+54% notó el evento inesperado
+
+46% NO lo notó (ceguera atencional) 
+
+www.tutor2u.net
+
+Por Condición:
+
+Condición Opaca: 67% notó el evento
+
+Condición Transparente: 42% lo notó 
+
+www.tutor2u.net
+
+Por Dificultad:
+
+Tarea Fácil: 64% notó el evento
+
+Tarea Difícil: 45% lo notó 
+
+www.tutor2u.net
+
+Por Tipo de Evento:
+
+Mujer Paraguas: 65% la notó
+
+Gorila: 44% lo notó 
+
+www.tutor2u.net
+
+Observación Controlada:
+
+Solo 50% notó el evento cuando el gorila se golpeaba el pecho (similar al 42% en condición Opaco/Gorila) 
+
+www.tutor2u.net
+
+** MECANISMOS PSICOLÓGICOS Y NEURALES**
+
+1. Carga Cognitiva:
+
+El esfuerzo mental requerido para realizar la tarea limita la capacidad de procesar información adicional 
+
+achology.com
+
+Cuando la atención se enfoca intensamente, los recursos cognitivos se asignan principalmente a esa tarea, reduciendo la capacidad de percibir otros estímulos 
+
+achology.com
+
+2. Esquemas Mentales y Expectativas:
+
+La expectativa de contar pases creó un "esquema mental" que filtró información irrelevante, incluyendo el gorila 
+
+achology.com
+
+El cerebro utiliza procesamiento predictivo basado en experiencias previas 
+
+achology.com
+
+3. Selectividad Atencional:
+
+La atención funciona como un "filtro" que selecciona qué información procesar
+
+Ceguera atencional: Fallo para percibir objetos inesperados cuando la atención está dirigida a otra tarea 
+
+pubmed.ncbi.nlm.nih.gov
+
+Sin atención, no hay percepción consciente - los objetos pueden pasar a través del foco atencional sin ser "vistos" 
+
+www.tutor2u.net
+
+4. Bases Neurales:
+
+Corteza Prefrontal: Filtra información para evitar sobrecarga cognitiva
+
+Vía Dorsal ("dónde"): Procesa movimiento y localización (lóbulo parietal)
+
+Vía Ventral ("qué"): Procesa forma y reconocimiento (lóbulo temporal)
+
+LOC (Lateral Occipital Complex): Región crítica para segregación figura-fondo 
+
+pmc.ncbi.nlm.nih.gov
+
+🎯 FENÓMENO MÁS SIGNIFICATIVO: FIGURA-FONDO (Rubin's Vase, 1915)
+
+DESCRIPCIÓN DEL FENÓMENO
+
+Desarrollado por el psicólogo danés Edgar Rubin en 1915, es el ejemplo clásico de formas ambiguas o bi-estables (que se invierten) 
+
+en.wikipedia.org
+
+Características:
+
+La imagen puede verse como un jarrón blanco O dos caras negras de perfil, pero NO ambas simultáneamente 
+
+en.wikipedia.org
+
+Demuestra la distinción figura-fondo que el cerebro hace durante la percepción visual 
+
+en.wikipedia.org
+
+🧬 MECANISMO NEURO-COGNITIVO
+
+Principio Fundamental de Rubin:
+
+"Cuando dos campos tienen un borde común, y uno se ve como figura y el otro como fondo, la experiencia perceptual inmediata se caracteriza por un efecto de modelado que emerge del borde común y que opera solo en un campo o más fuertemente en uno que en el otro" 
+
+en.wikipedia.org
+
+Proceso de Procesamiento:
+
+Nivel 1 - Procesamiento Retiniano:
+
+Campos receptivos centro-ON/OFF
+
+Inhibición lateral
+
+Codificación dispersa de características visuales 
+
+www.facebook.com
+
+Nivel 2 - Asignación de Forma:
+
+El cerebro clasifica imágenes por qué objeto rodea a cuál - estableciendo profundidad y relaciones 
+
+en.wikipedia.org
+
+Si un objeto rodea a otro, el objeto rodeado se ve como figura, y el que rodea como fondo 
+
+en.wikipedia.org
+
+La figura tiene carácter de "cosa", el fondo parece material sin forma que se extiende continuamente 
+
+www.sciencedirect.com
+
+Nivel 3 - Procesamiento Holístico:
+
+Procesamiento holístico en la corteza visual (Hasson et al., 2001) 
+
+pmc.ncbi.nlm.nih.gov
+
+El cerebro intenta dar sentido a la imagen como un todo
+
+Cuando las contours son desiguales, surge ambigüedad
+
+El cerebro debe "modelar" lo que ve, anulando procesos de reconocimiento de características 
+
+en.wikipedia.org
+
+Nivel 4 - Alternancia Perceptiva:
+
+Imposibilidad de ver ambas interpretaciones simultáneamente
+
+El contorno límite pertenece a la figura, que aparece interpuesta contra un fondo sin forma
+
+Si la región posterior se interpreta como figura, el mismo contorno le pertenece 
+
+en.wikipedia.org
+
+🔬 BASES NEURALES ESPECÍFICAS
+
+Regiones Cerebrales Involucradas:
+
+LOC (Lateral Occipital Complex):
+
+Principal candidato para segregación figura-fondo 
+
+pmc.ncbi.nlm.nih.gov
+
+Procesa información de forma y contornos
+
+Corteza Visual Primaria (V1):
+
+Procesamiento inicial de bordes y contrastes
+
+Campos receptivos organizados jerárquicamente
+
+V4/V8:
+
+Procesamiento de color y forma
+
+Integración de información contextual
+
+Corteza Prefrontal:
+
+Control atencional descendente
+
+Modula qué interpretación se mantiene
+
+Mecanismo de Alternancia:
+
+Competición neuronal: Las poblaciones neuronales que codifican cada interpretación compiten
+
+Adaptación neuronal: La población activa se fatiga, permitiendo que la alternativa emerja
+
+Inhibición recíproca: Cada interpretación inhibe a la otra
+
+Modulación atencional: La atención puede influir en cuál predomina
+
+💥 IMPLICACIONES Y APLICACIONES
+
+Del Experimento del Gorila:
+
+1. Limitaciones de la Percepción:
+
+No tenemos conciencia comprehensiva de nuestro entorno
+
+La percepción es selectiva, no exhaustiva
+
+Objetos conspicuos pueden pasar desapercibidos 
+
+achology.com
+
+2. Aplicaciones Prácticas:
+
+Seguridad vial: Conductores pueden no ver peatones/obstáculos si están distraídos
+
+Seguridad aeroportuaria: Operadores de rayos X pueden pasar amenazas
+
+Testimonios judiciales: Testigos pueden no ver eventos cruciales
+
+Diagnóstico médico: Radiólogos pueden pasar anomalías 
+
+achology.com
+
+3. Implicaciones Filosóficas:
+
+Subjetividad radical: "Ni siquiera vemos con los ojos, sino con el cerebro"
+
+Realidad construida: Nuestra "realidad" es una simulación cerebral útil pero imperfecta
+
+Irrevocabilidad: Una vez que percibimos algo, no podemos "desverlo"
+
+Del Fenómeno Figura-Fondo:
+
+1. Principios Gestálticos:
+
+Influenció a los psicólogos de la Gestalt
+
+La percepción es más que la suma de las partes
+
+El todo determina la interpretación mental, no el efecto neto de las partes individuales 
+
+en.wikipedia.org
+
+2. Procesamiento Predictivo:
+
+El cerebro autocompleta información basándose en experiencias previas
+
+Utiliza atajos mentales (heurísticos) evolutivamente adaptativos
+
+Las constancias perceptivas (tamaño, color) estabilizan la percepción 
+
+www.facebook.com
+
+3. Variabilidad Individual:
+
+El grado de susceptibilidad varía según el tamaño de V1 de cada persona
+
+Los niños muestran mayor plasticidad adaptativa que adolescentes
+
+Diferencias culturales afectan la percepción (ej. ilusión Müller-Lyer) 
+
+perception.jhu.edu
+
+📈 TAXONOMÍA DE ILUSIONES ÓPTICAS
+
+Según Zavagno et al. (2015), existen tres enfoques clásicos:
+
+1. Enfoque Ecológico:
+
+La percepción es réplica del entorno
+
+Las ilusiones son resultado de información pobre
+
+2. Enfoque Gestáltico:
+
+La percepción es egocéntrica - organizamos datos según nuestras necesidades
+
+Toda percepción involucra una gestalt
+
+Las ilusiones no son "errores" sino organización natural
+
+3. Enfoque Cognitivo:
+
+La percepción está sesgada por experiencia previa, prejuicios y razonamiento lógico
+
+Las ilusiones son errores que revelan cómo usamos razonamiento lógico
+
+Permiten estudiar cómo falla el razonamiento ante señales confusas 
+
+pmc.ncbi.nlm.nih.gov
+
+🎓 CONCLUSIONES SINTÉTICAS
+
+Información Más Valiosa Extraída:
+
+Atención ≠ Percepción: Podemos atender sin percibir (gorila invisible)
+
+Procesamiento Activo: El cerebro construye activamente la realidad, no la refleja pasivamente
+
+Limitaciones Estructurales: Hay límites biológicos insuperables en nuestra percepción
+
+Contexto Determinante: El contexto y las expectativas determinan qué vemos
+
+Irrevocabilidad de Qualia: No podemos elegir no ver una interpretación una vez establecida
+
+Eficiencia vs Precisión: El cerebro prioriza eficiencia sobre precisión absoluta
+
+Aplicaciones Críticas: Estas limitaciones tienen implicaciones en seguridad, justicia, medicina y vida diaria
+
+Legado Científico:
+
+Invisible Gorilla: 4975 citaciones - estudio más influyente en atención 
+
+pubmed.ncbi.nlm.nih.gov
+
+Rubin's Vase: Fundamento de la psicología de la Gestalt y neurociencia cognitiva
+
+Ambos demuestran que la realidad percibida es una construcción cerebral, no un reflejo objetivo del mundo
+
+"CORE IS INVISIBLE. IMPACT IS INEVITABLE." - Lo más importante (atención, procesamiento neural) es invisible, pero su impacto en nuestra percepción es inevitable y fundamental.
+
++70
+
+
+
+amplia Qwen3.7-Plus
+
+Qwen3.7-Plus
+
+
+
+
+
+Si exploramos los limites de la mente humana . Los experimentos de ilusion de optica cual es la informacion mas valiosa que podemos extraer
+
+
+
+Pensamiento completado
+
+Basándome en la información más relevante, te presento los hallazgos más valiosos que extraemos de los experimentos con ilusiones ópticas:
+
+INFORMACIÓN MÁS VALIOSA SOBRE LOS LÍMITES DE LA MENTE HUMANA
+
+1. Revelaciones sobre el Procesamiento Cerebral
+
+Distinción entre Sensación y Percepción:
+
+Las ilusiones demuestran que no vemos con los ojos, sino con el cerebro 
+
+www.nationalgeographic.com.es
+
+. La sensación es la información lumínica que llega a la retina, pero la percepción es la construcción activa de la corteza visual 
+
+mujeresconciencia.com
+
+.
+
+Procesamiento Predictivo:
+
+El cerebro autocompleta información basándose en experiencias previas y patrones aprendidos 
+
+mujeresconciencia.com
+
+. No procesa pasivamente, sino que predice activamente lo que debería ver 
+
+sinapticas.com
+
+.
+
+Jerarquía de Procesamiento:
+
+Nivel bajo: Procesamiento retiniano (campos receptivos centro-ON/OFF, inhibición lateral)
+
+Nivel alto: Inferencias cognitivas basadas en contexto, memoria y conocimiento previo 
+
+sinapticas.com
+
+2. Mecanismos Neurofisiológicos Descubiertos
+
+Sistema Visual Dual:
+
+Vía dorsal ("dónde"): Procesa movimiento, profundidad y localización espacial (lóbulo parietal)
+
+Vía ventral ("qué"): Procesa forma, color y reconocimiento de objetos (lóbulo temporal) 
+
+sinapticas.com
+
+Codificación Dispersa:
+
+La información visual se procesa mediante redes neuronales distribuidas donde diferentes grupos responden a aspectos específicos (color, forma, movimiento) 
+
+sinapticas.com
+
+.
+
+Limitaciones Estructurales:
+
+La visión periférica es muy deficiente - toda la información que se aleja de la fóvea está distorsionada 
+
+www.nationalgeographic.com.es
+
+.
+
+Los movimientos sacádicos (movimientos oculares bruscos) son compensados por el cerebro creando una percepción fluida 
+
+mujeresconciencia.com
+
+.
+
+3. Principios Cognitivos Fundamentales
+
+Constancias Perceptivas:
+
+Constancia de tamaño: Percibimos objetos del mismo tamaño independientemente de la distancia
+
+Constancia de color: Mantenemos el color percibido a pesar de cambios en la iluminación
+
+Estas constancias revelan que el cerebro "desconta" el contexto para estabilizar la percepción 
+
+sinapticas.com
+
+.
+
+Principios Gestálticos:
+
+El cerebro organiza según: proximidad, similitud, continuidad, simetría y cierre 
+
+neuro-class.com
+
+.
+
+La percepción es más que la suma de las partes - emergen patrones completos y significativos 
+
+neuro-class.com
+
+.
+
+Atención Selectiva:
+
+La corteza prefrontal filtra información para evitar sobrecarga cognitiva 
+
+mujeresconciencia.com
+
+.
+
+Experimento del "gorila invisible": Demostró que podemos ser ciegos a estímulos obvios cuando la atención está focalizada 
+
+mujeresconciencia.com
+
+.
+
+4. Implicaciones Filosóficas y Prácticas
+
+Subjetividad Radical:
+
+"Ni siquiera vemos con los ojos, sino con el cerebro" - las neuronas construyen nuestra realidad 
+
+www.nationalgeographic.com.es
+
+.
+
+La información que procesamos no es objetiva - retina, cerebro y experiencia construyen una sensación subjetiva 
+
+www.nationalgeographic.com.es
+
+.
+
+Limitaciones Epistemológicas:
+
+Las ilusiones demuestran que no podemos conocer la realidad "verdadera", solo nuestra construcción cerebral de ella 
+
+www.nationalgeographic.com.es
+
+.
+
+Esto tiene implicaciones en: testimonios judiciales, discusiones interpersonales, toma de decisiones 
+
+mujeresconciencia.com
+
+.
+
+Irrevocabilidad de los Qualia:
+
+Una vez que percibimos algo de cierta manera, no podemos "desverlo" aunque sepamos que es una ilusión 
+
+sinapticas.com
+
+.
+
+Esto contradice la idea de un cerebro puramente predictivo y ajustable - hay límites estructurales insuperables 
+
+sinapticas.com
+
+.
+
+5. Aportes Científicos Concretos
+
+Diagnóstico Neurológico:
+
+Las ilusiones ayudan a identificar: lesiones en V1 (ceguera cortical/blindsight), daño en V4/V8 (acromatopsia), trastornos del procesamiento visual 
+
+sinapticas.com
+
+.
+
+Modelos Computacionales:
+
+Inspiran el desarrollo de redes neuronales artificiales y sistemas de visión por computadora 
+
+www.nationalgeographic.com.es
+
+.
+
+Variabilidad Individual:
+
+El grado de ilusión varía según el tamaño de la corteza visual primaria (V1) de cada persona 
+
+www.nationalgeographic.com.es
+
+.
+
+Los niños muestran mayor plasticidad adaptativa que los adolescentes en percepción facial 
+
+sinapticas.com
+
+.
+
+6. Información sobre Eficiencia Cerebral
+
+Atajos Mentales (Heurísticos):
+
+El cerebro utiliza procesos de menor esfuerzo que pueden generar errores sistemáticos 
+
+prometeo.matem.unam.mx
+
+.
+
+Las ilusiones explotan estos sesgos y atajos evolutivamente adaptativos 
+
+m.occidente.co
+
+.
+
+Procesamiento Contextual:
+
+El tálamo combina y modula información multisensorial - lo que vemos depende de lo que escuchamos o tocamos 
+
+mujeresconciencia.com
+
+.
+
+El mismo estímulo puede generar percepciones distintas según el contexto y las ideas preconcebidas 
+
+mujeresconciencia.com
+
+.
+
+CONCLUSIÓN SINTÉTICA
+
+La información más valiosa es que las ilusiones ópticas revelan que la percepción no es un reflejo pasivo de la realidad, sino una construcción activa del cerebro basada en:
+
+Limitaciones biológicas estructurales (organización retiniana, campos receptivos)
+
+Procesamiento predictivo (inferencias inconscientes, autocompletado)
+
+Contexto y experiencia (conocimiento previo, expectativas)
+
+Filtros atencionales (selección de relevancia)
+
+Constancias adaptativas (estabilización perceptiva)
+
+Esto demuestra que nuestra "realidad" es una simulación cerebral útil pero imperfecta, con implicaciones profundas para entender la conciencia, la cognición y los límites del conocimiento humano 
+
+www.nationalgeographic.com.es
+
+sinapticas.com
+
+.
+
++27
+
+Extrae el fenomeno y el experimento mas significativo de la ilusion de optics  mas maxima informacion extra de como receae todo
+
+
+
+Pensamiento completado
+
+FENÓMENO Y EXPERIMENTO MÁS SIGNIFICATIVO DE LAS ILUSIONES ÓPTICAS
+
+** EXPERIMENTO MÁS SIGNIFICATIVO: "THE INVISIBLE GORILLA" (Simons & Chabris, 1999)**
+
+METODOLOGÍA DETALLADA
+
+Diseño Experimental:
+
+Tipo: Experimento de laboratorio con diseño de medidas independientes 
+
+www.tutor2u.net
+
+Participantes: 228 voluntarios (principalmente estudiantes), de los cuales se eliminaron 36, resultando en 16 grupos de 12 individuos cada uno 
+
+www.tutor2u.net
+
+Variable Independiente (IV): 4 condiciones principales:
+
+Transparente/Mujer con paraguas
+
+Transparente/Gorila
+
+Opaco/Mujer con paraguas
+
+Opaco/Gorila
+
+Dentro de cada condición: 4 sub-condiciones de tarea (Blanco/Fácil, Blanco/Difícil, Negro/Fácil, Negro/Difícil) = 16 condiciones totales 
+
+www.tutor2u.net
+
+Variable Dependiente (DV): Número de participantes que notaron el evento inesperado 
+
+www.tutor2u.net
+
+Materiales:
+
+Videos de 75 segundos mostrando dos equipos de tres jugadores (uno con camisetas blancas, otro con negras)
+
+Cada equipo pasaba una pelota de baloncesto naranja en orden estandarizado
+
+Después de 44-48 segundos, ocurría el evento inesperado durante 5 segundos:
+
+Condición Mujer Paraguas: Una mujer alta con paraguas abierto cruzaba de izquierda a derecha
+
+Condición Gorila: Una persona con disfraz completo de gorila cruzaba y se golpeaba el pecho
+
+Dos estilos: opaco (claramente visible) o transparente 
+
+www.tutor2u.net
+
+Procedimiento:
+
+Se instruía a los participantes a contar pases del equipo blanco O negro
+
+Condiciones de dificultad: fácil (contar pases) vs difícil (contar pases aéreos y de bote)
+
+Después del video, se preguntaba:
+
+"¿Notaste algo inusual?"
+
+"¿Viste un gorila/mujer con paraguas?"
+
+Si respondían sí, se pedían detalles adicionales
+
+Se eliminaban datos de quienes conocían el fenómeno
+
+Debriefing: se mostraba el video nuevamente para probar que el evento ocurrió 
+
+www.tutor2u.net
+
+📊 RESULTADOS CUANTITATIVOS
+
+Resultados Generales:
+
+54% notó el evento inesperado
+
+46% NO lo notó (ceguera atencional) 
+
+www.tutor2u.net
+
+Por Condición:
+
+Condición Opaca: 67% notó el evento
+
+Condición Transparente: 42% lo notó 
+
+www.tutor2u.net
+
+Por Dificultad:
+
+Tarea Fácil: 64% notó el evento
+
+Tarea Difícil: 45% lo notó 
+
+www.tutor2u.net
+
+Por Tipo de Evento:
+
+Mujer Paraguas: 65% la notó
+
+Gorila: 44% lo notó 
+
+www.tutor2u.net
+
+Observación Controlada:
+
+Solo 50% notó el evento cuando el gorila se golpeaba el pecho (similar al 42% en condición Opaco/Gorila) 
+
+www.tutor2u.net
+
+** MECANISMOS PSICOLÓGICOS Y NEURALES**
+
+1. Carga Cognitiva:
+
+El esfuerzo mental requerido para realizar la tarea limita la capacidad de procesar información adicional 
+
+achology.com
+
+Cuando la atención se enfoca intensamente, los recursos cognitivos se asignan principalmente a esa tarea, reduciendo la capacidad de percibir otros estímulos 
+
+achology.com
+
+2. Esquemas Mentales y Expectativas:
+
+La expectativa de contar pases creó un "esquema mental" que filtró información irrelevante, incluyendo el gorila 
+
+achology.com
+
+El cerebro utiliza procesamiento predictivo basado en experiencias previas 
+
+achology.com
+
+3. Selectividad Atencional:
+
+La atención funciona como un "filtro" que selecciona qué información procesar
+
+Ceguera atencional: Fallo para percibir objetos inesperados cuando la atención está dirigida a otra tarea 
+
+pubmed.ncbi.nlm.nih.gov
+
+Sin atención, no hay percepción consciente - los objetos pueden pasar a través del foco atencional sin ser "vistos" 
+
+www.tutor2u.net
+
+4. Bases Neurales:
+
+Corteza Prefrontal: Filtra información para evitar sobrecarga cognitiva
+
+Vía Dorsal ("dónde"): Procesa movimiento y localización (lóbulo parietal)
+
+Vía Ventral ("qué"): Procesa forma y reconocimiento (lóbulo temporal)
+
+LOC (Lateral Occipital Complex): Región crítica para segregación figura-fondo 
+
+pmc.ncbi.nlm.nih.gov
+
+🎯 FENÓMENO MÁS SIGNIFICATIVO: FIGURA-FONDO (Rubin's Vase, 1915)
+
+DESCRIPCIÓN DEL FENÓMENO
+
+Desarrollado por el psicólogo danés Edgar Rubin en 1915, es el ejemplo clásico de formas ambiguas o bi-estables (que se invierten) 
+
+en.wikipedia.org
+
+Características:
+
+La imagen puede verse como un jarrón blanco O dos caras negras de perfil, pero NO ambas simultáneamente 
+
+en.wikipedia.org
+
+Demuestra la distinción figura-fondo que el cerebro hace durante la percepción visual 
+
+en.wikipedia.org
+
+🧬 MECANISMO NEURO-COGNITIVO
+
+Principio Fundamental de Rubin:
+
+"Cuando dos campos tienen un borde común, y uno se ve como figura y el otro como fondo, la experiencia perceptual inmediata se caracte
+
+
+
+
+
+Pensamiento completado
+
+<answer>
+
+
+
+AMPLIACIÓN — CAPA 2: LOS LÍMITES QUE LOS FENÓMENOS FAMOSOS NO MUESTRAN
+
+Lo anterior (Gorila Invisible, Jarrón de Rubin) reveló los límites atencionales y de organización figura-fondo. Pero si el objetivo real es explorar los límites de la mente, esos dos experimentos son solo la superficie. La información de mayor valor está en los fenómenos que exponen límites estructurales que ni la atención ni la ambigüedad explican. A continuación, la capa profunda, con confirmación de fuentes primarias.
+
+I. LÍMITE DE RIQUEZA → "El Gran Engaño" (The Grand Illusion)
+
+El hallazgo contraintuitivo: Creemos ver el mundo como una imagen interna rica, detallada y estable, tipo fotografía. Es falso. La sensación de riqueza visual es ella misma una ilusión.
+
+O'Regan y Noë sostienen que, pese a la pobreza del input retiniano, tenemos "la impresión subjetiva de gran riqueza", y que esa riqueza no es un cuadro interno detallado sino una "disposición para resolver problemas" (problem-solving poise): el mundo parece detallado porque, en cualquier instante, podemos consultarlo con un movimiento ocular 
+
+evanthompson.me
+
+www.researchgate.net
+
+.
+
+Noë (2003) argumenta que la ceguera al cambio no prueba que "falte una imagen interna", sino que expone una concepción reconstruccionista errónea de la visión 
+
+evanthompson.me
+
+www.academia.edu
+
+.
+
+Cohen formaliza la hipótesis del "Grand Illusion": la experiencia consciente de detalle excede con creces lo que el sistema representa realmente en un momento dado 
+
+aardvark.ucsd.edu
+
+.
+
+Qué límite revela: La mente confunde disponibilidad con presencia. El límite no es "cuánto ves", sino que tu sensación de ver-lo-todo es un truco de interfaz: el cerebro te entrega la certeza de detalle sin pagar el costo de representarlo. Es el equivalente perceptivo de un renderizado bajo demanda.
+
+Consecuencia directa: conecta y generaliza al Gorila Invisible. No es que "no atendiste al gorila"; es que nunca tuviste una representación detallada de la escena completa para empezar.
+
+II. LÍMITE COGNITIVO → Impenetrabilidad de la Percepción (saber no corrige ver)
+
+Este es, con diferencia, el límite más perturbador y el más contraintuitivo: aunque sepas que es una ilusión, sigues viéndola. La línea Müller-Lyer sigue pareciendo desigual aunque la midas. El jarrón sigue alternando aunque lo entiendas.
+
+Firestone & Scholl (2016, Behavioral and Brain Sciences, >1400 citas) defienden la tesis fuerte: no existe evidencia sólida de efectos top-down de la cognición sobre la percepción visual; la percepción es modular y encapsulada (en el sentido de Fodor): opera con sus propias reglas, aislada de tus creencias y deseos 
+
+pubmed.ncbi.nlm.nih.gov
+
+cognitivesciencesociety.org
+
+www.cambridge.org
+
+.
+
+Documentan falacias metodológicas recurrentes en la literatura que falsamente atribuían penetración cognitiva, como la "falacia de El Greco" (asumir que un sesgo del observador se refleja en su percepción cuando en realidad se refleja en su respuesta) 
+
+perception.jhu.edu
+
+.
+
+Debate abierto (rigor): Levin (2016) replica que algunos efectos top-down (p. ej. mediados por memoria) sí cuentan como efectos sobre la percepción 
+
+banaji.sites.fas.harvard.edu
+
+. Es decir: la impenetrabilidad es la posición dominante y mejor defendida, no un dogma cerrado.
+
+Qué límite revela: Hay una frontera dura entre conocimiento y experiencia. Tu sistema cognitivo de alto nivel (creencias, razón, saber) no tiene acceso de escritura al módulo visual temprano. Por eso Caporuscio (2022) lo formula como "when seeing is not believing": ver y creer pueden divergir permanentemente porque corren en sustratos distintos 
+
+www.sciencedirect.com
+
+.
+
+Implicación filosófica mayor: la razón no gobierna la percepción. Puedes ser perfectamente racional y seguir siendo engañado por tu propio aparato sensorial. La mente no es un sistema unitario corregible por introspección.
+
+III. LÍMITE TEMPORAL → Postdicción: el "ahora" se escribe después
+
+Las ilusiones anteriores son espaciales/estructurales. Las temporales revelan algo aún más radical: el presente perceptivo no existe en tiempo real; el cerebro lo reconstruye retroactivamente.
+
+Flash-lag effect: un flash alineado físicamente con un objeto en movimiento se percibe retrasado respecto al objeto 
+
+www.illusionsindex.org
+
+www.sciencedirect.com
+
+.
+
+Interpretación postdictiva (Eagleman & Sejnowski): la percepción de la posición de los objetos no se fija en el instante del flash, sino que se construye usando información que llega después, dentro de una ventana de integración de decenas de milisegundos 
+
+www.illusionsindex.org
+
+. El cerebro "espera" unos ~80 ms, recopila datos, y posdata lo que "viste" en el instante t.
+
+Rigor / controversia: esta no es la única explicación. Existe el modelo de latencia diferencial (el movimiento se procesa más rápido que el flash), defendido incluso por el propio Eagleman en trabajos posteriores 
+
+eagleman.com
+
+, y modelos de extrapolación posicional (Whitney & Cavanagh, 2000) 
+
+whitneylab.berkeley.edu
+
+; Schneider (2018) revisa y matiza la teoría postdictiva 
+
+pmc.ncbi.nlm.nih.gov
+
+. El consenso seguro es el fenómeno y que la localización temporal/espacial es una reconstrucción, no un registro en vivo; el mecanismo exacto sigue disputado.
+
+Qué límite revela: Vives en el pasado y tu cerebro reescribe ese pasado. La conciencia no es un stream en directo: es un buffer con edición no lineal. Eventos posteriores alteran cómo experimentaste un evento anterior (efectos color-phi, cutaneous rabbit, flash-drag van en la misma familia). El "presente" es una narrativa compilada a posteriori, no un espejo del instante.
+
+Esto destruye la intuición de que "lo que vi en ese momento fue X". Tu memoria fenomenológica de "ese momento" puede haber sido fabricada ~100 ms después.
+
+IV. LÍMITE DE CONCIENCIA → Blindsight: ver sin saber que ves
+
+El reverso exacto del Gorila Invisible. Allí: el ojo registra, la atención no, la conciencia no entra. Aquí: la corteza visual primaria (V1) está destruida, el paciente se declara ciego… y aun así "adivina" estímulos por encima del azar.
+
+Weiskrantz acuñó el término: discriminación visual sin conciencia (blindsight tipo 1) 
+
+www.sciencedirect.com
+
+.
+
+V1 es esencial para la visión consciente, pero procesamiento inconsciente de orientación, color y movimiento persiste sin él 
+
+pmc.ncbi.nlm.nih.gov
+
+.
+
+Mecanismo: vías subcorticales que evitan V1 — retina → colículo superior → pulvinar → corteza extrastriada (p. ej. hMT+ para movimiento), y una vía LGN→hMT+ preservada 
+
+pmc.ncbi.nlm.nih.gov
+
+www.researchgate.net
+
+link.springer.com
+
+.
+
+Qué límite revela: Visión y conciencia visual son disociables. Existe un sistema visual completo, funcional, que guía conducta sin generar experiencia. El límite aquí no es de capacidad, es ontológico: la conciencia fenomenal no es un subproducto automático del procesamiento visual; requiere un sustrato específico (V1 y su integración cortical). Gran parte de "ver" ocurre en la oscuridad de lo inconsciente.
+
+Paradoja simétrica con el Gorila: en el gorila, hay imagen retiniana sin experiencia por falta de atención; en blindsight, hay discriminación conductual sin experiencia por falta de V1. Ambos prueban que registro ≠ experiencia.
+
+V. MARCO UNIFICADOR → El Cerebro Bayesiano / Procesamiento Predictivo
+
+Los límites I–IV parecen desconectados. El marco moderno que los unifica es el procesamiento predictivo / cerebro bayesiano: el cerebro no recibe el mundo, lo predice; la percepción es la mejor hipótesis que minimiza el error entre predicción (prior) y señal sensorial.
+
+Término paraguas consolidado por Andy Clark a partir del principio de energía libre / codificación predictiva de Friston ("Whatever next?") 
+
+statespaceadventures.substack.com
+
+www.fil.ion.ucl.ac.uk
+
+.
+
+Bajo este marco, una ilusión óptica no es un "fallo": es el precio óptimo de un sistema que, ante evidencia ambigua o ruidosa, apuesta por su prior más probable (p. ej. "la luz viene de arriba", "los objetos son rígidos", "las líneas paralelas convergen con la distancia"). El prior vence a la evidencia → ilusión.
+
+Explica la impenetrabilidad (II): el prior visual está incrustado en el módulo, no es accesible a la creencia consciente → por eso "saber" no lo reescribe 
+
+www.sciencedirect.com
+
+.
+
+Explica la postdicción (III): el cerebro integra evidencia en una ventana temporal para formar la hipótesis más probable del instante pasado.
+
+Rigor / crítica: es el marco más influyente, pero no incuestionable. Mangalam (2025) lo critica como "el mito del cerebro bayesiano", y se debate cuán radical y uniforme es realmente el esquema predictivo (Orlandi; críticas a la universalidad del algoritmo) 
+
+pmc.ncbi.nlm.nih.gov
+
+perception.jhu.edu
+
+. Úsalo como lente unificadora potente, no como ley demostrada.
+
+Qué límite revela: La mente es una máquina de inferencia, no de registro. El límite último es que no tienes acceso directo a la realidad, solo al residuo de predicción menos error. Lo que llamas "ver" es el contenido de un modelo generativo interno.
+
+VI. LÍMITE FENOMENAL → Qualia y el "problema duro"
+
+Todos los límites anteriores son funcionales (qué hace el sistema). Queda el límite que la ciencia aún no puede cruzar:
+
+Por qué la alternancia del jarrón se siente como un cambio cualitativo y no como un mero cambio de etiqueta computacional; por qué el rojo se ve rojo. Esto es el problema duro de la conciencia (Chalmers): explicar por qué el procesamiento va acompañado de experiencia subjetiva (qualia).
+
+Las ilusiones biestables son el laboratorio limpio de esto: el estímulo físico es idéntico y constante, pero la experiencia salta entre dos qualia distintos. Eso aísla la experiencia del estímulo y la ancla al estado interno.
+
+Qué límite revela: Existe una frontera epistémica absoluta: podemos mapear cada correlato neural de la ilusión (LOC, V1, competición neuronal) y aun así la pregunta "¿por qué eso se siente como algo?" queda fuera del alcance del método físico actual. Es el límite de los límites.
+
+MAPA UNIFICADO DE LOS LÍMITES DE LA MENTE (síntesis de Capa 1 + Capa 2)
+
+#
+
+Límite
+
+Fenómeno ancla
+
+Lo que demuestra
+
+1
+
+Atencional
+
+Gorila Invisible
+
+Atender ≠ registrar consciente
+
+2
+
+Organizativo
+
+Jarrón de Rubin
+
+Un borde, dos mundos; no simultáneos
+
+3
+
+De riqueza
+
+Gran Engaño / ceguera al cambio
+
+La sensación de detalle es ficticia
+
+4
+
+Cognitivo
+
+Impenetrabilidad (Müller-Lyer)
+
+Saber no reescribe ver
+
+5
+
+Temporal
+
+Flash-lag / postdicción
+
+El "ahora" se edita a posteriori
+
+6
+
+De conciencia
+
+Blindsight
+
+Ver-conductual sin ver-experiencial
+
+7
+
+Inferencial
+
+Cerebro bayesiano
+
+Percibir = apostar, no registrar
+
+8
+
+Fenomenal
+
+Qualia biestables
+
+La experiencia es irreductible al cómputo
+
+CONCLUSIÓN DE LA AMPLIACIÓN
+
+La información más valiosa que emerge al empujar más allá de los experimentos célebres es una sola, en ocho caras:
+
+La mente no es un espejo del mundo con defectos; es un simulador cerrado, modular, predictivo y retroactivo, cuya salida consciente es una interfaz útil —no un informe fiel— y cuya experiencia subjetiva final permanece, hasta hoy, inexplicada por el propio mecanismo que la produce.
+
+Los límites no son bugs: son el costo de diseño de un sistema que prioriza velocidad, eficiencia y supervivencia sobre verdad. El Gorila y Rubin te mostraron que la interfaz miente; esta Capa 2 te muestra por qué no puede dejar de mentir (impenetrabilidad), que miente sobre su propia riqueza (gran engaño), que miente sobre el tiempo (postdicción), que opera sin ti (blindsight), que miente por apuesta óptima (bayesiano), y que el hecho de que la mentira se sienta real (qualia) es el misterio que queda en pie.
+
+Coda conceptual (en resonancia con la estética visual que acompaña esta exploración —"CORE IS INVISIBLE. IMPACT IS INEVITABLE"): los ocho límites convergen en una misma idea: lo que gobierna tu percepción es invisible para ti (priors, ventanas temporales, vías subcorticales, competición neuronal), y sin embargo su impacto sobre lo que experimentas como "realidad" es inevitable. El núcleo del sistema no se muestra; solo se delata cuando falla —es decir, precisamente en una ilusión óptica.
+
+</answer>
+
++40
+
+crea un proyecto html inspirado en la estetica futuristica minismalista negrosupremo elegante. noiacore
+
+
+
+Pensamiento completado
+
+<thinking>
+
+Premisa: entregar un *proyecto* HTML (no un snippet) que reproduzca la identidad visual de las referencias NOIACORE LAB: negro supremo, minimalismo futurista, tipografía geométrica fina con tracking amplio, el "core" tipo eclipse sobre horizonte, anillos orbitales, línea axial, curvas parabólicas de luz, lemas en esquinas y el wordmark con la "A" como Λ.
+
+
+
+Restricciones y decisiones (reducción de entropía):
+
+Un único index.html autocontenido (CSS+JS inline) → máxima portabilidad y robustez al abrirlo. Sin build, sin frameworks.
+
+Arte del hero en un solo SVG con viewBox (escalado nítido y proporciones fijas) + canvas de partículas tenues detrás para profundidad. Tipografía en HTML real por accesibilidad.
+
+Glows/animaciones geométricas vía SMIL (cy, stroke-dashoffset) y rotaciones/pulsos vía CSS; todo pausable con prefers-reduced-motion (svg.pauseAnimations() + CSS).
+
+Wordmark con la Λ hecha como SVG inline dentro de un flex con gap uniforme → tracking perfecto y fiel.
+
+Interacción contenida (elegancia = restraint): parallax sutil del cursor, spotlight que "revela el core invisible", reveals on scroll con IntersectionObserver, cursor-ring solo en pointer fino.
+
+Paleta: #050507, tinta #ECECEF en opacidades, acento azul frío 120,150,255 solo en glows. Fuentes: Space Grotesk + Inter con fallback a system-ui.
+
+Estructura narrativa tipo dossier de laboratorio: Hero → 001 Manifiesto → 002 Arquitectura → 003 O Core (interactivo) → 004 Axiomas → Footer. Coherente con la marca y con el hilo temático previo (percepción / núcleo invisible).
+
+</thinking>
+
+<answer>
+
+
+
+Aquí tienes el proyecto completo: un único archivo index.html autocontenido (guárdalo así y ábrelo en el navegador; no requiere servidor ni dependencias locales). Recrea la estética negro‑supremo / futurista‑minimalista de NOIACORE LAB: el core‑eclipse sobre el horizonte, anillos orbitales, eje vertical con pulso de luz, curvas parabólicas, lemas en las esquinas, el wordmark con la A como Λ, y una narrativa de “lab dossier” con una sección interactiva donde el cursor revela el núcleo invisible.
+
+html
+
+738739740741
+
+Qué recrea de la referencia (mapeo directo)
+
+Negro supremo + grano + viñeta → --bg:#050507, body::before/::after.
+
+Core‑eclipse sobre horizonte → grupo SVG con orbe negro, corona blanca superior, halo radial y “mar” ondulado.
+
+Anillos orbitales + eje axial + curvas parabólicas → SVG con <circle> (giro SMIL/CSS), línea con gradiente y pulso de luz que la recorre, y 4 paths cúbicos simétricos.
+
+Lemas en esquinas con guion → .corner.left / .corner.right.
+
+Wordmark con la “A” como Λ → flex con gap uniforme + SVG inline del triángulo (tracking perfecto a cualquier tamaño).
+
+“CORE IS INVISIBLE / IMPACT IS INEVITABLE” + circulito inferior → .axis-bottom con 001 vertical y .orb-foot.
+
+Acento azul frío → --accent:120,150,255 usado solo en glows (fiel a la imagen 2).
+
+Interacción (contenida = elegante)
+
+Sección 003 “O Core”: el glifo está oculto tras una mask radial que sigue al cursor → el núcleo solo aparece donde miras (literalización del lema).
+
+Parallax sutil del escenario, cursor‑ring con lerp y estado hot, reveals on scroll, partículas con líneas tenues de fondo.
+
+Todo respeta prefers-reduced-motion (incluido svg.pauseAnimations()).
+
+Cómo extenderlo a “proyecto” multi‑archivo (opcional)
+
+Si prefieres estructura de carpetas, separa sin tocar la lógica:
+
+123456
+
+Sustituye los bloques inline por <link rel="stylesheet" href="assets/css/style.css"> y <script src="assets/js/main.js" defer></script>. El SVG del hero puede externalizarse a assets/img/core.svg e inyectarse con <object>/fetch si quieres reutilizarlo; mantén los id de gradientes/filtros únicos por documento.
+
+Notas de fidelidad tipográfica
+
+Carga Space Grotesk (display) + Inter (cuerpo) con display=swap; si no hay red, cae a system-ui sin romper el layout.
+
+Para un wordmark aún más “a medida”, cambia --f-display por una geométrica de palo seco (p. ej. Neue Haas Grotesk / Helvetica Now) si dispones de licencia local con @font-face.
+
+¿Quieres que lo lleve al siguiente nivel —versión con WebGL para el core (shader de eclipse reactivo al cursor), modo claro “lab‑paper” como la imagen 2, o un scroll‑scrollytelling que narre los 8 límites de la percepción que vimos antes integrados como secciones del dossier? Dime cuál y lo construyo encima de esta base.
+
+</answer>
+
+tu web rds pobree y muerta . repite
+
+
+
+Pensamiento completado
+
+<thinking>
+
+Crítica aceptada y diagnosticada sin excusas. "Pobre y muerta" tenía dos causas técnicas concretas en mi versión anterior:
+
+
+
+Muerta → el "core" era un SVG con animaciones lentas y estáticas (giros de 150s, glows fijos). No había flujo de energía, ni latido, ni reacción viva. El grano era una textura fija. El canvas de partículas era genérico. Nada palpitaba.
+
+Pobre → demasiado vacío negro sin tensión ni capas. Sin HUD, sin telemetría, sin densidad compositiva, sin tipografía cinemática, sin scroll real. Un dossier plano.
+
+Solución de raíz (no un parche CSS): rehago el núcleo con un fragment shader WebGL (eclipse vivo con anillo de acreción de plasma girando, lente gravitacional, estrellas con parallax, horizonte reactivo, latido/heartbeat, grano animado) + tipografía cinemática (reveal letra a letra + shimmer) + HUD/telemetría viva + osciloscopio + marquee + scroll‑driven + grano animado. Todo en un solo archivo, con fallback si WebGL falla (para que nunca quede muerto) y respeto a prefers-reduced-motion.
+
+</thinking>
+
+<answer>
+
+
+
+Tienes razón, y el diagnóstico es técnico, no estético: la anterior estaba muerta porque el núcleo era un SVG con glows fijos y giros lentísimos (nada palpitaba, el grano era una textura estática), y pobre porque era negro vacío sin capas, sin HUD, sin tensión compositiva ni tipografía con vida. Un esqueleto elegante, pero esqueleto.
+
+Esto lo rehago desde el núcleo: el core ahora es un shader WebGL vivo (eclipse con anillo de acreción de plasma que gira, lente gravitacional, estrellas con parallax, horizonte que respira, un latido que recorre todo y grano animado), más telemetría en vivo, osciloscopio, cinta en movimiento, tipografía cinemática y scroll‑driven. Si WebGL falla, hay fallback animado: nunca queda muerto. Un solo archivo.
+
+html
+
+624625626627628629617618619620621622623610611612613614615616603604605606607608609599600601602593594595596597598591592589590587588586584585583581582580579578577576575574557565function drawScope(t){  for(let pass=0;pass<2;pass++){
+
+Por qué esta versión ya no está muerta ni es pobre (crítica → solución)
+
+Tu crítica
+
+Causa técnica en v1
+
+Lo que hice en v2
+
+“muerta”
+
+SVG con glows fijos y giros de 150s; nada palpitaba
+
+Shader WebGL: anillo de acreción de plasma que gira (fbm en coordenadas polares), latido/heartbeat (u_beat) que hace respirar corona, halo y osciloscopio al unísono, estrellas con titileo, horizonte con reflejo ondulante
+
+“muerta”
+
+Grano = textura estática
+
+Grano animado (steps(4)) + scanline que barre la pantalla + marquee en loop = movimiento constante de fondo
+
+“muerta”
+
+Sin reacción viva
+
+El core del shader “mira” al cursor (centro lerp + elongación) y reacciona al scroll; osciloscopio vivo; cursor con trail magnético
+
+“pobre”
+
+Negro vacío, sin capas ni tensión
+
+HUD/telemetría en vivo (coords, signal%, entropy, frame counter que cambian), viewfinder brackets, cinta marquee, osciloscopio, rejilla de scope
+
+“pobre”
+
+Tipografía plana
+
+Wordmark cinemático: reveal letra a letra (mask + translateY escalonado), la Λ se dibuja con stroke-dashoffset, shimmer que lo recorre cada 6s
+
+“pobre”
+
+Sin scroll real
+
+Scroll‑driven: el shader desplaza centro/horizonte con u_scroll; reveals con blur→foco
+
+riesgo “muerta por fallo”
+
+—
+
+Fallback vivo (body.no-webgl): auroras cónicas girando si WebGL no compila → nunca pantalla muerta
+
+Identidad NOIACORE preservada
+
+Negro supremo #040406, acento azul frío solo en energía/glows, la Λ, los lemas de esquina, el eje 001 + “CORE IS INVISIBLE / IMPACT IS INEVITABLE”, el orbe‑pie latiendo. La elegancia sigue ahí, pero ahora con tensión y pulso, no con vacío.
+
+Accesibilidad / robustez
+
+prefers-reduced-motion congela u_time, latido y animaciones; cursor custom solo en pointer:fine; texto real en HTML (el shader es decorativo); DPR acotado (1.5 en GL, 2 en scope) para móvil.
+
+Si quieres llevarlo al siguiente umbral, tres rutas reales sobre esta base:
+
+Audio‑reactivo: meter un AnalyserNode (mic o track) y que u_beat/el anillo respondan a graves reales → el core escucha.
+
+Post‑procesado: segundo pass con bloom separable + aberración cromática en el borde del eclipse (más “cine”).
+
+Scrollytelling del núcleo: que al hacer scroll el shader haga zoom dentro del horizonte de sucesos y cada sección (001–004) dispare un “estado” del core (frío → acreción → colapso → señal).
+
+Dime cuál y lo monto encima sin romper lo que ya late.
+
+</answer>
+
+
+
+amplia 50x tu esfuerzo en esa misma direcion y aumenta masivamente el codigo<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+<meta name="theme-color" content="#040406" />
+
+<meta name="color-scheme" content="dark" />
+
+<meta name="description" content="NOIACORE LAB — Inteligência silenciosa. Core is invisible. Impact is inevitable." />
+
+<title>NOIACORE — LAB</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet" />
+
+<style>
+
+/* ============================================================
+
+   NOIACORE / LAB  ·  v2 — VIVA
+
+   Negro supremo con tensión · energía latente · elegancia densa
+
+   ============================================================ */
+
+:root{
+
+  --bg:#040406;
+
+  --ink:238,238,242;
+
+  --mute:rgba(var(--ink),.55);
+
+  --faint:rgba(var(--ink),.32);
+
+  --ghost:rgba(var(--ink),.16);
+
+  --line:rgba(var(--ink),.10);
+
+  --line2:rgba(var(--ink),.26);
+
+  --acc:125,155,255;
+
+  --acc2:180,200,255;
+
+  --f-d:"Space Grotesk",system-ui,sans-serif;
+
+  --f-b:"Inter",system-ui,sans-serif;
+
+  --trk-xl:.6em; --trk-lg:.4em; --trk-md:.26em; --trk-sm:.16em;
+
+  --ease:cubic-bezier(.16,1,.3,1);
+
+  --maxw:1280px;
+
+  --scroll:0;            /* 0..1 progreso global (JS) */
+
+  --mx:.5; --my:.5;      /* mouse normalizado (JS) */
+
+  --beat:0;              /* latido 0..1 (JS) */
+
+}
+
+*,*::before,*::after{box-sizing:border-box}
+
+html{scroll-behavior:smooth}
+
+body{
+
+  margin:0;background:var(--bg);color:rgba(var(--ink),.88);
+
+  font-family:var(--f-b);font-weight:300;line-height:1.6;
+
+  overflow-x:hidden;-webkit-font-smoothing:antialiased;cursor:none;
+
+}
+
+
+
+/* ---- capas de fondo fijas ---- */
+
+#gl{position:fixed;inset:0;z-index:0;width:100%;height:100%;display:block}
+
+/* fallback vivo si WebGL muere: auroras cónicas girando + pulso */
+
+body.no-webgl #gl{display:none}
+
+body.no-webgl .fb-fallback{display:block}
+
+.fb-fallback{
+
+  display:none;position:fixed;inset:0;z-index:0;
+
+  background:
+
+    conic-gradient(from 0deg at 50% 46%, transparent 0 38%, rgba(var(--acc),.10) 50%, transparent 62% 100%),
+
+    radial-gradient(60% 50% at 50% 46%, rgba(var(--acc),.10), transparent 70%),
+
+    var(--bg);
+
+  animation:fbspin 24s linear infinite;
+
+}
+
+@keyframes fbspin{to{filter:hue-rotate(20deg);transform:scale(1.05) rotate(360deg)}}
+
+
+
+/* viñeta + grano ANIMADO encima del shader */
+
+.vignette{position:fixed;inset:0;z-index:1;pointer-events:none;
+
+  background:radial-gradient(125% 95% at 50% 42%, transparent 48%, rgba(0,0,0,.78) 100%)}
+
+.grain{position:fixed;inset:-100%;z-index:2;pointer-events:none;opacity:.06;
+
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+
+  animation:grain 1.1s steps(4) infinite}
+
+@keyframes grain{
+
+  0%{transform:translate(0,0)}25%{transform:translate(-4%,3%)}
+
+  50%{transform:translate(3%,-2%)}75%{transform:translate(-2%,-3%)}100%{transform:translate(2%,2%)}
+
+}
+
+/* línea de escaneo que baja (vida constante) */
+
+.scanline{position:fixed;left:0;right:0;height:140px;z-index:2;pointer-events:none;
+
+  background:linear-gradient(to bottom, transparent, rgba(var(--acc),.05), transparent);
+
+  animation:scan 7s linear infinite;mix-blend-mode:screen}
+
+@keyframes scan{0%{top:-140px}100%{top:100%}}
+
+
+
+/* ---- cursor ---- */
+
+.c-ring,.c-dot{position:fixed;top:0;left:0;z-index:120;pointer-events:none;border-radius:50%;
+
+  transform:translate(-50%,-50%);will-change:transform}
+
+.c-ring{width:38px;height:38px;border:1px solid rgba(var(--ink),.3);
+
+  transition:width .4s var(--ease),height .4s var(--ease),border-color .4s,background .4s}
+
+.c-dot{width:4px;height:4px;background:#fff;box-shadow:0 0 12px rgba(var(--acc),.9)}
+
+.c-ring.hot{width:70px;height:70px;border-color:rgba(var(--acc),.7);background:rgba(var(--acc),.05)}
+
+@media(hover:none),(pointer:coarse){body{cursor:auto}.c-ring,.c-dot{display:none}}
+
+
+
+/* ---- util ---- */
+
+.wrap{width:min(92vw,var(--maxw));margin-inline:auto}
+
+.eyebrow{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--mute)}
+
+
+
+/* ---- topbar ---- */
+
+.topbar{position:fixed;top:0;left:0;right:0;z-index:60;display:flex;align-items:center;
+
+  justify-content:space-between;padding:20px clamp(16px,4vw,44px);mix-blend-mode:difference}
+
+.brand{font-family:var(--f-d);font-size:13px;letter-spacing:var(--trk-md);text-transform:uppercase;
+
+  display:flex;align-items:center;gap:10px;color:#fff}
+
+.brand .pulse{width:7px;height:7px;border-radius:50%;background:#fff;
+
+  box-shadow:0 0 0 0 rgba(var(--acc),.7);animation:ping 2.4s var(--ease) infinite}
+
+@keyframes ping{0%{box-shadow:0 0 0 0 rgba(var(--acc),.6)}70%{box-shadow:0 0 0 12px rgba(var(--acc),0)}100%{box-shadow:0 0 0 0 rgba(var(--acc),0)}}
+
+.nav{display:flex;gap:clamp(14px,2.4vw,32px)}
+
+.nav a{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-sm);text-transform:uppercase;
+
+  color:var(--mute);text-decoration:none;position:relative;padding:4px 0;transition:color .3s}
+
+.nav a::after{content:"";position:absolute;left:0;bottom:0;width:0;height:1px;background:#fff;transition:width .4s var(--ease)}
+
+.nav a:hover{color:#fff}.nav a:hover::after{width:100%}
+
+@media(max-width:700px){.nav{display:none}}
+
+
+
+/* ============================================================
+
+   HERO
+
+   ============================================================ */
+
+.hero{position:relative;z-index:3;min-height:100svh;min-height:100vh;
+
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+
+  padding:90px 16px 40px;overflow:hidden}
+
+
+
+/* viewfinder / HUD corners */
+
+.hud{position:absolute;inset:clamp(64px,9vh,104px) clamp(16px,4vw,44px);z-index:5;pointer-events:none}
+
+.hud .brk{position:absolute;width:26px;height:26px;border:1px solid var(--line2)}
+
+.hud .tl{top:0;left:0;border-right:0;border-bottom:0}
+
+.hud .tr{top:0;right:0;border-left:0;border-bottom:0}
+
+.hud .bl{bottom:0;left:0;border-right:0;border-top:0}
+
+.hud .br{bottom:0;right:0;border-left:0;border-top:0}
+
+.hud .tel{position:absolute;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-sm);
+
+  color:var(--faint);text-transform:uppercase;line-height:1.9}
+
+.hud .tel.tl{top:34px;left:0}
+
+.hud .tel.tr{top:34px;right:0;text-align:right}
+
+.hud .tel.bl{bottom:0;left:0}
+
+.hud .tel.br{bottom:0;right:0;text-align:right}
+
+.hud .tel b{color:var(--mute);font-weight:400}
+
+.hud .tel .live{color:rgba(var(--acc),.9)}
+
+@media(max-width:640px){.hud .tel.tr,.hud .tel.bl{display:none}}
+
+
+
+/* lemas esquina superior */
+
+.corner{position:absolute;top:clamp(72px,10vh,112px);z-index:6;max-width:220px}
+
+.corner p{margin:0;font-family:var(--f-d);font-weight:300;font-size:11px;line-height:2.1;
+
+  letter-spacing:var(--trk-sm);text-transform:uppercase;color:var(--faint)}
+
+.corner .ln{display:block;overflow:hidden}
+
+.corner .ln i{display:block;font-style:normal;transform:translateY(110%);animation:rise .9s var(--ease) forwards}
+
+.corner.left{left:clamp(16px,5vw,72px)}.corner.right{right:clamp(16px,5vw,72px);text-align:right}
+
+.corner .dash{display:block;width:22px;height:1px;background:var(--line2);margin-top:14px;opacity:0;animation:fade 1s 1.2s forwards}
+
+.corner.right .dash{margin-left:auto}
+
+@keyframes rise{to{transform:translateY(0)}}
+
+@keyframes fade{to{opacity:1}}
+
+@media(max-width:860px){.corner{display:none}}
+
+
+
+/* wordmark cinemático */
+
+.wordmark{position:absolute;z-index:7;left:50%;top:63%;transform:translate(-50%,-50%);
+
+  display:flex;align-items:center;gap:clamp(7px,1.6vw,17px);
+
+  font-family:var(--f-d);font-weight:300;font-size:clamp(32px,8vw,84px);line-height:1;
+
+  color:#fff;white-space:nowrap}
+
+.wordmark .ch{display:inline-block;overflow:hidden}
+
+.wordmark .ch i{display:inline-block;font-style:normal;transform:translateY(115%);
+
+  animation:rise 1s var(--ease) forwards;animation-delay:calc(.5s + var(--i)*.06s)}
+
+.wordmark .lambda{height:.9em;width:auto;transform:translateY(.05em);overflow:visible}
+
+.wordmark .lambda path{stroke:#fff;stroke-dasharray:60;stroke-dashoffset:60;
+
+  animation:draw 1.1s var(--ease) forwards;animation-delay:.9s}
+
+@keyframes draw{to{stroke-dashoffset:0}}
+
+/* shimmer que recorre el wordmark */
+
+.wordmark::after{content:"";position:absolute;inset:-10% -2%;z-index:2;pointer-events:none;
+
+  background:linear-gradient(105deg,transparent 38%,rgba(255,255,255,.55) 50%,transparent 62%);
+
+  mix-blend-mode:overlay;transform:translateX(-130%);animation:shimmer 6s 2.2s ease-in-out infinite}
+
+@keyframes shimmer{0%{transform:translateX(-130%)}30%,100%{transform:translateX(130%)}}
+
+.sub-lab{position:absolute;z-index:7;left:50%;top:71.5%;transform:translate(-50%,-50%);
+
+  font-family:var(--f-d);font-size:clamp(11px,1.7vw,16px);letter-spacing:var(--trk-xl);color:var(--mute);
+
+  opacity:0;animation:fade 1s 1.5s forwards}
+
+
+
+/* eje inferior */
+
+.axis-b{position:absolute;z-index:7;left:50%;top:78%;transform:translateX(-50%);
+
+  display:flex;flex-direction:column;align-items:center;gap:16px;text-align:center;opacity:0;animation:fade 1s 1.7s forwards}
+
+.v-num{writing-mode:vertical-rl;text-orientation:upright;font-family:var(--f-d);font-size:10px;letter-spacing:.5em;color:var(--faint)}
+
+.tagline{font-family:var(--f-d);font-size:clamp(9px,1.2vw,12px);letter-spacing:var(--trk-md);
+
+  text-transform:uppercase;color:var(--faint);line-height:2.3}
+
+.orb-foot{width:18px;height:18px;border-radius:50%;border:1px solid rgba(var(--ink),.5);
+
+  box-shadow:0 0 22px rgba(var(--acc),.5),inset 0 0 8px rgba(var(--acc),.3);
+
+  animation:foot 2.4s var(--ease) infinite}
+
+@keyframes foot{0%,100%{transform:scale(.85);opacity:.5}50%{transform:scale(1.15);opacity:1}}
+
+
+
+/* scroll cue */
+
+.scrollcue{position:absolute;bottom:18px;left:50%;transform:translateX(-50%);z-index:7;
+
+  font-family:var(--f-d);font-size:9px;letter-spacing:var(--trk-md);color:var(--ghost);
+
+  display:flex;flex-direction:column;align-items:center;gap:8px;opacity:0;animation:fade 1s 2s forwards}
+
+.scrollcue .bar{width:1px;height:34px;background:linear-gradient(var(--faint),transparent);
+
+  animation:cue 2s var(--ease) infinite}
+
+@keyframes cue{0%{transform:scaleY(.2);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}
+
+  51%{transform-origin:bottom}100%{transform:scaleY(.2);transform-origin:bottom}}
+
+
+
+/* ============================================================
+
+   MARQUEE (cinta viva)
+
+   ============================================================ */
+
+.marquee{position:relative;z-index:3;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+
+  overflow:hidden;padding:14px 0;background:rgba(0,0,0,.3);backdrop-filter:blur(2px)}
+
+.marquee .track{display:flex;gap:48px;width:max-content;animation:mq 32s linear infinite;
+
+  font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--faint)}
+
+.marquee .track span{display:flex;align-items:center;gap:48px}
+
+.marquee .track em{font-style:normal;color:rgba(var(--acc),.7)}
+
+.marquee .track .dot{width:4px;height:4px;border-radius:50%;background:var(--line2)}
+
+@keyframes mq{to{transform:translateX(-50%)}}
+
+
+
+/* ============================================================
+
+   BLOQUES
+
+   ============================================================ */
+
+section.block{position:relative;z-index:3;padding:clamp(90px,14vh,170px) 0}
+
+.idx{font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);color:var(--faint);
+
+  display:flex;align-items:center;gap:14px;margin-bottom:34px}
+
+.idx::after{content:"";flex:1;height:1px;background:var(--line)}
+
+.idx .blink{width:6px;height:6px;border-radius:50%;background:rgba(var(--acc),.8);animation:blink 1.4s steps(1) infinite}
+
+@keyframes blink{50%{opacity:.15}}
+
+
+
+/* 001 manifesto */
+
+.manifesto h2{font-family:var(--f-d);font-weight:300;font-size:clamp(28px,6vw,68px);line-height:1.12;
+
+  letter-spacing:.01em;margin:0 0 30px;color:rgba(var(--ink),.95);max-width:17ch}
+
+.manifesto h2 em{font-style:normal;color:var(--mute)}
+
+.manifesto .lead{max-width:62ch;color:var(--mute);font-size:clamp(14px,1.5vw,18px);line-height:1.9}
+
+.manifesto .lead .hl{color:rgba(var(--ink),.92);background:linear-gradient(transparent 60%,rgba(var(--acc),.18) 60%)}
+
+
+
+/* 002 arquitectura con líneas que se dibujan en hover */
+
+.grid{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}
+
+.cell{position:relative;border-right:1px solid var(--line);border-bottom:1px solid var(--line);
+
+  padding:34px 26px 44px;min-height:250px;display:flex;flex-direction:column;gap:14px;overflow:hidden;
+
+  transition:background .5s var(--ease)}
+
+.cell::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .5s;
+
+  background:radial-gradient(120% 80% at 50% 0%,rgba(var(--acc),.10),transparent 70%)}
+
+.cell:hover::before{opacity:1}
+
+.cell:hover{background:rgba(var(--ink),.02)}
+
+.cell .n{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint)}
+
+.cell h3{margin:0;font-family:var(--f-d);font-weight:400;font-size:clamp(15px,1.7vw,19px);
+
+  letter-spacing:var(--trk-sm);text-transform:uppercase;color:rgba(var(--ink),.94)}
+
+.cell p{margin:0;color:var(--faint);font-size:13px;line-height:1.8}
+
+.cell .glyph{position:absolute;right:18px;bottom:16px;width:34px;height:34px;opacity:.45;transition:opacity .5s,transform .6s var(--ease)}
+
+.cell:hover .glyph{opacity:.9;transform:rotate(90deg)}
+
+.cell .glyph *{stroke-dasharray:120;stroke-dashoffset:0;transition:stroke-dashoffset .8s var(--ease)}
+
+.cell:hover .glyph path,.cell:hover .glyph circle,.cell:hover .glyph line{stroke:rgba(var(--acc2),.9)}
+
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
+
+@media(max-width:520px){.grid{grid-template-columns:1fr}}
+
+
+
+/* 003 signal: osciloscopio + core reveal */
+
+.signal-wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:0;border:1px solid var(--line)}
+
+.scope{position:relative;min-height:340px;border-right:1px solid var(--line);overflow:hidden;background:rgba(0,0,0,.35)}
+
+.scope canvas{position:absolute;inset:0;width:100%;height:100%}
+
+.scope .lab{position:absolute;top:14px;left:16px;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
+
+.scope .lab.r{left:auto;right:16px;color:rgba(var(--acc),.7)}
+
+.corezone{position:relative;min-height:340px;display:grid;place-items:center;overflow:hidden;
+
+  background:radial-gradient(360px 360px at var(--cx,50%) var(--cy,50%),rgba(var(--acc),.12),transparent 62%)}
+
+.corezone .glyph{position:absolute;inset:0;display:grid;place-items:center;
+
+  -webkit-mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%);
+
+          mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%)}
+
+.corezone .glyph svg{width:min(58%,300px);height:auto}
+
+.corezone .glyph svg circle,.corezone .glyph svg line{stroke:rgba(var(--ink),.85)}
+
+.corezone .prompt{position:relative;z-index:2;text-align:center;pointer-events:none;
+
+  font-family:var(--f-d);font-size:clamp(13px,2vw,20px);letter-spacing:var(--trk-lg);text-transform:uppercase;color:var(--ghost)}
+
+.corezone .prompt small{display:block;margin-top:12px;font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
+
+@media(max-width:820px){.signal-wrap{grid-template-columns:1fr}.scope{border-right:0;border-bottom:1px solid var(--line)}}
+
+
+
+/* 004 axiomas */
+
+.axioms{list-style:none;margin:0;padding:0;counter-reset:a}
+
+.axioms li{display:flex;align-items:baseline;gap:24px;padding:24px 0;border-bottom:1px solid var(--line);
+
+  font-family:var(--f-d);font-weight:300;font-size:clamp(16px,2.6vw,30px);letter-spacing:var(--trk-sm);
+
+  text-transform:uppercase;color:rgba(var(--ink),.9);transition:color .4s,padding-left .5s var(--ease),letter-spacing .5s var(--ease)}
+
+.axioms li::before{counter-increment:a;content:"0" counter(a);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint);min-width:36px}
+
+.axioms li span{color:var(--mute)}
+
+.axioms li:hover{color:#fff;padding-left:12px;letter-spacing:.04em}
+
+.axioms li:hover::before{color:rgba(var(--acc),.9)}
+
+
+
+/* footer */
+
+footer{position:relative;z-index:3;padding:64px 0 46px;border-top:1px solid var(--line)}
+
+.foot{display:flex;justify-content:space-between;align-items:flex-end;gap:30px;flex-wrap:wrap}
+
+.foot .big{font-family:var(--f-d);font-weight:300;font-size:clamp(30px,8vw,80px);letter-spacing:var(--trk-lg);
+
+  color:rgba(var(--ink),.92);line-height:1;background:linear-gradient(180deg,#fff,rgba(var(--ink),.4));
+
+  -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+
+.foot .meta{font-size:11px;letter-spacing:var(--trk-sm);color:var(--faint);text-transform:uppercase;text-align:right;line-height:2.1}
+
+
+
+/* reveal */
+
+.reveal{opacity:0;transform:translateY(30px);filter:blur(8px);
+
+  transition:opacity 1s var(--ease),transform 1s var(--ease),filter 1s var(--ease)}
+
+.reveal.in{opacity:1;transform:none;filter:none}
+
+
+
+@media(prefers-reduced-motion:reduce){
+
+  *{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important;scroll-behavior:auto!important}
+
+  .reveal,.corner .ln i,.wordmark .ch i,.wordmark .lambda path{opacity:1!important;transform:none!important;filter:none!important;stroke-dashoffset:0!important}
+
+  .scanline,.grain{display:none}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+
+<canvas id="gl" aria-hidden="true"></canvas>
+
+<div class="fb-fallback" aria-hidden="true"></div>
+
+<div class="vignette" aria-hidden="true"></div>
+
+<div class="grain" aria-hidden="true"></div>
+
+<div class="scanline" aria-hidden="true"></div>
+
+<div class="c-ring" aria-hidden="true"></div>
+
+<div class="c-dot" aria-hidden="true"></div>
+
+
+
+<header class="topbar">
+
+  <div class="brand"><span class="pulse"></span>NOIACORE</div>
+
+  <nav class="nav" aria-label="Principal">
+
+    <a href="#manifesto">Manifesto</a>
+
+    <a href="#arq">Arquitetura</a>
+
+    <a href="#signal">Signal</a>
+
+    <a href="#ax">Axiomas</a>
+
+  </nav>
+
+</header>
+
+
+
+<main>
+
+<!-- ===================== HERO ===================== -->
+
+<section class="hero" id="top">
+
+  <div class="hud" aria-hidden="true">
+
+    <span class="brk tl"></span><span class="brk tr"></span><span class="brk bl"></span><span class="brk br"></span>
+
+    <div class="tel tl">SYS // NOIACORE<br><b>NODE</b> 0xΛ‑CORE<br><b>STATE</b> <span class="live">● ACTIVE</span></div>
+
+    <div class="tel tr">LAT <b id="t-lat">00.000</b><br>LON <b id="t-lon">00.000</b><br>Δ <b id="t-dt">0.00</b>ms</div>
+
+    <div class="tel bl"><b>SIGNAL</b> <span id="t-sig">98.4</span>%<br><b>ENTROPY</b> <span id="t-ent">0.12</span></div>
+
+    <div class="tel br">FRAME <b id="t-fr">0000</b><br>CORE <b class="live">INVISIBLE</b></div>
+
+  </div>
+
+
+
+  <div class="corner left">
+
+    <p><span class="ln"><i style="animation-delay:.2s">Inteligência</i></span>
+
+       <span class="ln"><i style="animation-delay:.32s">Silenciosa.</i></span><br>
+
+       <span class="ln"><i style="animation-delay:.5s">Tecnologia</i></span>
+
+       <span class="ln"><i style="animation-delay:.62s">Essencial.</i></span></p>
+
+    <span class="dash"></span>
+
+  </div>
+
+  <div class="corner right">
+
+    <p><span class="ln"><i style="animation-delay:.26s">Arquitetura</i></span>
+
+       <span class="ln"><i style="animation-delay:.38s">de Inteligência</i></span><br>
+
+       <span class="ln"><i style="animation-delay:.56s">para o Futuro</i></span>
+
+       <span class="ln"><i style="animation-delay:.68s">da Humanidade.</i></span></p>
+
+    <span class="dash"></span>
+
+  </div>
+
+
+
+  <div class="wordmark" aria-label="NOIACORE">
+
+    <span class="ch" style="--i:0"><i>N</i></span><span class="ch" style="--i:1"><i>O</i></span><span class="ch" style="--i:2"><i>I</i></span>
+
+    <svg class="lambda" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 22 L12 2 L22 22" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+
+    <span class="ch" style="--i:3"><i>C</i></span><span class="ch" style="--i:4"><i>O</i></span><span class="ch" style="--i:5"><i>R</i></span><span class="ch" style="--i:6"><i>E</i></span>
+
+  </div>
+
+  <div class="sub-lab">LAB</div>
+
+
+
+  <div class="axis-b">
+
+    <span class="v-num">001</span>
+
+    <p class="tagline">Core is invisible.<br>Impact is inevitable.</p>
+
+    <span class="orb-foot"></span>
+
+  </div>
+
+
+
+  <div class="scrollcue"><span>SCROLL</span><span class="bar"></span></div>
+
+</section>
+
+
+
+<!-- ===================== MARQUEE ===================== -->
+
+<div class="marquee" aria-hidden="true">
+
+  <div class="track">
+
+    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
+
+    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
+
+  </div>
+
+</div>
+
+
+
+<!-- ===================== 001 ===================== -->
+
+<section class="block manifesto" id="manifesto">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>001 — Manifesto</div>
+
+    <h2 class="reveal">Inteligência <em>silenciosa.</em><br>Tecnologia essencial.</h2>
+
+    <p class="lead reveal">
+
+      Construímos o que não precisa ser visto para ser sentido. O núcleo permanece invisível —
+
+      uma arquitetura de inferência que <span class="hl">observa, prediz e atua antes do ruído</span>.
+
+      A percepção, como a mente, não é um espelho do mundo: é uma construção ativa, eficiente,
+
+      implacável. Noiacore existe no espaço entre o estímulo e a consciência —
+
+      onde o sinal vira sentido, e o sentido vira impacto inevitável.
+
+    </p>
+
+  </div>
+
+</section>
+
+
+
+<!-- ===================== 002 ===================== -->
+
+<section class="block" id="arq">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>002 — Arquitetura</div>
+
+    <div class="grid reveal">
+
+      <div class="cell"><span class="n">M—01</span><h3>Percepção</h3>
+
+        <p>Camadas sensoriais que filtram o caos em sinal. O irrelevante deixa de existir.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="12"/><circle cx="17" cy="17" r="3.5"/></svg></div>
+
+      <div class="cell"><span class="n">M—02</span><h3>Predição</h3>
+
+        <p>Modelos generativos que antecipam o instante seguinte. Ver é apostar, não registrar.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M3 25 L12 13 L20 19 L31 5"/></svg></div>
+
+      <div class="cell"><span class="n">M—03</span><h3>Silêncio</h3>
+
+        <p>Computação que se apaga. A elegância é a ausência de fricção percebida.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M17 4 V30 M10 10 V24 M24 10 V24 M3 14 V20 M31 14 V20"/></svg></div>
+
+      <div class="cell"><span class="n">M—04</span><h3>Impacto</h3>
+
+        <p>O efeito inevitável de um núcleo bem construído. Invisível na causa, absoluto no resultado.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="4.5"/><circle cx="17" cy="17" r="12" stroke-dasharray="2 4"/></svg></div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- ===================== 003 ===================== -->
+
+<section class="block" id="signal">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>003 — Signal / O Core</div>
+
+    <div class="signal-wrap reveal">
+
+      <div class="scope">
+
+        <canvas id="scope"></canvas>
+
+        <div class="lab">WAVEFORM // CORE‑PULSE</div>
+
+        <div class="lab r" id="scope-hz">0.00 Hz</div>
+
+      </div>
+
+      <div class="corezone" id="corezone">
+
+        <div class="glyph" aria-hidden="true">
+
+          <svg viewBox="0 0 200 200" fill="none" stroke-width="1">
+
+            <circle cx="100" cy="100" r="72"/><circle cx="100" cy="100" r="48" stroke-dasharray="2 6"/>
+
+            <circle cx="100" cy="100" r="14" fill="rgba(125,155,255,.5)" stroke="none"/>
+
+            <line x1="100" y1="4" x2="100" y2="196"/><line x1="4" y1="100" x2="196" y2="100"/>
+
+          </svg>
+
+        </div>
+
+        <div class="prompt">O núcleo é invisível<small>— move o cursor para revelá‑lo —</small></div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- ===================== 004 ===================== -->
+
+<section class="block" id="ax">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>004 — Axiomas</div>
+
+    <ul class="axioms reveal">
+
+      <li>Core is invisible. <span>&nbsp;Impact is inevitable.</span></li>
+
+      <li>Perceber é construir, <span>não copiar.</span></li>
+
+      <li>O silêncio é uma <span>decisão de engenharia.</span></li>
+
+      <li>Predizemos o instante <span>antes que aconteça.</span></li>
+
+      <li>A elegância é o que <span>não se nota.</span></li>
+
+    </ul>
+
+  </div>
+
+</section>
+
+</main>
+
+
+
+<footer>
+
+  <div class="wrap foot">
+
+    <div class="big reveal">NOIACORE</div>
+
+    <div class="meta reveal">LAB · Arquitetura de Inteligência<br>© <span id="yr"></span> — todos os núcleos reservados<br><span style="color:rgba(var(--acc),.7)">● SYSTEM NOMINAL</span></div>
+
+  </div>
+
+</footer>
+
+
+
+<script>
+
+/* ============================================================
+
+   NOIACORE / LAB · v2 — motor
+
+   ============================================================ */
+
+const REDUCED = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+const FINE = matchMedia('(pointer:fine)').matches;
+
+document.getElementById('yr').textContent = new Date().getFullYear();
+
+
+
+/* ---------- estado global ---------- */
+
+const S = { mx:.5, my:.5, tmx:.5, tmy:.5, scroll:0, beat:0, t:0, frame:0 };
+
+
+
+/* ============================================================
+
+   1) WEBGL — eclipse vivo (anillo de acreción + lente + latido)
+
+   ============================================================ */
+
+const glCanvas = document.getElementById('gl');
+
+let gl = glCanvas.getContext('webgl', {antialias:false, alpha:false, premultipliedAlpha:false});
+
+if(!gl){ document.body.classList.add('no-webgl'); }
+
+
+
+const VS = `attribute vec2 p;void main(){gl_Position=vec4(p,0.,1.);}`;
+
+const FS = `
+
+precision highp float;
+
+uniform vec2  u_res;
+
+uniform float u_time, u_scroll, u_beat;
+
+uniform vec2  u_mouse;
+
+
+
+float hash(vec2 p){ return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453); }
+
+float noise(vec2 p){
+
+  vec2 i=floor(p), f=fract(p); vec2 u=f*f*(3.-2.*f);
+
+  return mix(mix(hash(i),hash(i+vec2(1,0)),u.x),
+
+             mix(hash(i+vec2(0,1)),hash(i+vec2(1,1)),u.x),u.y);
+
+}
+
+float fbm(vec2 p){ float v=0.,a=.5; for(int i=0;i<5;i++){ v+=a*noise(p); p*=2.03; a*=.5; } return v; }
+
+
+
+void main(){
+
+  vec2 uv = (gl_FragCoord.xy - .5*u_res)/u_res.y;
+
+  // el centro "mira" al cursor (lerp suave ya hecho en JS) + parallax scroll
+
+  vec2 center = (u_mouse - .5)*vec2(.30,.22);
+
+  center.y += u_scroll*0.18;
+
+  vec2 d = uv - center;
+
+  float r = length(d);
+
+
+
+  // --- lente gravitacional: distorsiona el campo cerca del core ---
+
+  float lens = 0.045/(r+0.06);
+
+  vec2 suv = uv + normalize(d+1e-5)*lens*smoothstep(0.5,0.05,r);
+
+
+
+  // --- estrellas con parallax ---
+
+  vec2 g = suv*vec2(2.2,2.2)+vec2(0.,u_scroll*0.6);
+
+  vec2 id = floor(g*60.); float h = hash(id);
+
+  float star = smoothstep(.985,1.,h) * smoothstep(.0,.6, fract(h*13.));
+
+  star *= 0.5+0.5*sin(u_time*2.+h*30.);           // titileo
+
+  vec3 col = vec3(star)*vec3(.7,.8,1.)*0.9;
+
+
+
+  // --- anillo de acreción: plasma girando (coordenadas polares) ---
+
+  float ang = atan(d.y,d.x);
+
+  float ringR = 0.165;
+
+  float band = exp(-pow((r-ringR)/0.055,2.0));     // grosor del anillo
+
+  float plasma = fbm(vec2(ang*2.2 + u_time*0.9, r*9.0 - u_time*1.6));
+
+  float plasma2= fbm(vec2(ang*5.0 - u_time*1.3, r*14.0 + u_time*0.8));
+
+  float ring = band * (0.45 + 0.85*plasma) * (0.6+0.6*plasma2);
+
+  // latido: el anillo respira con u_beat
+
+  ring *= 0.7 + 0.6*u_beat;
+
+  vec3 ringCol = mix(vec3(.55,.7,1.), vec3(1.), pow(plasma,2.0));
+
+  col += ring * ringCol * 2.4;
+
+
+
+  // halo exterior suave
+
+  col += exp(-r*5.0)*vec3(.30,.42,.85)*0.35*(0.7+0.5*u_beat);
+
+
+
+  // --- horizonte de luz que baja con scroll ---
+
+  float hy = -0.02 + u_scroll*0.10;
+
+  float horiz = exp(-pow((uv.y-hy)*22.0,2.0));
+
+  horiz *= smoothstep(0.6,0.0,abs(uv.x-center.x));
+
+  col += horiz*vec3(.8,.88,1.)*0.9;
+
+  // reflejo ondulante bajo el horizonte
+
+  float refl = exp(-(uv.y-hy)*9.0)*step(hy,uv.y);
+
+  refl *= 0.4+0.4*fbm(vec2(uv.x*30., uv.y*8.-u_time*2.));
+
+  col += refl*vec3(.3,.4,.8)*0.25*smoothstep(0.5,0.0,abs(uv.x-center.x));
+
+
+
+  // --- el CORE: disco negro con corona (fresnel) ---
+
+  float coreR = 0.052;
+
+  float core = smoothstep(coreR, coreR-0.004, r);   // 1 dentro
+
+  float corona = exp(-pow((r-coreR)/0.012,2.0));     // borde brillante
+
+  col = mix(col, vec3(0.0), core);                   // pinta negro el núcleo
+
+  col += corona*vec3(1.)*(1.4+0.8*u_beat);           // corona blanca
+
+  // arco superior más intenso (como la referencia)
+
+  float top = smoothstep(0.0,0.6,-d.y);
+
+  col += corona*top*vec3(1.)*1.2;
+
+
+
+  // bloom fake global
+
+  col += pow(max(col-0.6,0.0),vec3(1.5))*0.6;
+
+
+
+  // grano animado
+
+  col += (hash(gl_FragCoord.xy+u_time)-.5)*0.035;
+
+
+
+  // viñeta ligera (la fuerte va en CSS)
+
+  col *= smoothstep(1.25,0.35,length(uv));
+
+
+
+  gl_FragColor = vec4(col,1.);
+
+}`;
+
+
+
+let prog, u={};
+
+function compile(type,src){const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);
+
+  if(!gl.getShaderParameter(s,gl.COMPILE_STATUS)){console.warn(gl.getShaderInfoLog(s));return null;}return s;}
+
+function initGL(){
+
+  const vs=compile(gl.VERTEX_SHADER,VS), fs=compile(gl.FRAGMENT_SHADER,FS);
+
+  if(!vs||!fs){document.body.classList.add('no-webgl');return false;}
+
+  prog=gl.createProgram();gl.attachShader(prog,vs);gl.attachShader(prog,fs);gl.linkProgram(prog);
+
+  if(!gl.getProgramParameter(prog,gl.LINK_STATUS)){document.body.classList.add('no-webgl');return false;}
+
+  gl.useProgram(prog);
+
+  const buf=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buf);
+
+  gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,1,-1,-1,1,-1,1,1,-1,1,1]),gl.STATIC_DRAW);
+
+  const loc=gl.getAttribLocation(prog,'p');gl.enableVertexAttribArray(loc);gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
+
+  ['u_res','u_time','u_scroll','u_beat','u_mouse'].forEach(n=>u[n]=gl.getUniformLocation(prog,n));
+
+  return true;
+
+}
+
+function resizeGL(){const dpr=Math.min(devicePixelRatio||1,1.5);
+
+  glCanvas.width=innerWidth*dpr;glCanvas.height=innerHeight*dpr;}
+
+let glOK=false;
+
+if(gl){ glOK=initGL(); if(glOK){resizeGL();addEventListener('resize',resizeGL);} else gl=null; }
+
+
+
+/* ============================================================
+
+   2) osciloscopio (canvas 2D)
+
+   ============================================================ */
+
+const scope=document.getElementById('scope'), sctx=scope.getContext('2d');
+
+function resizeScope(){const dpr=Math.min(devicePixelRatio||1,2);const r=scope.getBoundingClientRect();
+
+  scope.width=r.width*dpr;scope.height=r.height*dpr;}
+
+resizeScope(); addEventListener('resize',resizeScope);
+
+function drawScope(t){
+
+  const w=scope.width,h=scope.height; sctx.clearRect(0,0,w,h);
+
+  // rejilla
+
+  sctx.strokeStyle='rgba(238,238,242,.06)';sctx.lineWidth=1;
+
+  for(let x=0;x<w;x+=w/16){sctx.beginPath();sctx.moveTo(x,0);sctx.lineTo(x,h);sctx.stroke();}
+
+  for(let y=0;y<h;y+=h/6){sctx.beginPath();sctx.moveTo(0,y);sctx.lineTo(w,y);sctx.stroke();}
+
+  // waveform viva: suma de senos + ruido modulado por el latido
+
+  const mid=h/2, amp=h*0.30;
+
+  for(let pass=0;pass<2;pass++){
+
+    sctx.beginPath();
+
+    for(let x=0;x<=w;x+=2){
+
+      const p=x/w;
+
+      const n=(Math.sin(p*22+t*3)+Math.sin(p*9-t*1.7)+ (Math.random()-.5)*0.6*(0.4+S.beat));
+
+      const y=mid + n*amp*0.32*(0.6+0.8*S.beat)*Math.sin(p*Math.PI);
+
+      x===0?sctx.moveTo(x,y):sctx.lineTo(x,y);
+
+    }
+
+    sctx.strokeStyle = pass? 'rgba(125,155,255,.35)':'rgba(238,238,242,.85)';
+
+    sctx.lineWidth = pass? 3:1.2; sctx.shadowBlur=pass?0:10; sctx.shadowColor='rgba(125,155,255,.6)';
+
+    sctx.stroke(); sctx.shadowBlur=0;
+
+  }
+
+}
+
+
+
+/* ============================================================
+
+   3) interacción: cursor, mouse, scroll, spotlight
+
+   ============================================================ */
+
+const ring=document.querySelector('.c-ring'), dot=document.querySelector('.c-dot');
+
+const corezone=document.getElementById('corezone');
+
+let rx=innerWidth/2, ry=innerHeight/2;
+
+addEventListener('pointermove',e=>{
+
+  S.tmx=e.clientX/innerWidth; S.tmy=e.clientY/innerHeight;
+
+  dot.style.transform=`translate(${e.clientX}px,${e.clientY}px) translate(-50%,-50%)`;
+
+  if(corezone){const r=corezone.getBoundingClientRect();
+
+    corezone.style.setProperty('--cx',((e.clientX-r.left)/r.width*100)+'%');
+
+    corezone.style.setProperty('--cy',((e.clientY-r.top)/r.height*100)+'%');}
+
+});
+
+(function ringLoop(){rx+=(e2px(S.tmx)-rx)*.16;ry+=(e2px(S.tmy,true)-ry)*.16;
+
+  ring.style.transform=`translate(${rx}px,${ry}px) translate(-50%,-50%)`;requestAnimationFrame(ringLoop);})();
+
+function e2px(n,y){return y? n*innerHeight : n*innerWidth;}
+
+document.querySelectorAll('a,.cell,.axioms li,.corezone,.nav a').forEach(el=>{
+
+  el.addEventListener('pointerenter',()=>ring.classList.add('hot'));
+
+  el.addEventListener('pointerleave',()=>ring.classList.remove('hot'));});
+
+
+
+addEventListener('scroll',()=>{const max=document.body.scrollHeight-innerHeight;
+
+  S.scroll=max>0?scrollY/max:0;document.documentElement.style.setProperty('--scroll',S.scroll);},{passive:true});
+
+
+
+/* ============================================================
+
+   4) telemetría viva (HUD)
+
+   ============================================================ */
+
+const T={lat:document.getElementById('t-lat'),lon:document.getElementById('t-lon'),
+
+  dt:document.getElementById('t-dt'),sig:document.getElementById('t-sig'),
+
+  ent:document.getElementById('t-ent'),fr:document.getElementById('t-fr'),
+
+  hz:document.getElementById('scope-hz')};
+
+setInterval(()=>{
+
+  T.lat.textContent=(Math.sin(S.t*0.3)*12+38).toFixed(3);
+
+  T.lon.textContent=(Math.cos(S.t*0.27)*30-9).toFixed(3);
+
+  T.dt.textContent=(8+Math.random()*4).toFixed(2);
+
+  T.sig.textContent=(96+Math.random()*4).toFixed(1);
+
+  T.ent.textContent=(0.08+Math.random()*0.12+S.beat*0.05).toFixed(2);
+
+  T.hz.textContent=(40+S.beat*30+Math.random()*4).toFixed(2)+' Hz';
+
+},120);
+
+
+
+/* ============================================================
+
+   5) reveal on scroll
+
+   ============================================================ */
+
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.16});
+
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+
+
+/* ============================================================
+
+   LOOP MAESTRO
+
+   ============================================================ */
+
+let last=performance.now();
+
+function frame(now){
+
+  const dt=(now-last)/1000; last=now;
+
+  if(!REDUCED) S.t+=dt;
+
+  S.frame++;
+
+  // mouse lerp
+
+  S.mx+=(S.tmx-S.mx)*0.06; S.my+=(S.tmy-S.my)*0.06;
+
+  // latido: pulso cada ~2.4s con decaimiento (heartbeat)
+
+  const phase=(S.t%2.4)/2.4;
+
+  S.beat = REDUCED?0.5: Math.pow(1-phase,3)* (0.6+0.4*Math.sin(phase*Math.PI));
+
+
+
+  if(glOK){
+
+    gl.viewport(0,0,glCanvas.width,glCanvas.height);
+
+    gl.uniform2f(u.u_res,glCanvas.width,glCanvas.height);
+
+    gl.uniform1f(u.u_time,S.t);
+
+    gl.uniform1f(u.u_scroll,S.scroll);
+
+    gl.uniform1f(u.u_beat,S.beat);
+
+    gl.uniform2f(u.u_mouse,S.mx,1-S.my);
+
+    gl.drawArrays(gl.TRIANGLES,0,6);
+
+  }
+
+  if(!REDUCED) drawScope(S.t);
+
+  T.fr.textContent=String(S.frame).padStart(4,'0');
+
+  requestAnimationFrame(frame);
+
+}
+
+requestAnimationFrame(frame);
+
+</script>
+
+</body>
+
+</html>
+
+
+
+El contenido generado por IA puede no ser preciso.
+
+Cargando...
+
+¡La copia al portapapeles se ha realizado correctamente!amplia 50x tu esfuerzo en esa misma direcion y aumenta masivamente el codigo<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+
+<meta name="theme-color" content="#040406" />
+
+<meta name="color-scheme" content="dark" />
+
+<meta name="description" content="NOIACORE LAB — Inteligência silenciosa. Core is invisible. Impact is inevitable." />
+
+<title>NOIACORE — LAB</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&family=Space+Grotesk:wght@300;400;500&display=swap" rel="stylesheet" />
+
+<style>
+
+/* ============================================================
+
+   NOIACORE / LAB  ·  v2 — VIVA
+
+   Negro supremo con tensión · energía latente · elegancia densa
+
+   ============================================================ */
+
+:root{
+
+  --bg:#040406;
+
+  --ink:238,238,242;
+
+  --mute:rgba(var(--ink),.55);
+
+  --faint:rgba(var(--ink),.32);
+
+  --ghost:rgba(var(--ink),.16);
+
+  --line:rgba(var(--ink),.10);
+
+  --line2:rgba(var(--ink),.26);
+
+  --acc:125,155,255;
+
+  --acc2:180,200,255;
+
+  --f-d:"Space Grotesk",system-ui,sans-serif;
+
+  --f-b:"Inter",system-ui,sans-serif;
+
+  --trk-xl:.6em; --trk-lg:.4em; --trk-md:.26em; --trk-sm:.16em;
+
+  --ease:cubic-bezier(.16,1,.3,1);
+
+  --maxw:1280px;
+
+  --scroll:0;            /* 0..1 progreso global (JS) */
+
+  --mx:.5; --my:.5;      /* mouse normalizado (JS) */
+
+  --beat:0;              /* latido 0..1 (JS) */
+
+}
+
+*,*::before,*::after{box-sizing:border-box}
+
+html{scroll-behavior:smooth}
+
+body{
+
+  margin:0;background:var(--bg);color:rgba(var(--ink),.88);
+
+  font-family:var(--f-b);font-weight:300;line-height:1.6;
+
+  overflow-x:hidden;-webkit-font-smoothing:antialiased;cursor:none;
+
+}
+
+
+
+/* ---- capas de fondo fijas ---- */
+
+#gl{position:fixed;inset:0;z-index:0;width:100%;height:100%;display:block}
+
+/* fallback vivo si WebGL muere: auroras cónicas girando + pulso */
+
+body.no-webgl #gl{display:none}
+
+body.no-webgl .fb-fallback{display:block}
+
+.fb-fallback{
+
+  display:none;position:fixed;inset:0;z-index:0;
+
+  background:
+
+    conic-gradient(from 0deg at 50% 46%, transparent 0 38%, rgba(var(--acc),.10) 50%, transparent 62% 100%),
+
+    radial-gradient(60% 50% at 50% 46%, rgba(var(--acc),.10), transparent 70%),
+
+    var(--bg);
+
+  animation:fbspin 24s linear infinite;
+
+}
+
+@keyframes fbspin{to{filter:hue-rotate(20deg);transform:scale(1.05) rotate(360deg)}}
+
+
+
+/* viñeta + grano ANIMADO encima del shader */
+
+.vignette{position:fixed;inset:0;z-index:1;pointer-events:none;
+
+  background:radial-gradient(125% 95% at 50% 42%, transparent 48%, rgba(0,0,0,.78) 100%)}
+
+.grain{position:fixed;inset:-100%;z-index:2;pointer-events:none;opacity:.06;
+
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+
+  animation:grain 1.1s steps(4) infinite}
+
+@keyframes grain{
+
+  0%{transform:translate(0,0)}25%{transform:translate(-4%,3%)}
+
+  50%{transform:translate(3%,-2%)}75%{transform:translate(-2%,-3%)}100%{transform:translate(2%,2%)}
+
+}
+
+/* línea de escaneo que baja (vida constante) */
+
+.scanline{position:fixed;left:0;right:0;height:140px;z-index:2;pointer-events:none;
+
+  background:linear-gradient(to bottom, transparent, rgba(var(--acc),.05), transparent);
+
+  animation:scan 7s linear infinite;mix-blend-mode:screen}
+
+@keyframes scan{0%{top:-140px}100%{top:100%}}
+
+
+
+/* ---- cursor ---- */
+
+.c-ring,.c-dot{position:fixed;top:0;left:0;z-index:120;pointer-events:none;border-radius:50%;
+
+  transform:translate(-50%,-50%);will-change:transform}
+
+.c-ring{width:38px;height:38px;border:1px solid rgba(var(--ink),.3);
+
+  transition:width .4s var(--ease),height .4s var(--ease),border-color .4s,background .4s}
+
+.c-dot{width:4px;height:4px;background:#fff;box-shadow:0 0 12px rgba(var(--acc),.9)}
+
+.c-ring.hot{width:70px;height:70px;border-color:rgba(var(--acc),.7);background:rgba(var(--acc),.05)}
+
+@media(hover:none),(pointer:coarse){body{cursor:auto}.c-ring,.c-dot{display:none}}
+
+
+
+/* ---- util ---- */
+
+.wrap{width:min(92vw,var(--maxw));margin-inline:auto}
+
+.eyebrow{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--mute)}
+
+
+
+/* ---- topbar ---- */
+
+.topbar{position:fixed;top:0;left:0;right:0;z-index:60;display:flex;align-items:center;
+
+  justify-content:space-between;padding:20px clamp(16px,4vw,44px);mix-blend-mode:difference}
+
+.brand{font-family:var(--f-d);font-size:13px;letter-spacing:var(--trk-md);text-transform:uppercase;
+
+  display:flex;align-items:center;gap:10px;color:#fff}
+
+.brand .pulse{width:7px;height:7px;border-radius:50%;background:#fff;
+
+  box-shadow:0 0 0 0 rgba(var(--acc),.7);animation:ping 2.4s var(--ease) infinite}
+
+@keyframes ping{0%{box-shadow:0 0 0 0 rgba(var(--acc),.6)}70%{box-shadow:0 0 0 12px rgba(var(--acc),0)}100%{box-shadow:0 0 0 0 rgba(var(--acc),0)}}
+
+.nav{display:flex;gap:clamp(14px,2.4vw,32px)}
+
+.nav a{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-sm);text-transform:uppercase;
+
+  color:var(--mute);text-decoration:none;position:relative;padding:4px 0;transition:color .3s}
+
+.nav a::after{content:"";position:absolute;left:0;bottom:0;width:0;height:1px;background:#fff;transition:width .4s var(--ease)}
+
+.nav a:hover{color:#fff}.nav a:hover::after{width:100%}
+
+@media(max-width:700px){.nav{display:none}}
+
+
+
+/* ============================================================
+
+   HERO
+
+   ============================================================ */
+
+.hero{position:relative;z-index:3;min-height:100svh;min-height:100vh;
+
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+
+  padding:90px 16px 40px;overflow:hidden}
+
+
+
+/* viewfinder / HUD corners */
+
+.hud{position:absolute;inset:clamp(64px,9vh,104px) clamp(16px,4vw,44px);z-index:5;pointer-events:none}
+
+.hud .brk{position:absolute;width:26px;height:26px;border:1px solid var(--line2)}
+
+.hud .tl{top:0;left:0;border-right:0;border-bottom:0}
+
+.hud .tr{top:0;right:0;border-left:0;border-bottom:0}
+
+.hud .bl{bottom:0;left:0;border-right:0;border-top:0}
+
+.hud .br{bottom:0;right:0;border-left:0;border-top:0}
+
+.hud .tel{position:absolute;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-sm);
+
+  color:var(--faint);text-transform:uppercase;line-height:1.9}
+
+.hud .tel.tl{top:34px;left:0}
+
+.hud .tel.tr{top:34px;right:0;text-align:right}
+
+.hud .tel.bl{bottom:0;left:0}
+
+.hud .tel.br{bottom:0;right:0;text-align:right}
+
+.hud .tel b{color:var(--mute);font-weight:400}
+
+.hud .tel .live{color:rgba(var(--acc),.9)}
+
+@media(max-width:640px){.hud .tel.tr,.hud .tel.bl{display:none}}
+
+
+
+/* lemas esquina superior */
+
+.corner{position:absolute;top:clamp(72px,10vh,112px);z-index:6;max-width:220px}
+
+.corner p{margin:0;font-family:var(--f-d);font-weight:300;font-size:11px;line-height:2.1;
+
+  letter-spacing:var(--trk-sm);text-transform:uppercase;color:var(--faint)}
+
+.corner .ln{display:block;overflow:hidden}
+
+.corner .ln i{display:block;font-style:normal;transform:translateY(110%);animation:rise .9s var(--ease) forwards}
+
+.corner.left{left:clamp(16px,5vw,72px)}.corner.right{right:clamp(16px,5vw,72px);text-align:right}
+
+.corner .dash{display:block;width:22px;height:1px;background:var(--line2);margin-top:14px;opacity:0;animation:fade 1s 1.2s forwards}
+
+.corner.right .dash{margin-left:auto}
+
+@keyframes rise{to{transform:translateY(0)}}
+
+@keyframes fade{to{opacity:1}}
+
+@media(max-width:860px){.corner{display:none}}
+
+
+
+/* wordmark cinemático */
+
+.wordmark{position:absolute;z-index:7;left:50%;top:63%;transform:translate(-50%,-50%);
+
+  display:flex;align-items:center;gap:clamp(7px,1.6vw,17px);
+
+  font-family:var(--f-d);font-weight:300;font-size:clamp(32px,8vw,84px);line-height:1;
+
+  color:#fff;white-space:nowrap}
+
+.wordmark .ch{display:inline-block;overflow:hidden}
+
+.wordmark .ch i{display:inline-block;font-style:normal;transform:translateY(115%);
+
+  animation:rise 1s var(--ease) forwards;animation-delay:calc(.5s + var(--i)*.06s)}
+
+.wordmark .lambda{height:.9em;width:auto;transform:translateY(.05em);overflow:visible}
+
+.wordmark .lambda path{stroke:#fff;stroke-dasharray:60;stroke-dashoffset:60;
+
+  animation:draw 1.1s var(--ease) forwards;animation-delay:.9s}
+
+@keyframes draw{to{stroke-dashoffset:0}}
+
+/* shimmer que recorre el wordmark */
+
+.wordmark::after{content:"";position:absolute;inset:-10% -2%;z-index:2;pointer-events:none;
+
+  background:linear-gradient(105deg,transparent 38%,rgba(255,255,255,.55) 50%,transparent 62%);
+
+  mix-blend-mode:overlay;transform:translateX(-130%);animation:shimmer 6s 2.2s ease-in-out infinite}
+
+@keyframes shimmer{0%{transform:translateX(-130%)}30%,100%{transform:translateX(130%)}}
+
+.sub-lab{position:absolute;z-index:7;left:50%;top:71.5%;transform:translate(-50%,-50%);
+
+  font-family:var(--f-d);font-size:clamp(11px,1.7vw,16px);letter-spacing:var(--trk-xl);color:var(--mute);
+
+  opacity:0;animation:fade 1s 1.5s forwards}
+
+
+
+/* eje inferior */
+
+.axis-b{position:absolute;z-index:7;left:50%;top:78%;transform:translateX(-50%);
+
+  display:flex;flex-direction:column;align-items:center;gap:16px;text-align:center;opacity:0;animation:fade 1s 1.7s forwards}
+
+.v-num{writing-mode:vertical-rl;text-orientation:upright;font-family:var(--f-d);font-size:10px;letter-spacing:.5em;color:var(--faint)}
+
+.tagline{font-family:var(--f-d);font-size:clamp(9px,1.2vw,12px);letter-spacing:var(--trk-md);
+
+  text-transform:uppercase;color:var(--faint);line-height:2.3}
+
+.orb-foot{width:18px;height:18px;border-radius:50%;border:1px solid rgba(var(--ink),.5);
+
+  box-shadow:0 0 22px rgba(var(--acc),.5),inset 0 0 8px rgba(var(--acc),.3);
+
+  animation:foot 2.4s var(--ease) infinite}
+
+@keyframes foot{0%,100%{transform:scale(.85);opacity:.5}50%{transform:scale(1.15);opacity:1}}
+
+
+
+/* scroll cue */
+
+.scrollcue{position:absolute;bottom:18px;left:50%;transform:translateX(-50%);z-index:7;
+
+  font-family:var(--f-d);font-size:9px;letter-spacing:var(--trk-md);color:var(--ghost);
+
+  display:flex;flex-direction:column;align-items:center;gap:8px;opacity:0;animation:fade 1s 2s forwards}
+
+.scrollcue .bar{width:1px;height:34px;background:linear-gradient(var(--faint),transparent);
+
+  animation:cue 2s var(--ease) infinite}
+
+@keyframes cue{0%{transform:scaleY(.2);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}
+
+  51%{transform-origin:bottom}100%{transform:scaleY(.2);transform-origin:bottom}}
+
+
+
+/* ============================================================
+
+   MARQUEE (cinta viva)
+
+   ============================================================ */
+
+.marquee{position:relative;z-index:3;border-top:1px solid var(--line);border-bottom:1px solid var(--line);
+
+  overflow:hidden;padding:14px 0;background:rgba(0,0,0,.3);backdrop-filter:blur(2px)}
+
+.marquee .track{display:flex;gap:48px;width:max-content;animation:mq 32s linear infinite;
+
+  font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);text-transform:uppercase;color:var(--faint)}
+
+.marquee .track span{display:flex;align-items:center;gap:48px}
+
+.marquee .track em{font-style:normal;color:rgba(var(--acc),.7)}
+
+.marquee .track .dot{width:4px;height:4px;border-radius:50%;background:var(--line2)}
+
+@keyframes mq{to{transform:translateX(-50%)}}
+
+
+
+/* ============================================================
+
+   BLOQUES
+
+   ============================================================ */
+
+section.block{position:relative;z-index:3;padding:clamp(90px,14vh,170px) 0}
+
+.idx{font-family:var(--f-d);font-size:12px;letter-spacing:var(--trk-md);color:var(--faint);
+
+  display:flex;align-items:center;gap:14px;margin-bottom:34px}
+
+.idx::after{content:"";flex:1;height:1px;background:var(--line)}
+
+.idx .blink{width:6px;height:6px;border-radius:50%;background:rgba(var(--acc),.8);animation:blink 1.4s steps(1) infinite}
+
+@keyframes blink{50%{opacity:.15}}
+
+
+
+/* 001 manifesto */
+
+.manifesto h2{font-family:var(--f-d);font-weight:300;font-size:clamp(28px,6vw,68px);line-height:1.12;
+
+  letter-spacing:.01em;margin:0 0 30px;color:rgba(var(--ink),.95);max-width:17ch}
+
+.manifesto h2 em{font-style:normal;color:var(--mute)}
+
+.manifesto .lead{max-width:62ch;color:var(--mute);font-size:clamp(14px,1.5vw,18px);line-height:1.9}
+
+.manifesto .lead .hl{color:rgba(var(--ink),.92);background:linear-gradient(transparent 60%,rgba(var(--acc),.18) 60%)}
+
+
+
+/* 002 arquitectura con líneas que se dibujan en hover */
+
+.grid{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-left:1px solid var(--line)}
+
+.cell{position:relative;border-right:1px solid var(--line);border-bottom:1px solid var(--line);
+
+  padding:34px 26px 44px;min-height:250px;display:flex;flex-direction:column;gap:14px;overflow:hidden;
+
+  transition:background .5s var(--ease)}
+
+.cell::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .5s;
+
+  background:radial-gradient(120% 80% at 50% 0%,rgba(var(--acc),.10),transparent 70%)}
+
+.cell:hover::before{opacity:1}
+
+.cell:hover{background:rgba(var(--ink),.02)}
+
+.cell .n{font-family:var(--f-d);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint)}
+
+.cell h3{margin:0;font-family:var(--f-d);font-weight:400;font-size:clamp(15px,1.7vw,19px);
+
+  letter-spacing:var(--trk-sm);text-transform:uppercase;color:rgba(var(--ink),.94)}
+
+.cell p{margin:0;color:var(--faint);font-size:13px;line-height:1.8}
+
+.cell .glyph{position:absolute;right:18px;bottom:16px;width:34px;height:34px;opacity:.45;transition:opacity .5s,transform .6s var(--ease)}
+
+.cell:hover .glyph{opacity:.9;transform:rotate(90deg)}
+
+.cell .glyph *{stroke-dasharray:120;stroke-dashoffset:0;transition:stroke-dashoffset .8s var(--ease)}
+
+.cell:hover .glyph path,.cell:hover .glyph circle,.cell:hover .glyph line{stroke:rgba(var(--acc2),.9)}
+
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
+
+@media(max-width:520px){.grid{grid-template-columns:1fr}}
+
+
+
+/* 003 signal: osciloscopio + core reveal */
+
+.signal-wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:0;border:1px solid var(--line)}
+
+.scope{position:relative;min-height:340px;border-right:1px solid var(--line);overflow:hidden;background:rgba(0,0,0,.35)}
+
+.scope canvas{position:absolute;inset:0;width:100%;height:100%}
+
+.scope .lab{position:absolute;top:14px;left:16px;font-family:var(--f-d);font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
+
+.scope .lab.r{left:auto;right:16px;color:rgba(var(--acc),.7)}
+
+.corezone{position:relative;min-height:340px;display:grid;place-items:center;overflow:hidden;
+
+  background:radial-gradient(360px 360px at var(--cx,50%) var(--cy,50%),rgba(var(--acc),.12),transparent 62%)}
+
+.corezone .glyph{position:absolute;inset:0;display:grid;place-items:center;
+
+  -webkit-mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%);
+
+          mask:radial-gradient(150px 150px at var(--cx,50%) var(--cy,50%),#000,transparent 72%)}
+
+.corezone .glyph svg{width:min(58%,300px);height:auto}
+
+.corezone .glyph svg circle,.corezone .glyph svg line{stroke:rgba(var(--ink),.85)}
+
+.corezone .prompt{position:relative;z-index:2;text-align:center;pointer-events:none;
+
+  font-family:var(--f-d);font-size:clamp(13px,2vw,20px);letter-spacing:var(--trk-lg);text-transform:uppercase;color:var(--ghost)}
+
+.corezone .prompt small{display:block;margin-top:12px;font-size:10px;letter-spacing:var(--trk-md);color:var(--faint)}
+
+@media(max-width:820px){.signal-wrap{grid-template-columns:1fr}.scope{border-right:0;border-bottom:1px solid var(--line)}}
+
+
+
+/* 004 axiomas */
+
+.axioms{list-style:none;margin:0;padding:0;counter-reset:a}
+
+.axioms li{display:flex;align-items:baseline;gap:24px;padding:24px 0;border-bottom:1px solid var(--line);
+
+  font-family:var(--f-d);font-weight:300;font-size:clamp(16px,2.6vw,30px);letter-spacing:var(--trk-sm);
+
+  text-transform:uppercase;color:rgba(var(--ink),.9);transition:color .4s,padding-left .5s var(--ease),letter-spacing .5s var(--ease)}
+
+.axioms li::before{counter-increment:a;content:"0" counter(a);font-size:11px;letter-spacing:var(--trk-md);color:var(--faint);min-width:36px}
+
+.axioms li span{color:var(--mute)}
+
+.axioms li:hover{color:#fff;padding-left:12px;letter-spacing:.04em}
+
+.axioms li:hover::before{color:rgba(var(--acc),.9)}
+
+
+
+/* footer */
+
+footer{position:relative;z-index:3;padding:64px 0 46px;border-top:1px solid var(--line)}
+
+.foot{display:flex;justify-content:space-between;align-items:flex-end;gap:30px;flex-wrap:wrap}
+
+.foot .big{font-family:var(--f-d);font-weight:300;font-size:clamp(30px,8vw,80px);letter-spacing:var(--trk-lg);
+
+  color:rgba(var(--ink),.92);line-height:1;background:linear-gradient(180deg,#fff,rgba(var(--ink),.4));
+
+  -webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+
+.foot .meta{font-size:11px;letter-spacing:var(--trk-sm);color:var(--faint);text-transform:uppercase;text-align:right;line-height:2.1}
+
+
+
+/* reveal */
+
+.reveal{opacity:0;transform:translateY(30px);filter:blur(8px);
+
+  transition:opacity 1s var(--ease),transform 1s var(--ease),filter 1s var(--ease)}
+
+.reveal.in{opacity:1;transform:none;filter:none}
+
+
+
+@media(prefers-reduced-motion:reduce){
+
+  *{animation-duration:.001ms!important;animation-iteration-count:1!important;transition-duration:.001ms!important;scroll-behavior:auto!important}
+
+  .reveal,.corner .ln i,.wordmark .ch i,.wordmark .lambda path{opacity:1!important;transform:none!important;filter:none!important;stroke-dashoffset:0!important}
+
+  .scanline,.grain{display:none}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+
+<canvas id="gl" aria-hidden="true"></canvas>
+
+<div class="fb-fallback" aria-hidden="true"></div>
+
+<div class="vignette" aria-hidden="true"></div>
+
+<div class="grain" aria-hidden="true"></div>
+
+<div class="scanline" aria-hidden="true"></div>
+
+<div class="c-ring" aria-hidden="true"></div>
+
+<div class="c-dot" aria-hidden="true"></div>
+
+
+
+<header class="topbar">
+
+  <div class="brand"><span class="pulse"></span>NOIACORE</div>
+
+  <nav class="nav" aria-label="Principal">
+
+    <a href="#manifesto">Manifesto</a>
+
+    <a href="#arq">Arquitetura</a>
+
+    <a href="#signal">Signal</a>
+
+    <a href="#ax">Axiomas</a>
+
+  </nav>
+
+</header>
+
+
+
+<main>
+
+<!-- ===================== HERO ===================== -->
+
+<section class="hero" id="top">
+
+  <div class="hud" aria-hidden="true">
+
+    <span class="brk tl"></span><span class="brk tr"></span><span class="brk bl"></span><span class="brk br"></span>
+
+    <div class="tel tl">SYS // NOIACORE<br><b>NODE</b> 0xΛ‑CORE<br><b>STATE</b> <span class="live">● ACTIVE</span></div>
+
+    <div class="tel tr">LAT <b id="t-lat">00.000</b><br>LON <b id="t-lon">00.000</b><br>Δ <b id="t-dt">0.00</b>ms</div>
+
+    <div class="tel bl"><b>SIGNAL</b> <span id="t-sig">98.4</span>%<br><b>ENTROPY</b> <span id="t-ent">0.12</span></div>
+
+    <div class="tel br">FRAME <b id="t-fr">0000</b><br>CORE <b class="live">INVISIBLE</b></div>
+
+  </div>
+
+
+
+  <div class="corner left">
+
+    <p><span class="ln"><i style="animation-delay:.2s">Inteligência</i></span>
+
+       <span class="ln"><i style="animation-delay:.32s">Silenciosa.</i></span><br>
+
+       <span class="ln"><i style="animation-delay:.5s">Tecnologia</i></span>
+
+       <span class="ln"><i style="animation-delay:.62s">Essencial.</i></span></p>
+
+    <span class="dash"></span>
+
+  </div>
+
+  <div class="corner right">
+
+    <p><span class="ln"><i style="animation-delay:.26s">Arquitetura</i></span>
+
+       <span class="ln"><i style="animation-delay:.38s">de Inteligência</i></span><br>
+
+       <span class="ln"><i style="animation-delay:.56s">para o Futuro</i></span>
+
+       <span class="ln"><i style="animation-delay:.68s">da Humanidade.</i></span></p>
+
+    <span class="dash"></span>
+
+  </div>
+
+
+
+  <div class="wordmark" aria-label="NOIACORE">
+
+    <span class="ch" style="--i:0"><i>N</i></span><span class="ch" style="--i:1"><i>O</i></span><span class="ch" style="--i:2"><i>I</i></span>
+
+    <svg class="lambda" viewBox="0 0 24 24" aria-hidden="true"><path d="M2 22 L12 2 L22 22" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+
+    <span class="ch" style="--i:3"><i>C</i></span><span class="ch" style="--i:4"><i>O</i></span><span class="ch" style="--i:5"><i>R</i></span><span class="ch" style="--i:6"><i>E</i></span>
+
+  </div>
+
+  <div class="sub-lab">LAB</div>
+
+
+
+  <div class="axis-b">
+
+    <span class="v-num">001</span>
+
+    <p class="tagline">Core is invisible.<br>Impact is inevitable.</p>
+
+    <span class="orb-foot"></span>
+
+  </div>
+
+
+
+  <div class="scrollcue"><span>SCROLL</span><span class="bar"></span></div>
+
+</section>
+
+
+
+<!-- ===================== MARQUEE ===================== -->
+
+<div class="marquee" aria-hidden="true">
+
+  <div class="track">
+
+    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
+
+    <span>PERCEPÇÃO <i class="dot"></i> PREDIÇÃO <i class="dot"></i> <em>SILÊNCIO</em> <i class="dot"></i> IMPACTO <i class="dot"></i> INFERÊNCIA <i class="dot"></i> <em>CORE INVISIBLE</em> <i class="dot"></i> ARQUITETURA <i class="dot"></i> LATÊNCIA ZERO <i class="dot"></i></span>
+
+  </div>
+
+</div>
+
+
+
+<!-- ===================== 001 ===================== -->
+
+<section class="block manifesto" id="manifesto">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>001 — Manifesto</div>
+
+    <h2 class="reveal">Inteligência <em>silenciosa.</em><br>Tecnologia essencial.</h2>
+
+    <p class="lead reveal">
+
+      Construímos o que não precisa ser visto para ser sentido. O núcleo permanece invisível —
+
+      uma arquitetura de inferência que <span class="hl">observa, prediz e atua antes do ruído</span>.
+
+      A percepção, como a mente, não é um espelho do mundo: é uma construção ativa, eficiente,
+
+      implacável. Noiacore existe no espaço entre o estímulo e a consciência —
+
+      onde o sinal vira sentido, e o sentido vira impacto inevitável.
+
+    </p>
+
+  </div>
+
+</section>
+
+
+
+<!-- ===================== 002 ===================== -->
+
+<section class="block" id="arq">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>002 — Arquitetura</div>
+
+    <div class="grid reveal">
+
+      <div class="cell"><span class="n">M—01</span><h3>Percepção</h3>
+
+        <p>Camadas sensoriais que filtram o caos em sinal. O irrelevante deixa de existir.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="12"/><circle cx="17" cy="17" r="3.5"/></svg></div>
+
+      <div class="cell"><span class="n">M—02</span><h3>Predição</h3>
+
+        <p>Modelos generativos que antecipam o instante seguinte. Ver é apostar, não registrar.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M3 25 L12 13 L20 19 L31 5"/></svg></div>
+
+      <div class="cell"><span class="n">M—03</span><h3>Silêncio</h3>
+
+        <p>Computação que se apaga. A elegância é a ausência de fricção percebida.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><path d="M17 4 V30 M10 10 V24 M24 10 V24 M3 14 V20 M31 14 V20"/></svg></div>
+
+      <div class="cell"><span class="n">M—04</span><h3>Impacto</h3>
+
+        <p>O efeito inevitável de um núcleo bem construído. Invisível na causa, absoluto no resultado.</p>
+
+        <svg class="glyph" viewBox="0 0 34 34" fill="none" stroke="rgba(238,238,242,.5)"><circle cx="17" cy="17" r="4.5"/><circle cx="17" cy="17" r="12" stroke-dasharray="2 4"/></svg></div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- ===================== 003 ===================== -->
+
+<section class="block" id="signal">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>003 — Signal / O Core</div>
+
+    <div class="signal-wrap reveal">
+
+      <div class="scope">
+
+        <canvas id="scope"></canvas>
+
+        <div class="lab">WAVEFORM // CORE‑PULSE</div>
+
+        <div class="lab r" id="scope-hz">0.00 Hz</div>
+
+      </div>
+
+      <div class="corezone" id="corezone">
+
+        <div class="glyph" aria-hidden="true">
+
+          <svg viewBox="0 0 200 200" fill="none" stroke-width="1">
+
+            <circle cx="100" cy="100" r="72"/><circle cx="100" cy="100" r="48" stroke-dasharray="2 6"/>
+
+            <circle cx="100" cy="100" r="14" fill="rgba(125,155,255,.5)" stroke="none"/>
+
+            <line x1="100" y1="4" x2="100" y2="196"/><line x1="4" y1="100" x2="196" y2="100"/>
+
+          </svg>
+
+        </div>
+
+        <div class="prompt">O núcleo é invisível<small>— move o cursor para revelá‑lo —</small></div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- ===================== 004 ===================== -->
+
+<section class="block" id="ax">
+
+  <div class="wrap">
+
+    <div class="idx reveal"><span class="blink"></span>004 — Axiomas</div>
+
+    <ul class="axioms reveal">
+
+      <li>Core is invisible. <span>&nbsp;Impact is inevitable.</span></li>
+
+      <li>Perceber é construir, <span>não copiar.</span></li>
+
+      <li>O silêncio é uma <span>decisão de engenharia.</span></li>
+
+      <li>Predizemos o instante <span>antes que aconteça.</span></li>
+
+      <li>A elegância é o que <span>não se nota.</span></li>
+
+    </ul>
+
+  </div>
+
+</section>
+
+</main>
+
+
+
+<footer>
+
+  <div class="wrap foot">
+
+    <div class="big reveal">NOIACORE</div>
+
+    <div class="meta reveal">LAB · Arquitetura de Inteligência<br>© <span id="yr"></span> — todos os núcleos reservados<br><span style="color:rgba(var(--acc),.7)">● SYSTEM NOMINAL</span></div>
+
+  </div>
+
+</footer>
+
+
+
+<script>
+
+/* ============================================================
+
+   NOIACORE / LAB · v2 — motor
+
+   ============================================================ */
+
+const REDUCED = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+const FINE = matchMedia('(pointer:fine)').matches;
+
+document.getElementById('yr').textContent = new Date().getFullYear();
+
+
+
+/* ---------- estado global ---------- */
+
+const S = { mx:.5, my:.5, tmx:.5, tmy:.5, scroll:0, beat:0, t:0, frame:0 };
+
+
+
+/* ============================================================
+
+   1) WEBGL — eclipse vivo (anillo de acreción + lente + latido)
+
+   ============================================================ */
+
+const glCanvas = document.getElementById('gl');
+
+let gl = glCanvas.getContext('webgl', {antialias:false, alpha:false, premultipliedAlpha:false});
+
+if(!gl){ document.body.classList.add('no-webgl'); }
+
+
+
+const VS = `attribute vec2 p;void main(){gl_Position=vec4(p,0.,1.);}`;
+
+const FS = `
+
+precision highp float;
+
+uniform vec2  u_res;
+
+uniform float u_time, u_scroll, u_beat;
+
+uniform vec2  u_mouse;
+
+
+
+float hash(vec2 p){ return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453); }
+
+float noise(vec2 p){
+
+  vec2 i=floor(p), f=fract(p); vec2 u=f*f*(3.-2.*f);
+
+  return mix(mix(hash(i),hash(i+vec2(1,0)),u.x),
+
+             mix(hash(i+vec2(0,1)),hash(i+vec2(1,1)),u.x),u.y);
+
+}
+
+float fbm(vec2 p){ float v=0.,a=.5; for(int i=0;i<5;i++){ v+=a*noise(p); p*=2.03; a*=.5; } return v; }
+
+
+
+void main(){
+
+  vec2 uv = (gl_FragCoord.xy - .5*u_res)/u_res.y;
+
+  // el centro "mira" al cursor (lerp suave ya hecho en JS) + parallax scroll
+
+  vec2 center = (u_mouse - .5)*vec2(.30,.22);
+
+  center.y += u_scroll*0.18;
+
+  vec2 d = uv - center;
+
+  float r = length(d);
+
+
+
+  // --- lente gravitacional: distorsiona el campo cerca del core ---
+
+  float lens = 0.045/(r+0.06);
+
+  vec2 suv = uv + normalize(d+1e-5)*lens*smoothstep(0.5,0.05,r);
+
+
+
+  // --- estrellas con parallax ---
+
+  vec2 g = suv*vec2(2.2,2.2)+vec2(0.,u_scroll*0.6);
+
+  vec2 id = floor(g*60.); float h = hash(id);
+
+  float star = smoothstep(.985,1.,h) * smoothstep(.0,.6, fract(h*13.));
+
+  star *= 0.5+0.5*sin(u_time*2.+h*30.);           // titileo
+
+  vec3 col = vec3(star)*vec3(.7,.8,1.)*0.9;
+
+
+
+  // --- anillo de acreción: plasma girando (coordenadas polares) ---
+
+  float ang = atan(d.y,d.x);
+
+  float ringR = 0.165;
+
+  float band = exp(-pow((r-ringR)/0.055,2.0));     // grosor del anillo
+
+  float plasma = fbm(vec2(ang*2.2 + u_time*0.9, r*9.0 - u_time*1.6));
+
+  float plasma2= fbm(vec2(ang*5.0 - u_time*1.3, r*14.0 + u_time*0.8));
+
+  float ring = band * (0.45 + 0.85*plasma) * (0.6+0.6*plasma2);
+
+  // latido: el anillo respira con u_beat
+
+  ring *= 0.7 + 0.6*u_beat;
+
+  vec3 ringCol = mix(vec3(.55,.7,1.), vec3(1.), pow(plasma,2.0));
+
+  col += ring * ringCol * 2.4;
+
+
+
+  // halo exterior suave
+
+  col += exp(-r*5.0)*vec3(.30,.42,.85)*0.35*(0.7+0.5*u_beat);
+
+
+
+  // --- horizonte de luz que baja con scroll ---
+
+  float hy = -0.02 + u_scroll*0.10;
+
+  float horiz = exp(-pow((uv.y-hy)*22.0,2.0));
+
+  horiz *= smoothstep(0.6,0.0,abs(uv.x-center.x));
+
+  col += horiz*vec3(.8,.88,1.)*0.9;
+
+  // reflejo ondulante bajo el horizonte
+
+  float refl = exp(-(uv.y-hy)*9.0)*step(hy,uv.y);
+
+  refl *= 0.4+0.4*fbm(vec2(uv.x*30., uv.y*8.-u_time*2.));
+
+  col += refl*vec3(.3,.4,.8)*0.25*smoothstep(0.5,0.0,abs(uv.x-center.x));
+
+
+
+  // --- el CORE: disco negro con corona (fresnel) ---
+
+  float coreR = 0.052;
+
+  float core = smoothstep(coreR, coreR-0.004, r);   // 1 dentro
+
+  float corona = exp(-pow((r-coreR)/0.012,2.0));     // borde brillante
+
+  col = mix(col, vec3(0.0), core);                   // pinta negro el núcleo
+
+  col += corona*vec3(1.)*(1.4+0.8*u_beat);           // corona blanca
+
+  // arco superior más intenso (como la referencia)
+
+  float top = smoothstep(0.0,0.6,-d.y);
+
+  col += corona*top*vec3(1.)*1.2;
+
+
+
+  // bloom fake global
+
+  col += pow(max(col-0.6,0.0),vec3(1.5))*0.6;
+
+
+
+  // grano animado
+
+  col += (hash(gl_FragCoord.xy+u_time)-.5)*0.035;
+
+
+
+  // viñeta ligera (la fuerte va en CSS)
+
+  col *= smoothstep(1.25,0.35,length(uv));
+
+
+
+  gl_FragColor = vec4(col,1.);
+
+}`;
+
+
+
+let prog, u={};
+
+function compile(type,src){const s=gl.createShader(type);gl.shaderSource(s,src);gl.compileShader(s);
+
+  if(!gl.getShaderParameter(s,gl.COMPILE_STATUS)){console.warn(gl.getShaderInfoLog(s));return null;}return s;}
+
+function initGL(){
+
+  const vs=compile(gl.VERTEX_SHADER,VS), fs=compile(gl.FRAGMENT_SHADER,FS);
+
+  if(!vs||!fs){document.body.classList.add('no-webgl');return false;}
+
+  prog=gl.createProgram();gl.attachShader(prog,vs);gl.attachShader(prog,fs);gl.linkProgram(prog);
+
+  if(!gl.getProgramParameter(prog,gl.LINK_STATUS)){document.body.classList.add('no-webgl');return false;}
+
+  gl.useProgram(prog);
+
+  const buf=gl.createBuffer();gl.bindBuffer(gl.ARRAY_BUFFER,buf);
+
+  gl.bufferData(gl.ARRAY_BUFFER,new Float32Array([-1,-1,1,-1,-1,1,-1,1,1,-1,1,1]),gl.STATIC_DRAW);
+
+  const loc=gl.getAttribLocation(prog,'p');gl.enableVertexAttribArray(loc);gl.vertexAttribPointer(loc,2,gl.FLOAT,false,0,0);
+
+  ['u_res','u_time','u_scroll','u_beat','u_mouse'].forEach(n=>u[n]=gl.getUniformLocation(prog,n));
+
+  return true;
+
+}
+
+function resizeGL(){const dpr=Math.min(devicePixelRatio||1,1.5);
+
+  glCanvas.width=innerWidth*dpr;glCanvas.height=innerHeight*dpr;}
+
+let glOK=false;
+
+if(gl){ glOK=initGL(); if(glOK){resizeGL();addEventListener('resize',resizeGL);} else gl=null; }
+
+
+
+/* ============================================================
+
+   2) osciloscopio (canvas 2D)
+
+   ============================================================ */
+
+const scope=document.getElementById('scope'), sctx=scope.getContext('2d');
+
+function resizeScope(){const dpr=Math.min(devicePixelRatio||1,2);const r=scope.getBoundingClientRect();
+
+  scope.width=r.width*dpr;scope.height=r.height*dpr;}
+
+resizeScope(); addEventListener('resize',resizeScope);
+
+function drawScope(t){
+
+  const w=scope.width,h=scope.height; sctx.clearRect(0,0,w,h);
+
+  // rejilla
+
+  sctx.strokeStyle='rgba(238,238,242,.06)';sctx.lineWidth=1;
+
+  for(let x=0;x<w;x+=w/16){sctx.beginPath();sctx.moveTo(x,0);sctx.lineTo(x,h);sctx.stroke();}
+
+  for(let y=0;y<h;y+=h/6){sctx.beginPath();sctx.moveTo(0,y);sctx.lineTo(w,y);sctx.stroke();}
+
+  // waveform viva: suma de senos + ruido modulado por el latido
+
+  const mid=h/2, amp=h*0.30;
+
+  for(let pass=0;pass<2;pass++){
+
+    sctx.beginPath();
+
+    for(let x=0;x<=w;x+=2){
+
+      const p=x/w;
+
+      const n=(Math.sin(p*22+t*3)+Math.sin(p*9-t*1.7)+ (Math.random()-.5)*0.6*(0.4+S.beat));
+
+      const y=mid + n*amp*0.32*(0.6+0.8*S.beat)*Math.sin(p*Math.PI);
+
+      x===0?sctx.moveTo(x,y):sctx.lineTo(x,y);
+
+    }
+
+    sctx.strokeStyle = pass? 'rgba(125,155,255,.35)':'rgba(238,238,242,.85)';
+
+    sctx.lineWidth = pass? 3:1.2; sctx.shadowBlur=pass?0:10; sctx.shadowColor='rgba(125,155,255,.6)';
+
+    sctx.stroke(); sctx.shadowBlur=0;
+
+  }
+
+}
+
+
+
+/* ============================================================
+
+   3) interacción: cursor, mouse, scroll, spotlight
+
+   ============================================================ */
+
+const ring=document.querySelector('.c-ring'), dot=document.querySelector('.c-dot');
+
+const corezone=document.getElementById('corezone');
+
+let rx=innerWidth/2, ry=innerHeight/2;
+
+addEventListener('pointermove',e=>{
+
+  S.tmx=e.clientX/innerWidth; S.tmy=e.clientY/innerHeight;
+
+  dot.style.transform=`translate(${e.clientX}px,${e.clientY}px) translate(-50%,-50%)`;
+
+  if(corezone){const r=corezone.getBoundingClientRect();
+
+    corezone.style.setProperty('--cx',((e.clientX-r.left)/r.width*100)+'%');
+
+    corezone.style.setProperty('--cy',((e.clientY-r.top)/r.height*100)+'%');}
+
+});
+
+(function ringLoop(){rx+=(e2px(S.tmx)-rx)*.16;ry+=(e2px(S.tmy,true)-ry)*.16;
+
+  ring.style.transform=`translate(${rx}px,${ry}px) translate(-50%,-50%)`;requestAnimationFrame(ringLoop);})();
+
+function e2px(n,y){return y? n*innerHeight : n*innerWidth;}
+
+document.querySelectorAll('a,.cell,.axioms li,.corezone,.nav a').forEach(el=>{
+
+  el.addEventListener('pointerenter',()=>ring.classList.add('hot'));
+
+  el.addEventListener('pointerleave',()=>ring.classList.remove('hot'));});
+
+
+
+addEventListener('scroll',()=>{const max=document.body.scrollHeight-innerHeight;
+
+  S.scroll=max>0?scrollY/max:0;document.documentElement.style.setProperty('--scroll',S.scroll);},{passive:true});
+
+
+
+/* ============================================================
+
+   4) telemetría viva (HUD)
+
+   ============================================================ */
+
+const T={lat:document.getElementById('t-lat'),lon:document.getElementById('t-lon'),
+
+  dt:document.getElementById('t-dt'),sig:document.getElementById('t-sig'),
+
+  ent:document.getElementById('t-ent'),fr:document.getElementById('t-fr'),
+
+  hz:document.getElementById('scope-hz')};
+
+setInterval(()=>{
+
+  T.lat.textContent=(Math.sin(S.t*0.3)*12+38).toFixed(3);
+
+  T.lon.textContent=(Math.cos(S.t*0.27)*30-9).toFixed(3);
+
+  T.dt.textContent=(8+Math.random()*4).toFixed(2);
+
+  T.sig.textContent=(96+Math.random()*4).toFixed(1);
+
+  T.ent.textContent=(0.08+Math.random()*0.12+S.beat*0.05).toFixed(2);
+
+  T.hz.textContent=(40+S.beat*30+Math.random()*4).toFixed(2)+' Hz';
+
+},120);
+
+
+
+/* ============================================================
+
+   5) reveal on scroll
+
+   ============================================================ */
+
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.16});
+
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+
+
+
+/* ============================================================
+
+   LOOP MAESTRO
+
+   ============================================================ */
+
+let last=performance.now();
+
+function frame(now){
+
+  const dt=(now-last)/1000; last=now;
+
+  if(!REDUCED) S.t+=dt;
+
+  S.frame++;
+
+  // mouse lerp
+
+  S.mx+=(S.tmx-S.mx)*0.06; S.my+=(S.tmy-S.my)*0.06;
+
+  // latido: pulso cada ~2.4s con decaimiento (heartbeat)
+
+  const phase=(S.t%2.4)/2.4;
+
+  S.beat = REDUCED?0.5: Math.pow(1-phase,3)* (0.6+0.4*Math.sin(phase*Math.PI));
+
+
+
+  if(glOK){
+
+    gl.viewport(0,0,glCanvas.width,glCanvas.height);
+
+    gl.uniform2f(u.u_res,glCanvas.width,glCanvas.height);
+
+    gl.uniform1f(u.u_time,S.t);
+
+    gl.uniform1f(u.u_scroll,S.scroll);
+
+    gl.uniform1f(u.u_beat,S.beat);
+
+    gl.uniform2f(u.u_mouse,S.mx,1-S.my);
+
+    gl.drawArrays(gl.TRIANGLES,0,6);
+
+  }
+
+  if(!REDUCED) drawScope(S.t);
+
+  T.fr.textContent=String(S.frame).padStart(4,'0');
+
+  requestAnimationFrame(frame);
+
+}
+
+requestAnimationFrame(frame);
+
+</script>
+
+</body>
+
 </html>
 
 ## [ASSISTANT] 2026-07-28 02:26 · Qwen3.8-Max-Preview

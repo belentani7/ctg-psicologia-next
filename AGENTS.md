@@ -1,4 +1,4 @@
-﻿# AGENTS.md - ctg-psicologia-next
+# AGENTS.md - ctg-psicologia-next
 
 ## Stack
 - package.json: True

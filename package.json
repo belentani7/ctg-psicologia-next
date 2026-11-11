@@ -7,6 +7,7 @@
     "build": "next build && node -e \"require('fs').cpSync('.next/static','.next/standalone/.next/static',{recursive:true}); if(require('fs').existsSync('public')) require('fs').cpSync('public','.next/standalone/public',{recursive:true});\"",
     "start": "node .next/standalone/server.js",
     "lint": "eslint .",
+    "typecheck": "tsc --noEmit --incremental false",
     "test": "node --test test/"
   },
   "dependencies": {

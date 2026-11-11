@@ -12161,28 +12161,50 @@ Información orientativa. Las leyes y recursos cambian; verifica siempre con las
 
 ## [USER] 2026-06-11 15:42
 
-COMPLETA AL MAXIMO LA INFORMACION 
-
-Cruzando el Charco
-Confidencial · Gratis · Sin juicio
-🇷🇴
-Bine ai venit. Ești acasă.
-· Română
-Has cruzado
-el charco.
-Aquí no estás solo.
-Pedir ayuda es valentía.
-
-Entrar a la guía
-Hablar con un asistente
-L'Hospitalet · Pubilla Cases · Can Vidalet · Barcelona
-Ilustración de un grupo diverso de hombres jóvenes
-🇨🇳
-欢迎你。这里就是家。
-🪶
-Allin hamusqayki.
-🇮🇷
-خوش آمدی. اینجا خانه‌ی توست.
+COMPLETA AL MAXIMO LA INFORMACION 
+
+
+
+Cruzando el Charco
+
+Confidencial · Gratis · Sin juicio
+
+🇷🇴
+
+Bine ai venit. Ești acasă.
+
+· Română
+
+Has cruzado
+
+el charco.
+
+Aquí no estás solo.
+
+Pedir ayuda es valentía.
+
+
+
+Entrar a la guía
+
+Hablar con un asistente
+
+L'Hospitalet · Pubilla Cases · Can Vidalet · Barcelona
+
+Ilustración de un grupo diverso de hombres jóvenes
+
+🇨🇳
+
+欢迎你。这里就是家。
+
+🪶
+
+Allin hamusqayki.
+
+🇮🇷
+
+خوش آمدی. اینجا خانه‌ی توست.
+
 Portal comunitario informativo · Información orientativa, no sustituye asesoría legal o médica.
 
 ## [ASSISTANT] 2026-06-11 15:42 · Qwen3.7-Plus

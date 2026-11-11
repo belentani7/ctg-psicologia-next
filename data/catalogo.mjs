@@ -1,0 +1,33 @@
+// Banco de datos canónico. Generado por repo-forge.
+export const catalogo = {
+  "nombre": "ctg-psicologia-next",
+  "remoto": "https://github.com/belentani7/ctg-psicologia-next",
+  "tipo": "web-app",
+  "modelo": "web de centro sanitario (Next.js)",
+  "publico": "pacientes y familias en L'Hospitalet",
+  "licencia": "MIT",
+  "medido": {
+    "archivos": 65,
+    "lineas": 9559,
+    "bytes": 10752767,
+    "html": 2,
+    "tests": 2
+  },
+  "modulos": [
+    "Especialidades",
+    "Equipo",
+    "Reserva",
+    "Blog clínico",
+    "Legal"
+  ],
+  "paleta": {
+    "bg": "#f7f4ef",
+    "ink": "#221f1a",
+    "accent": "#6a1b00"
+  },
+  "fuente": {
+    "ruta": "repos\\ctg-psicologia-next",
+    "fecha": "2026-11-10"
+  }
+};
+export default catalogo;

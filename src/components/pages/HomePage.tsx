@@ -1,4 +1,4 @@
-﻿import Link from 'next/link';
+import Link from 'next/link';
 import { Header, Footer } from '@/components/Layout';
 import { services, contact, Locale } from '@/data/content';
 

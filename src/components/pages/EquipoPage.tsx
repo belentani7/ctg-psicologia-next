@@ -1,4 +1,4 @@
-﻿import { Header, Footer } from '@/components/Layout';
+import { Header, Footer } from '@/components/Layout';
 import { team, Locale } from '@/data/content';
 
 export default function EquipoPage({ locale }: { locale: Locale }) {

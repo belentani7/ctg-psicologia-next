@@ -9,7 +9,7 @@
  *   node scripts/audit-a11y.mjs --help
  *   node scripts/audit-a11y.mjs --verbose     # muestra también los nodos afectados
  */
-import { readdirSync, readFileSync, existsSync } from 'node:fs';
+import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join, relative } from 'node:path';
 import { createRequire } from 'node:module';
 
@@ -68,7 +68,9 @@ const WCAG_TAGS = ['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa'];
 
 let totalViolations = 0;
 let totalPasses = 0;
+let totalErrors = 0;
 const summary = [];
+const report = { generatedAt: new Date().toISOString(), pages: [], violations: [], errors: [] };
 
 for (const file of pages.sort()) {
   const html = readFileSync(file, 'utf8');
@@ -78,17 +80,36 @@ for (const file of pages.sort()) {
   // evalúa, así que se anula el contexto para evitar ruido en stderr.
   dom.window.HTMLCanvasElement.prototype.getContext = () => null;
   dom.window.eval(axeSource);
-  const results = await dom.window.axe.run(dom.window.document.documentElement, {
-    runOnly: { type: 'tag', values: WCAG_TAGS },
-  });
+
+  let results;
+  try {
+    results = await dom.window.axe.run(dom.window.document.documentElement, {
+      runOnly: { type: 'tag', values: WCAG_TAGS },
+    });
+  } catch (error) {
+    // Un fallo de axe no debe ocultarse: se registra y se sigue con el resto.
+    totalErrors += 1;
+    summary.push(`ERROR ${route}: ${error?.message ?? error}`);
+    report.errors.push({ route, message: String(error?.message ?? error), stack: String(error?.stack ?? '') });
+    dom.window.close();
+    continue;
+  }
 
   totalPasses += results.passes.length;
   totalViolations += results.violations.length;
+  report.pages.push({ route, passes: results.passes.length, violations: results.violations.length });
 
   const status = results.violations.length === 0 ? 'OK ' : 'FALLA';
   summary.push(`${status} ${route.padEnd(28)} ${results.passes.length} reglas ok`);
 
   for (const violation of results.violations) {
+    report.violations.push({
+      route,
+      id: violation.id,
+      impact: violation.impact,
+      help: violation.help,
+      nodes: violation.nodes.map((node) => ({ target: node.target, summary: node.failureSummary })),
+    });
     summary.push(
       `      · [${violation.impact}] ${violation.id}: ${violation.help} (${violation.nodes.length} nodo/s)`,
     );
@@ -104,11 +125,13 @@ for (const file of pages.sort()) {
 
 console.log(summary.join('\n'));
 console.log(
-  `\n${pages.length} páginas auditadas · ${totalPasses} comprobaciones superadas · ${totalViolations} violaciones`,
+  `\n${pages.length} páginas auditadas · ${totalPasses} comprobaciones superadas · ` +
+    `${totalViolations} violaciones · ${totalErrors} errores de ejecución`,
 );
 
-if (totalViolations > 0) {
-  console.error('Auditoría de accesibilidad con violaciones.');
+if (totalViolations > 0 || totalErrors > 0) {
+  writeFileSync(new URL('../a11y-report.json', import.meta.url), `${JSON.stringify(report, null, 2)}\n`);
+  console.error('Auditoría de accesibilidad fallida. Detalle en a11y-report.json.');
   process.exit(1);
 }
 

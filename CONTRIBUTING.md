@@ -5,7 +5,7 @@ que cualquier cambio se pueda verificar y revertir sin sustos.
 
 ## Requisitos
 
-- Node.js ≥ 20 (el repo declara la versión en `.nvmrc`).
+- Node.js ≥ 22.22 (el repo declara la versión en `.nvmrc`).
 - npm 10+.
 - Opcional: Python 3.11+ para los tests del banco de datos y ImageMagick para
   regenerar la imagen Open Graph.

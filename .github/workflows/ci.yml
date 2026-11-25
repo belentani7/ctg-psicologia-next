@@ -63,5 +63,14 @@ jobs:
       - name: Accesibilidad (axe-core sobre el HTML construido)
         run: npm run audit:a11y
 
+      - name: Informe de accesibilidad
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: a11y-report
+          path: a11y-report.json
+          if-no-files-found: ignore
+          retention-days: 7
+
       - name: Humo HTTP (servidor standalone)
         run: npm run smoke

@@ -53,6 +53,8 @@ Versionado: [SemVer](https://semver.org/lang/es/).
 - `HeroShader` pasa de `.jsx` sin tipos y sin usar a `.tsx` tipado, integrado en
   la portada con carga diferida, pausa por visibilidad y fallback sin WebGL.
 - Se retiró la dependencia `wouter` (no se usaba en ningún sitio).
+- Node mínimo 22.22 (`.nvmrc` = 22): Node 20 está fuera de soporte y jsdom 31,
+  que usa la auditoría de accesibilidad, exige `^22.22.2`.
 - README, `AGENTS.md`, `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md` y `docs/`
   reescritos con datos verificables del repositorio.
 

@@ -19,7 +19,7 @@ blog clínico, contacto y una herramienta de **OCR que se ejecuta en el navegado
 | TypeScript | 5.7 | `strict: true`, 0 errores |
 | Tailwind CSS | 3.4 | Tokens en `src/lib/tokens.json` |
 | Tesseract.js | 5.1 | OCR en el cliente, WASM servido desde `public/` |
-| Node.js | ≥ 20 | `.nvmrc` fija la versión de CI |
+| Node.js | ≥ 22.22 | `.nvmrc` fija la versión de CI |
 
 ## Cómo se ejecuta
 

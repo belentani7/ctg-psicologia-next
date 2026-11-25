@@ -104,3 +104,6 @@ desktop.ini
 *.pyo
 htmlcov/
 playwright-report/
+
+# Informe generado por la auditoría de accesibilidad
+a11y-report.json

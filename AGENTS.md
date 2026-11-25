@@ -11,7 +11,7 @@ se cometieron.
 - Tesseract.js 5 (OCR en el navegador, assets locales).
 - Tests: `node --test` (23 comprobaciones), Python `unittest` (4) para el banco
   de datos, axe-core + jsdom para accesibilidad y un humo HTTP end-to-end.
-- Node ≥ 20 (`.nvmrc`).
+- Node ≥ 22.22 (`.nvmrc` = 22). jsdom 31 lo exige.
 
 ## Comandos
 

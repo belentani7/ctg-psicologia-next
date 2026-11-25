@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cTg Psicología · Universo del artista</title>
+  <meta name="description" content="Hub unificado del artista Belentani: portfolio 3D inmersivo, catálogo musical y universo narrativo en cuatro capítulos. Judas Era es el Canon 0.">
+  <link rel="canonical" href="https://ctgpsicologia.com/">
+  <meta name="theme-color" content="#0c0b0f">
+  <meta name="color-scheme" content="dark light">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="cTg Psicología">
+  <meta property="og:title" content="cTg Psicología">
+  <meta property="og:description" content="Web oficial del centro de psicología cTg Psicología (Teràpia Global) de L'Hospitalet de Llobregat. 12 terapias, 9 profesionales, trilingüe (es/ca/en) y OCR en el navegador.">
+  <meta property="og:url" content="https://ctgpsicologia.com/">
+  <meta name="twitter:card" content="summary">
+
+  <script>/* sin FOUC de tema */
+    (function () {
+      try {
+        var t = localStorage.getItem('ux-theme');
+        document.documentElement.setAttribute('data-theme', t || 'dark');
+      } catch (e) {}
+      document.documentElement.classList.add('uxjs');
+    })();
+  </script>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=JetBrains+Mono:wght@600&display=swap">
+  <link rel="stylesheet" href="assets/ux/ux-tokens.css">
+  <link rel="stylesheet" href="assets/ux/ux-enhance.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/gsap@3.15.1/dist/gsap.min.js" onerror="this.onerror=null;this.src='https://unpkg.com/gsap@3.15.1/dist/gsap.min.js'"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/gsap@3.15.1/dist/ScrollTrigger.min.js" onerror="this.onerror=null;this.src='https://unpkg.com/gsap@3.15.1/dist/ScrollTrigger.min.js'"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/gsap@3.15.1/dist/SplitText.min.js" onerror="this.onerror=null;this.src='https://unpkg.com/gsap@3.15.1/dist/SplitText.min.js'"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/lenis@1.3.27/dist/lenis.min.js" onerror="this.onerror=null;this.src='https://unpkg.com/lenis@1.3.27/dist/lenis.min.js'"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/lucide@1.70.0/dist/umd/lucide.min.js" onerror="this.onerror=null;this.src='https://unpkg.com/lucide@1.70.0/dist/umd/lucide.min.js'"></script>
+  <script defer src="hero.js"></script>
+  <script defer src="assets/ux/ux-kit.js"></script>
+
+  <style>
+    /* — específico de esta landing — */
+    :root { --ux-accent: #0d9488; }
+    [data-theme="light"] { --ux-accent: #14b8a6; }
+    .ux-hero__canvas { position: absolute; inset: 0; z-index: -2; }
+    .ux-hero__canvas canvas { width: 100%; height: 100%; display: block; }
+    .ux-hero .ux-mesh { z-index: -1; opacity: .55; }
+
+    .chapters { display: grid; gap: var(--space-m); grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr)); counter-reset: cap; }
+    .chapter { position: relative; padding-top: calc(var(--space-m) + 28px); }
+    .chapter::before {
+      counter-increment: cap; content: "CANON · " counter(cap, decimal-leading-zero);
+      position: absolute; top: 0; font-family: var(--font-mono); font-size: .72rem;
+      letter-spacing: .14em; color: var(--ux-accent);
+    }
+    .chapter__glyph {
+      width: 46px; height: 46px; border-radius: 13px; display: grid; place-items: center;
+      background: var(--ux-accent-soft); color: var(--ux-accent); margin-bottom: var(--space-s);
+      border: 1px solid var(--ux-accent-line);
+    }
+    .chapter__glyph svg { width: 23px; height: 23px; }
+
+    .inst__arrow { display: inline-flex; align-items: center; gap: .4rem; font-weight: 700; color: var(--ux-accent); text-decoration: none; font-size: var(--step--1); }
+    .inst__arrow svg { width: 15px; height: 15px; transition: transform .25s; }
+    .inst__arrow:hover svg { transform: translateX(4px); }
+
+    .strip { border-block: 1px solid var(--border); padding-block: var(--space-m); }
+    .strip__inner { display: flex; flex-wrap: wrap; gap: var(--space-m) var(--space-xl); align-items: center; justify-content: center; color: var(--muted); font-size: var(--step--1); }
+    .strip a { display: inline-flex; align-items: center; gap: .5rem; text-decoration: none; font-weight: 600; }
+    .strip a:hover { color: var(--ux-accent); }
+    .strip svg { width: 15px; height: 15px; }
+  </style>
+</head>
+<body class="ux-grain">
+  <div data-ux-progress aria-hidden="true"></div>
+  <a class="ux-skip" href="#main">Saltar al contenido</a>
+
+  <header class="ux-nav">
+    <div class="ux-container ux-nav__inner">
+      <a class="ux-nav__brand" href="#top">
+        <span class="ux-nav__brand-dot" aria-hidden="true"></span> BELENTANI
+      </a>
+      <nav aria-label="Principal">
+        <ul class="ux-nav__links">
+          <li><a href="#capitulos">Capítulos</a></li>
+          <li><a href="#universo">El universo</a></li>
+          <li><a href="#institucion">Institución</a></li>
+          <li><a href="#faq">FAQ</a></li>
+        </ul>
+      </nav>
+      <div class="ux-nav__actions">
+        <button class="ux-btn ux-btn--ghost" data-ux-theme-toggle type="button" aria-pressed="false">
+          <i data-lucide="moon" aria-hidden="true"></i><span class="sr-only">Tema</span>
+        </button>
+        <a class="ux-btn ux-btn--primary" data-ux-magnet href="https://github.com/belentani7/ctgpsicologia.com" rel="noopener">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.88-1.36-3.88-1.36-.52-1.33-1.28-1.68-1.28-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.75 2.69 1.25 3.34.95.1-.74.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.68 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.41-2.7 5.38-5.26 5.66.41.36.77 1.05.77 2.13 0 1.54-.01 2.78-.01 3.16 0 .3.2.67.8.55A10.52 10.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/></svg> GitHub
+        </a>
+        <button class="ux-menu-btn" data-ux-menu-btn type="button" aria-expanded="false" aria-controls="menu-movil" aria-label="Abrir menú">
+          <i data-lucide="menu" aria-hidden="true"></i>
+        </button>
+      </div>
+    </div>
+    <div data-ux-menu id="menu-movil">
+      <a href="#capitulos">Capítulos</a>
+      <a href="#universo">El universo</a>
+      <a href="#institucion">Institución</a>
+      <a href="#faq">FAQ</a>
+      <a href="https://github.com/belentani7/ctgpsicologia.com" rel="noopener">GitHub ↗</a>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ── HERO ─────────────────────────────────────────── -->
+    <section class="ux-hero" id="top" data-ux-hero>
+      <div class="ux-hero__canvas" aria-hidden="true"><canvas id="hero-canvas"></canvas></div>
+      <div class="ux-mesh" aria-hidden="true"></div>
+      <div class="ux-container">
+        <p class="ux-eyebrow" data-ux-hero-badge><i data-lucide="heart-pulse" aria-hidden="true" style="width:14px;height:14px"></i> Centro de Terapia Global · L'Hospitalet de Llobregat</p>
+        <h1 class="ux-hero__title" data-ux-hero-title>cTg Psicología<br><span class="ux-accent">Tu bienestar, nuestra prioridad</span></h1>
+        <p class="ux-hero__sub" data-ux-hero-sub>
+          Hub unificado del artista: portfolio 3D inmersivo, catálogo musical y universo
+          narrativo. Una galaxia interactiva de Three.js cuenta la historia en cuatro capítulos.
+        </p>
+        <div class="ux-hero__cta" data-ux-hero-cta>
+          <a class="ux-btn ux-btn--primary" data-ux-magnet href="/">
+            <i data-lucide="arrow-right" aria-hidden="true"></i> Entrar al universo
+          </a>
+          <a class="ux-btn ux-btn--ghost" href="/contacto">
+            <i data-lucide="message-circle" aria-hidden="true"></i> Ver experiencias
+          </a>
+        </div>
+        <div class="ux-hero__meta" data-ux-hero-meta>
+          <span><i data-lucide="box" aria-hidden="true"></i> 12 terapias</span>
+          <span><i data-lucide="book-open" aria-hidden="true"></i> 9 profesionales</span>
+          <span><i data-lucide="badge-euro" aria-hidden="true"></i> 3 idiomas</span>
+          <span><i data-lucide="scale" aria-hidden="true"></i> OCR en navegador</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── TIRA DEL ECOSISTEMA ──────────────────────────── -->
+    <section class="strip" aria-label="Ecosistema">
+      <div class="ux-container strip__inner" data-ux-reveal>
+        <a href="https://www.ctgpsicologia.com" rel="noopener"><i data-lucide="globe" aria-hidden="true"></i> www.ctgpsicologia.com</a>
+        <a href="https://github.com/belentani7" rel="noopener"><svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.88-1.36-3.88-1.36-.52-1.33-1.28-1.68-1.28-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.75 2.69 1.25 3.34.95.1-.74.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.68 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.41-2.7 5.38-5.26 5.66.41.36.77 1.05.77 2.13 0 1.54-.01 2.78-.01 3.16 0 .3.2.67.8.55A10.52 10.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/></svg> belentani7 · GitHub</a>
+        <a href="institucion/mapa.html"><i data-lucide="map" aria-hidden="true"></i> Mapa del sitio</a>
+        <a href="institucion/buscar.html"><i data-lucide="search" aria-hidden="true"></i> Buscador</a>
+        <span><i data-lucide="git-branch" aria-hidden="true"></i> Ecosistema Belentani</span>
+      </div>
+    </section>
+
+    <!-- ── CAPÍTULOS ────────────────────────────────────── -->
+    <section class="ux-section" id="capitulos">
+      <div class="ux-container">
+        <p class="ux-eyebrow" data-ux-reveal><i data-lucide="clapperboard" aria-hidden="true" style="width:14px;height:14px"></i> La historia</p>
+        <h2 data-ux-reveal>Cuatro capítulos,<br>un solo canon.</h2>
+        <p class="ux-lead" data-ux-reveal style="margin-bottom: var(--space-l);">
+          El punto de entrada canónico es una galaxia interactiva que narra el universo
+          Belentani de principio a fin. La Judas Experience original queda como referencia
+          histórica.
+        </p>
+        <div class="chapters">
+          <article class="ux-card chapter" data-ux-reveal>
+            <div class="chapter__glyph"><i data-lucide="sunrise" aria-hidden="true"></i></div>
+            <h3>Genesis</h3>
+            <p>El origen: donde el universo Belentani comienza a existir y se establecen sus reglas.</p>
+          </article>
+          <article class="ux-card chapter" data-ux-reveal>
+            <div class="chapter__glyph"><i data-lucide="venetian-mask" aria-hidden="true"></i></div>
+            <h3>Traición</h3>
+            <p>La quiebra de la confianza que transforma el relato y define a sus personajes.</p>
+          </article>
+          <article class="ux-card chapter" data-ux-reveal>
+            <div class="chapter__glyph"><i data-lucide="coins" aria-hidden="true"></i></div>
+            <h3>La Deuda</h3>
+            <p>El peso de las consecuencias: todo lo pactado se cobra más adelante.</p>
+          </article>
+          <article class="ux-card chapter" data-ux-reveal>
+            <div class="chapter__glyph"><i data-lucide="sparkle" aria-hidden="true"></i></div>
+            <h3>Redención</h3>
+            <p>El cierre del ciclo: la posibilidad de volver a empezar con lo aprendido.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── EL UNIVERSO ──────────────────────────────────── -->
+    <section class="ux-section" id="universo">
+      <div class="ux-container">
+        <p class="ux-eyebrow" data-ux-reveal><i data-lucide="telescope" aria-hidden="true" style="width:14px;height:14px"></i> El universo</p>
+        <h2 data-ux-reveal>Construido para durar,<br>verificado para no fallar.</h2>
+        <p class="ux-lead" data-ux-reveal style="margin-bottom: var(--space-l);">
+          Experiencia pública, histórico preservado y cero dependencia de APIs de pago.
+        </p>
+        <div class="ux-grid ux-bento">
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="arrow-right" aria-hidden="true"></i></div>
+            <h3>Galaxia interactiva</h3>
+            <p>Three.js como lienzo: navegación por capítulos dentro de una galaxia viva, con verificación visual automatizada en desktop y móvil.</p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="shield-check" aria-hidden="true"></i></div>
+            <h3>Calidad verificada</h3>
+            <p>Tipos, tests y build verificados en cada entrega: typecheck, vitest, boundaries y comprobación visual con Chrome real.</p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="piggy-bank" aria-hidden="true"></i></div>
+            <h3>Coste cero</h3>
+            <p>La experiencia principal no llama a ninguna API de pago: navegación libre sin créditos, suscripciones ni rutas de pago.</p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="lock" aria-hidden="true"></i></div>
+            <h3>Alcance público definido</h3>
+            <p>Artista, música, narrativa y assets curados. El audio privado, másters y sesiones quedan fuera del repositorio por diseño.</p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="archive" aria-hidden="true"></i></div>
+            <h3>Historial intacto</h3>
+            <p>Los proyectos históricos se preservan fuera del lanzamiento público: nada se reescribe, nada se pierde.</p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="terminal" aria-hidden="true"></i></div>
+            <h3>Stack moderno</h3>
+            <p>Next.js + TypeScript + Tailwind, pnpm anclado y CI con presupuestos de Lighthouse. Listo para producción.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── INSTITUCIÓN ──────────────────────────────────── -->
+    <section class="ux-section" id="institucion">
+      <div class="ux-container">
+        <p class="ux-eyebrow" data-ux-reveal><i data-lucide="landmark" aria-hidden="true" style="width:14px;height:14px"></i> Institución</p>
+        <h2 data-ux-reveal>Explora el archivo<br>del ecosistema.</h2>
+        <p class="ux-lead" data-ux-reveal style="margin-bottom: var(--space-l);">
+          El sitio interno indexa las experiencias, programas y repos del universo completo.
+        </p>
+        <div class="ux-grid">
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="map" aria-hidden="true"></i></div>
+            <h3>Mapa</h3>
+            <p>Vista completa de la institución y sus zonas.</p>
+            <p style="margin-top:.8rem"><a class="inst__arrow" href="institucion/mapa.html">Abrir mapa <i data-lucide="arrow-right" aria-hidden="true"></i></a></p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="message-circle" aria-hidden="true"></i></div>
+            <h3>Experiencias</h3>
+            <p>Índice de las experiencias del ecosistema Belentani.</p>
+            <p style="margin-top:.8rem"><a class="inst__arrow" href="/contacto">Ver experiencias <i data-lucide="arrow-right" aria-hidden="true"></i></a></p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="graduation-cap" aria-hidden="true"></i></div>
+            <h3>Programas</h3>
+            <p>Programas y rutas del universo formativo.</p>
+            <p style="margin-top:.8rem"><a class="inst__arrow" href="institucion/programas.html">Ver programas <i data-lucide="arrow-right" aria-hidden="true"></i></a></p>
+          </article>
+          <article class="ux-card" data-ux-reveal>
+            <div class="ux-card__icon"><i data-lucide="search" aria-hidden="true"></i></div>
+            <h3>Buscar</h3>
+            <p>Búsqueda global por todo el archivo.</p>
+            <p style="margin-top:.8rem"><a class="inst__arrow" href="institucion/buscar.html">Buscar ahora <i data-lucide="arrow-right" aria-hidden="true"></i></a></p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── FAQ ──────────────────────────────────────────── -->
+    <section class="ux-section" id="faq">
+      <div class="ux-container">
+        <p class="ux-eyebrow" data-ux-reveal><i data-lucide="circle-help" aria-hidden="true" style="width:14px;height:14px"></i> FAQ</p>
+        <h2 class="text-center mx-auto" data-ux-reveal>Preguntas frecuentes</h2>
+        <div class="ux-faq" style="margin-top: var(--space-l);">
+          <details data-ux-reveal>
+            <summary>¿Cómo ejecuto la experiencia en local?</summary>
+            <p>Necesitas Node ≥ 18.17 y pnpm (anclado vía corepack): <code>pnpm install --frozen-lockfile</code> y <code>pnpm dev</code>. Para verificar todo: <code>pnpm typecheck && pnpm test && pnpm build</code>.</p>
+          </details>
+          <details data-ux-reveal>
+            <summary>¿Navegar cuesta dinero?</summary>
+            <p>No. La experiencia principal no llama a ningún modelo de IA ni API de pago: no hay créditos, suscripciones ni servicios de enrutado necesarios para verla.</p>
+          </details>
+          <details data-ux-reveal>
+            <summary>¿Qué incluye el alcance público?</summary>
+            <p>Artista, enlaces de música, narrativa, assets visuales curados y canales de contacto. NoiaCore, educación, consultoría y Duck son proyectos independientes; el audio privado queda fuera de Git y del build.</p>
+          </details>
+          <details data-ux-reveal>
+            <summary>¿Dónde está la Judas Experience original?</summary>
+            <p>Se conserva como referencia histórica en <a href="https://judas-experience-13898.buildaispace.app/" rel="noopener">judas-experience-13898.buildaispace.app</a>. El canon actual vive aquí.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── CTA FINAL ────────────────────────────────────── -->
+    <section class="ux-section" id="empezar">
+      <div class="ux-container">
+        <div class="ux-cta-band" data-ux-reveal="zoom">
+          <h2>Empieza por el principio:<br>Genesis.</h2>
+          <p class="ux-lead mx-auto" style="margin-bottom: var(--space-l);">
+            Una galaxia, cuatro capítulos y todo el archivo del ecosistema esperando.
+          </p>
+          <a class="ux-btn ux-btn--primary" data-ux-magnet href="/">
+            <i data-lucide="rocket" aria-hidden="true"></i> Entrar ahora
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="ux-footer">
+    <div class="ux-container ux-footer__inner">
+      <span>© <span data-ux-year>2026</span> cTg Psicología · OCR en navegador · Ecosistema belentani7</span>
+      <span style="display:inline-flex;gap:1.2rem;align-items:center">
+        <a href="https://github.com/belentani7/ctgpsicologia.com" rel="noopener" style="display:inline-flex;align-items:center;gap:.35rem"><svg viewBox="0 0 24 24" width="14" height="14" fill="currentColor" aria-hidden="true"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.88-1.36-3.88-1.36-.52-1.33-1.28-1.68-1.28-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.19 1.76 1.19 1.03 1.75 2.69 1.25 3.34.95.1-.74.4-1.25.72-1.54-2.55-.29-5.24-1.28-5.24-5.68 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.17 1.18a11 11 0 0 1 5.77 0c2.2-1.49 3.17-1.18 3.17-1.18.63 1.59.23 2.76.11 3.05.74.81 1.19 1.83 1.19 3.09 0 4.41-2.7 5.38-5.26 5.66.41.36.77 1.05.77 2.13 0 1.54-.01 2.78-.01 3.16 0 .3.2.67.8.55A10.52 10.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/></svg>GitHub</a>
+        <a href="https://www.ctgpsicologia.com" rel="noopener">ctgpsicologia.com</a>
+        <a href="institucion/mapa.html">Mapa</a>
+      </span>
+    </div>
+  </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      if (window.initHeroShader) {
+        window.initHeroShader('hero-canvas', '#0ea5e9', '#7c3aed');
+      }
+    });
+  </script>
+</body>
+</html>

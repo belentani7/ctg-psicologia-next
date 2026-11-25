@@ -1,0 +1,77 @@
+{
+  "esquema": "repo-forge/ficha/1",
+  "nombre": "ctg-psicologia-next",
+  "remoto": "https://github.com/belentani7/ctg-psicologia-next",
+  "arquetipo": "web-app",
+  "stack": "Next.js + JavaScript",
+  "modelo": "web de centro sanitario (Next.js)",
+  "publico": "pacientes y familias en L'Hospitalet",
+  "techo": "web clínica trilingüe con reserva, equipo, especialidades y contenido de salud mental indexable y accesible",
+  "modulos": [
+    "Especialidades",
+    "Equipo",
+    "Reserva",
+    "Blog clínico",
+    "Legal"
+  ],
+  "no_go": "consejo clínico personalizado, datos de salud en el front",
+  "marca": {
+    "nombre": "cTg Psicología",
+    "familia": "editorial",
+    "paleta": {
+      "familia": "editorial",
+      "bg": "#f7f4ef",
+      "surface": "#f1eee9",
+      "ink": "#221f1a",
+      "muted": "#73706b",
+      "accent": "#6a1b00",
+      "accent2": "#166534",
+      "ok": "#15803d",
+      "warn": "#b45309",
+      "danger": "#b91c1c",
+      "contraste_ink_bg": 14.97,
+      "contraste_accent_bg": 10.82,
+      "accent_sobre_bg_ok": true
+    },
+    "narrativa": "Contar sin adornar"
+  },
+  "paywall": {
+    "principio": "acceso abierto; monetización solo si hay servicio real detrás",
+    "fases": 4
+  },
+  "medido": {
+    "archivos": 65,
+    "lineas": 9559,
+    "html": 2,
+    "tests": 2,
+    "bytes": 10752767,
+    "lenguajes": {
+      "JavaScript": 93.9,
+      "JSON": 4.5,
+      "TypeScript": 1.1,
+      "HTML": 0.3,
+      "Markdown": 0.2,
+      "CSS": 0.1
+    },
+    "fecha": "2026-11-10"
+  },
+  "gate": {
+    "pass": 37,
+    "fail": 0,
+    "skip": 12,
+    "cumplimiento": 100.0,
+    "fallos": []
+  },
+  "ajustes": {
+    "total": 64,
+    "aplicados": 54,
+    "ya_estaban": 10,
+    "fallos": 1
+  },
+  "esfuerzo_dias": 51,
+  "doctor": {
+    "ok": true,
+    "detalle": "32/32 comprobaciones en verde"
+  },
+  "huella": "ed585e6d0232dcb7"
+}

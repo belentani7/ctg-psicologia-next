@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    background-color: theme('colors.surface.DEFAULT');
+    color: theme('colors.surface.ink');
+  }
+
+  /* Enlaces y botones siempre con foco visible (WCAG 2.4.7). */
+  :focus-visible {
+    outline: 3px solid theme('colors.brand.teal');
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  ::selection {
+    background-color: theme('colors.brand.teal');
+    color: #ffffff;
+  }
+}
+
+@layer components {
+  /* Enlace "saltar al contenido": invisible hasta recibir foco de teclado. */
+  .skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    z-index: 100;
+    padding: 0.75rem 1.25rem;
+    background-color: theme('colors.brand.deep');
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 0 0 0.5rem 0;
+  }
+
+  .skip-link:focus {
+    left: 0;
+  }
+}
+
+/* --- movimiento reducido (WCAG 2.3.3) --- */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* --- impresión: sin decoración, con URLs visibles --- */
+@media print {
+  header,
+  footer,
+  .skip-link,
+  canvas {
+    display: none !important;
+  }
+
+  body {
+    background: #ffffff;
+    color: #000000;
+  }
+
+  a[href^='http']::after {
+    content: ' (' attr(href) ')';
+    font-size: 0.8em;
+  }
+}

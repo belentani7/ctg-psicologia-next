@@ -66,10 +66,6 @@ __pycache__/
 .cursor/
 .vscode/
 .aider*
-BIO.md
-REPO.md
-CODE_OF_CONDUCT.md
-CONTRIBUTING.md
 __pycache__/
 *.pyc
 node_modules/
@@ -99,10 +95,6 @@ htmlcov/
 .cursor/
 .vscode/
 .aider*
-BIO.md
-REPO.md
-CODE_OF_CONDUCT.md
-CONTRIBUTING.md
 
 # --- PR #13: metadatos generados e informes HTML ---
 ._*

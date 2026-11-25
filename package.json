@@ -32,7 +32,7 @@
     "eslint-config-next": "^15.5.28",
     "jsdom": "^31.0.1",
     "postcss": "^8.5.1",
-    "tailwindcss": "^3.4.17",
+    "tailwindcss": "^4.3.5",
     "typescript": "^5.7.3"
   },
   "engines": {

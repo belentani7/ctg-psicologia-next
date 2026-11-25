@@ -20,6 +20,7 @@ const eslintConfig = [
       "next-env.d.ts",
       "public/**",
       "legacy/**",
+      "legacy-static/**",
       "chats/**",
     ],
   },

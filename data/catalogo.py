@@ -1,22 +1,25 @@
-# catalogo.py — ctg-psicologia-next
-# Generado por repo_forge.py (create-only)
+# catalogo.py — generado por scripts/build-catalog.mjs. No editar a mano.
 
 REPO = "ctg-psicologia-next"
-FAMILIA = "seguridad"
-AJUSTES_APLICADOS = 50
-REGLAS_OFICIALES_OK = 40
-ESTADO = "estructurado"
-PRODUCTO_COMPLETO = False
-GENERADO = "2026-11-10T18:58:37.725398+00:00"
+REMOTO = "https://github.com/belentani7/ctg-psicologia-next"
+LICENCIA = "MIT"
+IDIOMAS = ["es","ca","en"]
+PAGINAS = 30
+ARCHIVOS = 50
+LINEAS = 4948
+BYTES = 8166586
+PALETA = {"bg":"#f7f4ef","ink":"#221f1a","accent":"#0f766e","soft":"#f0fdfa","deep":"#134e4a","amber":"#b45309"}
 
 
 def info() -> dict:
     return {
-        "repo": REPO,
-        "familia": FAMILIA,
-        "ajustes_aplicados": AJUSTES_APLICADOS,
-        "reglas_oficiales_ok": REGLAS_OFICIALES_OK,
-        "estado": ESTADO,
-        "producto_completo": PRODUCTO_COMPLETO,
-        "generado": GENERADO,
+        "nombre": REPO,
+        "remoto": REMOTO,
+        "licencia": LICENCIA,
+        "idiomas": IDIOMAS,
+        "paginas": PAGINAS,
+        "archivos": ARCHIVOS,
+        "lineas": LINEAS,
+        "bytes": BYTES,
+        "paleta": PALETA,
     }

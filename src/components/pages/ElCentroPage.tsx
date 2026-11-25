@@ -47,10 +47,10 @@ export default function ElCentroPage({ locale }: { locale: Locale }) {
   const t = T[locale];
   return (
     <>
-      <Header locale={locale} />
-      <main className="max-w-3xl mx-auto px-4 py-16">
+      <Header locale={locale} section="centre" />
+      <main id="contenido" className="max-w-3xl mx-auto px-4 py-16">
         <h1 className="font-display text-4xl text-brand-deep mb-8">{t.title}</h1>
-        <div className="space-y-5 text-slate-700 leading-relaxed">
+        <div className="space-y-5 leading-relaxed text-slate-700">
           <p>{t.p1}</p>
           <p>{t.p2}</p>
           <p>{t.p3}</p>

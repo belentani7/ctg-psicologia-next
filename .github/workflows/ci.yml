@@ -2,7 +2,7 @@ name: CI
 
 on:
   push:
-    branches: [main, master]
+    branches: [main]
   pull_request:
   workflow_dispatch:
 
@@ -14,21 +14,54 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  ci:
+  calidad:
+    name: Calidad, tests y build
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v5
         with:
-          node-version: 20
+          persist-credentials: false
+
+      - name: Node.js (versión de .nvmrc)
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
           cache: npm
-      - run: npm ci
-      - name: Verificación de protocolos
-        run: test -f README.md && test -f LICENSE && test -f .gitignore && test -f CODE_OF_CONDUCT.md
+
+      - name: Dependencias
+        run: npm ci
+
+      - name: Archivos de gobernanza
+        run: |
+          for f in README.md LICENSE .gitignore CODE_OF_CONDUCT.md CONTRIBUTING.md SECURITY.md; do
+            test -f "$f" || { echo "Falta $f"; exit 1; }
+          done
+
       - name: Lint
         run: npm run lint
-      - name: Tests
+
+      - name: Tipos
+        run: npm run typecheck
+
+      - name: Banco de datos
+        run: npm run catalog:check
+
+      - name: Tests (Node)
         run: npm test
+
+      - name: Tests (Python)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python -m unittest discover -s tests -v
+
       - name: Build
         run: npm run build
+
+      - name: Accesibilidad (axe-core sobre el HTML construido)
+        run: npm run audit:a11y
+
+      - name: Humo HTTP (servidor standalone)
+        run: npm run smoke

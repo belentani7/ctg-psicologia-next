@@ -1,106 +1,189 @@
 import Link from 'next/link';
-import { Locale } from '@/data/content';
+import {
+  HTML_LANG,
+  LOCALE_NAMES,
+  LOCALES,
+  NAV_SECTIONS,
+  SECTION_LABELS,
+  SITE,
+  pathFor,
+  type Locale,
+  type SectionKey,
+} from '@/lib/site';
 
-const NAV: Record<Locale, { href: string; label: string }[]> = {
-  es: [
-    { href: '/', label: 'Inicio' },
-    { href: '/el-centro', label: 'El centro' },
-    { href: '/equipo', label: 'Nuestro equipo' },
-    { href: '/servicios', label: 'Terapias y servicios' },
-    { href: '/blog', label: 'Blog' },
-    { href: '/contacto', label: 'Contacto' },
-  ],
-  ca: [
-    { href: '/ca', label: 'Inici' },
-    { href: '/ca/el-centre', label: 'El centre' },
-    { href: '/ca/equip', label: 'El nostre equip' },
-    { href: '/ca/serveis', label: 'Teràpies i serveis' },
-    { href: '/ca/blog', label: 'Blog' },
-    { href: '/ca/contacte', label: 'Contacte' },
-  ],
-  en: [
-    { href: '/en', label: 'Home' },
-    { href: '/en/the-centre', label: 'The centre' },
-    { href: '/en/team', label: 'Our team' },
-    { href: '/en/services', label: 'Therapies and services' },
-    { href: '/en/blog', label: 'Blog' },
-    { href: '/en/contact', label: 'Contact' },
-  ],
+const COPY: Record<
+  Locale,
+  {
+    navLabel: string;
+    menu: string;
+    languages: string;
+    links: string;
+    legal: string;
+    contact: string;
+    whatsapp: string;
+    rights: string;
+  }
+> = {
+  es: {
+    navLabel: 'Navegación principal',
+    menu: 'Menú',
+    languages: 'Idioma',
+    links: 'Enlaces',
+    legal: 'Legal',
+    contact: 'Contacto',
+    whatsapp: 'Escríbenos por WhatsApp',
+    rights: 'Todos los derechos reservados.',
+  },
+  ca: {
+    navLabel: 'Navegació principal',
+    menu: 'Menú',
+    languages: 'Idioma',
+    links: 'Enllaços',
+    legal: 'Legal',
+    contact: 'Contacte',
+    whatsapp: 'Escriu-nos per WhatsApp',
+    rights: 'Tots els drets reservats.',
+  },
+  en: {
+    navLabel: 'Main navigation',
+    menu: 'Menu',
+    languages: 'Language',
+    links: 'Links',
+    legal: 'Legal',
+    contact: 'Contact',
+    whatsapp: 'Message us on WhatsApp',
+    rights: 'All rights reserved.',
+  },
 };
 
-const LANGS: { code: Locale; label: string }[] = [
-  { code: 'es', label: 'Español' },
-  { code: 'ca', label: 'Català' },
-  { code: 'en', label: 'English' },
-];
+const FOOTER_LEGAL: SectionKey[] = ['legal', 'privacy', 'cookies'];
 
-const MENU_LABEL: Record<Locale, string> = {
-  es: 'Menú',
-  ca: 'Menú',
-  en: 'Menu',
-};
-
-const BRAND_SUB: Record<Locale, string> = {
-  es: 'Centro de Terapia Global',
-  ca: 'Centre de Teràpia Global',
-  en: 'Global Therapy Centre',
-};
-
-export function Header({ locale = 'es' }: { locale?: Locale }) {
-  const items = NAV[locale];
+function LanguageSwitcher({
+  locale,
+  section,
+  label,
+  className = '',
+}: {
+  locale: Locale;
+  section?: SectionKey;
+  label: string;
+  className?: string;
+}) {
   return (
-    <header className="sticky top-0 z-50 bg-white/90 backdrop-blur border-b border-slate-200">
-      <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        <Link href={items[0].href} className="flex items-center gap-2 rounded-md focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-teal">
-          <span className="w-9 h-9 rounded-full bg-brand-teal text-white flex items-center justify-center font-display text-lg">c</span>
+    <ul aria-label={label} className={`flex items-center gap-1 ${className}`}>
+      {LOCALES.map((code) => {
+        const current = code === locale;
+        return (
+          <li key={code}>
+            <Link
+              href={pathFor(code, section)}
+              hrefLang={HTML_LANG[code]}
+              lang={HTML_LANG[code]}
+              aria-current={current ? 'true' : undefined}
+              className={`inline-flex min-h-9 items-center rounded-md px-2 text-xs uppercase tracking-wide transition-colors ${
+                current
+                  ? 'bg-brand-teal text-white font-semibold'
+                  : 'text-slate-600 hover:text-brand-teal hover:bg-brand-soft'
+              }`}
+            >
+              {code}
+              <span className="sr-only"> — {LOCALE_NAMES[code]}</span>
+            </Link>
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
+
+export function Header({ locale, section }: { locale: Locale; section?: SectionKey }) {
+  const t = COPY[locale];
+
+  const navLinks = NAV_SECTIONS.map((key) => ({
+    key,
+    href: pathFor(locale, key),
+    label: SECTION_LABELS[key][locale],
+    current: key === section,
+  }));
+
+  return (
+    <header className="sticky top-0 z-50 border-b border-slate-200 bg-white/90 backdrop-blur">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+        <Link
+          href={pathFor(locale)}
+          className="flex items-center gap-2 rounded-md"
+          aria-label={`${SITE.name} — ${SITE.tagline[locale]}`}
+        >
+          <span
+            aria-hidden="true"
+            className="flex h-10 w-10 items-center justify-center rounded-full bg-brand-teal font-display text-lg text-white"
+          >
+            c
+          </span>
           <span>
-            <span className="font-display text-brand-deep text-lg leading-none block">cTg Psicología</span>
-            <span className="text-xs text-slate-500">{BRAND_SUB[locale]}</span>
+            <span className="block font-display text-lg leading-none text-brand-deep">{SITE.name}</span>
+            <span className="text-xs text-slate-600">{SITE.tagline[locale]}</span>
           </span>
         </Link>
-        <nav aria-label="Navegación principal" className="hidden md:flex items-center gap-6 text-sm">
-          {items.map((i) => (
-            <Link key={i.href} href={i.href} className="rounded-sm text-slate-600 hover:text-brand-teal transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-teal">
-              {i.label}
+
+        <nav aria-label={t.navLabel} className="hidden items-center gap-1 md:flex">
+          {navLinks.map((item) => (
+            <Link
+              key={item.key}
+              href={item.href}
+              aria-current={item.current ? 'page' : undefined}
+              className={`rounded-md px-3 py-2 text-sm transition-colors hover:bg-brand-soft hover:text-brand-teal ${
+                item.current ? 'font-semibold text-brand-teal' : 'text-slate-700'
+              }`}
+            >
+              {item.label}
             </Link>
           ))}
-          <div className="flex gap-2 border-l pl-4 border-slate-200">
-            {LANGS.map((l) => (
-              <Link
-                key={l.code}
-                href={l.code === 'es' ? '/' : `/${l.code}`}
-                aria-current={locale === l.code ? 'page' : undefined}
-                className="rounded-sm text-xs uppercase text-slate-500 hover:text-brand-teal focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-brand-teal"
-              >
-                {l.label}
-              </Link>
-            ))}
-          </div>
+          <span aria-hidden="true" className="mx-2 h-6 w-px bg-slate-200" />
+          <LanguageSwitcher locale={locale} section={section} label={t.languages} />
+          <Link
+            href={pathFor(locale, 'contact')}
+            className="ml-2 inline-flex min-h-10 items-center rounded-full bg-brand-teal px-5 text-sm font-semibold text-white transition-colors hover:bg-brand-deep"
+          >
+            {t.contact}
+          </Link>
         </nav>
+
         <details className="relative md:hidden">
-          <summary className="flex min-h-11 cursor-pointer list-none items-center rounded-md border border-slate-300 px-3 text-sm font-semibold text-brand-deep focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
-            {MENU_LABEL[locale]}
+          <summary className="flex min-h-11 cursor-pointer list-none items-center rounded-md border border-slate-300 px-3 text-sm font-semibold text-brand-deep">
+            {t.menu}
           </summary>
-          <nav aria-label="Navegación principal" className="absolute right-0 top-full mt-2 min-w-64 rounded-xl border border-slate-200 bg-white p-3 text-sm shadow-lg">
-            <div className="grid gap-1">
-              {items.map((i) => (
-                <Link key={i.href} href={i.href} className="flex min-h-11 items-center rounded-md px-3 text-slate-700 hover:bg-brand-soft hover:text-brand-teal focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal">
-                  {i.label}
-                </Link>
+          <nav
+            aria-label={t.navLabel}
+            className="absolute right-0 top-full mt-2 min-w-64 rounded-xl border border-slate-200 bg-white p-3 text-sm shadow-lg"
+          >
+            <ul className="grid gap-1">
+              {navLinks.map((item) => (
+                <li key={item.key}>
+                  <Link
+                    href={item.href}
+                    aria-current={item.current ? 'page' : undefined}
+                    className={`flex min-h-11 items-center rounded-md px-3 hover:bg-brand-soft hover:text-brand-teal ${
+                      item.current ? 'font-semibold text-brand-teal' : 'text-slate-700'
+                    }`}
+                  >
+                    {item.label}
+                  </Link>
+                </li>
               ))}
+            </ul>
+            <div className="mt-3 border-t border-slate-200 pt-3">
+              <p className="mb-1 px-1 text-xs font-semibold uppercase tracking-wide text-slate-500">
+                {t.languages}
+              </p>
+              <LanguageSwitcher locale={locale} section={section} label={t.languages} className="flex-wrap" />
             </div>
-            <div className="mt-2 grid grid-cols-3 gap-1 border-t border-slate-200 pt-2">
-              {LANGS.map((l) => (
-                <Link
-                  key={l.code}
-                  href={l.code === 'es' ? '/' : `/${l.code}`}
-                  aria-current={locale === l.code ? 'page' : undefined}
-                  className="flex min-h-11 items-center justify-center rounded-md text-xs uppercase text-slate-600 hover:bg-brand-soft hover:text-brand-teal focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-brand-teal"
-                >
-                  {l.label}
-                </Link>
-              ))}
-            </div>
+            <Link
+              href={pathFor(locale, 'contact')}
+              className="mt-3 flex min-h-11 items-center justify-center rounded-full bg-brand-teal px-4 font-semibold text-white hover:bg-brand-deep"
+            >
+              {t.contact}
+            </Link>
           </nav>
         </details>
       </div>
@@ -108,72 +191,71 @@ export function Header({ locale = 'es' }: { locale?: Locale }) {
   );
 }
 
-const FOOTER: Record<Locale, { links: string; legal: string; nav: { href: string; label: string }[]; legalItems: string[] }> = {
-  es: {
-    links: 'Enlaces',
-    legal: 'Legal',
-    nav: [
-      { href: '/el-centro', label: 'El centro' },
-      { href: '/equipo', label: 'Nuestro equipo' },
-      { href: '/servicios', label: 'Terapias y servicios' },
-      { href: '/blog', label: 'Blog' },
-    ],
-    legalItems: ['Aviso legal', 'Política de privacidad', 'Política de cookies'],
-  },
-  ca: {
-    links: 'Enllaços',
-    legal: 'Legal',
-    nav: [
-      { href: '/ca/el-centre', label: 'El centre' },
-      { href: '/ca/equip', label: 'El nostre equip' },
-      { href: '/ca/serveis', label: 'Teràpies i serveis' },
-      { href: '/ca/blog', label: 'Blog' },
-    ],
-    legalItems: ['Avís legal', 'Política de privacitat', 'Política de cookies'],
-  },
-  en: {
-    links: 'Links',
-    legal: 'Legal',
-    nav: [
-      { href: '/en/the-centre', label: 'The centre' },
-      { href: '/en/team', label: 'Our team' },
-      { href: '/en/services', label: 'Therapies and services' },
-      { href: '/en/blog', label: 'Blog' },
-    ],
-    legalItems: ['Legal notice', 'Privacy policy', 'Cookie policy'],
-  },
-};
+export function Footer({ locale }: { locale: Locale }) {
+  const t = COPY[locale];
+  const year = new Date().getFullYear();
 
-export function Footer({ locale = 'es' }: { locale?: Locale }) {
-  const t = FOOTER[locale];
   return (
-    <footer className="bg-brand-deep text-slate-300 mt-16">
-      <div className="max-w-6xl mx-auto px-4 py-10 grid md:grid-cols-3 gap-8 text-sm">
+    <footer className="mt-16 bg-brand-deep text-slate-200">
+      <div className="mx-auto grid max-w-6xl gap-8 px-4 py-12 text-sm md:grid-cols-3">
         <div>
-          <h4 className="text-white font-semibold mb-3">cTg Psicología</h4>
-          <p>C/ Girona 21, 08901 L&apos;Hospitalet de Llobregat</p>
-          <p>+34 605 362 664</p>
-          <p className="break-all">centre@ctgterapiaglobal.com</p>
+          <h2 className="mb-3 font-semibold text-white">{SITE.name}</h2>
+          <address className="not-italic leading-relaxed text-slate-300">
+            {SITE.addressLine}
+            <br />
+            <a href={`tel:${SITE.phoneHref}`} className="hover:text-white hover:underline">
+              {SITE.phone}
+            </a>
+            <br />
+            <a href={`mailto:${SITE.email}`} className="break-all hover:text-white hover:underline">
+              {SITE.email}
+            </a>
+          </address>
+          <a
+            href={SITE.whatsapp}
+            className="mt-4 inline-flex min-h-10 items-center rounded-full bg-brand-amber px-4 font-semibold text-white hover:bg-brand-amber/90"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            {t.whatsapp}
+            <span className="sr-only"> ({SITE.phone})</span>
+          </a>
         </div>
-        <div>
-          <h4 className="text-white font-semibold mb-3">{t.links}</h4>
-          <ul className="space-y-1">
-            {t.nav.map((i) => (
-              <li key={i.href}><Link href={i.href} className="hover:text-white">{i.label}</Link></li>
+
+        <nav aria-label={t.links}>
+          <h2 className="mb-3 font-semibold text-white">{t.links}</h2>
+          <ul className="space-y-2">
+            {NAV_SECTIONS.map((key) => (
+              <li key={key}>
+                <Link href={pathFor(locale, key)} className="hover:text-white hover:underline">
+                  {SECTION_LABELS[key][locale]}
+                </Link>
+              </li>
+            ))}
+            <li>
+              <Link href={pathFor(locale, 'ocr')} className="hover:text-white hover:underline">
+                OCR
+              </Link>
+            </li>
+          </ul>
+        </nav>
+
+        <nav aria-label={t.legal}>
+          <h2 className="mb-3 font-semibold text-white">{t.legal}</h2>
+          <ul className="space-y-2">
+            {FOOTER_LEGAL.map((key) => (
+              <li key={key}>
+                <Link href={pathFor(locale, key)} className="hover:text-white hover:underline">
+                  {SECTION_LABELS[key][locale]}
+                </Link>
+              </li>
             ))}
           </ul>
-        </div>
-        <div>
-          <h4 className="text-white font-semibold mb-3">{t.legal}</h4>
-          <ul className="space-y-1">
-            {t.legalItems.map((l) => (
-              <li key={l}>{l}</li>
-            ))}
-          </ul>
-        </div>
+        </nav>
       </div>
-      <div className="border-t border-white/10 text-center py-4 text-xs">
-        © 2026 cTg Psicología · Centro de Terapia Global
+
+      <div className="border-t border-white/10 px-4 py-4 text-center text-xs text-slate-300">
+        © {year} {SITE.name} · {SITE.tagline[locale]} — {t.rights}
       </div>
     </footer>
   );

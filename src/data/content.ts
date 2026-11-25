@@ -492,9 +492,3 @@ export const blogPosts: BlogPost[] = [
     date: '2026',
   },
 ];
-
-export const contact = {
-  address: { es: 'C/ Girona 21, 08901 L\'Hospitalet de Llobregat', ca: 'C/ Girona 21, 08901 L\'Hospitalet de Llobregat', en: 'C/ Girona 21, 08901 L\'Hospitalet de Llobregat' },
-  phone: '+34 605 362 664',
-  email: 'centre@ctgterapiaglobal.com',
-};

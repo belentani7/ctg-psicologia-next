@@ -1,10 +1,18 @@
+import type { Metadata } from 'next';
+import { notFound } from 'next/navigation';
 import HomePage from '@/components/pages/HomePage';
-import { Locale } from '@/data/content';
+import { isLocale } from '@/lib/site';
+import { buildMetadata } from '@/lib/seo';
 
-const LOCALES: Locale[] = ['es', 'ca', 'en'];
+type Props = { params: Promise<{ locale: string }> };
 
-export default async function LocaleHome({ params }: { params: Promise<{ locale: string }> }) {
-  const localeRaw = (await params).locale;
-  const locale = (LOCALES.includes(localeRaw as Locale) ? localeRaw : 'es') as Locale;
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale } = await params;
+  return buildMetadata(isLocale(locale) ? locale : 'es');
+}
+
+export default async function LocaleHome({ params }: Props) {
+  const { locale } = await params;
+  if (!isLocale(locale)) notFound();
   return <HomePage locale={locale} />;
 }

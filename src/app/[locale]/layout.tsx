@@ -1,37 +1,66 @@
-import type { Metadata } from 'next';
-import SetLang from '@/components/SetLang';
-import { Locale } from '@/data/content';
+import type { Metadata, Viewport } from 'next';
+import { notFound } from 'next/navigation';
+import '../globals.css';
+import { HTML_LANG, LOCALES, SITE, isLocale } from '@/lib/site';
+import { jsonLdGraph } from '@/lib/seo';
 
-const LOCALES: Locale[] = ['es', 'ca', 'en'];
+export function generateStaticParams() {
+  return LOCALES.map((locale) => ({ locale }));
+}
 
-const META: Record<Locale, { title: string; description: string }> = {
-  es: {
-    title: 'cTg Psicología | Centro de Terapia Global',
-    description: 'Centro de Terapia Global en L\'Hospitalet de Llobregat. Psicología, logopedia, psiquiatría y más.',
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE.url),
+  title: {
+    default: SITE.name,
+    template: `%s`,
   },
-  ca: {
-    title: 'cTg Psicologia | Centre de Teràpia Global',
-    description: 'Centre de Teràpia Global a L\'Hospitalet de Llobregat. Psicologia, logopèdia, psiquiatria i més.',
-  },
-  en: {
-    title: 'cTg Psychology | Global Therapy Centre',
-    description: 'Global Therapy Centre in L\'Hospitalet de Llobregat. Psychology, speech therapy, psychiatry and more.',
+  applicationName: SITE.name,
+  authors: [{ name: SITE.name, url: SITE.repo }],
+  creator: SITE.name,
+  publisher: SITE.name,
+  category: 'health',
+  referrer: 'strict-origin-when-cross-origin',
+  icons: {
+    icon: [{ url: '/icon.svg', type: 'image/svg+xml' }],
+    apple: [{ url: '/icon.svg' }],
   },
 };
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
-  const localeRaw = (await params).locale;
-  const locale = (LOCALES.includes(localeRaw as Locale) ? localeRaw : 'es') as Locale;
-  return { title: META[locale].title, description: META[locale].description };
-}
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  themeColor: '#0f766e',
+};
 
-export default async function LocaleLayout({ children, params }: { children: React.ReactNode; params: Promise<{ locale: string }> }) {
-  const localeRaw = (await params).locale;
-  const locale = (LOCALES.includes(localeRaw as Locale) ? localeRaw : 'es') as Locale;
+const SKIP: Record<string, string> = {
+  es: 'Saltar al contenido principal',
+  ca: 'Salta al contingut principal',
+  en: 'Skip to main content',
+};
+
+export default async function LocaleLayout({
+  children,
+  params,
+}: {
+  children: React.ReactNode;
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  if (!isLocale(locale)) notFound();
+
   return (
-    <>
-      <SetLang lang={locale === 'es' ? 'es' : locale === 'ca' ? 'ca' : 'en'} />
-      {children}
-    </>
+    <html lang={HTML_LANG[locale]}>
+      <body className="font-body text-surface-ink antialiased">
+        <a href="#contenido" className="skip-link">
+          {SKIP[locale]}
+        </a>
+        {children}
+        <script
+          type="application/ld+json"
+          // JSON-LD generado en servidor a partir de datos propios; no hay entrada de usuario.
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdGraph(locale)) }}
+        />
+      </body>
+    </html>
   );
 }

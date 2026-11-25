@@ -1,4 +1,5 @@
 import type { Config } from 'tailwindcss';
+import tokens from './src/lib/tokens.json';
 
 const config: Config = {
   content: ['./src/**/*.{ts,tsx}'],
@@ -6,15 +7,23 @@ const config: Config = {
     extend: {
       colors: {
         brand: {
-          teal: '#0f766e',
-          soft: '#f0fdfa',
-          deep: '#134e4a',
-          amber: '#b45309',
+          teal: tokens.brand.teal,
+          soft: tokens.brand.soft,
+          deep: tokens.brand.deep,
+          amber: tokens.brand.amber,
+        },
+        surface: {
+          DEFAULT: tokens.surface.bg,
+          ink: tokens.surface.ink,
+          muted: tokens.surface.muted,
         },
       },
       fontFamily: {
-        display: ['Georgia', 'serif'],
-        body: ['system-ui', 'sans-serif'],
+        display: ['Iowan Old Style', 'Palatino Linotype', 'Palatino', 'Georgia', 'serif'],
+        body: ['ui-sans-serif', 'system-ui', '-apple-system', 'Segoe UI', 'sans-serif'],
+      },
+      maxWidth: {
+        prose: '68ch',
       },
     },
   },
